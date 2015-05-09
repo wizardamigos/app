@@ -11,7 +11,10 @@
     [gitter]( learningMaterials & screencasts ) &
     [twitter]( learningMaterials & screencasts )
 * **[markup languages]( summary )**
-  * [markdown, html & css]( learningMaterials & screencasts )
+  * [markdown]( learningMaterials & screencasts ),
+    [html]( learningMaterials & screencasts ),
+    [svg]( learningMaterials & screencasts ) &
+    [css]( learningMaterials & screencasts )
 * **[devops]( summary )**
   * [npm]( learningMaterials & screencasts ),
     [atomify]( learningMaterials & screencasts ),
