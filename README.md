@@ -15,7 +15,8 @@
 * **[devops]( summary )**
   * [npm]( learningMaterials & screencasts ),
     [atomify]( learningMaterials & screencasts ),
-    [git]( learningMaterials & screencasts ) &
+    [git]( learningMaterials & screencasts ),
+    [dns]( learningMaterials & screencasts ) &
     [ssh]( learningMaterials & screencasts )
 * **[coding wizardry]( summary )**
   * [node.js]( learningMaterials & screencasts ),
