@@ -1,4 +1,6 @@
-# Learning Materials & Screencasts
+# Program
+
+All learning materials and an overview of concepts and how they relate
 
 * **[magic tools]( summary )**
   * [unix shell]( learningMaterials & screencasts ),
