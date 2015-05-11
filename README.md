@@ -29,3 +29,9 @@ All learning materials and an overview of concepts and how they relate
     [web api]( learningMaterials & screencasts ),
     [leveldb]( learningMaterials & screencasts ) &
     [regex]( learningMaterials & screencasts )
+
+For each meetup we will try to prepare short screencasts and other materials with different assignments. For all who want to do more there will also be homework so learners will be able to practice their spells.
+
+We also encourage all the participants to have some project they want to work on (but if they don't, no worries, will help them find one).
+
+First meeting is going to be informal and will include helping learners get set up with Linux and getting started with some of the basics. The "formal" class part will begin the second week.
