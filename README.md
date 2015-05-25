@@ -1,5 +1,7 @@
 # Program
 
+[![Join the chat at https://gitter.im/wizardamigosinstitute/program](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wizardamigosinstitute/program?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 All learning materials and an overview of concepts and how they relate
 
 * **[magic tools]( summary )**
