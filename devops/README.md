@@ -9,3 +9,11 @@
 ## dns
 
 ## ssh
+
+
+Scaffold
+Develop
+Test
+Integrate
+Optimize
+Deploy
