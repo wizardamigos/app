@@ -2,7 +2,7 @@
 {
   "title": "Lesson 01 - Introduction",
   "duration": "3:40",
-  "video": "https://www.youtube.com/watch?v=-YzMiTUjUZw",
+  "video": "-YzMiTUjUZw",
   "dependencies": [
     "lesson01"
   ],
