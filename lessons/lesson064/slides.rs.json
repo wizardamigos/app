@@ -1,0 +1,28 @@
+{
+"video": "cp0nzbsep2",
+"slides": [{
+  "type": "question",
+  "time": "3:01",
+  "question": "Ukoliko je nivo zdravlja našeg heroja viši od donjeg praga zdravlja, šta on radi?",
+  "options": [
+    "Beži u zasedu",
+    "Ipak odlazi do lekara",
+    "Napada neprijatelja",
+    "Postavlja zamku"
+  ],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "1:07",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/medical-attention",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "3:01",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

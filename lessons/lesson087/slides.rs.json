@@ -1,0 +1,27 @@
+{
+"video": "s2rw9pecd1",
+"slides": [{
+  "type": "question",
+  "time": "2:30",
+  "question": "Nova veština koju možemo da koristimo je eksplozija mane. Šta ona zapravo radi?",
+  "options": [
+    "raznese sve neprijatelje",
+    "odgurne neprijatelje od junaka",
+    "učini junaka nevidljivim"
+],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "0:39",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/zero-sum",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "2:30",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

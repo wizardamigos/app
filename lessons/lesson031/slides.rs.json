@@ -1,0 +1,28 @@
+{
+"video": "7qkuu0ypg9",
+"slides": [{
+  "type": "question",
+  "time": "3:20",
+  "question": "U kojim primerima će naš heroj reći 'Hey'?",
+  "options": [
+    "if (2+2===4){ this.say('Hey')}",
+    "if (2+3===5){ this.say('Hey')}",
+    "if (2+2=4){ this.say('Hey')}",
+    "if (2+3=4){ this.say('Hey')}"
+  ],
+  "answer": [0,1]
+},{
+  "type": "challenge",
+  "time": "3:20",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "http://codecombat.com/play/level/thumb-biter",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "3:20",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

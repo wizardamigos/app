@@ -1,0 +1,27 @@
+{
+"video": "yvsn5t37in",
+"slides": [{
+  "type": "question",
+  "time": "3:09",
+  "question": "Kako smo nazvali promenljivu koja označava neprijatelja na desnoj strani?",
+  "options": [
+    "enemy",
+    "rightEnemy",
+    "EnemyRight"
+  ],
+  "answer": [1]
+ },{
+  "type": "challenge",
+  "time": "1:11",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "http://codecombat.com/play/level/village-guard",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "3:09",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

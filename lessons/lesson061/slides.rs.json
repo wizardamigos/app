@@ -1,0 +1,26 @@
+{
+"video": "80zcm5a4jl",
+"slides": [{
+  "type": "question",
+  "time": "2:45",
+  "question": "Kada se naš junak kreće na gore?",
+  "options": [
+    "pos.y + 3",
+    "pos.y - 3"
+  ],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "1:00",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/sarven-road",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "2:45",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

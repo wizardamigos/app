@@ -1,0 +1,26 @@
+{
+"video": "wjk6yl3ioo",
+"slides": [{
+  "type": "question",
+  "time": "1:52",
+  "question": "How can we attack unlimited amount of enemies?",
+  "options": [
+    "we have to know the number of enemies so we can write attack method for each enemy",
+    "we can create a while(true)loop that repeats the code to attack"
+  ],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "0:52",
+  "text": "Play Code Combat and learn new tricks",
+  "link": {
+    "url": "http://codecombat.com/play/dungeon",
+    "title": "Play now"
+  }
+},{
+  "type": "solution",
+  "time": "1:52",
+  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "button": "Complete the lesson"
+}]
+}

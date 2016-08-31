@@ -1,0 +1,28 @@
+{
+  "video": "s77wyim63o",
+  "slides": [{
+    "type": "question",
+    "time": "1:24",
+    "question": "Kako se zove promenljiva u ovom iskazu: var enemy1 = findNearestEnemy(); ?",
+    "options": [
+      "enemy2",
+      "enemy3",
+      "enemy1",
+      "enemy4"
+    ],
+    "answer": [2]
+    },{
+      "type": "challenge",
+      "time": "0:29",
+       "text": "Igrajte Code Combat i naučite nove trikove",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Igrajte sada"
+      }
+      },{
+        "type": "solution",
+        "time": "1:24",
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

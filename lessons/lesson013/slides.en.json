@@ -1,0 +1,26 @@
+{
+"video": "al567qvygz",
+"slides": [{
+  "type": "question",
+  "time": "2:03",
+  "question": "What type of special characters are used in a while(true) loop to wrap the code in the loop that repeats forever?",
+  "options": [
+    "curly braces - {}",
+    "square brackets - []"
+  ],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "0:52",
+  "text": "Play Code Combat and learn new tricks",
+  "link": {
+    "url": "http://codecombat.com/play/dungeon",
+    "title": "Play now"
+  }
+},{
+  "type": "solution",
+  "time": "2:03",
+  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "button": "Complete the lesson"
+}]
+}

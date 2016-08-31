@@ -1,0 +1,28 @@
+{
+"video": "z16lo72kxs",
+"slides": [{
+  "type": "question",
+  "time": "2:20",
+  "question": "Koju funkciju koristimo za prizivanje vojnika?",
+  "options": [
+    "summonSoldiers",
+    "summonTroops",
+    "callSoldiers",
+    "callTroops"
+],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "0:48",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/mixed-unit-tactics",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "2:20",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

@@ -1,0 +1,27 @@
+{
+"video": "c4qtpz4xdr",
+"slides": [{
+  "type": "question",
+  "time": "1:33",
+  "question": "Nakon što prikupimo 81 novčić:",
+  "options": [
+    "dajemo sve u dobrotvorne svrhe",
+    "kupujemo mač",
+    "prizivamo vojnike"
+],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "0:27",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/zoo-keeper",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "1:33",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

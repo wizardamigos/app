@@ -1,0 +1,28 @@
+{
+"video": "9szsqqteui",
+"slides": [{
+  "type": "question",
+  "time": "3:00",
+  "question": "Mark the characters for which we created a shortcut in our Gist?",
+  "options": [
+    "/",
+    ";",
+    "ß",
+    ">"
+  ],
+  "answer": [0,1,3]
+},{
+  "type": "challenge",
+  "time": "3:00",
+  "text": "Add more special characters to your gist and then test practise typing them with WPM test.",
+  "link": {
+    "url": "http://wpm-test.com/programming-typing-test/",
+    "title": "Start now"
+  }
+},{
+  "type": "solution",
+  "time": "3:00",
+  "text": "If you successfuly added all special characters from the video to your gist and finished the test, click here to complete the lesson.",
+  "button": "Complete the lesson"
+}]
+}

@@ -1,0 +1,28 @@
+{
+"video": "0v6nwtq89v",
+"slides": [{
+  "type": "question",
+  "time": "5:16",
+  "question": "Kojom komandom saznajemo vrednost x koordinate zastave?",
+  "options": [
+    "pos.flag.x",
+    "x.flag.pos",
+    "flag.pos.x",
+    "flag.pos.(x)"
+  ],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "0:11",
+  "text": "Otvorite novi Gist i dopunite ga stečenim znanjem",
+  "link": {
+    "url": "https://gist.github.com/",
+    "title": "Otvorite novi Gist"
+  }
+},{
+  "type": "solution",
+  "time": "5:16",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

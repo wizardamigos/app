@@ -1,0 +1,27 @@
+{
+"video": "4ncs88nqu2",
+"slides": [{
+  "type": "question",
+  "time": "6:45",
+  "question": "Ukoliko naiđemo na neprijatelja tipa fangrider:",
+  "options": [
+    "sprijateljimo se sa njim",
+    "bežimo u zaklon",
+    "uzvraćamo napad"
+],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "1:17",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/reaping-fire",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "6:45",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

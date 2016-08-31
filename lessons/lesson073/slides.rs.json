@@ -1,0 +1,28 @@
+{
+"video": "be7rfxy5zm",
+"slides": [{
+  "type": "question",
+  "time": "5:13",
+  "question": "U programiranju se prvi predmet u nizu vodi pod brojem",
+  "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "1:53",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/sarven-savior",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "5:13",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

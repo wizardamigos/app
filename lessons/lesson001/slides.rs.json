@@ -1,0 +1,28 @@
+{
+"video" : "zqiogbv33r",
+"slides": [{
+  "type": "question",
+  "time": "3:21",
+  "question": "Šta od ponuđenog nije čitač? Izaberite jedan ili više tačnih odgovora.",
+  "options": [
+    "Google Chrome",
+    "Mozilla Firefox",
+    "Microsoft Windows",
+    "Internet Explorer"
+  ],
+  "answer": [2]
+  },{
+    "type": "challenge",
+    "time": "3:21",
+    "text": "Kliknite ovde da biste proverili svoj čitač i ako nemate Google Chrome čitač, instalirajte ga",
+    "link": {
+      "url": "http://www.whatbrowser.org/intl/sr/",
+      "title": "Proverite pretraživač"
+    }
+  }, {
+    "type": "solution",
+    "time": "3:21",
+    "text": "Ako imate Chrome čitač na kompjuteru, pritisnite ovde da biste završili lekciju. Ukoliko niste uspeli da završite zadatke iz ove lekcije ili niste zadovoljni, slobodno ponovo preslušajte lekciju pre nego što nastavite. Ako vam je potrebna pomoć, uvek je možete potražiti na chat-u.",
+    "button": "Završite lekciju"
+    }]
+  }

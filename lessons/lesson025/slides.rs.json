@@ -1,0 +1,26 @@
+{
+  "video": "ptppzia6d3",
+  "slides": [{
+    "type": "question",
+    "time": "5:39",
+    "question": "Koju novu promenljivu smo kreirali kako bismo izbrojali dragulje?",
+    "options": [
+      "enemy",
+      "count"
+    ],
+    "answer": [1]
+    },{
+      "type": "challenge",
+      "time": "1:36",
+       "text": "Odigrajte nivo i vratite se",
+      "link": {
+        "url": "http://codecombat.com/play/level/kithgard-mastery",
+        "title": "Igrajte sada"
+      }
+      },{
+        "type": "solution",
+        "time": "5:39",
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

@@ -1,0 +1,33 @@
+{
+"video": "rmhd84p5to",  
+"slides": [{
+  "type": "challenge",
+  "time": "0:14",
+  "text": "You will learn how to use Github - a social network for programmers.",
+  "link": {
+    "url": "https://github.com/",
+    "title": "Click here"
+  }
+}, {
+  "type": "challenge",
+  "time": "0:14",
+  "text": "For support you will be able to use eSova Gitter chat.",
+  "link": {
+    "url": "https://gitter.im/ESova/program",
+    "title": "Click here"
+  }
+}, {
+  "type": "challenge",
+  "time": "0:14",
+  "text": "You will play a programming game Code Combat.",
+  "link": {
+    "url": "http://codecombat.com/play",
+    "title": "Click here"
+  }
+},{
+  "type": "solution",
+  "time": "0:14",
+  "text": "And you will build your first web app. Get started now! The world is yours.",
+  "button": "Start now"
+}]
+}

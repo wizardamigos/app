@@ -1,0 +1,27 @@
+{
+"video": "l1gt4o2s45",
+"slides": [{
+  "type": "question",
+  "time": "2:33",
+  "question": "Kojom komandom podižemo zastavu?",
+  "options": [
+    "findfFlag",
+    "pickUpFlag",
+    "flagPickUp"
+  ],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "2:29",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/coinucopia",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "2:33",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

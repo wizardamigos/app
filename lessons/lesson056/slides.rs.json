@@ -1,0 +1,28 @@
+{
+"video": "ypoc84tod1",
+"slides": [{
+  "type": "question",
+  "time": "3:54",
+  "question": "Kod ugnježdenih if-else petlji imamo uvlačenja od:",
+  "options": [
+    "1 razmaka",
+    "2 razmaka",
+    "3 razmaka",
+    "4 razmaka"
+  ],
+  "answer": [1,3]
+},{
+  "type": "challenge",
+  "time": "0:11",
+  "text": "Otvorite novi Gist i dopunite ga stečenim znanjem",
+  "link": {
+    "url": "https://gist.github.com/",
+    "title": "Otvorite novi Gist"
+  }
+},{
+  "type": "solution",
+  "time": "3:54",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

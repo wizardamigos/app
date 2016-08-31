@@ -1,0 +1,32 @@
+{
+"video": "ivnri05x8y",
+"slides": [{
+  "type": "question",
+  "time": "4:14",
+  "question":
+[
+"Is a) and b) the same?",
+" a) self.attack('Kratt');",
+" b) var enemy = 'Kratt';",
+"    self.attack(enemy);"
+],
+  "options": [
+    "yes, in example a) we use nametag and in example b) we are using variable enemy instead of a nametag",
+    "no"
+  ],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "3:29",
+  "text": "Play Code Combat and learn new tricks",
+  "link": {
+    "url": "http://codecombat.com/play/dungeon",
+    "title": "Play now"
+  }
+},{
+  "type": "solution",
+  "time": "4:14",
+  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "button": "Complete the lesson"
+}]
+}

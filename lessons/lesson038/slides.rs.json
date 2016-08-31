@@ -1,0 +1,28 @@
+{
+"video": "yvlogoi96q",
+"slides": [{
+  "type": "question",
+  "time": "7:38",
+  "question": " Za koji iskaz će nam program ispisati true?",
+  "options": [
+    "5 != 5",
+    "6 < 7",
+    "x = 2; x > 15",
+    "y = 7; y === 'seven'"
+  ],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "7:38",
+  "text": "Posetite svoj GitHub nalog i dopunite svoj gist",
+  "link": {
+    "url": "https://gist.github.com/",
+    "title": "Dopunite svoj gist"
+  }
+},{
+  "type": "solution",
+  "time": "7:38",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}
