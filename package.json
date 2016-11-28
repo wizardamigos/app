@@ -1,7 +1,7 @@
 {
-  "name": "esova",
+  "name": "wizardamigos",
   "main": "source/app.js",
-  "version": "0.0.2-alpha",
+  "version": "0.0.3-alpha",
   "browserify": {
     "transform": [
       [
@@ -17,9 +17,9 @@
   },
   "scripts": {
     "start": "npm run www & npm run watch",
-    "bundle": "browserify -t findup-package-json source/index.js | uglifyjs -cm > public/browser/bundle.js",
-    "watch": "watchify source/app.js -p [ browserify-hmr -u http://$(my-local-ip):3123 -h 0.0.0.0 ] -t babelify -o public/browser/bundle.js -dv",
-    "watch2": "watchify source/app.js -p [ browserify-hmr -u http://$(my-local-ip):3123 -h 0.0.0.0 ] -p ghostmodeify -t babelify -o public/browser/bundle.js -dv",
+    "bundle": "browserify source/app.js | uglifyjs -cm > public/browser/bundle.js",
+    "watch": "watchify source/app.js -p [ browserify-hmr -u http://$(my-local-ip):3123 -h 0.0.0.0 ] -o public/browser/bundle.js -dv",
+    "watch2": "watchify source/app.js -p [ browserify-hmr -u http://$(my-local-ip):3123 -h 0.0.0.0 ] -p ghostmodeify -o public/browser/bundle.js -dv",
     "www": "ecstatic -H 'Access-Control-Allow-Origin: *'"
   },
   "devDependencies": {
@@ -37,9 +37,7 @@
   "dependencies": {
     "catch-links": "^2.0.1",
     "component-type": "^1.2.0",
-    "curlrequest": "^0.5.6",
     "es6-template-strings": "^2.0.0",
-    "gitter-sidecar": "git+https://github.com/gitterHQ/sidecar.git#e99912bbb8df5e7e829851a2014700a53d4d181f",
     "json-meta-marked": "^1.5.1",
     "jss": "^5.1.0",
     "jss-cli": "^2.0.0",
