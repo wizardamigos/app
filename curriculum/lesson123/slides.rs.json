@@ -1,0 +1,19 @@
+{
+"video": "na87d4rgds",
+"slides": [{
+  "type": "question",
+  "time": "6:25",
+  "question": "Terminal nam omogućava:",
+  "options": [
+    "da surfujemo internetom",
+    "da uđemo u pravi voz",
+    "da se krećemo kroz sistem datoteka"
+],
+  "answer": [2]
+},{
+  "type": "solution",
+  "time": "6:25",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

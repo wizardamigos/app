@@ -1,5 +1,0 @@
-# ssh
-
-## Screencasts
-
-## Learning Materials

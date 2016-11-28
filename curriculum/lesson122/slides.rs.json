@@ -1,0 +1,19 @@
+{
+"video": "3yluqsf0mj",
+"slides": [{
+  "type": "question",
+  "time": "10:04",
+  "question": "Za prevođenje dolaznih podataka u JavaScript jezik koirstimo metod:",
+  "options": [
+    "JSON.magnify(results)",
+    "JSON.parse(results)",
+    "JSON.stringify(results)"
+],
+  "answer": [1]
+},{
+  "type": "solution",
+  "time": "10:04",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

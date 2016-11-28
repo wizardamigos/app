@@ -1,0 +1,28 @@
+{
+"video": "vy03m6h8du",
+"slides": [{
+  "type": "question",
+  "time": "4:49",
+  "question": "Koliki je 123599 modulo 13",
+  "options": [
+    "62",
+    "135",
+    "8",
+    "0"
+],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "4:49",
+  "text": "Napravite novi Gist",
+  "link": {
+    "url": "https://gist.github.com/",
+    "title": "Napravi sada"
+  }
+},{
+  "type": "solution",
+  "time": "4:49",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

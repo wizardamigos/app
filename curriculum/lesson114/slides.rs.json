@@ -1,0 +1,18 @@
+{
+"video": "qhm6uz1225",
+"slides": [{
+  "type": "question",
+  "time": "4:18",
+  "question": "Šta je DOM?",
+  "options": [
+    "HTML prebačen u živu strukturu u pregledaču",
+    "drugo ime za HTML"
+],
+  "answer": [0]
+},{
+  "type": "solution",
+  "time": "4:18",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

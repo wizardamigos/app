@@ -1,5 +1,0 @@
-# JavaScript
-
-## Screencasts
-
-## Learning Materials

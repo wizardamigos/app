@@ -1,0 +1,19 @@
+{
+"video": "0x2whrmm8c",
+"slides": [{
+  "type": "question",
+  "time": "3:43",
+  "question": "Koji metod koristimo kako bi baza podataka mogla da dobije informacije iz aplikacije?",
+  "options": [
+    "JSON.magnify(results)",
+    "JSON.sendify(results)",
+    "JSON.stringify(results)"
+],
+  "answer": [2]
+},{
+  "type": "solution",
+  "time": "3:43",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}
