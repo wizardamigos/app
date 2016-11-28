@@ -1,0 +1,17 @@
+{
+"video": "wyy9opo2nb",
+"slides": [{
+"type": "challenge",
+"time": "1:23",
+ "text": "Odigrajte nivo i vratite se",
+"link": {
+  "url": "http://codecombat.com/play/level/signs-and-portents",
+  "title": "Igrajte sada"
+}
+},{
+  "type": "solution",
+  "time": "2:48",
+  "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+  }]
+}

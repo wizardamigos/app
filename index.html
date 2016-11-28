@@ -1,0 +1,279 @@
+<html>
+  <head>
+    <style>
+      html { box-sizing: border-box; display: table; min-width: 100vw }
+      *, *:before, *:after { box-sizing: inherit; }
+      iframe { border: 0; height: 100vh; }
+      body { margin: 0; display: flex; flex-flow: column; min-height: 100vh; }
+      #content { position: relative; min-height: 100vh; }
+    </style>
+    <link rel="shortcut icon" href="favicon.png">
+    <title>eSova – JavaScript škola</title>
+  </head>
+  <body>
+    <!-- <a href="#asdf">gogogo</a>
+    <a href="#">gogogo</a>
+    <button onclick="gogo1()">change1</button>
+    <button onclick="gogo2()">change2</button>
+    <button onclick="gogo3()">change3</button>
+    <button onclick="gogo4()">change4</button><br><br>
+    <button onclick="gogoPush1()">push1</button> -->
+    <iframe src="public/browser/index.html"></iframe>
+    <script>
+    'use strict'
+    // document.domain = '0.0.0.0'
+    // @TODO: set via ENV depending on mode DEV vs PROD
+    // var selforigin = 'http://0.0.0.0:8000'
+    var selforigin = '*'
+    var msg = { type: 'domain', value: 'app.esova.rs' }
+    var iframe = document.querySelector('iframe')
+    window.addEventListener("message", receiveMessage)
+    iframe.onload = function (event) {
+      // @TODO: exchange "routing state"
+      // postMessage({ type: 'syncRouteScript', value: proxyNatives })
+      // posteMessage({ type: 'route', value: location })
+      iframe.contentWindow.postMessage(msg, selforigin)
+      // RUST OWNERSHIP MODEL with:
+      // postmessage(_,_,transferableObjects)
+    }
+    function receiveMessage(event) { // ROOT
+      if (event.srcElement === window) return
+      var origin = event.origin
+      if (origin === "http://example.org:8080") return // possible filter
+      else {
+        console.log(event)
+        // iframe.contentWindow.postMessage(msg, '*')
+      }
+    }
+///////////////////////////////////////////////////////////////////////////
+    // @TODO: inject this script into parent via postMessage, but:
+    // HASH it and make parent PROOF that it's the correct hash
+    // before "evaling" it or maybe better "new Function" it
+    function proxyNative (functions) {
+      function noop(){}
+      var r = /^function\s*\w*\s*\([\w\s,]*\)\s*{([\w\W]*?)}$/
+      var COMMENTS = /((\/\/.*$)|(\/\*[\s\S]*?\*\/))/mg
+      function getParameterNames(fn) {
+        var c = (fn+'').replace(COMMENTS,'')
+        var r = c.slice(c.indexOf('(') + 1, c.indexOf(')')).match(/([^\s,]+)/g)
+        return r===null?[]:r
+      }
+      createProxy('window', window, [
+        'addEventListener','onpopstate','onhashchange',
+        'onbeforeunload', 'onunload'
+      ])
+      createProxy('history', history, [
+        'pushState', 'replaceState', 'forward', 'back','go'
+      ])
+      function createProxy (basename, base, methods) {
+        ;(function(){'use strict'
+        function getAdapter (basename, name) {
+          return name+".toString="+basename+'.'+name+
+            '.toString.bind('+basename+'.'+name+')\n'+
+            name+".name="+name+'\n'+"return "+name
+        }
+        function makeNewProxy (body, fn, name, org, func) {
+          var t = this
+          var length = t[name].length
+          var proxy = new Function('original', 'func', 't',
+            "function "+name+"("+getParameterNames(fn).join(',')+") {\n"+
+              'func.apply(t, arguments)\n'+
+              body+'\n'+
+              'return original.apply(t, arguments)\n'+
+            "}\n"+"return "+name
+            // "}\n"+getAdapter(basename,name)
+          )(org, func, t)
+          Object.defineProperty(proxy, 'length', {
+            get: function () { return length }
+          })
+          return proxy
+        }
+          methods.forEach(function (name) {
+            var original = base[name]
+            var fn = functions[name]
+            if (typeof fn === 'function') {
+              var body = (fn+'').match(r)[1]
+              var proxy = makeNewProxy.call(base, body, fn, name, original, noop)
+              Object.defineProperty(base,name,(function(f, F){
+                return {
+                  get: function () {
+                    if (f !== F) proxy = makeNewProxy.call(base,original, F=f)
+                    return proxy
+                  },
+                  set: function (v) { if (typeof v === 'function') f = v }
+                }
+              })(noop, noop))
+            }
+          })
+        }())
+      }
+
+      /////////////////////////////////////////////////////////////////////////
+      //       (function(history){
+      //     var pushState = history.pushState;
+      //     history.pushState = function(state) {
+      //         if (typeof history.onpushstate == "function") {
+      //             history.onpushstate({state: state});
+      //         }
+      //         // ... whatever else you want to do
+      //         // maybe call onhashchange e.handler
+      //         return pushState.apply(history, arguments);
+      //     }
+      // })(window.history);
+      // Your jsfiddle becomes:
+      //
+      // window.onpopstate = history.onpushstate = function(e) { ... }
+
+    }
+    var x = 'ppp'
+    proxyNative({
+      addEventListener: function (name, fn, capture) {
+        //console.log(x)
+        arguments[0] = name
+        arguments[1] = fn
+        arguments[3] = capture
+      },
+      pushState: function (state, name, url) {
+        //console.log('pushState')
+        arguments[0] = state
+        arguments[1] = name
+        arguments[2] = url
+      },
+      replaceState: function (state, name, url) {
+        //console.log('replaceState')
+        arguments[0] = state
+        arguments[1] = name
+        arguments[2] = url
+      },
+      forward: function () {
+
+      },
+      back: function () {
+
+      },
+      go: function (x) {
+        arguments[0] = x
+      }
+      // onpopstate: function (event) {
+      //   arguments[0] = event
+      //   return arguments
+      // },
+      // onhashchange: function (event) {
+      //   arguments[0] = event
+      //   return arguments
+      // },
+      // onbeforeunload: function (event) {
+      //   arguments[0] = event
+      //   return arguments
+      // },
+      // onunload: function (event) {
+      //   arguments[0] = event
+      //   return arguments
+      // },
+    })
+
+
+///////////////////////////////////////////////////////////////////////////
+
+
+    // var pushState = history.pushState;
+    //
+    // function pushStateHack (state) {
+    //     if (typeof history.onpushstate == "function") {
+    //         history.onpushstate({state: state});
+    //     }
+    //
+    //     return pushState.apply(history, arguments);
+    // }
+    //
+    // history.onpushstate = function(state) {
+    //     // callback here
+    // }
+    //
+    // exportFunction(pushStateHack, unsafeWindow.history, {defineAs: 'pushState', allowCallbacks: true});
+
+
+
+    // var _wr = function(type) {
+    //     var orig = history[type];
+    //     return function() {
+    //         var rv = orig.apply(this, arguments);
+    //         var e = new Event(type);
+    //         e.arguments = arguments;
+    //         window.dispatchEvent(e);
+    //         return rv;
+    //     };
+    // };
+    // history.pushState = _wr('pushState'), history.replaceState = _wr('replaceState');
+    //
+    // window.addEventListener('replaceState', function(e) {
+    //     console.warn('THEY DID IT AGAIN!');
+    // });
+
+
+    // POLLING
+
+    // (function() {
+    //     var previousState = window.history.state;
+    //     setInterval(function() {
+    //         if (previousState !== window.history.state) {
+    //             previousState = window.history.state;
+    //             myCallback();
+    //         }
+    //     }, 100);
+    // })();
+
+
+
+    // var currentHash = "init";
+    //
+    // function checkHash() {
+    //
+    //   if (window.location.href.match("#")) {
+    //    var theHash = window.location.href.split("#");
+    //    if (currentHash != theHash[theHash.length-1])
+    //    {tellFlash(theHash[theHash.length-1]);currentHash = theHash[theHash.length-1];}
+    //    if (currentHash == theHash[theHash.length-1]) {setTimeout("checkHash()", "200");}
+    //   }
+    //   else {setTimeout("checkHash()", "200");}
+    //
+    // }
+    //
+    // function tellFlash(newHashValue) {
+    // document.getElementById('myFlashesId').callBackFunctionName(newHashValue);
+    // }
+
+      window.addEventListener("hashchange", function (event) {
+        console.log('hashchange')
+      })
+      window.addEventListener('popstate', function (event) {
+        console.log('popstate')
+      })
+
+
+      function gogo1 () {
+        window.location = window.location + '#123'
+      }
+      function gogo2 () {
+        window.location.hash = '#about'
+      }
+      function gogo3 () {
+        window.location.href +='#w00t'
+      }
+      function gogo4 () {
+        window.location.replace(window.location.href + '#gagaga')
+      }
+      function gogoPush1 () {
+        window.history.pushState(null, 'AAA', 'bbb')
+      }
+
+
+
+      if (location.protocol === 'file:')
+        history.pushState = function (s, n, u) {
+          location.hash = u
+        }
+//////////////////////////////////////////////////////////////////////
+    </script>
+  </body>
+</html>

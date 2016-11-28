@@ -1,0 +1,27 @@
+{
+"video": "4lqc9i5i3w",
+"slides": [{
+  "type": "question",
+  "time": "3:48",
+  "question": "Koju smo funkciju upotrebili, kako bi se naš junak posle 20 sekundi pomerio :",
+  "options": [
+    "this.now",
+    "this.time",
+    "this.20sek"
+],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "0:34",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/mountain-mercenaries",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "3:48",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

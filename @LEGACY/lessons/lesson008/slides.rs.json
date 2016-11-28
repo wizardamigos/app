@@ -1,0 +1,37 @@
+{
+"video": "jro2cs4fex",
+"slides": [{
+  "type": "question",
+  "time": "4:34",
+  "question": "Koja slova na tastaturi imaju mala ispupčenja koja označavaju početnu poziciju levog i desnog kažiprsta?",
+  "options": [
+    "B i V",
+    "G i H",
+    "F i J",
+    "T i Z"
+  ],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "4:34",
+  "text": "Postanite nindža na tatsturi. Kliknite ovde i počnite sa lekcijama kucanja.",
+  "link": {
+    "url": "http://www.typingstudy.com/",
+    "title": "Postanite nindža na tastaturi"
+  }
+},{
+  "type": "challenge",
+  "time": "4:34",
+  "text": "Ako mislite da ste spremni, testirajte svoju veštinu kucanja",
+  "link": {
+    "url": "http://www.learninggamesforkids.com/keyboarding_games/keyboarding_games_typing_adventure1.html",
+    "title": "Testirajte svoju veštinu kucanja"
+  }
+},
+{
+  "type": "solution",
+  "time": "4:34",
+  "text": "Ako je Vaše vreme ispod 50000, završite lekciju, u suprotnom, vežbajte još malo.",
+  "button": "Završite lekciju"
+}]
+}

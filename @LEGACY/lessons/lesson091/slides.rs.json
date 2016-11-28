@@ -1,0 +1,28 @@
+{
+"video": "rt0pnlrsl3",
+"slides": [{
+  "type": "question",
+  "time": "2:23",
+  "question": "Koju funkciju ne koristimo U ovoj lekciji?",
+  "options": [
+    "MoveRight",
+    "MoveLeft",
+    "MoveUp",
+    "MoveDown"
+],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "1:11",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/kithgard-enchanter",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "2:23",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

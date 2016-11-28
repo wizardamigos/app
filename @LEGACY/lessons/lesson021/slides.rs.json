@@ -1,0 +1,26 @@
+{
+  "video": "aa3e0h6zld",
+  "slides": [{
+    "type": "question",
+    "time": "1:53",
+    "question": "Kako da neprijatelja napadnete dvaput?",
+    "options": [
+      "this.attack(enemy) x 2",
+      "this.attack(enemy); i još jednom this.attack(enemy);"
+    ],
+    "answer": [1]
+  },{
+    "type": "challenge",
+    "time": "0:26",
+     "text": "Igrajte Code Combat i naučite nove trikove",
+    "link": {
+      "url": "http://codecombat.com/play/dungeon",
+      "title": "Igrajte sada"
+    }
+  },{
+    "type": "solution",
+    "time": "1:53",
+    "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+    "button": "Završite lekciju"
+  }]
+}

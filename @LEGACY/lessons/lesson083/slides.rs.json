@@ -1,0 +1,26 @@
+{
+"video": "hte4uaki9j",
+"slides": [{
+  "type": "question",
+  "time": "2:38",
+  "question": "JavaScript funkcije nam omogućavaju da pravimo kodove za",
+  "options": [
+    "jednokartnu upotrebu",
+    "višekratnu upotrebu"
+],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "1:19",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/ogre-gorge-gouger",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "2:38",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

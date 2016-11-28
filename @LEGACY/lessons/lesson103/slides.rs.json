@@ -1,0 +1,27 @@
+{
+"video": "3acpgkurcy",
+"slides": [{
+  "type": "question",
+  "time": "6:24",
+  "question": "Koliko lokacija smo postavili na ovom nivou?",
+  "options": [
+    "1",
+    "2",
+    "3"
+],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "1:58",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/cloudrip-siege",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "6:24",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

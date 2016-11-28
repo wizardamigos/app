@@ -1,5 +1,0 @@
-# SVG
-
-## Screencasts
-
-## Learning Materials

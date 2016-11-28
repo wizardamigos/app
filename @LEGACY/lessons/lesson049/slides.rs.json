@@ -1,0 +1,28 @@
+{
+"video": "v5yopq2a03",
+"slides": [{
+  "type": "question",
+  "time": "2:35",
+  "question": "Kako definisemo promenljivu x za poziciju zastave ?",
+  "options": [
+    "var flagX = flag.pos.x ",
+    "var flagX = flag.x",
+    "var flagX = flag.pos",
+    "flagX = flag.pos.x "
+  ],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "0:51",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/drop-the-flag",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "2:35",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

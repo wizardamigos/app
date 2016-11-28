@@ -1,0 +1,27 @@
+{
+"video": "x5fdfrardj",
+"slides": [{
+  "type": "question",
+  "time": "2:53",
+  "question": "Ako je izmereno vreme manje od deset:",
+  "options": [
+    "Napadamo ogare",
+    "Definišemo varijablu zastava",
+    "Proveravamo zdravlje"
+  ],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "1:05",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/keeping-time",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "2:53",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

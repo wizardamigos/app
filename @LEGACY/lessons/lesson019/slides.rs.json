@@ -1,0 +1,32 @@
+{
+  "video": "ivnri05x8y",
+  "slides": [{
+    "type": "question",
+    "time": "4:14",
+    "question":
+    [
+      "Da li je a) i b) isto?",
+      " a) self.attack('Kratt');",
+      " b) var enemy = 'Kratt';",
+      "    self.attack(enemy);"
+    ],
+    "options": [
+      "da, u primeru a) koristimo ime and u primeru b) koristimo kreiramo promenljivu enemy (neprijatelj) i onda je koristimo umesto imena",
+      "ne, nije isto"
+    ],
+    "answer": [0]
+    },{
+      "type": "challenge",
+      "time": "3:29",
+       "text": "Igrajte Code Combat i naučite nove trikove",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Igrajte sada"
+      }
+      },{
+        "type": "solution",
+        "time": "4:14",
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

@@ -1,5 +1,0 @@
-# atomify
-
-## Screencasts
-
-## Learning Materials

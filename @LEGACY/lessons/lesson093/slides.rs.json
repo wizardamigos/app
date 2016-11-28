@@ -1,0 +1,27 @@
+{
+"video": "g7pg7n68yc",
+"slides": [{
+  "type": "question",
+  "time": "5:17",
+  "question": "Koliko argumenata imamo kod kvadrata?",
+  "options": [
+    "jedan",
+    "dva",
+    "tri"
+],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "1:49",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/the-geometry-of-flowers",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "5:17",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

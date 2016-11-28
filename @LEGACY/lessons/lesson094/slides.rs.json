@@ -1,0 +1,28 @@
+{
+"video": "g04bzy5mb2",
+"slides": [{
+  "type": "question",
+  "time": "2:22",
+  "question": "U ovoj lekciji, osim vojnicima i strelcima, komandujemo i:",
+  "options": [
+    "seljacima",
+    "cvećarima",
+    "neprijateljima",
+    "grifinima"
+],
+  "answer": [0,3]
+},{
+  "type": "challenge",
+  "time": "1:17",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/mountain-flower-grove",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "2:22",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

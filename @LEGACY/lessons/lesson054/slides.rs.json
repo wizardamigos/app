@@ -1,0 +1,26 @@
+{
+"video": "g5x5bgkqf1",
+"slides": [{
+  "type": "question",
+  "time": "6:08",
+  "question": "Kako pravilno kreiramo promenljivu x za novčić?",
+  "options": [
+    "var x = pos.x",
+    "var x = coin.pos.x"
+  ],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "5:44",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/siege-of-stonehold",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "6:08",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

@@ -1,0 +1,27 @@
+{
+"video": "s4gi1dfg28",
+"slides": [{
+  "type": "question",
+  "time": "3:05",
+  "question": "Kada možemo koristiti Cleave komandu",
+  "options": [
+    "jednom u toku igrice",
+    "kada god želimo",
+    "kada je spremna"
+  ],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "1:41",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/peasant-protection",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "3:05",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

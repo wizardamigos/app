@@ -1,0 +1,26 @@
+{
+"video": "rcab1kkrpn",
+"slides": [{
+  "type": "question",
+  "time": "5:11",
+  "question": "Šta radi if-else if-else struktura ukoliko imamo više izraza od kojih prvi nije tačan?",
+  "options": [
+    "proverava sve ostale izraze dok ne dođe do onog koji je tačan",
+    "staje nakon prvog netačnog"
+  ],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "0:11",
+  "text": "Otvorite novi Gist i dopunite ga stečenim znanjem",
+  "link": {
+    "url": "https://gist.github.com/",
+    "title": "Otvorite novi Gist"
+  }
+},{
+  "type": "solution",
+  "time": "5:11",
+  "text": "Ukoliko ste uspešno odgovorili na pitanja, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

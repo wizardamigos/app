@@ -1,0 +1,26 @@
+{
+"video": "jl9f2v5oas",
+"slides": [{
+  "type": "question",
+  "time": "3:17",
+  "question": "Koju komandu koristite za napad na ogra zvanog Brak?",
+  "options": [
+    "this.attack(Brak);",
+    "this.attack('Brak');"
+  ],
+  "answer": [1]
+  },{
+    "type": "challenge",
+    "time": "1:59",
+    "text": "Igrajte Code Combat i naučite nove trikove",
+    "link": {
+      "url": "http://codecombat.com/play/dungeon",
+      "title": "Igrajte sada"
+    }
+    },{
+      "type": "solution",
+      "time": "3:17",
+      "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+      "button": "Završite lekciju"
+      }]
+    }

@@ -1,0 +1,28 @@
+{
+"video": "jlbkjialev",
+"slides": [{
+  "type": "question",
+  "time": "2:52",
+  "question": "Ako je Y koordinata neprijatelja veća od Y koordinate našeg junaka zamku postavljamo:",
+  "options": [
+    "Gore",
+    "Dole",
+    "Levo",
+    "Desno"
+  ],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "1:28",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/crossroads",
+    "title": "Igrajte sadak"
+  }
+},{
+  "type": "solution",
+  "time": "2:52",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}

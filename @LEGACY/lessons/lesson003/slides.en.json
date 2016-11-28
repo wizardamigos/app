@@ -1,0 +1,28 @@
+{
+"video": "4baln4flyl",
+"slides": [{
+  "type": "question",
+  "time": "1:49",
+  "question": "What happens when you bookmark the page?",
+  "options": [
+    "You create a shortcut to you favourite pages.",
+    "You save links to your selected pages.",
+    "You delete a link.",
+    "You create little icons that bring you to certain pages"
+  ],
+  "answer": [0, 1, 3]
+},{
+  "type": "challenge",
+  "time": "1:49",
+  "text": "Click here to create your first bookmark folder and save the link to your Gmail account.",
+  "link": {
+    "url": "http://www.gmail.com",
+    "title": "Create your bookmark"
+  }
+}, {
+  "type": "solution",
+  "time": "1:49",
+  "text": "If you managed to add Gmail to your bookmarks, you can click here to complete the lesson.",
+  "button": "Complete the lesson"
+}]
+}

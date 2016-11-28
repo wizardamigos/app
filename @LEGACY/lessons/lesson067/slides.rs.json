@@ -1,0 +1,27 @@
+{
+"video": "fah15tfl15",
+"slides": [{
+  "type": "question",
+  "time": "5:17",
+  "question": "Kada je ukupno zlato veće ili jednako od dvadeset pet:",
+  "options": [
+    "Sakupljamo dok ne skupimo 30 zlatnika",
+    "Prekidamo petlju",
+    "Napadamo Ogare"
+  ],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "2:55",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/hoarding-gold",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "5:17",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
+}
