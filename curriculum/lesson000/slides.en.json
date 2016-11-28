@@ -3,7 +3,7 @@
 "slides": [{
   "type": "challenge",
   "time": "0:14",
-  "text": "You will learn how to use Github - a social network for programmers.",
+  "text": "You will learn how to use Github - a social network for programmers. Check it out and then come back - but just take a small look, you DONT need to do anything there yet :-)",
   "link": {
     "url": "https://github.com/",
     "title": "Click here"
@@ -11,15 +11,15 @@
 }, {
   "type": "challenge",
   "time": "0:14",
-  "text": "For support you will be able to use WizardAmigos Gitter chat.",
+  "text": "For support you will be able to use WizardAmigos Gitter chat. Check it out and then come back - but just take a small look, you DONT need to do anything there yet :-)",
   "link": {
-    "url": "https://gitter.im/ESova/program",
+    "url": "https://gitter.im/wizardamigosinstitute/service",
     "title": "Click here"
   }
 }, {
   "type": "challenge",
   "time": "0:14",
-  "text": "You will play a programming game Code Combat.",
+  "text": "You will play a programming game Code Combat. Check it out and then come back - but just take a small look, you DONT need to do anything there yet :-)",
   "link": {
     "url": "http://codecombat.com/play",
     "title": "Click here"

@@ -21,7 +21,7 @@ const engine    = require('_vcs2dom') // @TODO: fix vcs2dom
   window.addEventListener("message", receiveMessage, false)
   function receiveMessage(event) { // ESOVA APP
     var origin = event.origin
-    if (origin === "http://fast.wistia.com") return
+    if (origin === "http://youtube.com") return
     else window.parent.postMessage('OK', selforigin)
   }
 }())
