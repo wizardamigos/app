@@ -9,10 +9,12 @@
   "overlay/promocode/button:startnow": "Start with lessons",
   "overlay/promocode/button:signup": "Confirm",
   "overlay/promocode/placeholder": "Type in your code",
-  "overlay/promocode:notready": "Kreiranje eSova naloga je moguće na kraju četvrte lekcije.",
-  "overlay/promocode:haveanaccount": "Već imate eSova nalog? Upišite se ovde!",
-  "overlay/promocode:wrong": "Uneli ste pogrešan kod, pokušajte ponovo.",
-  "overlay/promocode:unmetrequirements": "Za prikaz odabrane lekcije morate prvo da uspešno završite sve predhodne lekcije.",
+
+  "overlay/promocode:notready": "Finish the first four lessons before you can create an account!",
+  "overlay/promocode:haveanaccount": "Already have an account? Sign in now.",
+  "overlay/promocode:wrong": "The code you entered is incorrect.",
+  "overlay/promocode:unmetrequirements": "In order to unlock this lesson finish all previous lessons first.",
+
   "overlay/promocode:speedlimit": "You go to fast - continue next week :-)",
   "overlay/promocode/welcome": "Welcome to",
   "home:anon": "Lessons",
