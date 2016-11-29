@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "3:17",
-  "question": "What is a command to attack Ogre named Brak?",
+  "question": "What is the correct command to attack Ogre named Brak?",
   "options": [
     "this.attack(Brak);",
     "this.attack('Brak');"
