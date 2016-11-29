@@ -3,7 +3,7 @@
   "slides": [{
     "type": "question",
     "time": "5:07",
-    "question": "Which programming language will we learn with eSova?",
+    "question": "Which programming language will we learn at WizardAmigos code camp?",
     "options": [
       "Ruby",
       "JavaScript",
@@ -16,7 +16,7 @@
     "time": "5:07",
     "text": "Create a Code Combat account and play first 3 rooms",
     "link": {
-      "url": "http://codecombat.com/play/dungeon",
+      "url": "http://codecombat.com/play",
       "title": "Join Code Combat"
     }
 }, {
