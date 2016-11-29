@@ -7,15 +7,15 @@
       "Github",
       "Gigi",
       "Bitbag",
-      "Abrakadabra"
+      "Bithub"
     ],
     "answer": [0]
   }, {
     "type": "challenge",
     "time": "3:55",
-    "text": "Click here to create Github and eSova account.",
+    "text": "Click here to create Github and WizardAmigos account.",
     "link": {
-      "url": "http://www.esova.rs",
+      "url": "http://app.wizardamigos.com",
       "title": "Sign up now"
     }
   }]
