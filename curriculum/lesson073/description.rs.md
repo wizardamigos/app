@@ -1,9 +1,9 @@
 ---
 {
-  "title": "Code Combat - Rogati spasitelj",
-  "duration": "5:23"
+  "title": "Code Combat - Posmatrači",
+  "duration": "3:28"
 }
 ---
 
-Hajde da krenemo u novu avanturu. Moramo da opremimo našeg junaka tako da može da gradi ograde, vatrene zamke i mamce.  Ovoga puta ćemo koristiti niz odnosno ARRAY. Šta je to u stvari? To je lista predmeta. U ovom slučaju imamo niz koji se zove “FriendNames” (imena prijatelja), što je u stvari lista nizova. To su Joan, Ronan, Nikita, Augustus. Tako da ova promenljiva u stvari predstavlja niz. Počinje uglastom zagradom i istom takvom se završava. A unutar toga imamo nizove. Počnimo!
+Približavamo se kraju našeg puta kroz pustinju… Bilo je izazovno i vrlo poučno! Još samo nekoliko soba je pred nama. Dobili smo nove naočare. One će nam omoguciti da vidimo dalje, tako da možemo da uočavamo neprijatelje, merimo udaljenost i pronalazimo predmete i da pronalazimo najblize neprijatelje ili predmete. Takodje ćemo se opremiti i novim mačemi bićemo spremni za igru. Naš cilj je da polako probudimo uspavane šamane. Moracemo da pronadjemo neprijatelje, i to dosta njih, ne samo jednog. Hajde da se igramo!
 

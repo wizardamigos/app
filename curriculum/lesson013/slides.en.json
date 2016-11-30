@@ -1,17 +1,17 @@
 {
-"video": "al567qvygz",
+"video": "bif3k0unvq",
 "slides": [{
   "type": "question",
-  "time": "2:03",
-  "question": "What type of special characters are used in a while(true) loop to wrap the code in the loop that repeats forever?",
+  "time": "1:59",
+  "question": "What is a while(true) loop?",
   "options": [
-    "curly braces - {}",
-    "square brackets - []"
+    "it's a special command - a loop - that make things happen over and over again",
+    "it is a name of an Ogre we have to attack"
   ],
   "answer": [0]
 },{
   "type": "challenge",
-  "time": "0:52",
+  "time": "1:59",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/dungeon",
@@ -19,7 +19,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:03",
+  "time": "1:59",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

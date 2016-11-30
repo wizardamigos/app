@@ -1,17 +1,19 @@
 {
-"video": "qqhz0s7wj1",
+"video": "abrg293gc5",
 "slides": [{
-  "type": "challenge",
-  "time": "0:45",
-  "text": "Ostavite nam svoje podatke kako bismo vam pripremili eSova sertifikat",
-  "link": {
-    "url": "http://www.wizardamigos.com/#certificate",
-    "title": "Unesite podatke"
-  }
+  "type": "question",
+  "time": "11:27",
+  "question": "Git skladište čuva:",
+  "options": [
+    "Sve prethodne verzije koda",
+    "Poslednje 3 verzije koda",
+    "Samo poslednju verziju koda"
+],
+  "answer": [0]
 },{
   "type": "solution",
-  "time": "0:45",
-  "text": "Hvala što ste sa nama učili da programirate u JavaScript-u!",
-  "button": "Završite eSova kurs"
+  "time": "11:27",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
 }]
 }

@@ -1,27 +1,25 @@
 {
-"video": "fma40753uv",
+"video": "8sct2fkqe2",
 "slides": [{
   "type": "question",
-  "time": "1:40",
-  "question": "Kada možemo koristiti Cleave komandu",
+  "time": "3:49",
+  "question": "Protiv koga smo se borili u današnjoj lekciji?",
   "options": [
-    "jednom u toku igrice",
-    "kada god želimo",
-    "kada je spremna"
-    
+    "kompjutera",
+    "drugih igrača"
   ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:40",
+  "time": "2:18",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/backwoods-standoff",
+    "url": "http://codecombat.com/play/level/dueling-grounds",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:40",
+  "time": "3:49",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

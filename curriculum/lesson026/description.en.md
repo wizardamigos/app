@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat",
-  "duration": "2:51"
+  "duration": "5:48"
 }
 ---
 
-You will have to find the way to your friends and protect them from the enemies.
+In this room you will learn how to count gems(diamons) you will be picking up and how to use the password to open the door.

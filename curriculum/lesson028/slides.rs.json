@@ -1,39 +1,37 @@
 {
-  "video": "fq28h5m2hd",
+  "video": "kaws7oksf9",
   "slides": [{
     "type": "question",
-    "time": "8:32",
-    "question": "Koji je rezultat konkatenacije 'Hello' + ', ' + 'Ana!' ?",
+    "time": "5:17",
+    "question": "Kako napravite komentar u jednom redu u JavaScript kodu?",
     "options": [
-      "Hello,Ana!",
-      "Hello , Ana!",
-      "'Hello' + ', ' + 'Ana!'",
-      "Hello, Ana!"
+      "sa //",
+      "sa /*"
     ],
-    "answer": [3]
+    "answer": [0]
     },{
       "type": "question",
-      "time": "8:32",
-      "question": "Šta dobijamo ako u kod unesemo 'esova' === 'esova' ?",
+      "time": "5:17",
+      "question": "Šta sve od ponuđenog je znakovni niz (string)?",
       "options": [
-        "esova",
-        "true",
-        "false",
-        "esovaesova"
+        "1",
+        "'123'",
+        "'Brak'",
+        "enemy"
       ],
-      "answer": [1]
+      "answer": [1,2]
       },{
         "type": "challenge",
-        "time": "8:32",
-        "text": "Naučite kako da koristite konzolu, zatim izmenite javaScript- puškica Gist i u njega sačuvajte ono što ste naučili u ovoj lekciji.",
+        "time": "5:17",
+        "text": "Obnovite ono što ste naučili o JavaScript jeziku  i kreirajte novi Gist. Nazovite ga JavaScript-puškica i u njega sačuvajte sve o čemu smo pričali u ovom videu.",
         "link": {
           "url": "https://gist.github.com/",
-          "title": "Isprobajte konzolu"
+          "title": "Obnovite Javascript"
         }
         },{
           "type": "solution",
-          "time": "8:32",
-          "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
-        "button": "Završite lekciju"
-        }]
-      }
+          "time": "5:17",
+          "text": "Ukoliko ste uspešno sačuvali i označili JavaScript-puškica Gist, kliknite da završite lekciju",
+          "button": "Završite lekciju"
+          }]
+        }

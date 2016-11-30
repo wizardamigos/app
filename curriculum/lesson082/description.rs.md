@@ -1,10 +1,9 @@
 ---
 {
-  "title": "Code Combat - Uspon na Planinu ",
-  "duration": "4:30"
+  "title": "Nizovi - obnavljanje",
+  "duration": "9:30"
 }
 ---
 
-Kroz eSova kurs proći ćemo kroz celu JavaScript sintaksu i pokušati da naučimo osnovne stvari uz pomoć Code Combata. Kasnije ćemo preći na druge priručnike, i na kraju koristiti stečeno znanje kako bismo napravili nešto korisno. Code Combat je zaista odličan metod učenja jer sve vreme vežbamo igrajući ga, i pored toga imamo vizuale pomoću kojih vidimo šta kod zapravo radi. Stoga, nastavljamo u poslednji svet ove igre koji se zove Planina. Biće uzbudljivo i poučno! Krenimo!
-
+Pre nego što pređemo u sledeći svet, uradićemo malu proveru svega onoga što smo naučili u pustinji. Ovo se uglavnom odnosi na nizove. Sta je niz? Niz je objekat koji nam dozvoljava da smestimo više vrednosti u jednu promenljivu. U suštini se koristi za smeštanje prikupljenih podataka. To mogu biti i različiti podaci, ali su uglavnom to kolekcije podataka istog tipa. Šta to tačno znači? Saznajte u ovoj lekciji!
 

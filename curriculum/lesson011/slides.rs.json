@@ -1,26 +1,28 @@
 {
-"video": "jl9f2v5oas",
+"video": "chkjy38w4e",
 "slides": [{
   "type": "question",
-  "time": "3:17",
-  "question": "Koju komandu koristite za napad na ogra zvanog Brak?",
+  "time": "2:02",
+  "question": "Označite osnovne komande u CodeCombat-u za pomeranje u prostoru?",
   "options": [
-    "this.attack(Brak);",
-    "this.attack('Brak');"
+    "moveLeft (idiLevo)",
+    "moveBack (idiNazad)",
+    "moveUp (idiGore)",
+    "moveDown (idiDole)"
   ],
-  "answer": [1]
+  "answer": [0,2,3]
+},{
+  "type": "challenge",
+  "time": "1:14",
+  "text": "Igrajte Code Combat i naučite nove trikove",
+  "link": {
+    "url": "http://codecombat.com/play/dungeon",
+    "title": "Igrajte sada"
+  }
   },{
-    "type": "challenge",
-    "time": "1:59",
-    "text": "Igrajte Code Combat i naučite nove trikove",
-    "link": {
-      "url": "http://codecombat.com/play/dungeon",
-      "title": "Igrajte sada"
-    }
-    },{
-      "type": "solution",
-      "time": "3:17",
-      "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
-      "button": "Završite lekciju"
-      }]
-    }
+    "type": "solution",
+    "time": "2:02",
+    "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+    "button": "Završite lekciju"
+    }]
+  }

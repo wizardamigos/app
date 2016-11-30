@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat - minsko polje",
-  "duration": "2:05"
+  "title": "Code Combat - zamke za ogare",
+  "duration": "2:44"
 }
 ---
 
-U novoj avanturi, naš izazov je da porazimo ogare koji se nalaze sa naše strane mina. Kako ne bismo nagazili na mine moramo da izračunamo udaljenost od njih. To ćemo uraditi tako što ćemo definisati varijablu udaljenosti i proveriti da li je neprijatelj udaljen manje od 10 metara. Ukoliko to bude slučaj, koristićemo naš najjači napad presecanja. Takođe ćemo koristiti zastave i komandu pickUpFlag kako bismo usmerili junaka da se kreće ka njima, umesto u pravcu mina.
+Ono što nas očekuje u ovoj igri je da porazimo ogre tako što ćemo ih zarobiti. Kako bismo napravili zamke, moraćemo da koristimo zastave. Kako bismo to uspeli, koristićemo komande pickUpFlag, build, fireTrap, tako što ćemo postavljati zastave na mestima na kojima želimo da sagradimo zamke. Da bi nam to uspelo, prvo ćemo morati da definišemo  promenljivu pozicioniranja zastave. To ćemo uraditi isto kao i za svaki objekat. Imaćete priliku, kao i uvek, da probate da sami napišete kod, a zatim da se vratite kako bismo zajdno to uradili.
+

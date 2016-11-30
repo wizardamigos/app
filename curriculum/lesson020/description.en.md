@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat",
-  "duration": "1:34"
+  "duration": "4:23"
 }
 ---
 
-With help of amazing Code Combat game you will fight with many enemies.
+With help of amazing Code Combat game you will learn how to create enemy variable.

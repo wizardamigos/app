@@ -1,27 +1,26 @@
 {
-"video": "lwpaituzc6",
+"video": "s4gi1dfg28",
 "slides": [{
   "type": "question",
-  "time": "3:45",
-  "question": "Koju smo komandu koristili kako bismo saznali poziciju zlog kamena?",
+  "time": "3:05",
+  "question": "Kada možemo koristiti Cleave komandu",
   "options": [
-    "find.nearestEnemy",
-    "find.nearestItem",
-    "find.theEnemy",
-    "find.theItem"
+    "jednom u toku igrice",
+    "kada god želimo",
+    "kada je spremna"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:25",
+  "time": "1:41",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/forest-fire-dancing",
+    "url": "https://codecombat.com/play/level/peasant-protection",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:45",
+  "time": "3:05",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

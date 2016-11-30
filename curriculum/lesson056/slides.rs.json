@@ -1,16 +1,14 @@
 {
-"video": "ypoc84tod1",
+"video": "rcab1kkrpn",
 "slides": [{
   "type": "question",
-  "time": "3:54",
-  "question": "Kod ugnježdenih if-else petlji imamo uvlačenja od:",
+  "time": "5:11",
+  "question": "Šta radi if-else if-else struktura ukoliko imamo više izraza od kojih prvi nije tačan?",
   "options": [
-    "1 razmaka",
-    "2 razmaka",
-    "3 razmaka",
-    "4 razmaka"
+    "proverava sve ostale izraze dok ne dođe do onog koji je tačan",
+    "staje nakon prvog netačnog"
   ],
-  "answer": [1,3]
+  "answer": [0]
 },{
   "type": "challenge",
   "time": "0:11",
@@ -21,8 +19,8 @@
   }
 },{
   "type": "solution",
-  "time": "3:54",
-  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "time": "5:11",
+  "text": "Ukoliko ste uspešno odgovorili na pitanja, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]
 }

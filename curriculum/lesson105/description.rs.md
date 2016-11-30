@@ -1,11 +1,11 @@
 ---
 {
-  "title": "JavaScript - Vraćanje funkcija",
-  "duration": "5:53"
+  "title": "JavaScript - Osnove funkcija",
+  "duration": "15:08"
 }
 ---
 
-Vraćamo se na funkcije i bavimo se vraćanjem funkcija. Funkcije mogu da povrate svaku vrednost u JavaScriptu: brojeve, nizove, redove, objekte, čak i druge funkcije. Kada vraćamo jednu funkciju iz druge funkcije, promenljive koje označimo će ostati u unutrašnjoj funkciji. Osim vraćanjem funkcija, bavićemo se i obrađivanjem koda (i saznati šta to tačno znači). Nadamo se da vam je i ovaj, čisto edukativan, deo interesantan kao prethodni. Uskoro krećemo u nešto novo i divlje! Spremite se!
-
+ Došli smo do kraja Code Combat avantura i selimo se u realni svet programiranja.
+Kao što već znamo, u JavaScript kodu, veoma bitni gradivni elementi jesu funkcije. Možemo funkcije posmatrati kao male fabrike. U njih nešto ubacujemo - input i dobijamo izlaznu informaciju - output. U ovoj lekciji saznaćemo više o tome šta se dešava unutar same funkcije: od čega se sastoji, kako radi, kako se može izražavati... Pored toga, bavićemo se pozivanjem i dizanjem funkcija. Hajde da zajedno nastavimo dalje putem znanja!
 
 

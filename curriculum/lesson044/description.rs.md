@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - odbrana livade",
-  "duration": "3:01"
+  "title": "Code Combat - patuljci i ostali neprijatelji ",
+  "duration": "4:59"
 }
 ---
 
-Naš heroj se ovog puta bori protiv velikog broja neprijatelja i ponovo koristi moćnu komandu CLEAVE. U zavisnosti od njihove udaljenosti, koji ćemo moći da izračunamo, bićemo u prilici da porazimo više neprijatelja jednim potezom ukoliko su nam dovoljno blizu. Koristićemo loop petlju i if strukture kako bismo ovo postigli. Kombinujuči ono što već znamo sa novonastalim situacijama imaćemo priliku da unapredimo i učvrstimo svoje znanje, i tako postanemo još bolji!
-
+Da vidimo koliko ćemo uspešni biti u novoj igri, koristeći na nov način neke stvari koje smo već naučili. U početku ćemo se oslanjati na IF komande kako bismo videli da li ima neprijatelja ili ćemo samo konstatovati da ga nema i ostati u odbrambenoj poziciji. Zatim ćemo se oslanjati na računanje udaljenosti od neprijatelja, jer ukoliko nam nisu dovoljno blizu, nemamo razloga za napad. Pre početka igre ćemo heroja obavezno opremiti štitom, jer bez njega nećemo biti u mogućnoti da se uspešno branimo.

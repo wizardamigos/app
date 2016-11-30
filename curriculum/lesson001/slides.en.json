@@ -1,28 +1,28 @@
 {
-"video": "zqiogbv33r",
+"video": "c3io1b5m35",
 "slides": [{
   "type": "question",
-  "time": "3:21",
-  "question": "What is not a browser?",
+  "time": "2:59",
+  "question": "How do we call digital recording of computer screen output, also known as a video screen capture, often containing audio narration?",
   "options": [
-    "Google Chrome",
-    "Mozilla Firefox",
-    "Microsoft Windows",
-    "Internet Explorer"
+    "Video",
+    "Screen",
+    "Screencast",
+    "Screencastify"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "3:21",
-  "text": "Click to check your browser and if you don't have Google Chrome browser on your computer, install it now",
+  "time": "2:59",
+  "text": "Go and create your first Screencast. You can of course also use QuickTime Player or other tools available.",
   "link": {
-    "url": "http://www.whatbrowser.org/intl/sr/",
-    "title": "Click to check your browser"
+    "url": "",
+    "title": "Create your screencast"
   }
 }, {
   "type": "solution",
-  "time": "3:21",
-  "text": "If you now have Chrome browser on your computer, you can click here to complete the lesson.",
+  "time": "2:59",
+  "text": "If you successfully created your first screencast, click here to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

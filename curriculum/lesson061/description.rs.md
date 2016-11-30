@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - put do oaze",
-  "duration": "2:54"
+  "title": "Code Combat - izbegavanje stampeda",
+  "duration": "2:37"
 }
 ---
 
-Nije lako probijati se kroz pustinju, posebno kada na putu do oaze nalećemo na neprijateljski nastorjene ogare. Sada smo u novoj sobi. Ovde cemo kupiti novi mač, koji nam daje mogućnost da napadamo neprijatelje nanoseći im veliku štetu. Naš junak u ovom nivou mora da preživi, stigne u oazu i da pobedi ogare izvidjače. Ukoliko vidimo neprijatelja, trebalo bi da ga napadnemo, a u suprotnom ćemo se kretati ka oazi. Par klikova nas deli od nove avanture, krenimo!
-
+Suva vrela pustinja se prostire pred našim herojem i na nama je da mu pomognemo da preživi. Na ovom nivou potrebno je da dinamički izbegnemo Jakove. Dodavanjem i oduzimanjem vrednosti promenljivoj x pomeraćemo heroja napred nazad, dok ćemo primenjivanjem istog principa na promenljivu y moći da mu komandujemo da li da ide gore ili dole. Postoje neka jednostavna pravila za izbegavanje stampeda jakova, i osim što ćemo saznati koja su imaćemo priliku i da ih primenimo.

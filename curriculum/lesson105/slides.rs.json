@@ -1,18 +1,18 @@
 {
-"video": "2thw8oq3en",
+"video": "a9dbgpyhie",
 "slides": [{
   "type": "question",
-  "time": "5:43",
-  "question": "Šta je refactoring (obrađivanje) u programiranju:",
+  "time": "14:58",
+  "question": "Šta je pozivanje funkcije?",
   "options": [
-    "pravljenje novog koda spajanjem više postojećih kodova",
-    "prolaženje kroz postojeći kod radi nalaženja boljih rešenja",
-    "uzimanje u obzir više faktora pri pisanju koda"
+    "davanje imena funkciji",
+    "pokretanje rada funkcije",
+    "dodeljivanje broja funkciji"
 ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:30",
+  "time": "14:00",
   "text": "Otvorite Anin Gist",
   "link": {
     "url": "https://gist.github.com/esova-ana/b4d5b39a45e824b78706",
@@ -20,7 +20,7 @@
   }
 },{
   "type": "solution",
-  "time": "5:43",
+  "time": "14:58",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

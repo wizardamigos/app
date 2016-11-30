@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Chrome Profil i Gmail Nalog",
-  "duration": "3:08"
+  "title": "Preuzimanje i instalacija Chrome pretraživača",
+  "duration": "3:29"
 }
 ---
 
-U ovoj lekciji naučićemo kako da napravimo svoj Google Chrome nalog i svoju gmail adresu. Chrome čitač je pored ostalih naprednih alata svojim korisnicima ponuudio još jednu inovaciju: da u okviru njega imaju lične korisničke naloge. Svakom korisniku omogućeno je da sva podešavanja i obeleživače čuvaju u okviru datih naloga, što olakšava korišćenje istog čitača velikom broju korisnika. Za potrebe pravljenja chrome naloga neophodno je da kreiramo i svoju gmail adresu, koja će nam biti korisna i u mnogim drugim prilikama. Gmail je je, iako naprednih podešavanja, veoma lak za korišćenje pa je godinama pozicioniran kao vodeći besplatni email servis na internetu.
+U ovoj lekciji naučićemo kako da instaliramo Google Chrome web čitač. Od kada je početkom milenijuma postala vodeći internet kompanija, Google je pored najpopularnijeg sajta za pretraživanje, razvio mnogobrojne korisne alate i programe. Jedan od njihovih najuspešnijih projekata jeste Google Chrome čitač, koji koristi JavaScript virtuelnu mašinu i multi-procesnu arhitekturu. Ovaj čitač lako je došao do pozicije najpopularnijeg na internetu, zbog odličnog korisničkog interfejsa, brzine i responzivnosti. Međutim, ono što ga je stvarno izdvojilo od ostalih web čitača jesu ugrađeni programerski alati koji otvaraju niz novih mogućnosti za developere. U narednim lekcijama naučićemo kako da koristimo ove alate i programiramo direktno iz Chrome čitača.  

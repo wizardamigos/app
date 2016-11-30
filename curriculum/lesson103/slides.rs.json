@@ -1,26 +1,26 @@
 {
-"video": "3acpgkurcy",
+"video": "g4cjzugwxx",
 "slides": [{
   "type": "question",
-  "time": "6:24",
-  "question": "Koliko lokacija smo postavili na ovom nivou?",
+  "time": "2:12",
+  "question": "Koje slovo se sigurno nalazi u imenu špijuna?",
   "options": [
-    "1",
-    "2",
-    "3"
+    "D",
+    "M",
+    "Z"
 ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:58",
+  "time": "1:06",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/cloudrip-siege",
+    "url": "https://codecombat.com/play/level/the-spy-among-us",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "6:24",
+  "time": "2:12",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

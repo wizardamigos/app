@@ -1,26 +1,26 @@
 {
-"video": "x3bkaxkbs3",
+"video": "up3w3zkbzl",
 "slides": [{
   "type": "question",
-  "time": "3:38",
-  "question": "Šta radimo naredbom continue",
+  "time": "2:04",
+  "question": "Dok broj napada ne pređe 10:",
   "options": [
-    "ubijamo neprijatelja",
-    "ponavljamo petlju",
-    "prekidamo trenutno ponavljanje petlje i započinjemo sledeću"
+    "Povlačimo se",
+    "Napadamo neprijatelja i povećavamo broj napada za 1",
+    "Napadamo neprijatelja i smanjujemo broj napada za 1"
   ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "2:03",
-     "text": "Odigrajte nivo i vratite se",
+  "time": "1:10",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/continuous-alchemy",
+    "url": "https://codecombat.com/play/level/dust",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:38",
+  "time": "2:04",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

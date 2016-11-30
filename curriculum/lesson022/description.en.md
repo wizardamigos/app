@@ -5,4 +5,4 @@
 }
 ---
 
-With help of this game you will learn to combine loops and variables.
+With help of amazing Code Combat game you will learn to attack twice.

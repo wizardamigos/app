@@ -1,26 +1,27 @@
 {
-"video": "iia8rr6pka",
+"video": "g04bzy5mb2",
 "slides": [{
   "type": "question",
-  "time": "4:15",
-  "question": "Zašto prikupljamo novčiće?",
+  "time": "2:22",
+  "question": "U ovoj lekciji, osim vojnicima i strelcima, komandujemo i:",
   "options": [
-    "da bismo ih stavili na štednu knjižicu",
-    "da bismo kupili novu uniformu",
-    "da bismo prizvali vojnike"
+    "seljacima",
+    "cvećarima",
+    "neprijateljima",
+    "grifinima"
 ],
-  "answer": [2]
+  "answer": [0,3]
 },{
   "type": "challenge",
-  "time": "0:37",
+  "time": "1:17",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/hunters-and-prey",
+    "url": "https://codecombat.com/play/level/mountain-flower-grove",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:15",
+  "time": "2:22",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

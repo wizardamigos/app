@@ -1,26 +1,27 @@
 {
-"video": "482b32raw6",
+"video": "yhdqwubpkt",
 "slides": [{
   "type": "question",
-  "time": "5:39",
-  "question": "Koje su Narijine koordinate?",
+  "time": "4:10",
+  "question": "Koliko je zlatnika ukupno potrebno prikupiti za izgradnju četiri mamca?",
   "options": [
-    "59, 33",
-    "90, 90",
-    "23, 40"
+    "40",
+    "25",
+    "100",
+    "0"
   ],
-  "answer": [0]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:03",
+  "time": "1:35",
    "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/bookkeeper",
+    "url": "https://codecombat.com/play/level/decoy-drill",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "5:39",
+  "time": "4:10",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

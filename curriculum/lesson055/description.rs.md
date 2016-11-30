@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Utvrđivanje IF, ELSE i ELSE IF struktura ",
-  "duration": "5:22"
+  "title": "Code Combat - zaštita seljana",
+  "duration": "6:18"
 }
 ---
 
-Završili smo sa još jednom sobom u Code Combat-u i sada pravimo pauzu! Red je došao na obnavljanje gradiva a u tome će nam pomoći Google Chrome čitač. Ponovićemo sve što smo naučili vezano za IF, ELSE i ELSE IF strukture. To ćemo učiniti koristeći programerske alate u okviru čitača, kako bismo uspešno dopunili svoju puškicu znanjima koje smo stekli u prethodnim lekcijama. Pred nama je bilo lakih i teških zadataka, a najbitnije je da smo ih zajedno savladali i mnogo toga naučili. Veoma nam je drago što smo zajedno prošli mnogo avantura i stekli ovoliko znanja! Ne brinite, najbolje je tek pred nama!
+Još jedan novi nivo Code Combata je pred nama! Cilj nam je da pobedimo neprijatelja i zaštitimo seljane. Ponovo se susrećemo sa zastavama i u zavisnosti od toga koje su one boje, naš junak treba nešto da preduzme. Ukoliko naiđe na zastavu crne boje potrebno je da postavi zamku, dok je zelena zastava znak da na tom mestu treba postaviti ogradu. Ljubičastu zastavu će pokupiti, ona mu omogućava da ode do mesta za lečenje ili da izbegnemo neki žbun i da se lakše kreće. Malo smo vas uputili u značenje boja zastava, a sada je na vama da pomognete junaku da ispuni svoj cilj. Srećno!

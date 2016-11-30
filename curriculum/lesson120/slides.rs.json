@@ -1,18 +1,19 @@
 {
-"video": "0x2whrmm8c",
+"video": "kixuxjp6qs",
 "slides": [{
   "type": "question",
-  "time": "3:43",
-  "question": "Koji metod koristimo kako bi baza podataka mogla da dobije informacije iz aplikacije?",
+  "time": "3:55",
+  "question": "Dopuni funkciju za vraćanje nazad if (i>0){",
   "options": [
-    "JSON.magnify(results)",
-    "JSON.sendify(results)",
-    "JSON.stringify(results)"
+    "",
+    "i = i + 1",
+    "i = i - 1",
+    "i = i "
 ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "solution",
-  "time": "3:43",
+  "time": "3:55",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

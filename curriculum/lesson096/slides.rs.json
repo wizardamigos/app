@@ -1,26 +1,26 @@
 {
-"video": "6e0drpa075",
+"video": "iia8rr6pka",
 "slides": [{
   "type": "question",
-  "time": "2:45",
-  "question": "Koju od ponuđenih funkcija smo koristili u ovoj lekciji?",
+  "time": "4:15",
+  "question": "Zašto prikupljamo novčiće?",
   "options": [
-    "eatStrawberryCake",
-    "commandSoldier",
-    "beatTheEnemy"
+    "da bismo ih stavili na štednu knjižicu",
+    "da bismo kupili novu uniformu",
+    "da bismo prizvali vojnike"
 ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:30",
+  "time": "0:37",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/library-tactician",
+    "url": "https://codecombat.com/play/level/hunters-and-prey",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:45",
+  "time": "4:15",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

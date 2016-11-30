@@ -1,34 +1,106 @@
 {
-"video": "tjz22wx38a",
+"video": "juwcfpvpeg",
 "slides": [{
   "type": "question",
-  "time": "3:16",
-  "question": "Ako je tip neprijatelja strelac:",
+  "time": "7:57",
+  "question": "Kako ćemo prikupiti više zlata za svog junaka?",
   "options": [
-    "povlačimo se",
-    "ubijamo ga",
-    "štitimo se"
-],
+    "poslaćemo ga u rudnik zlata",
+    "pronaćićemo skrivene nivoe i preći ih",
+    "svratićemo do najbliže zlatare"
+  ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:45",
-  "text": "Odigrajte nivo i vratite se",
+  "time": "2:09",
+   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/dueling-grounds",
+    "url": "https://codecombat.com/play/level/the-trials",
     "title": "Igrajte sada"
   }
 },{
   "type": "challenge",
-  "time": "2:17",
-  "text": "Odigrajte nivo i vratite se",
+  "time": "2:52",
+   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/clash-of-clones",
+    "url": "https://codecombat.com/play/level/kithgard-gates",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "challenge",
+  "time": "3:07",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/lost-viking",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "challenge",
+  "time": "3:44",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/harrowland",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "challenge",
+  "time": "3:32",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/backwoods-treasure",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "challenge",
+  "time": "4:32",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/savern-brawl",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "challenge",
+  "time": "5:13",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/backwoods-brawl",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "challenge",
+  "time": "5:41",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/cavern-survival",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "challenge",
+  "time": "6:19",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/kithgard-brawl",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "challenge",
+  "time": "6:31",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/sarven-siege",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "challenge",
+  "time": "7:01",
+   "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "https://codecombat.com/play/level/sarven-treasure",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:16",
+  "time": "7:57",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

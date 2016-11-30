@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - loops",
-  "duration": "2:08"
+  "title": "Code Combat - attack",
+  "duration": "3:26"
 }
 ---
 
-With help of the game you will learn how to make things happen over and over again.
+With help of amazing Code Combat game you will get to know how to use command attack.

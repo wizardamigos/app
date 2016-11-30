@@ -1,11 +1,11 @@
 ---
 {
-  "title": "JavaScript - Osnove funkcija",
-  "duration": "15:08"
+  "title": "Code Combat - Oblačna opsada",
+  "duration": "6:33"
 }
 ---
 
- Došli smo do kraja Code Combat avantura i selimo se u realni svet programiranja.
-Kao što već znamo, u JavaScript kodu, veoma bitni gradivni elementi jesu funkcije. Možemo funkcije posmatrati kao male fabrike. U njih nešto ubacujemo - input i dobijamo izlaznu informaciju - output. U ovoj lekciji saznaćemo više o tome šta se dešava unutar same funkcije: od čega se sastoji, kako radi, kako se može izražavati... Pored toga, bavićemo se pozivanjem i dizanjem funkcija. Hajde da zajedno nastavimo dalje putem znanja!
+Došli smo do poslednjeg nivoa koji ćemo zajedno prelaziti u Code Combatu. Vreme tako brzo prolazi, a mi smo na pragu jednog novog poglavlja našeg kursa. Nakon ovog nivoa imaćete priliku da znanje stečeno kroz igru primenite u stvarnom kodu. Izuzetno nam je drago što smo ovoliko napredovali zajedno, rame uz rame. Nadamo se da ste uživali u avanturama našeg heroja, odnosno heroine, i da ćete još više uživati u onome što sledi. Čeka nas jedan malo izazovniji nivo, ali tu smo da pomognemo jedni drugima, pa nam neće teško pasti. Srećno!
+
 
 

@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat - odbrana sela",
-  "duration": "3:07"
+  "duration": "3:16"
 }
 ---
 
-Dobrodošli ponovo u eSovu, mesto gde se kroz zabavu jako puno nauči. Naš zadatak je ponovo da spasemo seljane, ali ovoga puta sa komandom IF ELSE. Ovoga puta naš junak će naići na jednu novu situaciju u kojoj će napadati neprijatelje ukoliko ih bude bilo, a ukoliko ih ne bude, on će stati u odbrambenu poziciju i reći nam kako nema neprijatelja na ekranu. Ponovo ćemo, kao i mnogo puta do sada koristiti petlje, kako bismo utvrdili da smo to savladali, jer neprijatelja ima puno i potrebno je da ih sve pobedimo.
+Ovoga puta patroliramo selom. Ogri nailaze sa dve strane i ako uđu u selo, srušiće ga i nauditi seljanima. Naše glavno oružije u ovoj igrici je IF struktura, jer će naš heroj morati da prepozna da li je onaj koji  nailazi ogar ili seljanin. Ujedno ćemo pored izraza na srpskom koristiti i izraze na engleskom jeziku. Čak iako ne znate engleski jezik, potrudite se da zapamtite neke osnovne izraze jer je engleski veoma bitan za programiranje i značiće vam u budućnosti. Hajde da krenemo u novu avanturu i zajedno učimo programiranje i engleski jezik!

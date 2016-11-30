@@ -1,11 +1,10 @@
 ---
 {
-  "title": "Code Combat - Dolina straha",
-  "duration": "1:38"
+  "title": "Code Combat - Trud i nevolja",
+  "duration": "2:57"
 }
 ---
 
-Dobrodošli, idemo na sledeći nivo pod imenom "Dolina straha". Treba da se klonimo ogara i da ih porazimo koristeći minsko polje. Koristićemo petlju koja će prolaziti kroz redove i postavljati vatrene zamke, praveći minsko polje namenjeno našim neprijateljima. Ovo polje biće posebno interesantno, jer će preko njega potpuno bezbedno moći da se kreću naši prijatelji seljani. Sve ćemo ovo imati prilike da posmatramo iz svog zaklona, pa hajde da se igramo!
-
+Nadam se da ste spremni za ovu ludost, hajde da krenemo u novu avanturu! Ovoga puta imamo vojsku sastavljenu od vojnika i strelaca, a borimo se protiv bacača, ogara i veštica. Ovo nije ni malo lak zadatak u kome moramo da se oslonimo na odličnu taktiku i stečeno znanje. Ponovo komandujemo i biće nam potreban jako dobar kod kako bismo savladali neprijateljsku vojsku. Na svojoj strani imamo hrabre vojnike i precizne strelce, pa hajde da ih uposlimo! Srećno!
 
 

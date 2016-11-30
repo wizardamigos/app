@@ -1,28 +1,28 @@
 {
-"video": "chkjy38w4e",
-"slides": [{
-  "type": "question",
-  "time": "2:02",
-  "question": "Which are the basic commands in CodeCombat that you get with the boots?",
-  "options": [
-    "moveLeft",
-    "moveBack",
-    "moveUp",
-    "moveDown"
-  ],
-  "answer": [0,2,3]
-},{
-  "type": "challenge",
-  "time": "1:14",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "http://codecombat.com/play/dungeon",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "2:02",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-  "button": "Complete the lesson"
-}]
+  "video": "4ogqjqlxed",
+  "slides": [{
+    "type": "question",
+    "time": "5:07",
+    "question": "Which programming language will we learn at WizardAmigos code camp?",
+    "options": [
+      "Ruby",
+      "JavaScript",
+      "Java",
+      "Python"
+    ],
+    "answer": [1]
+  },{
+    "type": "challenge",
+    "time": "5:07",
+    "text": "Create a Code Combat account and play first 3 rooms",
+    "link": {
+      "url": "http://codecombat.com/play",
+      "title": "Join Code Combat"
+    }
+}, {
+    "type": "solution",
+    "time": "5:07",
+    "text": "If you successfuly completed first 3 rooms in Code Combat, press complete and continue to the new lesson.",
+    "button": "Complete the lesson"
+  }]
 }

@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat - borba protiv najbližih neprijatelja",
-  "duration": "2:37"
+  "title": "Code Combat - prikupljanje dragulja",
+  "duration": "5:34"
 }
 ---
 
-Ponovo igramo Code Combat igricu i ponovo koristimo naredbu IF. Otklanjamo samo najveće pretnje tako što ćemo napadati najbliže neprijatelje, a one koji to nisu ostaviti na miru. Pred nama će se pojaviti ponovo i IF ELSE struktura, pa ćemo imati prilike da proverimo da li je pravilno koristimo. Pojaviće se mnogo neprijatelja pa ćemo morati da koristimo petlju kako bismo ih sve porazili, ali ovoga puta samo one najbliže. Jednog po jednog, sve ćemo ih poraziti znanjem. verujemo u vas!
+U novoj avanturi našeg heroja ne očekuje nimalo lak zadatak. On je u životnoj opasnosti i jedina šansa da preživi mu je upravo u našim rukama. Kombinovanjem prethodno stečenih znanja, IF ELSE petlje i određivanjem da li su neki iskazi tačni i netačni, vi mu dajete šansu da još jednom pobedi neprijatelje i nastavi svoj put ka novim avanturama. Kako za našeg heroja, tako i za vas ovaj zadatak neće biti nimalo lak i zahteva da ste prethodne lekcije jako dobro savladali. Zato budite hrabri i svojim znanjem pomozite našem heroju da savlada još jednu prepreku.
+

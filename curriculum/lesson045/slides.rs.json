@@ -1,26 +1,26 @@
 {
-"video": "wmxh5qh031",
+"video": "9sxoiq8oyc",
 "slides": [{
   "type": "question",
-  "time": "2:22",
-  "question": "Kojom komandom merimo udaljenost neprijatelja?",
+  "time": "2:52",
+  "question": "Koliko treba da budu udaljeni neprijatelji da bismo mogli da ih napadnemo komandom CLEAVE na ovom nivou?",
   "options": [
-    "this.countEnemy(distance)",
-    "this.enemyCount(distance)",
-    "this.distanceTo(enemy)"
+    "manje od 5 metara",
+    "5 metara",
+    "više od 5 metara"
   ],
-  "answer": [2]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "1:05",
+  "time": "1:19",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/munchkin-swarm",
+    "url": "http://codecombat.com/play/level/the-agrippa-defense",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:23",
+  "time": "2:52",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

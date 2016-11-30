@@ -1,26 +1,27 @@
 {
-"video": "4ncs88nqu2",
+"video": "z16lo72kxs",
 "slides": [{
   "type": "question",
-  "time": "6:45",
-  "question": "Ukoliko naiđemo na neprijatelja tipa fangrider:",
+  "time": "2:20",
+  "question": "Koju funkciju koristimo za prizivanje vojnika?",
   "options": [
-    "sprijateljimo se sa njim",
-    "bežimo u zaklon",
-    "uzvraćamo napad"
+    "summonSoldiers",
+    "summonTroops",
+    "callSoldiers",
+    "callTroops"
 ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:17",
+  "time": "0:48",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/reaping-fire",
+    "url": "https://codecombat.com/play/level/mixed-unit-tactics",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "6:45",
+  "time": "2:20",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

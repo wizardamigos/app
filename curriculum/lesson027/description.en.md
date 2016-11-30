@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Strings, numbers, variables and loops",
-  "duration": "5:26"
+  "title": "Code Combat",
+  "duration": "2:51"
 }
 ---
 
-In this lesson you will repeat what we've learned about JavaScript so far. You will learn about number and string types, variables and loops.
+You will have to find the way to your friends and protect them from the enemies.

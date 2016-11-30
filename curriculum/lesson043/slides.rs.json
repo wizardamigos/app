@@ -1,26 +1,27 @@
 {
-"video": "nqkrjufx8y",
+"video": "lwpaituzc6",
 "slides": [{
   "type": "question",
-  "time": "4:50",
-  "question": "Kako smo u ovom nivou pisali if komandu unutar druge if komande?",
+  "time": "3:45",
+  "question": "Koju smo komandu koristili kako bismo saznali poziciju zlog kamena?",
   "options": [
-    "u ravni sa prvom",
-    "uvučenu"
-   
+    "find.nearestEnemy",
+    "find.nearestItem",
+    "find.theEnemy",
+    "find.theItem"
   ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "3:09",
+  "time": "2:25",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/stillness-in-motion",
+    "url": "http://codecombat.com/play/level/forest-fire-dancing",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:50",
+  "time": "3:45",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,15 +1,15 @@
 {
-"video": "bif3k0unvq",
+"video": "jl9f2v5oas",
 "slides": [{
   "type": "question",
-  "time": "1:59",
-  "question": "Šta je while(true) petlja?",
+  "time": "3:17",
+  "question": "Koju komandu koristite za napad na ogra zvanog Brak?",
   "options": [
-    "To je specijalna komanda - petlja - koja čini da se stvari ponavljaju u krug",
-    "To je ime ogra koga napadamo"
+    "this.attack(Brak);",
+    "this.attack('Brak');"
   ],
-  "answer": [0]
-},{
+  "answer": [1]
+  },{
     "type": "challenge",
     "time": "1:59",
     "text": "Igrajte Code Combat i naučite nove trikove",
@@ -19,7 +19,7 @@
     }
     },{
       "type": "solution",
-      "time": "1:59",
+      "time": "3:17",
       "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
       "button": "Završite lekciju"
       }]

@@ -1,26 +1,28 @@
 {
-  "video": "aa3e0h6zld",
+  "video": "s77wyim63o",
   "slides": [{
     "type": "question",
-    "time": "1:53",
-    "question": "Kako da neprijatelja napadnete dvaput?",
+    "time": "1:24",
+    "question": "Kako se zove promenljiva u ovom iskazu: var enemy1 = findNearestEnemy(); ?",
     "options": [
-      "this.attack(enemy) x 2",
-      "this.attack(enemy); i još jednom this.attack(enemy);"
+      "enemy2",
+      "enemy3",
+      "enemy1",
+      "enemy4"
     ],
-    "answer": [1]
-  },{
-    "type": "challenge",
-    "time": "0:26",
-     "text": "Igrajte Code Combat i naučite nove trikove",
-    "link": {
-      "url": "http://codecombat.com/play/dungeon",
-      "title": "Igrajte sada"
-    }
-  },{
-    "type": "solution",
-    "time": "1:53",
-    "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
-    "button": "Završite lekciju"
-  }]
-}
+    "answer": [2]
+    },{
+      "type": "challenge",
+      "time": "0:29",
+       "text": "Igrajte Code Combat i naučite nove trikove",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Igrajte sada"
+      }
+      },{
+        "type": "solution",
+        "time": "1:24",
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

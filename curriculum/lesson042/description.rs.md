@@ -1,8 +1,11 @@
 ---
 {
-  "title": "Code Combat - borba protiv zlog kamena",
-  "duration": "3:54"
+  "title": "CodeCombat - borba protiv ogara",
+  "duration": "3:14"
 }
 ---
 
-Postajemo sve bolji. Uskoro ćemo biti spremni za jako ozbiljno programiranje. Još malo ćemo se igrati, a onda ćemo napraviti malu pauzu da obnovimo ono što smo do sad naučili. Ovoga puta nećemo uvrstiti novu opremu u svoj arsenal, već ćemo koristiti sve ono što smo do sada sakupili. Protivnici će nam ovoga puta biti vatrene kugle, kojima će se pridružiti i zli kamen. Koristićemo umetnute IF strukture kako bi naš junak uspeo da pronađe bezbedno mesto na kome može da se sakrije.
+Dobrodošli u još jednu avanturu Code Combat-a. Kako bismo bolje videli neprijatelje sa velike razdaljine, u svoju opremu smo uvrstili naočare. One nam daju mogućnost da izračunamo koliko tačno smo udaljeni od neprijatelja, kako bismo znali da li su dovoljno blizu da naš napad bude uspešan. Kao i što smo navikli, ogari retko kada napaduju sami, pa ćemo ponovo koristiti petlju, kako bismo odbili sve njihove napade. Puno sreće u ovom zadatku i nadamo se da ćete se lepo zabaviti, ali mnogo i naučiti.
+
+
+

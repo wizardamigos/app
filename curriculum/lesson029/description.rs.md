@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - građenje ograda",
-  "duration": "2:57"
+  "title": "Programerski alati",
+  "duration": "2:35"
 }
 ---
 
-Dobrodošli u 29. Lekciju eSova kursa. Dosta toga smo već naučili, ali to nije ništa u odnosu na ono što nas tek čeka. Međutim, da bismo nastavili da učimo nove stvari moramo prvo da budemo sigurni da smo ono prethodno jako dobro savladali. Da li se sećate kako smo seljane uspeli da zaštitimo praveći ograde? Ukoliko se sećate, odlično, ovo je prilika da se podsetite i unapredite to znanje! Ako se ipak ne sećate, nikakav problem, evo prilike da se podsetite. Dakle, uživajmo u spajanju lepog i korisnog uz Code Combat, jer stvarno svašta možemo naučiti dok se igramo.
+Na početku eSova kursa, u jednoj od prvih lekcija, instalirali smo Google Chrome čitač zato što ima ugrađene programerske alate, i konačno je došlo je vreme da naučimo i kako da ih koristimo! Naučićemo kako da otvorimo programersku konzolu  i videti kako se ona ponaša u odnosu na to šta u nju unesemo.  U nju možemo unositi brojeve, kao i stringove, a upoznaćemo se i sa boolean tipom podataka u JavaScript programskom jeziku. Boolean nam otkriva da li je neki iskaz tačan ili netačan. Pored toga, podsetićemo se i  kako se u kodu koristi while(true) petlja, ovoga puta u Chrome konzoli. Ona nam omogućava da jednu ili više komandi, u okviru petlje ponavljamo dokle god se za to ispunjava uslov. Konačno ćemo imati priliku da van igre primenimo svoje znanje, zato brzo tastauru u ruke, i kuckajmo!

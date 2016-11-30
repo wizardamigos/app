@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Vojskovođa da budemo",
-  "duration": "2:25"
+  "title": "Code Combat - Ogar Džordž",
+  "duration": "2:50"
 }
 ---
 
-Konačno je došao i taj dan - postajemo vojskovođa! Sve ono što smo do sada u borbama naučili imaćemo priliku da prenesemo na one koji imaju manje iskustva od nas. U ovoj lekciji koristićemo novu opremu, u pitanju je “boss star”. On nam daje mogućnost da kontrolišemo svoje vojnike sve dok imamo dovoljno zlata. Naredbe koje možemo da koristimo su: command (komanduj) - naredba koja omogućava korišćenje bilo kojih komandnih metoda (pomeri se, napadni, brani se). Moguće je komandovati samo onima koji spadaju u vojnike ili strelce. 
+ Nastavićemo naše putovanje kroz planinski svet kako bismo videli šta nas čeka u sledećem nivou. Očigledno ćemo morati da postavimo neke ograde, zamke ili mamce. Pre toga ćemo pogledati šta sve sadrži ovaj Programatikon 4 koji smo dobili kada smo završili sa pustinjskim svetom. Kao što smo ranije napomenuli, ova knjiga će nam omoguciti da pravimo funkcije. Veštine koje smo dobili ovde smo već pominjali, a najbitnije među njima su funkcije. JavaScript funkcije nam omogućuju da napravite kodove za višekratnu upotrebu. Hajde da vidimo o čemu se radi!
 
 

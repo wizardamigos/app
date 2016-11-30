@@ -1,26 +1,26 @@
 {
-"video": "9sxoiq8oyc",
+"video": "nqkrjufx8y",
 "slides": [{
   "type": "question",
-  "time": "2:52",
-  "question": "Koliko treba da budu udaljeni neprijatelji da bismo mogli da ih napadnemo komandom CLEAVE na ovom nivou?",
+  "time": "4:50",
+  "question": "Kako smo u ovom nivou pisali if komandu unutar druge if komande?",
   "options": [
-    "manje od 5 metara",
-    "5 metara",
-    "više od 5 metara"
+    "u ravni sa prvom",
+    "uvučenu"
+   
   ],
-  "answer": [0]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:19",
+  "time": "3:09",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/the-agrippa-defense",
+    "url": "http://codecombat.com/play/level/stillness-in-motion",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:52",
+  "time": "4:50",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

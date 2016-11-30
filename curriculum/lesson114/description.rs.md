@@ -1,11 +1,11 @@
 ---
 {
   "title": "Portfolio aplikacija",
-  "duration": "4:28"
+  "duration": "6:53"
 }
 ---
 
-Dobrodošli nazad! Ovoga puta ćemo se igrati bojom pozadine, odnosno pokušaćemo da napravimo tako da se boja pozadine menja dok listamo stranicu.  Biće potrebno da napravimo promenljive boja koje želimo da koristimo, a zatim i da unesemo funkciju koja će ih menjati. Ova funkcija zapravo nije komponenta, pa ćemo naučiti kako da koristimo posebnu oblast pomagača u koju možemo da stavimo sve ostale funkcije koje rade određene stvari na stranici. Srećno!
+U ovoj lekciji učimo kako da komuniciramo sa GitHubom i kako da koristimo “žive” podatke koji će se automatski menjati na našoj stranici. Danas ćemo se baviti time kako da prenesemo podatke sa naših GitHub profila na stranicu.  GitHub ima jednu odličnu stvar koja se zove API zbog koje svi oni koji stvaraju aplikacije mogu da pristupe podacima iz GitHub baze podataka, a ako želite da naučite kako, na pravom ste mestu!
 
 
 

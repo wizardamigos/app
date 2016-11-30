@@ -1,10 +1,12 @@
 ---
 {
-  "title": "Code Combat - Trud i nevolja",
-  "duration": "2:57"
+  "title": "Code Combat - Košenje vatre",
+  "duration": "6:54"
 }
 ---
 
-Nadam se da ste spremni za ovu ludost, hajde da krenemo u novu avanturu! Ovoga puta imamo vojsku sastavljenu od vojnika i strelaca, a borimo se protiv bacača, ogara i veštica. Ovo nije ni malo lak zadatak u kome moramo da se oslonimo na odličnu taktiku i stečeno znanje. Ponovo komandujemo i biće nam potreban jako dobar kod kako bismo savladali neprijateljsku vojsku. Na svojoj strani imamo hrabre vojnike i precizne strelce, pa hajde da ih uposlimo! Srećno!
+Danas ćemo se posvetiti nešto komplikovanijem, ali veoma zanimljivom nivou koji će od nas zahtevati da izaberemo kojom tačno strategijom ćemo se boriti protiv neprijatelja. Dobili smo novi predmet  Boss 3 Zvezda i ovoga puta ćemo imati prilike da ga upotrebimo.
+Ciljevi u ovoj igri su nam da preživimo 30 sekundi, da zaštitimo minsko polje 30 sekundi i dobijamo poene bonusa ukoliko preživimo svih 60 sekundi. Hajde da zajedno preguramo taj dugi minut!
+
 
 

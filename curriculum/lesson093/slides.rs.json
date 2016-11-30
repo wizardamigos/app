@@ -1,26 +1,27 @@
 {
-"video": "g7pg7n68yc",
+"video": "ltyppuj7tr",
 "slides": [{
   "type": "question",
-  "time": "5:17",
-  "question": "Koliko argumenata imamo kod kvadrata?",
+  "time": "4:23",
+  "question": "Ko sadi cveće na ovom nivou?",
   "options": [
-    "jedan",
-    "dva",
-    "tri"
+    "heroj",
+    "vojnici",
+    "seljaci",
+    "cvećari"
 ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:49",
+  "time": "0:47",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/the-geometry-of-flowers",
+    "url": "https://codecombat.com/play/level/the-two-flowers",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "5:17",
+  "time": "4:23",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

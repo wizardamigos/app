@@ -1,26 +1,26 @@
 {
-"video": "ar3bt3mjre",
+"video": "4tbnbhn3m6",
 "slides": [{
   "type": "question",
-  "time": "1:29",
-  "question": "Ako je vrednost promenljive Tile jednaka 1, onda ćemo na njenom mestu:",
+  "time": "2:47",
+  "question": "Ako je tip prijatelja vojnik, zadaćemo mu da pronađe:",
   "options": [
-    "zasaditi cvet",
-    "postaviti minu",
-    "sačekati neprijatelje"
+    "sve jakove",
+    "sve ogare",
+    "sve veštice"
 ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:24",
+  "time": "1:17",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/danger-valley",
+    "url": "https://codecombat.com/play/level/toil-and-trouble",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:29",
+  "time": "2:47",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

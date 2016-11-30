@@ -1,18 +1,18 @@
 {
-"video": "na87d4rgds",
+"video": "3yluqsf0mj",
 "slides": [{
   "type": "question",
-  "time": "6:25",
-  "question": "Terminal nam omogućava:",
+  "time": "10:04",
+  "question": "Za prevođenje dolaznih podataka u JavaScript jezik koirstimo metod:",
   "options": [
-    "da surfujemo internetom",
-    "da uđemo u pravi voz",
-    "da se krećemo kroz sistem datoteka"
+    "JSON.magnify(results)",
+    "JSON.parse(results)",
+    "JSON.stringify(results)"
 ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "solution",
-  "time": "6:25",
+  "time": "10:04",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

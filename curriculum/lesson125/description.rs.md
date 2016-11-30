@@ -1,11 +1,11 @@
 ---
 {
-  "title": "Postavljanje projekata na GitHub",
-  "duration": "11:37"
+  "title": "Skladištenje projekata na kompjuteru",
+  "duration": "10:35"
 }
 ---
 
-Danas ćemo naučiti i kako da svoj kod postavimo na GitHub. Saznaćemo šta je Git skladište, čemu služi i kako da ga kreiramo. Pored toga koristićemo i daljinsko Git skladište. Kada završite sa ovom lekcijom, na interenetu će se naći vaše dve kreacije, spremne da ih vidi i isproba ostatak sveta! Konačno ćete konačno imati prilike da drugima pokažete plodove svog rada, i sebe zvanično možete smatrati programerima! Nadamo se da ste mnogo toga naučili i još više uživali!
+U prehodnoj lekicji smo uz pomoć terminala naučili kako da podesimo svoje programersko okruženje koje ćemo u budućnosti koristiti. Pre nego što pređemo na GitHub i napravimo skladište za naš novi projekat, moramo ga napraviti na svom kompjuteru. Kreiraćemo direktorijum moj projekat, i unutar njega portfolio i kviz direktorijum, kako bismo tu smestili svoje aplikacije. Kada završimo sa ovim procesom, one će raditi na kompjuteru, a u sledećoj lekciji ćemo naučiti i kako da ih postavimo na internet.
 
 
 

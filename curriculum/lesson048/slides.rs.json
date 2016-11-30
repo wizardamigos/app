@@ -1,27 +1,26 @@
 {
-"video": "84iqv218ev",
+"video": "43gbay8c2y",
 "slides": [{
   "type": "question",
-  "time": "4:08",
-  "question": "Kako da proverimo udaljenost od naše trenutne pozicije do zastave?",
+  "time": "3:12",
+  "question": "Definisali smo novu varijablu - predmet (item). Šta je su bili predmeti na ovom nivou?",
   "options": [
-    "this.pos - flag.pos",
-    "flag.pos - this.pos",
-    "this.distanceTo(flag)",
-    "this.flag.pos"
+    "novčići",
+    "zastave"
+  
   ],
-  "answer": [2]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "2:29",
+  "time": "2:04",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/hold-the-forest-pass",
+    "url": "https://codecombat.com/play/level/copper-meadows",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:08",
+  "time": "3:12",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

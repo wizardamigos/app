@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - zamke za ogare",
-  "duration": "2:44"
+  "title": "Code Combat - zaseda",
+  "duration": "4:17"
 }
 ---
 
-Ono što nas očekuje u ovoj igri je da porazimo ogre tako što ćemo ih zarobiti. Kako bismo napravili zamke, moraćemo da koristimo zastave. Kako bismo to uspeli, koristićemo komande pickUpFlag, build, fireTrap, tako što ćemo postavljati zastave na mestima na kojima želimo da sagradimo zamke. Da bi nam to uspelo, prvo ćemo morati da definišemo  promenljivu pozicioniranja zastave. To ćemo uraditi isto kao i za svaki objekat. Imaćete priliku, kao i uvek, da probate da sami napišete kod, a zatim da se vratite kako bismo zajdno to uradili.
-
+Već smo proveli dosta vremena u svetu Code Combat-a, što znači da smo već dosta i naučili. Pre početka ove igre, moramo da budemo sigurni da naš junak ima dovoljno zdravlja da prebrodi novu avanturu. Biće nam potrebno ukupno 300 poena kako bismo mogli da nastavimo, razmislite kako biste mogli to da ostvarite ili pratite detaljne instrukcije. Cilj ove avanture je da nateramo Ogre da upadnu u zasedu i tako sačuvamo život konja. Koristićemo komande koje smo već naučili, kao i uvek, na neki novi načun. Hajde da se zabavimo i da naučimo nešto novo!

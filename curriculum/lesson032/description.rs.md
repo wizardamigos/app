@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - prikupljanje dragulja",
-  "duration": "5:34"
+  "title": "Code Combat - borba protiv ogra",
+  "duration": "3:28"
 }
 ---
 
-U novoj avanturi našeg heroja ne očekuje nimalo lak zadatak. On je u životnoj opasnosti i jedina šansa da preživi mu je upravo u našim rukama. Kombinovanjem prethodno stečenih znanja, IF ELSE petlje i određivanjem da li su neki iskazi tačni i netačni, vi mu dajete šansu da još jednom pobedi neprijatelje i nastavi svoj put ka novim avanturama. Kako za našeg heroja, tako i za vas ovaj zadatak neće biti nimalo lak i zahteva da ste prethodne lekcije jako dobro savladali. Zato budite hrabri i svojim znanjem pomozite našem heroju da savlada još jednu prepreku.
-
+U novoj avanturi nas očekuje potpuno novi izazov, borićemo se sa strašnim ogrom. Međutim, ovo neće biti borba snage, s obzirom da je ogar mnogo veći i jači od našeg heroja. Ovog puta ćemo morati da ga namamimo u zamku, koristeći potpuno nove tehnike If i Then i kombinujući ih sa jednostavnom matematikom. Svojim novim komandama ćemo navoditi ogra da govori stvari koje mi želimo. Zvuči zanimljivo? Uskočite u novu avanturu, koja će još jednom dokazati da snaga klade valja, a um caruje!

@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat",
-  "duration": "2:02"
+  "duration": "1:34"
 }
 ---
 
-With help of amazing Code Combat game you will learn to attack twice.
+With help of amazing Code Combat game you will fight with many enemies.

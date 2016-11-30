@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Čarobnjak Kithgarda",
-  "duration": "2:33"
+  "title": "Code Combat - Lovačka žurka",
+  "duration": "2:42"
 }
 ---
 
-Ponovo osvajamo svetove Code Combata, ovoga puta funkcijama. Konačno počinjemo ozbiljno da ih koristimo, i to će biti veoma izazovno. Potrebno je da pomognemo našem heroju da izbegne šiljke i sakupi dragulje. Setićemo se jednostavnijih vremena, kada smo kroz tamnicu bežali i borili se za svoj život sa samo čizmama na nogama? Ovoga puta, nemamo čak ni čizme, već moramo simulirati njihovo postajanje brzim kretanjem. Zakoračimo bosi u novu avanturu, zajedno!
+Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
 
 

@@ -1,25 +1,25 @@
 {
-"video": "1ii0pon3qx",
+"video": "78kq0le76c",
 "slides": [{
   "type": "question",
-  "time": "2:00",
-  "question": "Kojom vrstom udarca možemo da pobedimo više najprijatelja?",
+  "time": "2:02",
+  "question": "Kada u ovoj sobi napadamo škrinju ?",
   "options": [
-    "this.attack(enemy) ",
-    "this.cleave(enemy)"
+    "Odmah na početku",
+    "Kada nema više neprijatelja"
   ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "2:00",
+  "time": "2:02",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/woodland-cleaver",
+    "url": "http://codecombat.com/play/level/ogre-encampment",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:00",
+  "time": "2:02",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

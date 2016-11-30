@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - Potraga za blagom",
-  "duration": "2:12"
+  "title": "Code Combat - odbrana sela",
+  "duration": "3:07"
 }
 ---
 
-U ovoj igri smo naišli na škrinju koja u sebi sadrži blago. Međutim da bismo mogli da ga uzmemo, moramo prvo da savladamo sve neprijatelje. Da li znate koju ćemo strukturu koristiti za to? Naravno, i ovoga puta ćemo koristiti IF/ЕLSE. Međutim, pojaviće se jedan mali problem, taj što nećemo odmah prepoznati neprijatelja, pa ćemo morati da ga definišemo. Ništa teško za vas koji ste već stigli do ovde. Krenite odmah u avanturu, kako bismo što pre savladali neprijatelje i pronašli blago koje čeka na nas.
+Dobrodošli ponovo u eSovu, mesto gde se kroz zabavu jako puno nauči. Naš zadatak je ponovo da spasemo seljane, ali ovoga puta sa komandom IF ELSE. Ovoga puta naš junak će naići na jednu novu situaciju u kojoj će napadati neprijatelje ukoliko ih bude bilo, a ukoliko ih ne bude, on će stati u odbrambenu poziciju i reći nam kako nema neprijatelja na ekranu. Ponovo ćemo, kao i mnogo puta do sada koristiti petlje, kako bismo utvrdili da smo to savladali, jer neprijatelja ima puno i potrebno je da ih sve pobedimo.

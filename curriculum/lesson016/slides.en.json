@@ -1,26 +1,28 @@
 {
-"video": "htx2zbzjtn",
+"video": "z290kufgqd",
 "slides": [{
   "type": "question",
-  "time": "3:31",
-  "question": "Where do we save the cheatsheet for Special Characters from this lesson?",
+  "time": "1:38",
+  "question": "What is the right form for using moveDown method in Code Combat?",
   "options": [
-    "in the Gist (and Bookmarked under GISTS/Special Characters)",
-    "we don't save it"
+    "this.moveDown[]",
+    "this.moveDown",
+    "this.moveDown();",
+    "this.moveDown!"
   ],
-  "answer": [0]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "3:31",
-  "text": "Find special characters on your keyboard, then create a Gist and save shortcuts for curly braces {} and square brackets [].",
+  "time": "0:45",
+  "text": "Play Code Combat and learn new tricks",
   "link": {
-    "url": "https://gist.github.com/",
-    "title": "Start now"
+    "url": "http://codecombat.com/play/dungeon",
+    "title": "Play now"
   }
 },{
   "type": "solution",
-  "time": "3:31",
-  "text": "If you successfuly saved and bookmarked Special Characters gist, click here to complete the lesson.",
+  "time": "1:38",
+  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]
 }

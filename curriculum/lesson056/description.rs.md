@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Ugnježdene if-else petlje",
-  "duration": "4:04"
+  "title": "Utvrđivanje IF, ELSE i ELSE IF struktura ",
+  "duration": "5:22"
 }
 ---
 
-Ponovo se igramo programerskim alatima Google Chrome čitača! U ovoj lekciji bavićemo se if-else petljama i to posebnom vrstom - ugnježdenim if-else petljama. Ovo su zapravo petelje unutar petlji i na konkretnim primerima saznaćemo više o tome kako funkcionišu. Pored toga, naučićemo neka praktična pravila programiranja i dobiti korisne savete. Između ostalog saznaćemo zašto je u programiranju bitna doslednost i kako da naš kod bude što pregledniji i lakši za čitanje, kako nama, tako i drugima. To je veoma bitno kako bismo lako mogli da pronađemo greške, ukoliko nam se slučajno potkradu.
+Završili smo sa još jednom sobom u Code Combat-u i sada pravimo pauzu! Red je došao na obnavljanje gradiva a u tome će nam pomoći Google Chrome čitač. Ponovićemo sve što smo naučili vezano za IF, ELSE i ELSE IF strukture. To ćemo učiniti koristeći programerske alate u okviru čitača, kako bismo uspešno dopunili svoju puškicu znanjima koje smo stekli u prethodnim lekcijama. Pred nama je bilo lakih i teških zadataka, a najbitnije je da smo ih zajedno savladali i mnogo toga naučili. Veoma nam je drago što smo zajedno prošli mnogo avantura i stekli ovoliko znanja! Ne brinite, najbolje je tek pred nama!

@@ -1,27 +1,27 @@
 {
-"video": "nga3kk92f2",
+"video": "vy03m6h8du",
 "slides": [{
   "type": "question",
-  "time": "1:02",
-  "question": "Koji je bio poslednji svet koji smo zajedno igrali u Code Combatu",
+  "time": "4:49",
+  "question": "Koliki je 123599 modulo 13",
   "options": [
-    "Cloudrip Mountain",
-    "Web development",
-    "Game development",
-    "Kithgard Dungeon"
+    "62",
+    "135",
+    "8",
+    "0"
 ],
-  "answer": [0]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:02",
-  "text": "Odigrajte nivo",
+  "time": "4:49",
+  "text": "Napravite novi Gist",
   "link": {
-    "url": "https://codecombat.com/play/",
-    "title": "Igrajte sada"
+    "url": "https://gist.github.com/",
+    "title": "Napravi sada"
   }
 },{
   "type": "solution",
-  "time": "1:02",
+  "time": "4:49",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,9 +1,9 @@
 ---
 {
-  "title": "Code Combat - Ludi Maks",
-  "duration": "2:35"
+  "title": "Code Combat - Pustinjske Zmije",
+  "duration": "3:30"
 }
 ---
 
-Naš cilj na ovom nivou jeste da napišemo bolji kod. Ono što treba da uradimo ovde je jako slično prethodnom nivou. Razlika je u tome što ovde treba da nađemo najdaljeg, umesto najbližeg neprijatelja. Ponovo ćemo pomoću petlje proći kroz sve neprijatelje i proveriti razdaljinu izmedju nas i mete.  Zatim ćemo uporediti razdaljine, i pronaći najudaljenije neprijatelje. Kada utvrdimo koji je najudaljeniji, proverićemo njegovo zdravlje i sve dok je ono veće od nule, napadaćemo ga. Hajde da primenimo ono što smo do sada naučili!
-
+Stigli smo do nivoa koji se zove Peščane Zmije. Kako mu samo ime kaže, nije baš najbezbednije mesto gde se naš junak može šetati. Da bi ga bezbedno prešao biće mu potrebna posebna dodatna oprema. U ovom pustinjskom kanjonu neophodne su nam specijalne naočare. One će nam omogućiti da bolje vidimo, i zaštitimo se od opasnosti.
+Potrebno je da koristimo while-loop preko objekata u određenim nizovima kako bismo našli najbliže novčiće. Takođe, moraćemo da izbegavamo bombe. Opasan put, ali spremni smo!

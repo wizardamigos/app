@@ -1,26 +1,26 @@
 {
-"video": "gp5bybkbly",
-"slides": [{
-  "type": "question",
-  "time": "2:28",
-  "question": "Koju funkciju koristimo da nađemo najbližeg neprijatelja?",
-  "options": [
-    "petlju",
-    "findNearestEnemy",
-    "attack(enemy)"
-  ],
-  "answer": [1]
+  "video": "qd0uu8wkak",
+  "slides": [{
+    "type": "question",
+    "time": "5:25",
+    "question": "Koju strukturu koristimo u slučaju 'ako-u suprotnom'?",
+    "options": [
+      "While-If",
+      "If-then",
+      "If-else"
+    ],
+    "answer": [2]
   },{
     "type": "challenge",
-    "time": "1:30",
+    "time": "2:30",
     "text": "Odigrajte nivo i vratite se",
     "link": {
-      "url": "http://codecombat.com/play/level/patrol-buster",
+      "url": "http://codecombat.com/play/level/gems-or-death",
       "title": "Igrajte sada"
     }
   },{
     "type": "solution",
-    "time": "2:28",
+    "time": "5:25",
     "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
     "button": "Završite lekciju"
   }]

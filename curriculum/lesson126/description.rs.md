@@ -1,11 +1,12 @@
 ---
 {
-  "title": "Kviz aplikacija",
-  "duration": "3:52"
+  "title": "Postavljanje projekata na GitHub",
+  "duration": "11:37"
 }
 ---
 
- Danas ćete imati priliku da vidite kako se pravi baza podataka u koju će ići rezultati svih takmičara koji pokrenu naš kviz. U novoj lekciji  ćemo vam pokazati kako da šaljete podatke u bazu podataka. Kao što znate u našem kvizu imamo ponuđene odgovore, i kada korisnik odgovori na pitanja, potrebno je da sačuvamo te podatke negde. Želimo da aktiviramo funkciju slanja podataka i puštanja rezultata, kako bismo uspeli da pošaljemo podatke u bazu. Bacamo se na pisanje koda, srećno!
+Danas ćemo naučiti i kako da svoj kod postavimo na GitHub. Saznaćemo šta je Git skladište, čemu služi i kako da ga kreiramo. Pored toga koristićemo i daljinsko Git skladište. Kada završite sa ovom lekcijom, na interenetu će se naći vaše dve kreacije, spremne da ih vidi i isproba ostatak sveta! Konačno ćete konačno imati prilike da drugima pokažete plodove svog rada, i sebe zvanično možete smatrati programerima! Nadamo se da ste mnogo toga naučili i još više uživali!
+
 
 
 

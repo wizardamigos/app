@@ -1,26 +1,27 @@
 {
-"video": "up3w3zkbzl",
+"video": "be7rfxy5zm",
 "slides": [{
   "type": "question",
-  "time": "2:04",
-  "question": "Dok broj napada ne pređe 10:",
+  "time": "5:13",
+  "question": "U programiranju se prvi predmet u nizu vodi pod brojem",
   "options": [
-    "Povlačimo se",
-    "Napadamo neprijatelja i povećavamo broj napada za 1",
-    "Napadamo neprijatelja i smanjujemo broj napada za 1"
+    "0",
+    "1",
+    "2",
+    "3"
   ],
-  "answer": [1]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "1:10",
+  "time": "1:53",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/dust",
+    "url": "https://codecombat.com/play/level/sarven-savior",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:04",
+  "time": "5:13",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

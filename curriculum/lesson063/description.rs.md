@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - stampedo jakova",
-  "duration": "2:27"
+  "title": "Code Combat - raskrsnica",
+  "duration": "3:02"
 }
 ---
 
-Danas se suočavamo sa još jednim neprijateljem koji pokušava da nam oteža put kroz pustinju - u pitanju je jak. Cilj ove igre je da sagradimo ograde koje ce zaustaviti jakove koji nailaze nasumično odozgo i odozdo, dok se sve vreme krećemo ka oazi. Kada vidimo jaka, uporedićemo njegovu Y poziciju sa našom Y pozicijom. Ukoliko je vrednost jakove Y pozicije veća od naše, to znači da se jak nalazi iznad nas, u suprotnom, jak je ispod nas. Tako da ćemo se pomerati i uvek proveravati Y poziciju, ako je jak iznad, sagradićemo ogradu iznad nas, a ako je ispod, sagradićemo je naravno, ispod.
+Lutajući kroz pustinje Code Combata, naš junak se našao na velikoj raskrsnici. Potrebno je da je odbranimo od napada ogara, ali kako? Opremićemo ga oruđem za pravljenje ograda i početi da postavljamo vatrene zamke. Postavljaćemo ih u zavisnosti od toga gde se nalaze neprijatelji. Ukoliko je pozicija X ogra manja (odnosno veća) od pozicije X našeg junaka znači da se on nalazi sa naše leve (odnosno desne) strane - dakle tu treba da postavimo zamku! Sličan slučaj je sa Y koordinatom, samo ograde postavljamo gore ili dole.

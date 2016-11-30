@@ -1,19 +1,19 @@
 {
-"video": "4p6jgckd09",
+"video": "55xer1eros",
 "slides": [{
   "type": "question",
-  "time": "10:54",
-  "question": "Koji je pravi format za primenu klasa u CSS-u?",
+  "time": "5:21",
+  "question": "Koji NPM modul nam omogućava da koristimo CSS u našem JavaScript kodu?",
   "options": [
-    "<div='my_class'></div>",
-    "<div class'my_class'></div>",
-    "<div class='my_class'></div>"
+    "yo-yo",
+    "csjs-inject",
+    "minixhr",
+    "chart.js"
 ],
-  "answer": [2]
-
+  "answer": [1]
 },{
   "type": "solution",
-  "time": "10:54",
+  "time": "5:21",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

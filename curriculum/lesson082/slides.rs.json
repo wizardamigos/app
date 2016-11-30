@@ -1,26 +1,34 @@
 {
-"video": "0dssayxwvj",
+"video": "qf039aqt3m",
 "slides": [{
   "type": "question",
-  "time": "4:28",
-  "question": "Koliko argumenata ima komanda move(pos)",
+  "time": "9:25",
+  "question": "Šta je niz?",
   "options": [
-    "nijedan",
-    "jedan",
-    "dva"
+    "promenljiva",
+    "objekat",
+    "vrednost promenljive"
 ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:56",
-  "text": "Odigrajte nivo i vratite se",
+  "time": "6:42",
+  "text": "Pokrenite ovaj link",
   "link": {
-    "url": "https://codecombat.com/play/level/crag-tag",
-    "title": "Igrajte sada"
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype#Methods",
+    "title": "Nizovi"
+  }
+},{
+  "type": "challenge",
+  "time": "0:40",
+   "text": "Pokrenite ovaj link",
+  "link": {
+    "url": "https://gist.github.com/esova-ana",
+    "title": "Puškice"
   }
 },{
   "type": "solution",
-  "time": "4:28",
+  "time": "9:25",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,28 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "s4gi1dfg28",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "3:05",
+  "question": "šta dobijemo pomoću naočara?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "mogućnost da se sakrijemo ",
+    "mogućnost da izračunamo koliko tačno smo udaljeni od neprijatelja",
+    
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:42",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/level/peasant-protection",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
+  "time": "3:05",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
 }]
 }

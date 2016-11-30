@@ -1,27 +1,26 @@
 {
-"video": "2uzttq7m8a",
+"video": "6e0drpa075",
 "slides": [{
   "type": "question",
-  "time": "4:12",
-  "question": "Koliko je 7%3?",
+  "time": "2:45",
+  "question": "Koju od ponuđenih funkcija smo koristili u ovoj lekciji?",
   "options": [
-    "5 (6)",
-    "3 (7)",
-    "2 (1)",
-    "7 (3)"
+    "eatStrawberryCake",
+    "commandSoldier",
+    "beatTheEnemy"
 ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:40",
+  "time": "0:30",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/steelclaw-gap",
+    "url": "https://codecombat.com/play/level/library-tactician",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:12",
+  "time": "2:45",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,25 +1,27 @@
 {
-"video": "78kq0le76c",
+"video": "2f8i4mf1cy",
 "slides": [{
   "type": "question",
-  "time": "2:02",
-  "question": "Kada u ovoj sobi napadamo škrinju ?",
+  "time": "2:58",
+  "question": "U kom primeru će naš heroj izgovoriti 'I don’t see an enemy'? (enemy postoji)",
   "options": [
-    "Odmah na početku",
-    "Kada nema više neprijatelja"
+    "If (enemy) { this.attack(enemy) }",
+    "If (enemy) { this.say('I don’t see an enemy') }",
+    "If (enemy) { this.attack(enemy) } else { this.say('I don’t see an enemy') }",
+    "If (enemy) { this.attack(enemy) } else { this.moveXY(x,y) }"
   ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "2:02",
+  "time": "1:24",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/ogre-encampment",
+    "url": "http://codecombat.com/play/level/back-to-back",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:02",
+  "time": "2:58",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

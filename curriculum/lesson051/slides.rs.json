@@ -1,26 +1,27 @@
 {
-"video": "jaddxt9wjf",
+"video": "z3iw2mjwr8",
 "slides": [{
   "type": "question",
-  "time": "3:47",
-  "question": "Šta naš junak radi u ovoj igri, ukoliko mu je neprijatelj blizu?",
+  "time": "1:56",
+  "question": "Kako proveravamo da li je udaljenost od neprijatelja manja od 10?",
   "options": [
-    "seče ga na pola",
-    "napada ga",
-    "štiti se"
+    "this.distanceTo(enemy) > 10",
+    "his.distanceTo(enemy) === 10",
+    "this.distanceTo(enemy) < 10",
+    "this.distanceTo(enemy) <= 10"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:57",
+  "time": "1:01",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/signal-corpse",
+    "url": "https://codecombat.com/play/level/mind-the-trap",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:47",
+  "time": "1:56",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

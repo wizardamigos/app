@@ -1,17 +1,19 @@
 {
-"video": "krutq0pq37",
+"video": "hv1mlj9jxm",
 "slides": [{
   "type": "question",
-  "time": "6:43",
-  "question": "Kojim alatom u CSS-u (property) modifikujemo veličinu slova?",
+  "time": "9:27",
+  "question": "Kako u html pozovemo JavaScript variablu var GREY = 'hsla(30,100%,99%,1)'?",
   "options": [
-    "font-size",
-    "letter-size"
+    "@{GREY}",
+    "${GREY}",
+    "%{GREY}",
+    "!{GREY}"
 ],
-  "answer": [0]
+  "answer": [1]
 },{
   "type": "solution",
-  "time": "6:43",
+  "time": "9:27",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

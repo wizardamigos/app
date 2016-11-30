@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - zdravlje na prvom mestu",
-  "duration": "3:11"
+  "title": "Code Combat - stampedo jakova",
+  "duration": "2:27"
 }
 ---
 
-Putujući kroz pustinju Code Combata, upoznali smo neke nove prijatelje koji nam mogu pomoći u našem velikom pohodu. Ovoga puta, imaćemo pomoć jednog lekara, koji će nam obezbediti vrhunsku negu tokom bitke. Kada junaka opremimo kamenom, imaćemo priliku da konstantno imamo uvid u njegovo zdravstveno stanje. Cilj ove lekcije je da stalno pratimo zdravlje našeg junaka, u odnosu na njegov maksimum, i da procenimo tačno u kom momentu treba da odemo na crveni X i kažemo lekaru da nas zaleči. Hajde da to uradimo zajedno!
+Danas se suočavamo sa još jednim neprijateljem koji pokušava da nam oteža put kroz pustinju - u pitanju je jak. Cilj ove igre je da sagradimo ograde koje ce zaustaviti jakove koji nailaze nasumično odozgo i odozdo, dok se sve vreme krećemo ka oazi. Kada vidimo jaka, uporedićemo njegovu Y poziciju sa našom Y pozicijom. Ukoliko je vrednost jakove Y pozicije veća od naše, to znači da se jak nalazi iznad nas, u suprotnom, jak je ispod nas. Tako da ćemo se pomerati i uvek proveravati Y poziciju, ako je jak iznad, sagradićemo ogradu iznad nas, a ako je ispod, sagradićemo je naravno, ispod.

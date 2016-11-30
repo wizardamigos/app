@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - Posmatrači",
-  "duration": "3:28"
+  "title": "Code Combat - Rogati pastir",
+  "duration": "2:40"
 }
 ---
 
-Približavamo se kraju našeg puta kroz pustinju… Bilo je izazovno i vrlo poučno! Još samo nekoliko soba je pred nama. Dobili smo nove naočare. One će nam omoguciti da vidimo dalje, tako da možemo da uočavamo neprijatelje, merimo udaljenost i pronalazimo predmete i da pronalazimo najblize neprijatelje ili predmete. Takodje ćemo se opremiti i novim mačemi bićemo spremni za igru. Naš cilj je da polako probudimo uspavane šamane. Moracemo da pronadjemo neprijatelje, i to dosta njih, ne samo jednog. Hajde da se igramo!
-
+Ovoga puta naš sabornik je while petlja! Još malo nam je ostalo do kraja peščane sage, i utvrđujemo sve ono što smo naučili, a toga je dosta. Što bi rekli, pustinjska škola! While petlju, i to ugnježdene, ćemo koristiti da istražimo niz neprijatelja.  Trebalo bi da napadamo sve neprijatelje, osim one čiji je tip peščani jak. Jako slično prethodnom zadatku, samo ovoga puta treba da proverimo i tip neprijatelja. Sigurni smo da ćete se odlično snaći! Samo naprd i srećno!

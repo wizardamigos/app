@@ -1,19 +1,19 @@
+
 {
-"video": "ef2rj29nzo",
+"video": "3qnmr87jw3",
 "slides": [{
   "type": "question",
-  "time": "10:51",
-  "question": "od kog broja u programiranju počinjemo da brojimo",
+  "time": "5:40",
+  "question": "Čemu služi miniXHR?",
   "options": [
-    "0",
-    "1",
-    "01",
-    "10"
+    "za prikupljanje podataka",
+    "za predstavljanje podataka",
+    "za slanje podataka"
 ],
-  "answer": [0]
+  "answer": [2]
 },{
   "type": "solution",
-  "time": "10:51",
+  "time": "5:40",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

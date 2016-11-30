@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat - otvaranje škrinje",
-  "duration": "2:32"
+  "title": "Code Combat - odbrana livade",
+  "duration": "3:01"
 }
 ---
 
-Ovoga puta pred nama je veliki izazov: treba da otvorimo škrinju ali će nas u tome ometati neprijatelji. Cilj nam je da se uspešno odbranimo i saznamo šta se nalazi u zapečaćenom kovčegu. Koristićemo nizove, while petlju i if izjave kako bismo ovo sproveli u delo. Komandom napada pokušaćemo da otvorimo škrinju dok će komanda CLEAVE biti rezervisana za patuljke. Ovo će biti izazovan nivo ali mi  imamo dovoljno znanja i iskustva da ga savladamo bez problema. Hajde da se upustimo u ovu avanturu! 
+Naš heroj se ovog puta bori protiv velikog broja neprijatelja i ponovo koristi moćnu komandu CLEAVE. U zavisnosti od njihove udaljenosti, koji ćemo moći da izračunamo, bićemo u prilici da porazimo više neprijatelja jednim potezom ukoliko su nam dovoljno blizu. Koristićemo loop petlju i if strukture kako bismo ovo postigli. Kombinujuči ono što već znamo sa novonastalim situacijama imaćemo priliku da unapredimo i učvrstimo svoje znanje, i tako postanemo još bolji!
+

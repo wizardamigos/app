@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - while(true)",
-  "duration": "2:12"
+  "title": "Code Combat - petlje",
+  "duration": "2:08"
 }
 ---
+Prethodne lekcije donele su nam određeno znanje, imali smo prilike da naučimo kako da se krećemo kroz prostor uz pomoć komandi idiGore (moveUp), idiDole (moveDown), idiLevo (moveLeft) i idiDesno(moveRight), dobili smo i nov alat mač koji nam je doneo komandu (attack) kojom možemo napadati neprijatelje, dok nam nož pomaže i da izlečimo lika ukoliko je u sukobu povređen. Dvanaesta lekcija nam donosi još jedan nov alat a to je knjiga. Šta njome dobijamo?  LOOP! U ovoj lekciji jos jedna provera znanja, zatim ćemo uz pomoć igrice naučiti kako da programiramo da se stvari ponavljaju u krug. LOOP nam donosi nove mogućnosti koje su vredne pamćenja jer su vrlo korisne za Vaš dalji rad, zato dajte sve od sebe i u ovoj lekciji. 
 
-Ponovo smo u Code Combat svetu, trinaesta lekcija i nastavljamo sa sledećom sobom. Do sada smo koristili dosta naredbi za kretanje, u prethodne dve lekcije smo se upoznali i sa novim alatima, knjigom i mačem. Korak dalje idemo sa novim mogućnostima, u ovoj lekciji ćemo uz pomoć igre Code Combat početi da koristimo osnovnu sintaksu petlji u Javascriptu. Naučićemo kako da iskoristimo konstrukciju while loop koja ce se sastojati od četiri komande i ne prekoračimo ograničenje da se kod mora napisati u najviše 6 rečenica. Prvo ćemo novi zadatak koji smo dobili rešiti zajedno, a zatim ćete imati priliku da i sami pokušate da rešite isti takav zadatak. 

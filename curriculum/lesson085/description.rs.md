@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Planinski Plaćenici",
-  "duration": "3:57"
+  "title": "Code Combat - Vojskovođa da budemo",
+  "duration": "2:25"
 }
 ---
 
-Kao što i sami znate, do sada smo bili jako uspešni na svom putu. Hajde da nastavimo u istom ritmu! Penjemo se na planinu znanja u Code Combatu, što je ujedno i poslednji svet ove igre koji ćemo preći u okviru eSova kursa. Kroz svaki nivo koji smo prešli, naše znanje iz oblasti programiranja u JavaScriptu je raslo i bilo sve potpunije, i tako će biti i u buduće. Na ovom nivou bi trebalo da koristimo komande summon (prizvati) i command (komandovati) kako bismo zastitili heroja dok sakuplja novčiće. Krenimo!
+Konačno je došao i taj dan - postajemo vojskovođa! Sve ono što smo do sada u borbama naučili imaćemo priliku da prenesemo na one koji imaju manje iskustva od nas. U ovoj lekciji koristićemo novu opremu, u pitanju je “boss star”. On nam daje mogućnost da kontrolišemo svoje vojnike sve dok imamo dovoljno zlata. Naredbe koje možemo da koristimo su: command (komanduj) - naredba koja omogućava korišćenje bilo kojih komandnih metoda (pomeri se, napadni, brani se). Moguće je komandovati samo onima koji spadaju u vojnike ili strelce. 
 
 

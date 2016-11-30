@@ -1,26 +1,26 @@
 {
-"video": "fah15tfl15",
+"video": "x5fdfrardj",
 "slides": [{
   "type": "question",
-  "time": "5:17",
-  "question": "Kada je ukupno zlato veće ili jednako od dvadeset pet:",
+  "time": "2:53",
+  "question": "Ako je izmereno vreme manje od deset:",
   "options": [
-    "Sakupljamo dok ne skupimo 30 zlatnika",
-    "Prekidamo petlju",
-    "Napadamo Ogare"
+    "Napadamo ogare",
+    "Definišemo varijablu zastava",
+    "Proveravamo zdravlje"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:55",
+  "time": "1:05",
    "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/hoarding-gold",
+    "url": "https://codecombat.com/play/level/keeping-time",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "5:17",
+  "time": "2:53",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,27 +1,28 @@
 {
-"video": "cp0nzbsep2",
+"video": "smy8opmurx",
 "slides": [{
   "type": "question",
-  "time": "3:01",
-  "question": "Ukoliko je nivo zdravlja našeg heroja viši od donjeg praga zdravlja, šta on radi?",
+  "time": "2:17",
+  "question": "Ukoliko ne naiđe na neprijatelja, šta radi naš junak?",
   "options": [
-    "Beži u zasedu",
-    "Ipak odlazi do lekara",
-    "Napada neprijatelja",
-    "Postavlja zamku"
+    "Postavlja ogradu iznad sebe",
+    "Postavlja ogradu ispod sebe",
+    "Nastavlja da se kreće ka oazi",
+    "Čeka neprijatelja",
+    "Vraća se nazad"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:07",
+  "time": "0:54",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/medical-attention",
+    "url": "https://codecombat.com/play/level/thunderhooves",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:01",
+  "time": "2:17",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

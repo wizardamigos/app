@@ -1,17 +1,19 @@
 {
-"video": "d1uiznprup",
+"video": "s77wyim63o",
 "slides": [{
   "type": "question",
-  "time": "1:53",
-  "question": "How do you attack an enemy twice?",
+  "time": "1:24",
+  "question": "What is a name of the variable we create in this statement var enemy1 = findNearestEnemy(); ?",
   "options": [
-    "this.attack(enemy) x 2",
-    "this.attack(enemy) this.attack(enemy)"
+    "enemy2",
+    "enemy3",
+    "enemy1",
+    "enemy4"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:26",
+  "time": "0:29",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/dungeon",
@@ -19,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "1:53",
+  "time": "1:24",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

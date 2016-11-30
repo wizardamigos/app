@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "4:21"
+  "title": "Code Combat - Bibliotekarski taktičar",
+  "duration": "2:54"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+Probijamo se kroz nivoe Code Combata i polako ali sigurno prelazimo i one poslednje. Ova igrica nam je dala mogućnost da stečeno znanje odmah primenimo, učimo na svojim greškama i utvrdimo ono što smo naučili. Gejmifikacija procesa učenja čini ga interesantnijim, efektivnijim i efikasnijim što ste, verujemo, imali prilike da primetite u poslednjih nekoliko meseci. Drago nam je što ste i dalje sa nama, i nadamo se da smo uspešno spojili lepo i korisno. Puno sreće u daljem radu i igri!
+
 
 

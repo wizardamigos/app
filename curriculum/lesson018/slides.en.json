@@ -1,28 +1,28 @@
 {
-"video": "2vfqgzd6nk",
+"video": "9szsqqteui",
 "slides": [{
   "type": "question",
-  "time": "1:23",
-  "question": "What method did we use to destroy the door?",
+  "time": "3:00",
+  "question": "Mark the characters for which we created a shortcut in our Gist?",
   "options": [
-    "attack",
-    "destroy",
-    "explode",
-    "remove"
+    "/",
+    ";",
+    "ß",
+    ">"
   ],
-  "answer": [0]
+  "answer": [0,1,3]
 },{
   "type": "challenge",
-  "time": "0:51",
-  "text": "Play Code Combat and learn new tricks",
+  "time": "3:00",
+  "text": "Add more special characters to your gist and then test practise typing them with WPM test.",
   "link": {
-    "url": "http://codecombat.com/play/dungeon",
-    "title": "Play now"
+    "url": "http://wpm-test.com/programming-typing-test/",
+    "title": "Start now"
   }
 },{
   "type": "solution",
-  "time": "1:23",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "time": "3:00",
+  "text": "If you successfuly added all special characters from the video to your gist and finished the test, click here to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

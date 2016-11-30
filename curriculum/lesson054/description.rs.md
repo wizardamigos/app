@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat - zaštita seljana",
-  "duration": "6:18"
+  "title": "Code Combat - potraga za blagom",
+  "duration": "4:49"
 }
 ---
 
-Još jedan novi nivo Code Combata je pred nama! Cilj nam je da pobedimo neprijatelja i zaštitimo seljane. Ponovo se susrećemo sa zastavama i u zavisnosti od toga koje su one boje, naš junak treba nešto da preduzme. Ukoliko naiđe na zastavu crne boje potrebno je da postavi zamku, dok je zelena zastava znak da na tom mestu treba postaviti ogradu. Ljubičastu zastavu će pokupiti, ona mu omogućava da ode do mesta za lečenje ili da izbegnemo neki žbun i da se lakše kreće. Malo smo vas uputili u značenje boja zastava, a sada je na vama da pomognete junaku da ispuni svoj cilj. Srećno!
+U novoj igri ćemo se takmičiti sa drugim igračima u potrazi za blagom. Kako bismo to uradili na najbolji način, moramo da definišemo neprijatelja i novčić i daćemo komandu da ukoliko ima neprijatelja, napadnemo ga, a ukoliko ima novčića, pokupićemo ga. To ćemo raditi pomoću IF petlji. Ono što je jako bitno u ovom nivou je kako pišemo IF komande jer junak mora da zna šta mu je prioritet. Ako napišemo IF ispred obe komande, junak neće znati šta je bitnije i zato ćemo koristiti IF Else kod komande za novčić. Ukoliko ovo dobro uradimo, pobedićemo protivnike i bićemo na dobrom mestu na rang listi. Srećno!
+

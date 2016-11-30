@@ -1,26 +1,27 @@
 {
-"video": "7kprxtc8ag",
+"video": "6uhuraf61v",
 "slides": [{
   "type": "question",
-  "time": "1:54",
-  "question": "Koja komanda omogućava heroju da se kreće unazad na ovom nivou?",
+  "time": "2:35",
+  "question": "Ako je udaljenost jaka od našeg heroja manja od 10, on se mora pomeriti za:",
   "options": [
-    "moveXY(x+10,y)",
-    "moveXY(x-10,y)"
-
+    "x-5",
+    "x+5",
+    "x-10",
+    "x+10"
   ],
-  "answer": [1]
+  "answer": [3]
 },{
   "type": "challenge",
   "time": "1:25",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/oasis",
+    "url": "https://codecombat.com/play/level/the-mighty-sand-yak",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:54",
+  "time": "2:35",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

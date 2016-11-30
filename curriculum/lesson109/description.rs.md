@@ -1,11 +1,10 @@
 ---
 {
-  "title": "Portfolio aplikacija",
-  "duration": "18:49"
+  "title": "Code Combat - Poslednji nivo",
+  "duration": "1:11"
 }
 ---
 
-Konačno programiramo u stvarnom, umesto u imaginarnim svetovima Code Combata. U ovoj lekciji načinićemo naše prve prave programerske korake i početi da pravimo svoju portfolio aplikaciju. Sve što smo do sada naučili konačno ćemo koristiti kako bismo izgradili nešto ni iz čega. Kako bismo ovo uradili, služićemo se fenomenalnim alatom requirebin i u njemu pisati svoj kod. Videćemo koje još alate i stranice možemo moristiti kako bismo napisali što bolji kod. Programirajmo zajedno!
-
+Sada smo stvarno stigli do našeg poslednjeg nivoa u Code Combatu. Možda je bolje reći - vašeg - jer ovoga puta svako bira jedan nivo koji će potpuno samostalno preći i na taj način završiti svoju Code Combat avanturu! U ovoj lekciji nećete imati pomoć od nas - ali imate svoje znanje i jedni druge, verujemo da vam je to i više nego dovoljno! Podelite sa nama na chatu koji ste nivo izabrali i kako ste ga prešli! Srećno!
 
 

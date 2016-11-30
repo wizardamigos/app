@@ -1,17 +1,19 @@
 {
-"video": "jl9f2v5oas",
+"video": "chkjy38w4e",
 "slides": [{
   "type": "question",
-  "time": "3:17",
-  "question": "What is the correct command to attack Ogre named Brak?",
+  "time": "2:02",
+  "question": "Which are the basic commands in CodeCombat that you get with the boots?",
   "options": [
-    "this.attack(Brak);",
-    "this.attack('Brak');"
+    "moveLeft",
+    "moveBack",
+    "moveUp",
+    "moveDown"
   ],
-  "answer": [1]
+  "answer": [0,2,3]
 },{
   "type": "challenge",
-  "time": "1:59",
+  "time": "1:14",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/dungeon",
@@ -19,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "3:17",
+  "time": "2:02",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

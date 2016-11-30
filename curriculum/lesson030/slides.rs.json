@@ -1,27 +1,27 @@
 {
-"video": "ja7ormpwm4",
+"video": "2bbk0zlf5o",
 "slides": [{
   "type": "question",
-  "time": "1:19",
-  "question": "Kojim slovima obeležavamo koordinate?",
+  "time": "2:48",
+  "question": "Koju komandu koristimo da napravimo ogradu?",
   "options": [
-    "a,b",
-    "v,z",
-    "x,y",
-    "x,z"
+    "buildType('fence', x, y)",
+    "this.build.fence (x, y)",
+    "this.buildXY('fence', x, y)"
+
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:43",
+  "time": "2:07",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/winding-trail",
+    "url": "http://codecombat.com/play/level/defense-of-plainswood",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:19",
+  "time": "2:48",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

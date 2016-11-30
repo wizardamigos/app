@@ -1,28 +1,39 @@
 {
-"video" : "zqiogbv33r",
-"slides": [{
-  "type": "question",
-  "time": "3:21",
-  "question": "Šta od ponuđenog nije čitač? Izaberite jedan ili više tačnih odgovora.",
-  "options": [
-    "Google Chrome",
-    "Mozilla Firefox",
-    "Microsoft Windows",
-    "Internet Explorer"
-  ],
-  "answer": [2]
-  },{
-    "type": "challenge",
-    "time": "3:21",
-    "text": "Kliknite ovde da biste proverili svoj čitač i ako nemate Google Chrome čitač, instalirajte ga",
-    "link": {
-      "url": "http://www.whatbrowser.org/intl/sr/",
-      "title": "Proverite pretraživač"
-    }
-  }, {
-    "type": "solution",
-    "time": "3:21",
-    "text": "Ako imate Chrome čitač na kompjuteru, pritisnite ovde da biste završili lekciju. Ukoliko niste uspeli da završite zadatke iz ove lekcije ili niste zadovoljni, slobodno ponovo preslušajte lekciju pre nego što nastavite. Ako vam je potrebna pomoć, uvek je možete potražiti na chat-u.",
-    "button": "Završite lekciju"
-    }]
-  }
+  "video": "c3io1b5m35",
+  "slides": [{
+    "type": "question",
+    "time": "2:59",
+    "question": "Koliko karaktera treba da ima lozinka za Google e-mail (Gmail) nalog?",
+    "options": [
+      "3 karaktera",
+      "Nije važno",
+      "Minimum 8 karaktera",
+      "24 karaktera"
+    ],
+    "answer": [2]
+    },{
+      "type": "question",
+      "time": "2:59",
+      "question": "Koju vrstu naloga ćemo napraviti?",
+      "options": [
+        "Facebook",
+        "Gmail (Google e-mail)",
+        "Instagram",
+        "Snapchat"
+      ],
+      "answer": [1]
+      }, {
+        "type": "challenge",
+        "time": "2:59",
+        "text": "Sada ćete napraviti svoj Google nalog. Ne zaboravite, za to nam je potreban Google Chrome čitač.",
+        "link": {
+          "url": "https://storage.googleapis.com/n9g240g14gn805g/Chrome%20profile%20blog%20post/Sign%20in%20to%20chrome.jpg",
+          "title": "Napravite svoj Chrome nalog"
+        }
+        }, {
+          "type": "solution",
+          "time": "2:59",
+          "text": "Ako ste uspeli na napravite Chrome nalog, kliknite ovde da završite lekciju.",
+          "button": "Završite lekciju"
+          }]
+        }

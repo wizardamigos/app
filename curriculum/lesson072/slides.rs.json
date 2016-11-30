@@ -1,26 +1,26 @@
 {
-"video": "18e2j1vri3",
+"video": "08vgtvq7uv",
 "slides": [{
   "type": "question",
-  "time": "3:19",
+  "time": "2:31",
   "question": "Sve dok je indeks neprijatelja manji od njihove dužine:",
   "options": [
-    "ne napadamo",
-    "pravimo novu promenljivu neprijatelj",
-    "povlačimo se"
+    "uzećemo prvog neprijatelja i proveriti da li je peščani jak, i ukoliko jeste, napasti ga",
+    "nećemo uraditi ništa",
+    "uzećemo prvog neprijatelja i proveriti da li je peščani jak, i ukoliko nije, napasti ga"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:48",
+  "time": "0:40",
    "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/lurkers",
+    "url": "https://codecombat.com/play/level/sarven-shepherd",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:19",
+  "time": "2:31",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

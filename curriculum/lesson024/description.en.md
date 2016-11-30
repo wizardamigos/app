@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat",
-  "duration": "2:56"
+  "duration": "3:30"
 }
 ---
 
-In this game you will learn how to build fences and fire traps.
+With help of amazing Code Combat game you will fight even more enemies.

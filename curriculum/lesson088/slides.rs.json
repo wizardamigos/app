@@ -1,26 +1,26 @@
 {
-"video": "c4qtpz4xdr",
+"video": "8cyzsv1x92",
 "slides": [{
   "type": "question",
-  "time": "1:33",
-  "question": "Nakon što prikupimo 81 novčić:",
+  "time": "2:26",
+  "question": "Ukoliko postoji nerijatelj, naš vojnik:",
   "options": [
-    "dajemo sve u dobrotvorne svrhe",
-    "kupujemo mač",
-    "prizivamo vojnike"
+    "napada neprijatelja",
+    "beži u zasedu",
+    "poziva pojačanje"
 ],
-  "answer": [2]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "0:27",
+  "time": "0:30",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/zoo-keeper",
+    "url": "https://codecombat.com/play/level/timber-guard",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:33",
+  "time": "2:26",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

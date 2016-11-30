@@ -1,27 +1,27 @@
 {
-"video": "z16lo72kxs",
+"video": "2uzttq7m8a",
 "slides": [{
   "type": "question",
-  "time": "2:20",
-  "question": "Koju funkciju koristimo za prizivanje vojnika?",
+  "time": "4:12",
+  "question": "Koliko je 7%3?",
   "options": [
-    "summonSoldiers",
-    "summonTroops",
-    "callSoldiers",
-    "callTroops"
+    "5 (6)",
+    "3 (7)",
+    "2 (1)",
+    "7 (3)"
 ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:48",
+  "time": "1:40",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/mixed-unit-tactics",
+    "url": "https://codecombat.com/play/level/steelclaw-gap",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:20",
+  "time": "4:12",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

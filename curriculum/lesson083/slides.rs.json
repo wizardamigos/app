@@ -1,25 +1,26 @@
 {
-"video": "hte4uaki9j",
+"video": "0dssayxwvj",
 "slides": [{
   "type": "question",
-  "time": "2:38",
-  "question": "JavaScript funkcije nam omogućavaju da pravimo kodove za",
+  "time": "4:28",
+  "question": "Koliko argumenata ima komanda move(pos)",
   "options": [
-    "jednokartnu upotrebu",
-    "višekratnu upotrebu"
+    "nijedan",
+    "jedan",
+    "dva"
 ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:19",
+  "time": "1:56",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/ogre-gorge-gouger",
+    "url": "https://codecombat.com/play/level/crag-tag",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:38",
+  "time": "4:28",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

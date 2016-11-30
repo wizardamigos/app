@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Poslednji nivo",
-  "duration": "1:11"
+  "title": "Modulo",
+  "duration": "4:57"
 }
 ---
 
-Sada smo stvarno stigli do našeg poslednjeg nivoa u Code Combatu. Možda je bolje reći - vašeg - jer ovoga puta svako bira jedan nivo koji će potpuno samostalno preći i na taj način završiti svoju Code Combat avanturu! U ovoj lekciji nećete imati pomoć od nas - ali imate svoje znanje i jedni druge, verujemo da vam je to i više nego dovoljno! Podelite sa nama na chatu koji ste nivo izabrali i kako ste ga prešli! Srećno!
+Danas ćemo se podsetiti šta je to ostatak, odnosno Modulo. Već smo ga koristili, ali je sada vreme da to ponovimo, pokažemo još neke njegove upotrebe i dodatno ga pojasnimo. Operacija ostatka vraća ostatak koji je ostao prilikom deljenja dva operanda. U Google Chrome konzoli ćemo na primerima isprobati ono što smo naučili, i videti kako modulo zapravo funkcioniše. Ostanite uz nas, zajedno smo pametniji i bolji!
 
 

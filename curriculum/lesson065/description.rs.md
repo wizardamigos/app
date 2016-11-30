@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - zastave",
-  "duration": "4:01"
+  "title": "Code Combat - zdravlje na prvom mestu",
+  "duration": "3:11"
 }
 ---
 
-Nastavljamo dalje! Danas se posebno opremamo, pred nama je malo kompleksniji zadatak. Uzećemo oruđe za pravljenje ograda i vatrenih zamki, a biće nam potrebne i zastave! Naš zadatak će biti da ih pronađemo u ovoj avanturi. Moramo slušati strelce jer će nam oni reći šta tačno da sagradimo. Ako je pred nama zelena zastava , trebalo bi da sagradimo ogradu na njenom mestu i da je nakon toga pokupimo. Ako imamo crnu zastavu , trebalo bi da tu napravimo zamku, i naravno da je pokupimo na kraju. U suprotnom, trebalo bi se vratiti u centar. Srećno!
-
+Putujući kroz pustinju Code Combata, upoznali smo neke nove prijatelje koji nam mogu pomoći u našem velikom pohodu. Ovoga puta, imaćemo pomoć jednog lekara, koji će nam obezbediti vrhunsku negu tokom bitke. Kada junaka opremimo kamenom, imaćemo priliku da konstantno imamo uvid u njegovo zdravstveno stanje. Cilj ove lekcije je da stalno pratimo zdravlje našeg junaka, u odnosu na njegov maksimum, i da procenimo tačno u kom momentu treba da odemo na crveni X i kažemo lekaru da nas zaleči. Hajde da to uradimo zajedno!

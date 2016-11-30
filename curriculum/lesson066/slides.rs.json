@@ -1,26 +1,27 @@
 {
-"video": "x5fdfrardj",
+"video": "vtnas8ffgp",
 "slides": [{
   "type": "question",
-  "time": "2:53",
-  "question": "Ako je izmereno vreme manje od deset:",
+  "time": "3:51",
+  "question": "Kada vidi zelenu zastavu, naš heroj:",
   "options": [
-    "Napadamo ogare",
-    "Definišemo varijablu zastava",
-    "Proveravamo zdravlje"
+    "Pravi zamku",
+    "Gradi ogradu",
+    "Vraća se u centar"
+   
   ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:05",
-   "text": "Odigrajte nivo i vratite se",
+  "time": "1:24",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/keeping-time",
+    "url": "https://codecombat.com/play/level/sarven-sentry",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:53",
+  "time": "3:51",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

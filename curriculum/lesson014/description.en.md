@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "2:23"
+  "title": "Code Combat - while(true)",
+  "duration": "2:12"
 }
 ---
 
-With help of the game you will learn more about while(true) syntax.
+With help of the game you will learn basic syntax for loops.

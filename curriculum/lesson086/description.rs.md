@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat - Šumska straža",
-  "duration": "2:36"
+  "title": "Code Combat - Planinski Plaćenici",
+  "duration": "3:57"
 }
 ---
 
-U nivou koji je pred nama prikupljaćemo novčiće i boriti se protiv neprijatelja. Kako bismo ga uspešno prešli naučićemo da koristimo for-loop petlju. Ona je slična while-loop petlji, s tim što ima više različitih podešavanja. Kao i do sada, učimo se kroz igru, i imamo priliku da stečeno znanje odmah primenimo . Lepota Code Combata je u tome što učenje čini interaktivnim, a provere znanja interesantnim. Hajde da osvojimo vrhove JavaScripta zajedno!  
+Kao što i sami znate, do sada smo bili jako uspešni na svom putu. Hajde da nastavimo u istom ritmu! Penjemo se na planinu znanja u Code Combatu, što je ujedno i poslednji svet ove igre koji ćemo preći u okviru eSova kursa. Kroz svaki nivo koji smo prešli, naše znanje iz oblasti programiranja u JavaScriptu je raslo i bilo sve potpunije, i tako će biti i u buduće. Na ovom nivou bi trebalo da koristimo komande summon (prizvati) i command (komandovati) kako bismo zastitili heroja dok sakuplja novčiće. Krenimo!
+
 

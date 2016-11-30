@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - Zlatna Groznica",
-  "duration": "2:38"
+  "title": "Code Combat - Alhemija",
+  "duration": "3:48"
 }
 ---
 
-Uspešno prelazimo na sledeći nivo! Još malo i otarasićemo se peska koji se uvlači svuda! Cilj našeg junaka na ovom nivou je da prikupi sto zlatnika. U pisanju koda koristićemo While petlju kako bismo uz pomoć nje obuhvatili red novčićasa komandom za pronalaženje. Ovo neće biti previše teško, slično je prethodnim zadacima. Indeks novčića započećemo nulom, i imaćemo još jednu While petlju pomoću koje ćemo prolaziti kroz sve novčiće u redu. Hajde da se igramo i programiramo!
-
+Ponovo smo u surovom svetu Code Combata! Nije lako ići kroz pustinju, trežiti oaze, a usput se boriti protiv neprijatelja, naš junak to dobro zna… Ali zato ima nas da mu u tome pomognemo. Ovoga puta prvo ćemo proveriti da li je oprema koju trenutno nosi najbolja moguća. Potrebna mu je maksimalna zaštita i najjači mogući napad! Koristićemo continue naredbu koja  je veoma dobra za upravljanje komplikovanim logičkim zadacima. Continue komanda nam omogućava da se stvari u petlji ponavljaju ali nam daje mogućnost da ona krene iz početka, za razliku od komande break.

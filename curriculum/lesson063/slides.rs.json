@@ -1,28 +1,27 @@
 {
-"video": "smy8opmurx",
+"video": "jlbkjialev",
 "slides": [{
   "type": "question",
-  "time": "2:17",
-  "question": "Ukoliko ne naiđe na neprijatelja, šta radi naš junak?",
+  "time": "2:52",
+  "question": "Ako je Y koordinata neprijatelja veća od Y koordinate našeg junaka zamku postavljamo:",
   "options": [
-    "Postavlja ogradu iznad sebe",
-    "Postavlja ogradu ispod sebe",
-    "Nastavlja da se kreće ka oazi",
-    "Čeka neprijatelja",
-    "Vraća se nazad"
+    "Gore",
+    "Dole",
+    "Levo",
+    "Desno"
   ],
-  "answer": [2]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "0:54",
+  "time": "1:28",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/thunderhooves",
-    "title": "Igrajte sada"
+    "url": "https://codecombat.com/play/level/crossroads",
+    "title": "Igrajte sadak"
   }
 },{
   "type": "solution",
-  "time": "2:17",
+  "time": "2:52",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

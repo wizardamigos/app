@@ -1,19 +1,19 @@
 {
-"video": "hv1mlj9jxm",
+"video": "4p6jgckd09",
 "slides": [{
   "type": "question",
-  "time": "9:27",
-  "question": "Kako u html pozovemo JavaScript variablu var GREY = 'hsla(30,100%,99%,1)'?",
+  "time": "10:54",
+  "question": "Koji je pravi format za primenu klasa u CSS-u?",
   "options": [
-    "@{GREY}",
-    "${GREY}",
-    "%{GREY}",
-    "!{GREY}"
+    "<div='my_class'></div>",
+    "<div class'my_class'></div>",
+    "<div class='my_class'></div>"
 ],
-  "answer": [1]
+  "answer": [2]
+
 },{
   "type": "solution",
-  "time": "9:27",
+  "time": "10:54",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

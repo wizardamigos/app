@@ -1,11 +1,8 @@
 ---
 {
-  "title": "CodeCombat - borba protiv ogara",
-  "duration": "3:14"
+  "title": "Code Combat - borba protiv patuljaka",
+  "duration": "1:49"
 }
 ---
 
-Dobrodošli u još jednu avanturu Code Combat-a. Kako bismo bolje videli neprijatelje sa velike razdaljine, u svoju opremu smo uvrstili naočare. One nam daju mogućnost da izračunamo koliko tačno smo udaljeni od neprijatelja, kako bismo znali da li su dovoljno blizu da naš napad bude uspešan. Kao i što smo navikli, ogari retko kada napaduju sami, pa ćemo ponovo koristiti petlju, kako bismo odbili sve njihove napade. Puno sreće u ovom zadatku i nadamo se da ćete se lepo zabaviti, ali mnogo i naučiti.
-
-
-
+U novoj avanturi se borimo protiv patuljaka. Naš junak ima mogućnost da ih otera na dva načina. Prva mogućnost je držanje govora, jer ga se patuljci plaše i čim kaže nešto, oni će pobeći. Druga mogućnost je znatno surovija i uključuje naš najjači napad presecanja neprijatelja na pola. Međutim junak mora u ovoj igri biti jako pažljiv, jer ukoliko se skupi više patuljaka na jednom mestu, napraviće zasedu i lako ga poraziti. Zato moramo biti jako proračunati i odrediti kada ćemo koristiti koju mogućnost. Srećno!

@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Modulo",
-  "duration": "4:57"
+  "title": "Vraćanje objekata sa funkcijama",
+  "duration": "5:15"
 }
 ---
 
-Danas ćemo se podsetiti šta je to ostatak, odnosno Modulo. Već smo ga koristili, ali je sada vreme da to ponovimo, pokažemo još neke njegove upotrebe i dodatno ga pojasnimo. Operacija ostatka vraća ostatak koji je ostao prilikom deljenja dva operanda. U Google Chrome konzoli ćemo na primerima isprobati ono što smo naučili, i videti kako modulo zapravo funkcioniše. Ostanite uz nas, zajedno smo pametniji i bolji!
+Ponovo se igramo funkcijama. Ovoga puta pričamo o vraćanju objekata sa funkcijama. Koristićemo uobičajeni šablon za vraćanje objekata sa funkcijama kao vrednostima i na konkretnim primerima videti kako sve to funkcioniše. Koristićemo konzolu u Google Chromu kako bismo praktično isprobali ono što prelazimo. Napunićemo svoj gist novim informacijama, a glave znanjem! Učimo zajedno! 
 
 

@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Dva Cveta",
-  "duration": "4:32"
+  "title": "Code Combat - Čarobnjak Kithgarda",
+  "duration": "2:33"
 }
 ---
 
-Čeka nas još zabave sa funkcijama, pa hajde da nastavimo. Naš cilj ovoga puta je da cvetovi izrastu do pune veličine i ujedno Hektor preživi. Dakle, na nama je da zaštitimo Hektora i pustimo cvetove da izrastu. Potrebno je da definišemo funkcije komandovanja vojnicima i sakupljanja najbližeg novčica, a zatim da napravimo petlju. Ukoliko sve uradimo kako treba, na poklon ćemo dobiti prsten od cvetova, najmirišljaviji među trofejima. Idemo zajedno u šarene pobede!
+Ponovo osvajamo svetove Code Combata, ovoga puta funkcijama. Konačno počinjemo ozbiljno da ih koristimo, i to će biti veoma izazovno. Potrebno je da pomognemo našem heroju da izbegne šiljke i sakupi dragulje. Setićemo se jednostavnijih vremena, kada smo kroz tamnicu bežali i borili se za svoj život sa samo čizmama na nogama? Ovoga puta, nemamo čak ni čizme, već moramo simulirati njihovo postajanje brzim kretanjem. Zakoračimo bosi u novu avanturu, zajedno!
 
 

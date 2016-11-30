@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Gist - obnavljanje",
-  "duration": "9:45"
+  "title": "Code Combat - mačevanje",
+  "duration": "2:12"
 }
 ---
 
-Nije važno samo učiti nove stvari, već i obnavljati naučeno. Zato ćemo ovu epizodu posvetiti tome da utvrdimo neke stvari koje smo već naučili u poslednjih 10 lekcija i da vidimo da li postoji nešto što možda nismo još uvek dovoljno dobro savladali. Jako je bitno da stalno ažurirate svoj gist kako biste imali uvek na raspologanju sve informacije koje ste do sada naučili, i mogli brzo i lako da se podsetite. Budite iskreni prema sebi i ukoliko ima nešto što vam nije još uvek potpuno jasno, pređite to još nekoliko puta, pa ćemo da krenemo dalje u nove avanture.
-
+Da li ste spremni za potpuno drugačiju avanturu? Ovoga puta dobijamo novi mač koji ima specijalnu moć. Uz pomoć njega ćemo moći da ubijemo neprijatelje koji se nalaze na udaljenosti od čak 10 metara od nas. To ćemo uraditi pomoću opcije CLEAVE što znači preseći na pola. Međutim takvu moć ne možemo da koristimo konstantno, već samo kada je spremna. I to je izazov za nas i našeg heroja, moraćemo da odredimo kada ćemo tačno koristiti koji napad, kako bismo uspešno savladali sve neprijatelje odgovarajućim napadima.

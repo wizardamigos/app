@@ -1,27 +1,26 @@
 {
-"video": "8f0fujg6ql",
+"video": "482b32raw6",
 "slides": [{
   "type": "question",
-  "time": "4:55",
-  "question": "Dok je broj naređenja manji od 5, naš junak će se pomerati:",
+  "time": "5:39",
+  "question": "Koje su Narijine koordinate?",
   "options": [
-    "Gore",
-    "Dole",
-    "Levo",
-    "Desno"
+    "59, 33",
+    "90, 90",
+    "23, 40"
   ],
-  "answer": [1]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "2:38",
+  "time": "1:03",
    "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/desert-combat",
+    "url": "https://codecombat.com/play/level/bookkeeper",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:55",
+  "time": "5:39",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

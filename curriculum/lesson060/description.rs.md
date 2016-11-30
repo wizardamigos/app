@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - izbegavanje stampeda",
-  "duration": "2:37"
+  "title": "Code Combat - Oaza",
+  "duration": "2:02"
 }
 ---
 
-Suva vrela pustinja se prostire pred našim herojem i na nama je da mu pomognemo da preživi. Na ovom nivou potrebno je da dinamički izbegnemo Jakove. Dodavanjem i oduzimanjem vrednosti promenljivoj x pomeraćemo heroja napred nazad, dok ćemo primenjivanjem istog principa na promenljivu y moći da mu komandujemo da li da ide gore ili dole. Postoje neka jednostavna pravila za izbegavanje stampeda jakova, i osim što ćemo saznati koja su imaćemo priliku i da ih primenimo.
+Ponovo smo u svetu Code Combata i to veoma surovom. Naš junak se našao u sred pustinje i u potrazi je za oazom kako bi se okrepio i povratio snagu. Kako bi do nje bezbedno stigao potrebno je da izbegne celo krdo jakova. Mi smo tu da mu pomognemo, što nam neće teško pasti s obzirom na to koliko smo se izveštili. Stigli smo do trećeg sveta ove programerske igrice, što nije nimalo lako! Hajde da pokažemo šta smo sve naučili i pomognemo našem heroju da lakše podnese tople pustinjske dane.

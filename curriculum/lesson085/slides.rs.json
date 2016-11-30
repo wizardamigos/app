@@ -1,26 +1,27 @@
 {
-"video": "4lqc9i5i3w",
+"video": "o6fhtvigte",
 "slides": [{
   "type": "question",
-  "time": "3:48",
-  "question": "Koju smo funkciju upotrebili, kako bi se naš junak posle 20 sekundi pomerio :",
+  "time": "2:14",
+  "question": "Možemo komandovati samo ratnicima koji spadaju u:",
   "options": [
-    "this.now",
-    "this.time",
-    "this.20sek"
+    "marince",
+    "strelce",
+    "vojnike",
+    "snajperiste"
 ],
-  "answer": [0]
+  "answer": [1,2]
 },{
   "type": "challenge",
-  "time": "0:34",
+  "time": "1:30",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/mountain-mercenaries",
+    "url": "https://codecombat.com/play/level/cloudrip-commander ",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:48",
+  "time": "2:14",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

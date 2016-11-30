@@ -1,26 +1,26 @@
 {
-"video": "l1gt4o2s45",
+"video": "wmxh5qh031",
 "slides": [{
   "type": "question",
-  "time": "2:33",
-  "question": "Kojom komandom podižemo zastavu?",
+  "time": "2:22",
+  "question": "Kojom komandom merimo udaljenost neprijatelja?",
   "options": [
-    "findfFlag",
-    "pickUpFlag",
-    "flagPickUp"
+    "this.countEnemy(distance)",
+    "this.enemyCount(distance)",
+    "this.distanceTo(enemy)"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:29",
+  "time": "1:05",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/coinucopia",
+    "url": "https://codecombat.com/play/level/munchkin-swarm",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:33",
+  "time": "2:23",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

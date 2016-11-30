@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - još o while(true)",
-  "duration": "2:23"
+  "title": "Code Combat - while(true)",
+  "duration": "2:12"
 }
 ---
 
-Stigli smo do broja četrnaest , ovom lekcijom završavamo kurs od deset osnovnih nivoa. Bravo za nas! U ovom poglavlju naš heroj mora da preživi i snađe se u lavirintu, a sve to sa ne više od 6 komandi. Koristićemo i petlje koje se beskonačno ponavljaju, što je odlična prilika da uvidimo kako u programiranju možemo da koristimo takve primere i u kojim slučajevima. Konkretno u ovoj lekciji ćemo uz Code Combat naučiti još više o while(true) sintaksi u JavaScript programskom jeziku, a uvodimo i neke nove pojmove poput indentation. Kao i u svakoj lekciji do sada, ponavljaćemo sve naučene komande za kretanje i funkcionisanje našeg heroja u svom okruženju. 
+Ponovo smo u Code Combat svetu, trinaesta lekcija i nastavljamo sa sledećom sobom. Do sada smo koristili dosta naredbi za kretanje, u prethodne dve lekcije smo se upoznali i sa novim alatima, knjigom i mačem. Korak dalje idemo sa novim mogućnostima, u ovoj lekciji ćemo uz pomoć igre Code Combat početi da koristimo osnovnu sintaksu petlji u Javascriptu. Naučićemo kako da iskoristimo konstrukciju while loop koja ce se sastojati od četiri komande i ne prekoračimo ograničenje da se kod mora napisati u najviše 6 rečenica. Prvo ćemo novi zadatak koji smo dobili rešiti zajedno, a zatim ćete imati priliku da i sami pokušate da rešite isti takav zadatak. 

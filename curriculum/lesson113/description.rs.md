@@ -1,11 +1,11 @@
 ---
 {
   "title": "Portfolio aplikacija",
-  "duration": "6:53"
+  "duration": "9:37"
 }
 ---
 
-U ovoj lekciji učimo kako da komuniciramo sa GitHubom i kako da koristimo “žive” podatke koji će se automatski menjati na našoj stranici. Danas ćemo se baviti time kako da prenesemo podatke sa naših GitHub profila na stranicu.  GitHub ima jednu odličnu stvar koja se zove API zbog koje svi oni koji stvaraju aplikacije mogu da pristupe podacima iz GitHub baze podataka, a ako želite da naučite kako, na pravom ste mestu!
+ U današnjoj lekciji ćemo se baviti stavljanjem i pozicioniranjem podnožja na stranici i upoznati se sa nekim veoma korisnim alatkama. Ono čime ćemo se pozabaviti su 3 male ikonice na dnu stranice. Jedna će voditi do Github-a, druga do e-mail adrese i treća do fejsbuk naloga. U ove svrhe koristićemo stranicu FontAwesome, gde imamo veliki izbor različitih ikonica koje možemo iskoristiti. Do sada smo već uspeli da ubacimo nekoliko komponenti i opciju skrolovanja u naš kod, tako da ćemo bez problema savladati i ovu lekciju. Srećno!
 
 
 

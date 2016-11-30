@@ -1,27 +1,27 @@
 {
-"video": "v5yopq2a03",
+"video": "84iqv218ev",
 "slides": [{
   "type": "question",
-  "time": "2:35",
-  "question": "Kako definisemo promenljivu x za poziciju zastave ?",
+  "time": "4:08",
+  "question": "Kako da proverimo udaljenost od naše trenutne pozicije do zastave?",
   "options": [
-    "var flagX = flag.pos.x ",
-    "var flagX = flag.x",
-    "var flagX = flag.pos",
-    "flagX = flag.pos.x "
+    "this.pos - flag.pos",
+    "flag.pos - this.pos",
+    "this.distanceTo(flag)",
+    "this.flag.pos"
   ],
-  "answer": [0]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:51",
+  "time": "2:29",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/drop-the-flag",
+    "url": "https://codecombat.com/play/level/hold-the-forest-pass",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:35",
+  "time": "4:08",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

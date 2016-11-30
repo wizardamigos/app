@@ -1,37 +1,17 @@
 {
-  "video": "kaws7oksf9",
-  "slides": [{
-    "type": "question",
-    "time": "5:17",
-    "question": "Kako napravite komentar u jednom redu u JavaScript kodu?",
-    "options": [
-      "sa //",
-      "sa /*"
-    ],
-    "answer": [0]
-    },{
-      "type": "question",
-      "time": "5:17",
-      "question": "Šta sve od ponuđenog je znakovni niz (string)?",
-      "options": [
-        "1",
-        "'123'",
-        "'Brak'",
-        "enemy"
-      ],
-      "answer": [1,2]
-      },{
-        "type": "challenge",
-        "time": "5:17",
-        "text": "Obnovite ono što ste naučili o JavaScript jeziku  i kreirajte novi Gist. Nazovite ga JavaScript-puškica i u njega sačuvajte sve o čemu smo pričali u ovom videu.",
-        "link": {
-          "url": "https://gist.github.com/",
-          "title": "Obnovite Javascript"
-        }
-        },{
-          "type": "solution",
-          "time": "5:17",
-          "text": "Ukoliko ste uspešno sačuvali i označili JavaScript-puškica Gist, kliknite da završite lekciju",
-          "button": "Završite lekciju"
-          }]
-        }
+"video": "wyy9opo2nb",
+"slides": [{
+"type": "challenge",
+"time": "1:23",
+ "text": "Odigrajte nivo i vratite se",
+"link": {
+  "url": "http://codecombat.com/play/level/signs-and-portents",
+  "title": "Igrajte sada"
+}
+},{
+  "type": "solution",
+  "time": "2:48",
+  "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+  }]
+}

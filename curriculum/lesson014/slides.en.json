@@ -1,27 +1,17 @@
 {
-"video": "u3igv4d8m9",
+"video": "al567qvygz",
 "slides": [{
   "type": "question",
-  "time": "2:14",
-  "question":
-  [
-    "In the written form of many languages, an indentation is an empty space at the beginning of a line to signal the start of a new paragraph. Many computer languages have adopted this technique to designate 'paragraphs' or other logical blocks in the program.",
-    "",
-    "Example",
-    "while(true) {",
-    "  // indented code here",
-    "}",
-    "",
-    "So what is indentation?"
-  ],
+  "time": "2:03",
+  "question": "What type of special characters are used in a while(true) loop to wrap the code in the loop that repeats forever?",
   "options": [
-    "empty space at the beginning of a line",
-    "empty space at the end of a line"
+    "curly braces - {}",
+    "square brackets - []"
   ],
   "answer": [0]
 },{
   "type": "challenge",
-  "time": "1:06",
+  "time": "0:52",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/dungeon",
@@ -29,7 +19,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:14",
+  "time": "2:03",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

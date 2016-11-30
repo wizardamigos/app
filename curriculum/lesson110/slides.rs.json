@@ -1,19 +1,25 @@
 {
-"video": "55xer1eros",
+"video": "spbg4dlbci",
 "slides": [{
   "type": "question",
-  "time": "5:21",
-  "question": "Koji NPM modul nam omogućava da koristimo CSS u našem JavaScript kodu?",
+  "time": "18:40",
+  "question": "Koja 2 nova jezika trebamo pre nego sto nastavimo dalje, sada sami da naučimo osnove pomoću www.devdocs.io",
   "options": [
-    "yo-yo",
-    "csjs-inject",
-    "minixhr",
-    "chart.js"
+    "HTML",
+    "CSS"
 ],
-  "answer": [1]
+  "answer": [0,1]
+},{
+  "type": "challenge",
+  "time": "18:40",
+  "text": "Otvorite requirebin",
+  "link": {
+    "url": "http://requirebin.com/",
+    "title": "Klikni ovde"
+  }
 },{
   "type": "solution",
-  "time": "5:21",
+  "time": "18:40",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

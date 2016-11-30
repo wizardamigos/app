@@ -1,27 +1,27 @@
 {
-"video": "z3iw2mjwr8",
+"video": "v5yopq2a03",
 "slides": [{
   "type": "question",
-  "time": "1:56",
-  "question": "Kako proveravamo da li je udaljenost od neprijatelja manja od 10?",
+  "time": "2:35",
+  "question": "Kako definisemo promenljivu x za poziciju zastave ?",
   "options": [
-    "this.distanceTo(enemy) > 10",
-    "his.distanceTo(enemy) === 10",
-    "this.distanceTo(enemy) < 10",
-    "this.distanceTo(enemy) <= 10"
+    "var flagX = flag.pos.x ",
+    "var flagX = flag.x",
+    "var flagX = flag.pos",
+    "flagX = flag.pos.x "
   ],
-  "answer": [2]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "1:01",
+  "time": "0:51",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/mind-the-trap",
+    "url": "https://codecombat.com/play/level/drop-the-flag",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:56",
+  "time": "2:35",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,39 +1,37 @@
 {
-"video": "fq28h5m2hd",
+"video": "kaws7oksf9",
 "slides": [{
   "type": "question",
-  "time": "8:32",
-  "question": "What is the result of this concatenation 'Hello' + ', ' + 'Ana!' ?",
+  "time": "5:17",
+  "question": "How do you make one-line comments in Javascript code?",
   "options": [
-    "Hello,Ana!",
-    "Hello , Ana!",
-    "'Hello' + ', ' + 'Ana!'",
-    "Hello, Ana!"
+    "you start a line with //",
+    "you start a line with /*"
   ],
-  "answer": [3]
+  "answer": [0]
 },{
   "type": "question",
-  "time": "8:32",
-  "question": "What is a result of 'esova' === 'esova' ?",
+  "time": "5:17",
+  "question": "What here is a string?",
   "options": [
-    "esova",
-    "true",
-    "false",
-    "esovaesova"
+    "1",
+    "'123'",
+    "'Brak'",
+    "enemy"
   ],
-  "answer": [1]
+  "answer": [1,2]
 },{
   "type": "challenge",
-  "time": "8:32",
-  "text": "Learn to use Developer Tools (Console), then edit your Javascript Cheatsheet Gist and save the content from this lesson to it.",
+  "time": "5:17",
+  "text": "Repeat what you've learned about JavaScript and create a new Gist, call it Javascript cheatsheet and save the content from the video in it.",
   "link": {
     "url": "https://gist.github.com/",
-    "title": "Try out the console"
+    "title": "Repeat Javascript"
   }
 },{
   "type": "solution",
-  "time": "8:32",
-  "text": "If you successfully finished the challenge for this lesson, click to complete the lesson.",
+  "time": "5:17",
+  "text": "If you successfuly finished saved and bookmarked JavaScript Cheatsheet gist, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - potraga za blagom",
-  "duration": "4:49"
+  "title": "Code Combat - borba i prikupljanje",
+  "duration": "4:18"
 }
 ---
 
-U novoj igri ćemo se takmičiti sa drugim igračima u potrazi za blagom. Kako bismo to uradili na najbolji način, moramo da definišemo neprijatelja i novčić i daćemo komandu da ukoliko ima neprijatelja, napadnemo ga, a ukoliko ima novčića, pokupićemo ga. To ćemo raditi pomoću IF petlji. Ono što je jako bitno u ovom nivou je kako pišemo IF komande jer junak mora da zna šta mu je prioritet. Ako napišemo IF ispred obe komande, junak neće znati šta je bitnije i zato ćemo koristiti IF Else kod komande za novčić. Ukoliko ovo dobro uradimo, pobedićemo protivnike i bićemo na dobrom mestu na rang listi. Srećno!
-
+Ostalo nam je još nekoliko nivoa do pauze gde ćemo proveriti koliko smo dobro sve naučili. U ovoj igrici ćemo kombinovati ono što smo do sada naučili, komande loop, if-else, flags, cleave, attack, position i move. Komande if i else if možemo koristiti u svakoj situaciji. Spojićemo sve komande kako bismo porazili neprijatelje i sakupili novčiće. Ono što je bitno u ovoj igrici je redosled IF komandi jer pokazuje važnost radnji koje će junak izvršitii. Prvo će proveriti da li ima zastave, ako ima ide tamo, zatim proverava da li ima neprijatelja, pa predmeta. Ponavljamo, obratite pažnju na redosled IF i srećno!

@@ -1,28 +1,39 @@
 {
-"video": "2bbk0zlf5o",
-"slides": [{
-  "type": "question",
-  "time": "2:48",
-  "question": "Koju komandu koristimo da napravimo ogradu?",
-  "options": [
-    "buildType('fence', x, y)",
-    "this.build.fence (x, y)",
-    "this.buildXY('fence', x, y)"
-
-  ],
-  "answer": [2]
-},{
-  "type": "challenge",
-  "time": "2:07",
-  "text": "Odigrajte nivo i vratite se",
-  "link": {
-    "url": "http://codecombat.com/play/level/defense-of-plainswood",
-    "title": "Igrajte sada"
-  }
-},{
-  "type": "solution",
-  "time": "2:48",
-  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
-  "button": "Završite lekciju"
-}]
-}
+  "video": "fq28h5m2hd",
+  "slides": [{
+    "type": "question",
+    "time": "8:32",
+    "question": "Koji je rezultat konkatenacije 'Hello' + ', ' + 'Ana!' ?",
+    "options": [
+      "Hello,Ana!",
+      "Hello , Ana!",
+      "'Hello' + ', ' + 'Ana!'",
+      "Hello, Ana!"
+    ],
+    "answer": [3]
+    },{
+      "type": "question",
+      "time": "8:32",
+      "question": "Šta dobijamo ako u kod unesemo 'esova' === 'esova' ?",
+      "options": [
+        "esova",
+        "true",
+        "false",
+        "esovaesova"
+      ],
+      "answer": [1]
+      },{
+        "type": "challenge",
+        "time": "8:32",
+        "text": "Naučite kako da koristite konzolu, zatim izmenite javaScript- puškica Gist i u njega sačuvajte ono što ste naučili u ovoj lekciji.",
+        "link": {
+          "url": "https://gist.github.com/",
+          "title": "Isprobajte konzolu"
+        }
+        },{
+          "type": "solution",
+          "time": "8:32",
+          "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

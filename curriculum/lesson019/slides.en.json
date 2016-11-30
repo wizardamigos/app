@@ -1,23 +1,19 @@
 {
-"video": "ivnri05x8y",
+"video": "2vfqgzd6nk",
 "slides": [{
   "type": "question",
-  "time": "4:14",
-  "question":
-[
-"Is a) and b) the same?",
-" a) self.attack('Kratt');",
-" b) var enemy = 'Kratt';",
-"    self.attack(enemy);"
-],
+  "time": "1:23",
+  "question": "What method did we use to destroy the door?",
   "options": [
-    "yes, in example a) we use nametag and in example b) we are using variable enemy instead of a nametag",
-    "no"
+    "attack",
+    "destroy",
+    "explode",
+    "remove"
   ],
   "answer": [0]
 },{
   "type": "challenge",
-  "time": "3:29",
+  "time": "0:51",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/dungeon",
@@ -25,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "4:14",
+  "time": "1:23",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

@@ -1,11 +1,11 @@
 ---
 {
   "title": "Kviz aplikacija",
-  "duration": "4:04"
+  "duration": "10:59"
 }
 ---
 
-U ovoj lekciji ćemo još malo dorađivati našu kviz aplikaciju i popraviti dugme za vraćanje nazad. Verovatno ste primetili da se ništa ne desi kada kliknemo na njega. Postoji još jedan problem, nakon što odgovorimo na poslednje pitanje, takođe se ništa ne desi. Ovde ćemo naučiti kako to da popravimo. Prva stvar koju bi trebalo da uradimo je da ažuriramo našu funkciju za sledeće pitanje, a zatim nas čeka još par novih koraka. Napred u nazad!
+U ovoj lekciji dodaćemo pitanja u svoj kviz. Do sada smo u kod uneli samo prvo pitanje, ali naravno želimo da ih kasnije bude više. Takođe, želimo da osposobimo dugmiće tako da se, kada korisnik klikne i izabere odgovor, automatski pojavi sledeće pitanje. Kada korisnik prelazi na sledeće, neophodno je da se njegov odgovor na prethodno pitanje sačuva. Kako bismo ovo postigli potrebno je da unesemo niz pitanja i nekoliko promenljivih. Danas se pitamo i odgovaramo u kodu!
 
 
 

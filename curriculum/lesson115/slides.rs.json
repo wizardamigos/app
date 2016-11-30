@@ -1,19 +1,17 @@
 {
-"video": "pfl873sso0",
+"video": "qhm6uz1225",
 "slides": [{
   "type": "question",
-  "time": "4:50",
-  "question": "Kako se zove DOM metoda kojom pripajamo izabrane elemente već postojećim elelementima u DOM-u?",
+  "time": "4:18",
+  "question": "Šta je DOM?",
   "options": [
-    "appendChild",
-    "appendMom",
-    "appendDad",
-    "appendGrandma"
+    "HTML prebačen u živu strukturu u pregledaču",
+    "drugo ime za HTML"
 ],
   "answer": [0]
 },{
   "type": "solution",
-  "time": "4:50",
+  "time": "4:18",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

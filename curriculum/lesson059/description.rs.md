@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - Oaza",
-  "duration": "2:02"
+  "title": "Code Combat - Jak moćnog peska",
+  "duration": "2:45"
 }
 ---
 
-Ponovo smo u svetu Code Combata i to veoma surovom. Naš junak se našao u sred pustinje i u potrazi je za oazom kako bi se okrepio i povratio snagu. Kako bi do nje bezbedno stigao potrebno je da izbegne celo krdo jakova. Mi smo tu da mu pomognemo, što nam neće teško pasti s obzirom na to koliko smo se izveštili. Stigli smo do trećeg sveta ove programerske igrice, što nije nimalo lako! Hajde da pokažemo šta smo sve naučili i pomognemo našem heroju da lakše podnese tople pustinjske dane.
+Vraćamo se našoj omiljenoj programerskoj igrici! Zakoračićemo u potpuno novi Code Combat svet, prepun peska i oaza. Pogodili ste, ulazimo u pustinju gde nas sigurno očekuje mnogo izazova. U trećem svetu ćemo se suočiti sa aritmetikom, brojačima, while petljama, prekidima, nizovima, poredićemo stringove, i tražiti minimume i maksimume. Postaje sve uzbudljivije, svaki novi svet donosi mnogo novih saznanja i jedva čekamo da se zajedno upustimo u još jednu veliku avanturu!

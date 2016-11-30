@@ -1,18 +1,18 @@
 {
-"video": "3yluqsf0mj",
+"video": "42rmnzd5yv",
 "slides": [{
   "type": "question",
-  "time": "10:04",
-  "question": "Za prevođenje dolaznih podataka u JavaScript jezik koirstimo metod:",
+  "time": "6:57",
+  "question": "Chart.js koristi seledeći HTML element:",
   "options": [
-    "JSON.magnify(results)",
-    "JSON.parse(results)",
-    "JSON.stringify(results)"
+    "Paper",
+    "Canvas",
+    "Brush"
 ],
   "answer": [1]
 },{
   "type": "solution",
-  "time": "10:04",
+  "time": "6:57",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

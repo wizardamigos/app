@@ -1,28 +1,39 @@
 {
-"video": "aaaaa99999",
+"video": "fq28h5m2hd",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "8:32",
+  "question": "What is the result of this concatenation 'Hello' + ', ' + 'Ana!' ?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "Hello,Ana!",
+    "Hello , Ana!",
+    "'Hello' + ', ' + 'Ana!'",
+    "Hello, Ana!"
   ],
-  "answer": [9]
+  "answer": [3]
+},{
+  "type": "question",
+  "time": "8:32",
+  "question": "What is a result of 'esova' === 'esova' ?",
+  "options": [
+    "esova",
+    "true",
+    "false",
+    "esovaesova"
+  ],
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "8:32",
+  "text": "Learn to use Developer Tools (Console), then edit your Javascript Cheatsheet Gist and save the content from this lesson to it.",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://gist.github.com/",
+    "title": "Try out the console"
   }
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfully finished the challenge for this lesson, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

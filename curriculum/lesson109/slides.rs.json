@@ -1,25 +1,27 @@
 {
-"video": "spbg4dlbci",
+"video": "nga3kk92f2",
 "slides": [{
   "type": "question",
-  "time": "18:40",
-  "question": "Koja 2 nova jezika trebamo pre nego sto nastavimo dalje, sada sami da naučimo osnove pomoću www.devdocs.io",
+  "time": "1:02",
+  "question": "Koji je bio poslednji svet koji smo zajedno igrali u Code Combatu",
   "options": [
-    "HTML",
-    "CSS"
+    "Cloudrip Mountain",
+    "Web development",
+    "Game development",
+    "Kithgard Dungeon"
 ],
-  "answer": [0,1]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "18:40",
-  "text": "Otvorite requirebin",
+  "time": "1:02",
+  "text": "Odigrajte nivo",
   "link": {
-    "url": "http://requirebin.com/",
-    "title": "Klikni ovde"
+    "url": "https://codecombat.com/play/",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "18:40",
+  "time": "1:02",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

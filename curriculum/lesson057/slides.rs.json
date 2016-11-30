@@ -1,16 +1,16 @@
 {
-"video": "0v6nwtq89v",
+"video": "ypoc84tod1",
 "slides": [{
   "type": "question",
-  "time": "5:16",
-  "question": "Kojom komandom saznajemo vrednost x koordinate zastave?",
+  "time": "3:54",
+  "question": "Kod ugnježdenih if-else petlji imamo uvlačenja od:",
   "options": [
-    "pos.flag.x",
-    "x.flag.pos",
-    "flag.pos.x",
-    "flag.pos.(x)"
+    "1 razmaka",
+    "2 razmaka",
+    "3 razmaka",
+    "4 razmaka"
   ],
-  "answer": [2]
+  "answer": [1,3]
 },{
   "type": "challenge",
   "time": "0:11",
@@ -21,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "5:16",
+  "time": "3:54",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

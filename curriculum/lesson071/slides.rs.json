@@ -1,26 +1,27 @@
 {
-"video": "08vgtvq7uv",
+"video": "8f0fujg6ql",
 "slides": [{
   "type": "question",
-  "time": "2:31",
-  "question": "Sve dok je indeks neprijatelja manji od njihove dužine:",
+  "time": "4:55",
+  "question": "Dok je broj naređenja manji od 5, naš junak će se pomerati:",
   "options": [
-    "uzećemo prvog neprijatelja i proveriti da li je peščani jak, i ukoliko jeste, napasti ga",
-    "nećemo uraditi ništa",
-    "uzećemo prvog neprijatelja i proveriti da li je peščani jak, i ukoliko nije, napasti ga"
+    "Gore",
+    "Dole",
+    "Levo",
+    "Desno"
   ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:40",
+  "time": "2:38",
    "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/sarven-shepherd",
+    "url": "https://codecombat.com/play/level/desert-combat",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:31",
+  "time": "4:55",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

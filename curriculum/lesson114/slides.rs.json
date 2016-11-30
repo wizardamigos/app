@@ -1,17 +1,17 @@
 {
-"video": "qhm6uz1225",
+"video": "krutq0pq37",
 "slides": [{
   "type": "question",
-  "time": "4:18",
-  "question": "Šta je DOM?",
+  "time": "6:43",
+  "question": "Kojim alatom u CSS-u (property) modifikujemo veličinu slova?",
   "options": [
-    "HTML prebačen u živu strukturu u pregledaču",
-    "drugo ime za HTML"
+    "font-size",
+    "letter-size"
 ],
   "answer": [0]
 },{
   "type": "solution",
-  "time": "4:18",
+  "time": "6:43",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

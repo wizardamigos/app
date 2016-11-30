@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - patuljci i ostali neprijatelji ",
-  "duration": "4:59"
+  "title": "Code Combat - borba protiv zlog kamena",
+  "duration": "3:54"
 }
 ---
 
-Da vidimo koliko ćemo uspešni biti u novoj igri, koristeći na nov način neke stvari koje smo već naučili. U početku ćemo se oslanjati na IF komande kako bismo videli da li ima neprijatelja ili ćemo samo konstatovati da ga nema i ostati u odbrambenoj poziciji. Zatim ćemo se oslanjati na računanje udaljenosti od neprijatelja, jer ukoliko nam nisu dovoljno blizu, nemamo razloga za napad. Pre početka igre ćemo heroja obavezno opremiti štitom, jer bez njega nećemo biti u mogućnoti da se uspešno branimo.
+Postajemo sve bolji. Uskoro ćemo biti spremni za jako ozbiljno programiranje. Još malo ćemo se igrati, a onda ćemo napraviti malu pauzu da obnovimo ono što smo do sad naučili. Ovoga puta nećemo uvrstiti novu opremu u svoj arsenal, već ćemo koristiti sve ono što smo do sada sakupili. Protivnici će nam ovoga puta biti vatrene kugle, kojima će se pridružiti i zli kamen. Koristićemo umetnute IF strukture kako bi naš junak uspeo da pronađe bezbedno mesto na kome može da se sakrije.

@@ -1,27 +1,26 @@
 {
-"video": "yhdqwubpkt",
+"video": "fah15tfl15",
 "slides": [{
   "type": "question",
-  "time": "4:10",
-  "question": "Koliko je zlatnika ukupno potrebno prikupiti za izgradnju četiri mamca?",
+  "time": "5:17",
+  "question": "Kada je ukupno zlato veće ili jednako od dvadeset pet:",
   "options": [
-    "40",
-    "25",
-    "100",
-    "0"
+    "Sakupljamo dok ne skupimo 30 zlatnika",
+    "Prekidamo petlju",
+    "Napadamo Ogare"
   ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:35",
+  "time": "2:55",
    "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/decoy-drill",
+    "url": "https://codecombat.com/play/level/hoarding-gold",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:10",
+  "time": "5:17",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

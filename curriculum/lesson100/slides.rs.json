@@ -1,13 +1,13 @@
 {
-"video": "4tbnbhn3m6",
+"video": "4ncs88nqu2",
 "slides": [{
   "type": "question",
-  "time": "2:47",
-  "question": "Ako je tip prijatelja vojnik, zadaćemo mu da pronađe:",
+  "time": "6:45",
+  "question": "Ukoliko naiđemo na neprijatelja tipa fangrider:",
   "options": [
-    "sve jakove",
-    "sve ogare",
-    "sve veštice"
+    "sprijateljimo se sa njim",
+    "bežimo u zaklon",
+    "uzvraćamo napad"
 ],
   "answer": [2]
 },{
@@ -15,12 +15,12 @@
   "time": "1:17",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/toil-and-trouble",
+    "url": "https://codecombat.com/play/level/reaping-fire",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:47",
+  "time": "6:45",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,27 +1,26 @@
 {
-"video": "g04bzy5mb2",
+"video": "g7pg7n68yc",
 "slides": [{
   "type": "question",
-  "time": "2:22",
-  "question": "U ovoj lekciji, osim vojnicima i strelcima, komandujemo i:",
+  "time": "5:17",
+  "question": "Koliko argumenata imamo kod kvadrata?",
   "options": [
-    "seljacima",
-    "cvećarima",
-    "neprijateljima",
-    "grifinima"
+    "jedan",
+    "dva",
+    "tri"
 ],
-  "answer": [0,3]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:17",
+  "time": "1:49",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/mountain-flower-grove",
+    "url": "https://codecombat.com/play/level/the-geometry-of-flowers",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:22",
+  "time": "5:17",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

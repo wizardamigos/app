@@ -1,10 +1,11 @@
 ---
 {
   "title": "Portfolio aplikacija",
-  "duration": "5:00"
+  "duration": "4:28"
 }
 ---
 
-U današnjoj lekciji ćemo sređivati naš portfolio i napraviti animaciju menjanja boje i teksta. Na početku smo pokazali primer gde ako mišem listamo komponentu portfolija, ona se menja, naslov se pomera, menjaju se boje u pozadini i prikazuje se mali opis. Sve je ovo u animiranoj formi, i ovoga puta ćemo naučiti kako to da napišemo u samom kodu. Lepo, korisno i zabavno, upadajte!
+Dobrodošli nazad! Ovoga puta ćemo se igrati bojom pozadine, odnosno pokušaćemo da napravimo tako da se boja pozadine menja dok listamo stranicu.  Biće potrebno da napravimo promenljive boja koje želimo da koristimo, a zatim i da unesemo funkciju koja će ih menjati. Ova funkcija zapravo nije komponenta, pa ćemo naučiti kako da koristimo posebnu oblast pomagača u koju možemo da stavimo sve ostale funkcije koje rade određene stvari na stranici. Srećno!
+
 
 

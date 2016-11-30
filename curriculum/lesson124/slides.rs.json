@@ -1,18 +1,18 @@
 {
-"video": "h9630ocdd9",
+"video": "na87d4rgds",
 "slides": [{
   "type": "question",
-  "time": "10:26",
-  "question": "Kada u terminalu koristimo komandu CD na nekom direktorijumu:",
+  "time": "6:25",
+  "question": "Terminal nam omogućava:",
   "options": [
-    "otvaramo taj direktorijum",
-    "kreiramo taj direktorijum",
-    "brišemo taj direktorijum"
+    "da surfujemo internetom",
+    "da uđemo u pravi voz",
+    "da se krećemo kroz sistem datoteka"
 ],
-  "answer": [0]
+  "answer": [2]
 },{
   "type": "solution",
-  "time": "10:26",
+  "time": "6:25",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

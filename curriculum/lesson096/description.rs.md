@@ -1,11 +1,11 @@
 ---
 {
-  "title": "Code Combat - Bibliotekarski taktičar",
-  "duration": "2:54"
+  "title": "Code Combat - Lovci i plen",
+  "duration": "4:25"
 }
 ---
 
-Probijamo se kroz nivoe Code Combata i polako ali sigurno prelazimo i one poslednje. Ova igrica nam je dala mogućnost da stečeno znanje odmah primenimo, učimo na svojim greškama i utvrdimo ono što smo naučili. Gejmifikacija procesa učenja čini ga interesantnijim, efektivnijim i efikasnijim što ste, verujemo, imali prilike da primetite u poslednjih nekoliko meseci. Drago nam je što ste i dalje sa nama, i nadamo se da smo uspešno spojili lepo i korisno. Puno sreće u daljem radu i igri!
+Dobrodošli u novu epizodu! Danas ćemo igrati igru lovca i plena. Do sada smo bili uspešan vojskovođa i čarobnjak, i nastavljamo da stičemo nove veštine i osvajamo nove svetove.Cilj ovog nivoa je da naši irvasi ostanu živi. Imamo strelce i trebalo bi da pokupimo novčiće kako bismo prizvali nove vojnike koji će otići u napad na protivnike. Koristićemo informacije iz Gistova, kako bismo što bolje savladali zadatke koji su pred nama. Zajedno do pobede!
 
 
 

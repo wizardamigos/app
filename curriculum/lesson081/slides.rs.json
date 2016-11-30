@@ -1,34 +1,34 @@
 {
-"video": "qf039aqt3m",
+"video": "tjz22wx38a",
 "slides": [{
   "type": "question",
-  "time": "9:25",
-  "question": "Šta je niz?",
+  "time": "3:16",
+  "question": "Ako je tip neprijatelja strelac:",
   "options": [
-    "promenljiva",
-    "objekat",
-    "vrednost promenljive"
+    "povlačimo se",
+    "ubijamo ga",
+    "štitimo se"
 ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "6:42",
-  "text": "Pokrenite ovaj link",
+  "time": "0:45",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype#Methods",
-    "title": "Nizovi"
+    "url": "https://codecombat.com/play/level/dueling-grounds",
+    "title": "Igrajte sada"
   }
 },{
   "type": "challenge",
-  "time": "0:40",
-   "text": "Pokrenite ovaj link",
+  "time": "2:17",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://gist.github.com/esova-ana",
-    "title": "Puškice"
+    "url": "https://codecombat.com/play/level/clash-of-clones",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:25",
+  "time": "3:16",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

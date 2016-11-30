@@ -1,26 +1,26 @@
 {
-"video": "s2i137j89u",
+"video": "fmqoykx236",
 "slides": [{
   "type": "question",
-  "time": "4:40",
-  "question": "Koji kod je ispravan?",
+  "time": "4:09",
+  "question": "Šta naš junak radi ukoliko naiđe na zelenu zastavu?",
   "options": [
-    "if (enemy) { this.attack(enemy) } else if { this.attack(coin) }",
-    "if (enemy) { this.attack(enemy) } else if  (coin) { this.attack(coin) }"
-  
+    "napada neprijatelja",
+    "seče neprijatelja na pola",
+    "štiti se"
   ],
-  "answer": [1]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "1:16",
+  "time": "2:08",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/multiplayer-treasure-grove",
+    "url": "https://codecombat.com/play/level/rich-forager",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:40",
+  "time": "4:09",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

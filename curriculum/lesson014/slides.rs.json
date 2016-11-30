@@ -1,36 +1,26 @@
 {
-  "video": "u3igv4d8m9",
-  "slides": [{
-    "type": "question",
-    "time": "2:14",
-    "question":
-    [
-      "Uvlačenje (indentation) u programiranju predstavljeno je praznim prostorom na početku reda kako bi signalizirao početak novog pasusa. Mnogi kompjuterski jezici koriste ovu tehniku da odvoje pasuse ili druge logičke blokove u programu.",
-      "",
-      "Primer",
-      "while(true) {",
-        "  // Mesto za kod",
-        "}",
-        "",
-        "Dakle, šta je uvlačenje (indentation)?"
-      ],
-      "options": [
-        "prazan prostor na početku reda",
-        "prazan prostor na kraju reda"
-      ],
-      "answer": [0]
+"video": "zvk1w8wbr3",
+"slides": [{
+  "type": "question",
+  "time": "2:03",
+  "question": "Koja vrsta simbola se koristi u while(true) petlji za uvijanje koda, kako bi se petlja ponavljala zauvek?",
+  "options": [
+    "vitičaste zagrade - {}",
+    "uglaste - []"
+  ],
+  "answer": [0]
+  },{
+    "type": "challenge",
+    "time": "0:52",
+     "text": "Igrajte Code Combat i naučite nove trikove",
+    "link": {
+      "url": "http://codecombat.com/play/dungeon",
+      "title": "Igrajte sada"
+    }
     },{
-      "type": "challenge",
-      "time": "1:06",
-       "text": "Igrajte Code Combat i naučite nove trikove",
-      "link": {
-        "url": "http://codecombat.com/play/dungeon",
-        "title": "Igrajte sada"
-      }
-      },{
-        "type": "solution",
-        "time": "2:14",
-        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
-        "button": "Završite lekciju"
-        }]
-      }
+      "type": "solution",
+      "time": "2:03",
+      "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+      "button": "Završite lekciju"
+      }]
+    }

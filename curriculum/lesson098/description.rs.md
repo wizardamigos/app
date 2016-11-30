@@ -1,11 +1,10 @@
 ---
 {
-  "title": "Code Combat - Taktike jedinica",
-  "duration": "2:29"
+  "title": "Code Combat - Lovačka žurka",
+  "duration": "4:21"
 }
 ---
 
-Drago nam je što ste ponovo sa nama! Hajde da nastavimo. U novom veoma interesantnom nivou, nastavljamo vežbanje modula, ovog puta kombinujući ga sa petljom i redom. Cilj nam je da preživimo 30 sekundi i takođe prikupimo 300 zlatnika. Bonus dobijamo ukoliko preživimo 60 sekundi. Vežbaćemo korišćenje nove operacije kako bismo ubacili red u petlju. Potrebno je da izaberemo kojim redosledom želimo da prizovemo jedinice i tako ispunimo ovaj red. Idemo da savladamo još jedan nivo! Srećno!
-
+Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
 
 

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - borba protiv patuljaka",
-  "duration": "1:49"
+  "title": "Code Combat - borba uživo",
+  "duration": "3:58"
 }
 ---
 
-U novoj avanturi se borimo protiv patuljaka. Naš junak ima mogućnost da ih otera na dva načina. Prva mogućnost je držanje govora, jer ga se patuljci plaše i čim kaže nešto, oni će pobeći. Druga mogućnost je znatno surovija i uključuje naš najjači napad presecanja neprijatelja na pola. Međutim junak mora u ovoj igri biti jako pažljiv, jer ukoliko se skupi više patuljaka na jednom mestu, napraviće zasedu i lako ga poraziti. Zato moramo biti jako proračunati i odrediti kada ćemo koristiti koju mogućnost. Srećno!
+Ovoga puta imamo priliku da pokušamo nešto sasvim novo - da se borimo protiv pravih igrača. To nisu kompjuterski programi protiv kojih smo se do sada borili, već ljudi koji isto kao i mi uče programiranje kroz ovu interaktivnu igricu. Ponuđena su nam 3 nivoa borbe: lak, srednji i težak. Cilj ove igre je da porazimo protivnika. Čak i ukoliko nepobedimo, ne dozvolite da vas to obeshrabri, već pokušajte ponovo sa drugačijim kodom ili drugačijim oružjima. Pokažite sebi i drugima da ste pobednici u svetu programiranja!

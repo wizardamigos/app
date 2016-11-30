@@ -1,11 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovci i plen",
-  "duration": "4:25"
+  "title": "Code Combat - Cvetni Planinski Šumarak",
+  "duration": "2:32"
 }
 ---
 
-Dobrodošli u novu epizodu! Danas ćemo igrati igru lovca i plena. Do sada smo bili uspešan vojskovođa i čarobnjak, i nastavljamo da stičemo nove veštine i osvajamo nove svetove.Cilj ovog nivoa je da naši irvasi ostanu živi. Imamo strelce i trebalo bi da pokupimo novčiće kako bismo prizvali nove vojnike koji će otići u napad na protivnike. Koristićemo informacije iz Gistova, kako bismo što bolje savladali zadatke koji su pred nama. Zajedno do pobede!
+Postajemo pravi masteri baštovanske veštine, ovoga puta slikamo cvetovima! Dobili smo i novi predmet koji nam pokazuje listu svih jedinica koje smo prizvali. Komandovanje je isto kao i prethodnog puta, ovoga puta imamo opciju građenja i komandujemo ne samo vojnicima i snajperistima, već i grifinima i seljacima. Naš cilj je da nacrtamo nešto sa najmanje 1000 cvetova, ali je zapravo najbitnije da isprobamo nešto novo i zabavimo se. Idemo odmah!
 
 
 

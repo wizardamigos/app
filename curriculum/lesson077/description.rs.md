@@ -1,9 +1,9 @@
 ---
 {
-  "title": "Code Combat - Pustinjske Zmije",
-  "duration": "3:30"
+  "title": "Code Combat - Zlatna Groznica",
+  "duration": "2:38"
 }
 ---
 
-Stigli smo do nivoa koji se zove Peščane Zmije. Kako mu samo ime kaže, nije baš najbezbednije mesto gde se naš junak može šetati. Da bi ga bezbedno prešao biće mu potrebna posebna dodatna oprema. U ovom pustinjskom kanjonu neophodne su nam specijalne naočare. One će nam omogućiti da bolje vidimo, i zaštitimo se od opasnosti.
-Potrebno je da koristimo while-loop preko objekata u određenim nizovima kako bismo našli najbliže novčiće. Takođe, moraćemo da izbegavamo bombe. Opasan put, ali spremni smo!
+Uspešno prelazimo na sledeći nivo! Još malo i otarasićemo se peska koji se uvlači svuda! Cilj našeg junaka na ovom nivou je da prikupi sto zlatnika. U pisanju koda koristićemo While petlju kako bismo uz pomoć nje obuhvatili red novčićasa komandom za pronalaženje. Ovo neće biti previše teško, slično je prethodnim zadacima. Indeks novčića započećemo nulom, i imaćemo još jednu While petlju pomoću koje ćemo prolaziti kroz sve novčiće u redu. Hajde da se igramo i programiramo!
+

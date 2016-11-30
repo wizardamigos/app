@@ -1,26 +1,26 @@
 {
-"video": "yhwlqltx94",
+"video": "x3bkaxkbs3",
 "slides": [{
   "type": "question",
-  "time": "2:28",
-  "question": "Ako je vrednost novčića 3, znači da je:",
+  "time": "3:38",
+  "question": "Šta radimo naredbom continue",
   "options": [
-    "srebrni",
-    "zlatan",
-    "bronzani"
+    "ubijamo neprijatelja",
+    "ponavljamo petlju",
+    "prekidamo trenutno ponavljanje petlje i započinjemo sledeću"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:11",
-  "text": "Odigrajte nivo i vratite se",
+  "time": "2:03",
+     "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/shine-getter",
+    "url": "https://codecombat.com/play/level/continuous-alchemy",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:28",
+  "time": "3:38",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

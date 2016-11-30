@@ -1,27 +1,25 @@
 {
-"video": "jlbkjialev",
+"video": "80zcm5a4jl",
 "slides": [{
   "type": "question",
-  "time": "2:52",
-  "question": "Ako je Y koordinata neprijatelja veća od Y koordinate našeg junaka zamku postavljamo:",
+  "time": "2:45",
+  "question": "Kada se naš junak kreće na gore?",
   "options": [
-    "Gore",
-    "Dole",
-    "Levo",
-    "Desno"
+    "pos.y + 3",
+    "pos.y - 3"
   ],
   "answer": [0]
 },{
   "type": "challenge",
-  "time": "1:28",
+  "time": "1:00",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/crossroads",
-    "title": "Igrajte sadak"
+    "url": "https://codecombat.com/play/level/sarven-road",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:52",
+  "time": "2:45",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

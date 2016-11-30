@@ -1,19 +1,27 @@
 {
-"video": "z290kufgqd",
+"video": "u3igv4d8m9",
 "slides": [{
   "type": "question",
-  "time": "1:38",
-  "question": "What is the right form for using moveDown method in Code Combat?",
-  "options": [
-    "this.moveDown[]",
-    "this.moveDown",
-    "this.moveDown();",
-    "this.moveDown!"
+  "time": "2:14",
+  "question":
+  [
+    "In the written form of many languages, an indentation is an empty space at the beginning of a line to signal the start of a new paragraph. Many computer languages have adopted this technique to designate 'paragraphs' or other logical blocks in the program.",
+    "",
+    "Example",
+    "while(true) {",
+    "  // indented code here",
+    "}",
+    "",
+    "So what is indentation?"
   ],
-  "answer": [2]
+  "options": [
+    "empty space at the beginning of a line",
+    "empty space at the end of a line"
+  ],
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "0:45",
+  "time": "1:06",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/dungeon",
@@ -21,7 +29,7 @@
   }
 },{
   "type": "solution",
-  "time": "1:38",
+  "time": "2:14",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

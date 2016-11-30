@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Title",
-  "duration": "9:99"
+  "title": "Developer Tools",
+  "duration": "2:35"
 }
 ---
 
-Here comes description
+You will learn how to open Developer Tools in the browser and how to use a JavaScript console for the first time.

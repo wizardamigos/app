@@ -1,26 +1,26 @@
 {
-"video": "a9dbgpyhie",
+"video": "3acpgkurcy",
 "slides": [{
   "type": "question",
-  "time": "14:58",
-  "question": "Šta je pozivanje funkcije?",
+  "time": "6:24",
+  "question": "Koliko lokacija smo postavili na ovom nivou?",
   "options": [
-    "davanje imena funkciji",
-    "pokretanje rada funkcije",
-    "dodeljivanje broja funkciji"
+    "1",
+    "2",
+    "3"
 ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "14:00",
-  "text": "Otvorite Anin Gist",
+  "time": "1:58",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://gist.github.com/esova-ana/b4d5b39a45e824b78706",
-    "title": "Otvorite sada"
+    "url": "https://codecombat.com/play/level/cloudrip-siege",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "14:58",
+  "time": "6:24",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

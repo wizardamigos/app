@@ -1,11 +1,11 @@
 ---
 {
-  "title": "Code Combat - Oblačna opsada",
-  "duration": "6:33"
+  "title": "Code Combat - Špijuni su među nama",
+  "duration": "2:21"
 }
 ---
 
-Došli smo do poslednjeg nivoa koji ćemo zajedno prelaziti u Code Combatu. Vreme tako brzo prolazi, a mi smo na pragu jednog novog poglavlja našeg kursa. Nakon ovog nivoa imaćete priliku da znanje stečeno kroz igru primenite u stvarnom kodu. Izuzetno nam je drago što smo ovoliko napredovali zajedno, rame uz rame. Nadamo se da ste uživali u avanturama našeg heroja, odnosno heroine, i da ćete još više uživati u onome što sledi. Čeka nas jedan malo izazovniji nivo, ali tu smo da pomognemo jedni drugima, pa nam neće teško pasti. Srećno!
+Bliži se kraj našim avanturama u Code Combatu, i vreme je da saznamo ko je špijun među nama. To je ujedno i ime nivoa koji sledeći prelazimo. Do sada smo skupili dosta novca i vreme je da ga pametno potrošimo. Potrebno je da našeg junaka opremimo što bolje, kako bi se još više istakao u svojim podvizima kroz svet koda. Ovoga puta, tražiće izdajnika među svojim redovima. Jedini trag koji imamo jeste da je đpijunovo ime u sebi sadrži slovo Z. Hajde da mu pomognemo!
 
 
 

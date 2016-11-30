@@ -1,11 +1,10 @@
 ---
 {
   "title": "Portfolio aplikacija",
-  "duration": "9:37"
+  "duration": "11:04"
 }
 ---
 
- U današnjoj lekciji ćemo se baviti stavljanjem i pozicioniranjem podnožja na stranici i upoznati se sa nekim veoma korisnim alatkama. Ono čime ćemo se pozabaviti su 3 male ikonice na dnu stranice. Jedna će voditi do Github-a, druga do e-mail adrese i treća do fejsbuk naloga. U ove svrhe koristićemo stranicu FontAwesome, gde imamo veliki izbor različitih ikonica koje možemo iskoristiti. Do sada smo već uspeli da ubacimo nekoliko komponenti i opciju skrolovanja u naš kod, tako da ćemo bez problema savladati i ovu lekciju. Srećno!
-
+U prethodne dve lekcije počeli smo da pravimo svoju portfolio aplikaciju. Prvo smo napisali kod, zatim ga sređivali i činili ga preglednijim i čitljivijim. Ovoga puta naučićemo kako da dodamo nove komponente stranici i kako da im menjamo boje i veličine. Trenutno na njoj imamo samo sliku, naslov i podnaslov. Biće neophodno i da malo hakujemo requirebin u kome pišemo kod ako želimo da skrolujemo dole i dodamo još stvari stranici. Dakle, biće uzbudljivo, zato počnimo što pre!
 
 

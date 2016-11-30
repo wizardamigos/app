@@ -1,27 +1,27 @@
 {
-"video": "6uhuraf61v",
+"video": "0v6nwtq89v",
 "slides": [{
   "type": "question",
-  "time": "2:35",
-  "question": "Ako je udaljenost jaka od našeg heroja manja od 10, on se mora pomeriti za:",
+  "time": "5:16",
+  "question": "Kojom komandom saznajemo vrednost x koordinate zastave?",
   "options": [
-    "x-5",
-    "x+5",
-    "x-10",
-    "x+10"
+    "pos.flag.x",
+    "x.flag.pos",
+    "flag.pos.x",
+    "flag.pos.(x)"
   ],
-  "answer": [3]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:25",
-  "text": "Odigrajte nivo i vratite se",
+  "time": "0:11",
+  "text": "Otvorite novi Gist i dopunite ga stečenim znanjem",
   "link": {
-    "url": "https://codecombat.com/play/level/the-mighty-sand-yak",
-    "title": "Igrajte sada"
+    "url": "https://gist.github.com/",
+    "title": "Otvorite novi Gist"
   }
 },{
   "type": "solution",
-  "time": "2:35",
+  "time": "5:16",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

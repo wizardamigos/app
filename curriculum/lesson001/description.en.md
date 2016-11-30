@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Download & Install Chrome Browser",
-  "duration": "3:29"
+  "title": "Chrome Profile + GMail Account",
+  "duration": "3:08"
 }
 ---
 
-In this lesson you will find out how to install faster Google Chrome internet browser with amazing built-in developer tools you will learn to use in the future lessons.
+You will learn how to create a Google Chrome profile and create your own free e-mail account.

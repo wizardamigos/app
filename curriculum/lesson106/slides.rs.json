@@ -1,26 +1,26 @@
 {
-"video": "ludi52dx6p",
+"video": "2thw8oq3en",
 "slides": [{
   "type": "question",
-  "time": "5:07",
-  "question": "Izaberite pravilne izjave",
+  "time": "5:43",
+  "question": "Šta je refactoring (obrađivanje) u programiranju:",
   "options": [
-    "Ako hoćemo da vratimo bilo šta sa funkcijom, onda trebamo da pre toga što hoćem da vratimo, da stavimo return.",
-    "Kada pozovemo funkciju, možemo da preko nje pozovemo novu funkciju.",
-    "Funkcija može da vrati objekat koji ima u sebi 'property' koji sadrži novu funkciju."
+    "pravljenje novog koda spajanjem više postojećih kodova",
+    "prolaženje kroz postojeći kod radi nalaženja boljih rešenja",
+    "uzimanje u obzir više faktora pri pisanju koda"
 ],
-  "answer": [0,1,2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "5:07",
-  "text": "Napravite novi Gist",
+  "time": "0:30",
+  "text": "Otvorite Anin Gist",
   "link": {
-    "url": "https://gist.github.com/",
-    "title": "Napravi sada"
+    "url": "https://gist.github.com/esova-ana/b4d5b39a45e824b78706",
+    "title": "Otvorite sada"
   }
 },{
   "type": "solution",
-  "time": "5:07",
+  "time": "5:43",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

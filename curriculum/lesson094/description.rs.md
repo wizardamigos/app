@@ -1,11 +1,11 @@
 ---
 {
-  "title": "Code Combat - Cvetni Planinski Šumarak",
-  "duration": "2:32"
+  "title": "Code Combat - Geometrija Cveća ",
+  "duration": "5:26"
 }
 ---
 
-Postajemo pravi masteri baštovanske veštine, ovoga puta slikamo cvetovima! Dobili smo i novi predmet koji nam pokazuje listu svih jedinica koje smo prizvali. Komandovanje je isto kao i prethodnog puta, ovoga puta imamo opciju građenja i komandujemo ne samo vojnicima i snajperistima, već i grifinima i seljacima. Naš cilj je da nacrtamo nešto sa najmanje 1000 cvetova, ali je zapravo najbitnije da isprobamo nešto novo i zabavimo se. Idemo odmah!
+Naš prelepi trofej iz prethodnog nivoa nije samo puki trofej - u sebi krije magične moći! U ovoj lekciji zalazimo u novu sobu zvanu Geometrija Cveća gde ćemo imati prilike da iskoristimo moći prstena. Lepi divlji cvetovi rastu kuda god prođemo, kada ga nosimo na ruci. Garantuje nam veštinu biranja boja cvetova, najšareniju među veštinama. Cvetovi mogu biti roze, crveni, žuti, plavi, ljubičasti, beli ili nasumični. Takođe dobijamo moć da izaberemo da li će cvetovi izrasti ili ne. Vreme je da naučimo kako je to biti baštenski čarobnjak!
 
 
 

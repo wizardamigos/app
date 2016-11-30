@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Vraćanje objekata sa funkcijama",
-  "duration": "5:15"
+  "title": "JavaScript - Vraćanje funkcija",
+  "duration": "5:53"
 }
 ---
 
-Ponovo se igramo funkcijama. Ovoga puta pričamo o vraćanju objekata sa funkcijama. Koristićemo uobičajeni šablon za vraćanje objekata sa funkcijama kao vrednostima i na konkretnim primerima videti kako sve to funkcioniše. Koristićemo konzolu u Google Chromu kako bismo praktično isprobali ono što prelazimo. Napunićemo svoj gist novim informacijama, a glave znanjem! Učimo zajedno! 
+Vraćamo se na funkcije i bavimo se vraćanjem funkcija. Funkcije mogu da povrate svaku vrednost u JavaScriptu: brojeve, nizove, redove, objekte, čak i druge funkcije. Kada vraćamo jednu funkciju iz druge funkcije, promenljive koje označimo će ostati u unutrašnjoj funkciji. Osim vraćanjem funkcija, bavićemo se i obrađivanjem koda (i saznati šta to tačno znači). Nadamo se da vam je i ovaj, čisto edukativan, deo interesantan kao prethodni. Uskoro krećemo u nešto novo i divlje! Spremite se!
+
 
 

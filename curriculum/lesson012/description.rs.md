@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - petlje",
-  "duration": "2:08"
+  "title": "Code Combat - napad",
+  "duration": "3:26"
 }
 ---
-Prethodne lekcije donele su nam određeno znanje, imali smo prilike da naučimo kako da se krećemo kroz prostor uz pomoć komandi idiGore (moveUp), idiDole (moveDown), idiLevo (moveLeft) i idiDesno(moveRight), dobili smo i nov alat mač koji nam je doneo komandu (attack) kojom možemo napadati neprijatelje, dok nam nož pomaže i da izlečimo lika ukoliko je u sukobu povređen. Dvanaesta lekcija nam donosi još jedan nov alat a to je knjiga. Šta njome dobijamo?  LOOP! U ovoj lekciji jos jedna provera znanja, zatim ćemo uz pomoć igrice naučiti kako da programiramo da se stvari ponavljaju u krug. LOOP nam donosi nove mogućnosti koje su vredne pamćenja jer su vrlo korisne za Vaš dalji rad, zato dajte sve od sebe i u ovoj lekciji. 
 
+Neprijatelj, kako ga savladati? Do sada smo imali prilike da naučimo kako da se krećemo kroz prostor uz pomoć komandi idiGore (moveUp), idiDole (moveDown), idiLevo (moveLeft) i idiDesno(moveRight). Ovoga puta naš lik u Code Combat-u dobio je nove alate koji će mu pomoći da prođe kroz date nivoe. Pred nama su nove komande koje ćemo imati prilike da koristimo u našem kodu. Mač nam donosi komandu (attack) kojom možemo napadati neprijatelje, dok nam nož pomaže da izlečimo lika ukoliko je u sukobu povređen. Uz sve to potrebno je da pokupimo dragulj, i imaćemo mogućnost da dobijemo bonus ukoliko naš kod bude bez greške. 

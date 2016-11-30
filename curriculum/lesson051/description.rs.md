@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - 3 zastave",
-  "duration": "3:56"
+  "title": "Code Combat - minsko polje",
+  "duration": "2:05"
 }
 ---
 
-U  novoj igri ćemo koristiti zastave različitih boja, za različite komande. Ukoliko postavimo zelenu zastavu, naš junak će se kretati ka njoj, ukoliko postavimo crnu, junak će preseći neprijatelja na pola, a crvena će značiti da je potrebno lečenje. Kod crne zastave ćemo koristiti duplu IF tehniku, kako bismo u presekli neprijatelja ukoliko je daleko, a ukoliko je blizu, samo ga napali. Da bi nam ovo uspelo, moramo da koristimo jednu promenljivu koju smo definisali ranije. Kako bismo uspešno završili ovaj nivo, moraćemo da kombinujemo sve 3 zastave. Ne zaboravite na zdravlje našeg junaka i srećno!
+U novoj avanturi, naš izazov je da porazimo ogare koji se nalaze sa naše strane mina. Kako ne bismo nagazili na mine moramo da izračunamo udaljenost od njih. To ćemo uraditi tako što ćemo definisati varijablu udaljenosti i proveriti da li je neprijatelj udaljen manje od 10 metara. Ukoliko to bude slučaj, koristićemo naš najjači napad presecanja. Takođe ćemo koristiti zastave i komandu pickUpFlag kako bismo usmerili junaka da se kreće ka njima, umesto u pravcu mina.

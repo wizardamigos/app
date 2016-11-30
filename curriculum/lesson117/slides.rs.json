@@ -1,19 +1,18 @@
-
 {
-"video": "3qnmr87jw3",
+"video": "ihlxblf8vn",
 "slides": [{
   "type": "question",
-  "time": "5:40",
-  "question": "Čemu služi miniXHR?",
+  "time": "4:26",
+  "question": "kako u ovoj lekciji dodeljujemo boju strelici?",
   "options": [
-    "za prikupljanje podataka",
-    "za predstavljanje podataka",
-    "za slanje podataka"
+    "color: ${PINK}",
+    "color: €{PINK}",
+    "color: %{PINK}"
 ],
-  "answer": [2]
+  "answer": [0]
 },{
   "type": "solution",
-  "time": "5:40",
+  "time": "4:26",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

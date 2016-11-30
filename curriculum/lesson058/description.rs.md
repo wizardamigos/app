@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - Jak moćnog peska",
-  "duration": "2:45"
+  "title": "Objekti",
+  "duration": "5:26"
 }
 ---
 
-Vraćamo se našoj omiljenoj programerskoj igrici! Zakoračićemo u potpuno novi Code Combat svet, prepun peska i oaza. Pogodili ste, ulazimo u pustinju gde nas sigurno očekuje mnogo izazova. U trećem svetu ćemo se suočiti sa aritmetikom, brojačima, while petljama, prekidima, nizovima, poredićemo stringove, i tražiti minimume i maksimume. Postaje sve uzbudljivije, svaki novi svet donosi mnogo novih saznanja i jedva čekamo da se zajedno upustimo u još jednu veliku avanturu!
+Nastavljamo da eksperimentišemo sa konzolom našeg čitača i postaje sve interesanatnije.  U prošloj lekciji bavili smo se ugnježdenim if-else petljama, a ovog puta fokusiraćemo se na objekte. Objekti se mogu zapisivati na više razlučitih načina, a danas ćemo saznati i kako. Koristićemo ključeve objekata i saznati šta oni zapravo predstavljaju. Naučićemo kako da izdvojimo postojeće atribute nekog objekta, kao i da kreiramo potpuno nove ili ih u potpunosti uklonimo.

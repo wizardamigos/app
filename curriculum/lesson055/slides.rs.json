@@ -1,26 +1,26 @@
 {
-"video": "rcab1kkrpn",
+"video": "g5x5bgkqf1",
 "slides": [{
   "type": "question",
-  "time": "5:11",
-  "question": "Šta radi if-else if-else struktura ukoliko imamo više izraza od kojih prvi nije tačan?",
+  "time": "6:08",
+  "question": "Kako pravilno kreiramo promenljivu x za novčić?",
   "options": [
-    "proverava sve ostale izraze dok ne dođe do onog koji je tačan",
-    "staje nakon prvog netačnog"
+    "var x = pos.x",
+    "var x = coin.pos.x"
   ],
-  "answer": [0]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:11",
-  "text": "Otvorite novi Gist i dopunite ga stečenim znanjem",
+  "time": "5:44",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://gist.github.com/",
-    "title": "Otvorite novi Gist"
+    "url": "https://codecombat.com/play/level/siege-of-stonehold",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "5:11",
-  "text": "Ukoliko ste uspešno odgovorili na pitanja, kliknite da završite lekciju",
+  "time": "6:08",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]
 }

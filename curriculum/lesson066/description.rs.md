@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat - merenje vremena",
-  "duration": "3:03"
+  "title": "Code Combat - zastave",
+  "duration": "4:01"
 }
 ---
 
-Nastavljamo da se probijamo kroz pustinju Code Combata! U današnoj lekciji soba u koju ulazimo se zove Keeping time. Ovaj nivo se tako zove jer dobijamo novu veštinu, koja nam daje mogućnost da proveravamo vreme metodom now. Opremićemo se time, a pored pomenutog i  novim mačem, koji nam daje dve mogućnosti -  pored toga što napadamo dobijamo i pojačanje (powerUp) i naš junak postaje mnogo snažniji. Dupla oprema za ovaj nivo, počnimo!
+Nastavljamo dalje! Danas se posebno opremamo, pred nama je malo kompleksniji zadatak. Uzećemo oruđe za pravljenje ograda i vatrenih zamki, a biće nam potrebne i zastave! Naš zadatak će biti da ih pronađemo u ovoj avanturi. Moramo slušati strelce jer će nam oni reći šta tačno da sagradimo. Ako je pred nama zelena zastava , trebalo bi da sagradimo ogradu na njenom mestu i da je nakon toga pokupimo. Ako imamo crnu zastavu , trebalo bi da tu napravimo zamku, i naravno da je pokupimo na kraju. U suprotnom, trebalo bi se vratiti u centar. Srećno!
+

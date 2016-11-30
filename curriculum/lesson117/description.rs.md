@@ -1,10 +1,12 @@
 ---
 {
-  "title": "Kviz aplikacija",
-  "duration": "5:50"
+  "title": "Portfolio aplikacija",
+  "duration": "4:36"
 }
 ---
 
-U delu eSova kursa koji sledi naučićemo kako da napravimo svoju kviz aplikaciju. Zajedno ćemo napraviti kviz gde će korisnik moći da odgovori na pitanja tako što nam kaže koliko se slaže sa nekom izjavom. Koristićemo skalu od 1 do 6 kako bismo omogućili onome ko odgovara na pitanje da nam približi svoj stav o nekoj temi. Na kraju kviza, korisnik će moći da vidi i uporedi svoje odgovore sa prosečnim odgovorima ostalih ispitanika. Hajde da sastavimo kod za ovu aplikaciju!
+ U ovoj lekciji ćemo dopuniti kod kako bi naš portfolio bio još lepši i sadržajniji. Ovoga puta ćemo uneti još jednu funkciju u našu komponentu portfolia i ova funkcija će se zvati otvaranje novog jezička. Kada god neko klikne na ovu površinu, biće preusmeren na novi jezičak koji će otvoriti naš kviz. Osim toga dodaćemo i strelicu koja će pokazati da se nešto nalazi ispod početne strane. Naučićemo kako da je animiramo kako bi naša aplikacija bila još interesantnija. Hajde da zajedno ulepšamo svoju aplikaciju i učinimo je još zanimljivijom!
+
+
 
 

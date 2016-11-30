@@ -1,28 +1,28 @@
 {
-"video": "chkjy38w4e",
+"video": "c3io1b5m35",
 "slides": [{
   "type": "question",
-  "time": "2:02",
-  "question": "Označite osnovne komande u CodeCombat-u za pomeranje u prostoru?",
+  "time": "2:59",
+  "question": "How do we call digital recording of computer screen output, also known as a video screen capture, often containing audio narration?",
   "options": [
-    "moveLeft (idiLevo)",
-    "moveBack (idiNazad)",
-    "moveUp (idiGore)",
-    "moveDown (idiDole)"
+    "Video",
+    "Screen",
+    "Screencast",
+    "Screencastify"
   ],
-  "answer": [0,2,3]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:14",
-  "text": "Igrajte Code Combat i naučite nove trikove",
+  "time": "2:59",
+  "text": "Go and create your first Screencast. You can of course also use QuickTime Player or other tools available.",
   "link": {
-    "url": "http://codecombat.com/play/dungeon",
-    "title": "Igrajte sada"
+    "url": "",
+    "title": "Create your screencast"
   }
-  },{
-    "type": "solution",
-    "time": "2:02",
-    "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
-    "button": "Završite lekciju"
-    }]
-  }
+}, {
+  "type": "solution",
+  "time": "2:59",
+  "text": "If you successfully created your first screencast, click here to complete the lesson.",
+  "button": "Complete the lesson"
+}]
+}

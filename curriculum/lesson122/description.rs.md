@@ -1,12 +1,11 @@
 ---
 {
   "title": "Kviz aplikacija",
-  "duration": "10:13"
+  "duration": "7:06"
 }
 ---
 
-U ovoj lekciji detaljnije ćemo proći kroz deo našeg koda odakle vučemo podatke iz baze podataka i šaljemo ih u Chart.js kako bi bili prikazani na grafikonu. Obajsnićemo šta tačno koja funkcija radi i kako je primeniti na konkretne odgovore ispitanika. Bližimo se kraju eSova kursa, kviz aplikaciju završavamo u ovoj lekciji  i ostaje nam da vidimo kako da je postavimo online jer trenutno sve razvijamo u requirebin-u. Sledeći korak je da ovaj kod postavimo na github, kako bi drugi korisnici mogli da ga vide i koriste.
-
+U ovoj lekciji naučićemo kako da vizuelno predstavimo odgovore ispitanika na pitanja u našoj kviz aplikaciji. Osim toga, naučićemo kako da uporedimo trenutne sa odgovorima prethodnih ispitanika, i to unesemo u grafikon. Imaćemo priliku da biramo između više tipova grafikona, u odnosu na to koji najviše odgovara našim potrebama. U te svrhe koristićemo modul Chart.js koji ćemo dodati našem projektu i naučiti kako da ga koristimo korak po korak. 
 
 
 

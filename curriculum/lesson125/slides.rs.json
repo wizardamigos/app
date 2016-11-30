@@ -1,18 +1,18 @@
 {
-"video": "abrg293gc5",
+"video": "h9630ocdd9",
 "slides": [{
   "type": "question",
-  "time": "11:27",
-  "question": "Git skladište čuva:",
+  "time": "10:26",
+  "question": "Kada u terminalu koristimo komandu CD na nekom direktorijumu:",
   "options": [
-    "Sve prethodne verzije koda",
-    "Poslednje 3 verzije koda",
-    "Samo poslednju verziju koda"
+    "otvaramo taj direktorijum",
+    "kreiramo taj direktorijum",
+    "brišemo taj direktorijum"
 ],
   "answer": [0]
 },{
   "type": "solution",
-  "time": "11:27",
+  "time": "10:26",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,8 +1,12 @@
 ---
 {
-  "title": "Programerski alati",
-  "duration": "2:35"
+  "title": "Znakovni nizovi, brojevi, promenljive i petlje",
+  "duration": "5:26"
 }
 ---
 
-Na početku eSova kursa, u jednoj od prvih lekcija, instalirali smo Google Chrome čitač zato što ima ugrađene programerske alate, i konačno je došlo je vreme da naučimo i kako da ih koristimo! Naučićemo kako da otvorimo programersku konzolu  i videti kako se ona ponaša u odnosu na to šta u nju unesemo.  U nju možemo unositi brojeve, kao i stringove, a upoznaćemo se i sa boolean tipom podataka u JavaScript programskom jeziku. Boolean nam otkriva da li je neki iskaz tačan ili netačan. Pored toga, podsetićemo se i  kako se u kodu koristi while(true) petlja, ovoga puta u Chrome konzoli. Ona nam omogućava da jednu ili više komandi, u okviru petlje ponavljamo dokle god se za to ispunjava uslov. Konačno ćemo imati priliku da van igre primenimo svoje znanje, zato brzo tastauru u ruke, i kuckajmo!
+Uspešno smo prošli kroz ceo prvi svet Code Combat igre, i došlo je vreme da ponovimo sve ono što smo na tom putu naučili.  U ovoj lekciji napravićemo novu puškicu u GitHub-u, odnosno novi Gist, gde ćemo zabeležiti sve ono što je bitno, a što smo do sada koristili kako bismo prelazili nivoe. Podsetićemo se kako da u JavaScript-u ostavimo komentare u okviru koda i kako da različito obeležimo brojeve, a kako nizove. Setićemo se pravila kako se sastavljaju veći nizovi od više malih, i kako se pravilno definiše neka promenljiva koju želimo da koristimo u svom kodu. 
+Naravno, tu je i while(true) petlja koja nam omogućava beskonačno ponavljanje iskaza koji se unutar nje nalaze. Sve su ovo veoma bitni pojmovi iz JavaScrit-a, krucijalni za razvoj budućih programera.
+
+
+

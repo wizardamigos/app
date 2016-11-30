@@ -1,19 +1,19 @@
 {
-"video": "kixuxjp6qs",
+"video": "ef2rj29nzo",
 "slides": [{
   "type": "question",
-  "time": "3:55",
-  "question": "Dopuni funkciju za vraćanje nazad if (i>0){",
+  "time": "10:51",
+  "question": "od kog broja u programiranju počinjemo da brojimo",
   "options": [
-    "",
-    "i = i + 1",
-    "i = i - 1",
-    "i = i "
+    "0",
+    "1",
+    "01",
+    "10"
 ],
-  "answer": [1]
+  "answer": [0]
 },{
   "type": "solution",
-  "time": "3:55",
+  "time": "10:51",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

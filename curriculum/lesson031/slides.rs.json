@@ -1,27 +1,27 @@
 {
-"video": "7qkuu0ypg9",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "3:20",
-  "question": "U kojim primerima će naš heroj reći 'Hey'?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "if (2+2===4){ this.say('Hey')}",
-    "if (2+3===5){ this.say('Hey')}",
-    "if (2+2=4){ this.say('Hey')}",
-    "if (2+3=4){ this.say('Hey')}"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
-  "answer": [0,1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "3:20",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/thumb-biter",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:20",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,18 +1,18 @@
 {
-"video": "42rmnzd5yv",
+"video": "0x2whrmm8c",
 "slides": [{
   "type": "question",
-  "time": "6:57",
-  "question": "Chart.js koristi seledeći HTML element:",
+  "time": "3:43",
+  "question": "Koji metod koristimo kako bi baza podataka mogla da dobije informacije iz aplikacije?",
   "options": [
-    "Paper",
-    "Canvas",
-    "Brush"
+    "JSON.magnify(results)",
+    "JSON.sendify(results)",
+    "JSON.stringify(results)"
 ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "solution",
-  "time": "6:57",
+  "time": "3:43",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]
