@@ -1,23 +1,19 @@
 {
-  "video": "ivnri05x8y",
+  "video": "s77wyim63o",
   "slides": [{
     "type": "question",
-    "time": "4:14",
-    "question":
-    [
-      "Da li je a) i b) isto?",
-      " a) self.attack('Kratt');",
-      " b) var enemy = 'Kratt';",
-      "    self.attack(enemy);"
-    ],
+    "time": "1:24",
+    "question": "Kako se zove promenljiva u ovom iskazu: var enemy1 = findNearestEnemy(); ?",
     "options": [
-      "da, u primeru a) koristimo ime and u primeru b) koristimo kreiramo promenljivu enemy (neprijatelj) i onda je koristimo umesto imena",
-      "ne, nije isto"
+      "enemy2",
+      "enemy3",
+      "enemy1",
+      "enemy4"
     ],
-    "answer": [0]
+    "answer": [2]
     },{
       "type": "challenge",
-      "time": "3:29",
+      "time": "0:29",
        "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
@@ -25,7 +21,7 @@
       }
       },{
         "type": "solution",
-        "time": "4:14",
+        "time": "1:24",
         "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

@@ -1,28 +1,28 @@
 {
-"video": "9szsqqteui",
+"video": "2vfqgzd6nk",
 "slides": [{
   "type": "question",
-  "time": "3:00",
-  "question": "Mark the characters for which we created a shortcut in our Gist?",
+  "time": "1:23",
+  "question": "What method did we use to destroy the door?",
   "options": [
-    "/",
-    ";",
-    "ß",
-    ">"
+    "attack",
+    "destroy",
+    "explode",
+    "remove"
   ],
-  "answer": [0,1,3]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "3:00",
-  "text": "Add more special characters to your gist and then test practise typing them with WPM test.",
+  "time": "0:51",
+  "text": "Play Code Combat and learn new tricks",
   "link": {
-    "url": "http://wpm-test.com/programming-typing-test/",
-    "title": "Start now"
+    "url": "https://codecombat.com/play/level/dread-door",
+    "title": "Play now"
   }
 },{
   "type": "solution",
-  "time": "3:00",
-  "text": "If you successfuly added all special characters from the video to your gist and finished the test, click here to complete the lesson.",
+  "time": "1:23",
+  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]
 }

@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - promenljive",
-  "duration": "4:23"
+  "title": "Code Combat - borba",
+  "duration": "1:34"
 }
 ---
 
-Na redu je devetnaesta lekcija, gde ćemo imati priliku da primenimo do sada naučeno. Veoma je bitno da sve što saznajemo kroz lekcije što češće obnavljamo i primenjujemo, jer je to jedini način da stvarno savladamo naučeno i shvatimo kako da adektvatno iskoristimo stečeno znanje.  Kao i do sada, pred nama je zadatak da heroj preživi dati nivo, i uz to porazi sva tri ogra . U tome će nam pomoći nove komande koje dobijamo, a naučićemo i šta je u programiranju deklarativna varijabla. Naš heroj dobija novi alat: naočare, čime dobija novu veštinu: da spazi i zatim porazi najbližeg neprijatelja.
-
+Još jedan okrugao broj, dvadeset: broj današnje lekcije, ali četrnaesti nivo u igri Code Combat. U prošloj lekciji smo naučili kako da se izborimo protiv neprijatelja. Prvo smo vežbali kako da savladamo jednog, potom njih nekoliko, a sada ćemo naučiti kako da napišemo još složeniji kod i  savladamo mnogo neprijatelja. Pored neprijatelja koje treba da porazimo, potrebno je prikupiti dragulje, a možemo osvojiti i poseban bonus ukoliko iz prvog pokušaja pravilno napišemo kod. Prvo ćete imati priliku da bez naše pomoći pokušate da izbavite heroja iz nevolje, a zatim ćemo zajedno, korak po korak, videti koji je najbolji način za to. 

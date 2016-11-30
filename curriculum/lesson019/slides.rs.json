@@ -1,19 +1,23 @@
 {
-  "video": "2vfqgzd6nk",
+  "video": "ivnri05x8y",
   "slides": [{
     "type": "question",
-    "time": "1:23",
-    "question": "Koji ste metod koristili da uništite vrata?",
-  "options": [
-      "attack (napadni)",
-      "destroy (uništi) ",
-      "explode (raznesi)",
-      "remove (ukloni)"
+    "time": "4:14",
+    "question":
+    [
+      "Da li je a) i b) isto?",
+      " a) self.attack('Kratt');",
+      " b) var enemy = 'Kratt';",
+      "    self.attack(enemy);"
+    ],
+    "options": [
+      "da, u primeru a) koristimo ime and u primeru b) koristimo kreiramo promenljivu enemy (neprijatelj) i onda je koristimo umesto imena",
+      "ne, nije isto"
     ],
     "answer": [0]
     },{
       "type": "challenge",
-      "time": "0:51",
+      "time": "3:29",
        "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
@@ -21,7 +25,7 @@
       }
       },{
         "type": "solution",
-        "time": "1:23",
+        "time": "4:14",
         "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

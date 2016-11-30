@@ -1,28 +1,28 @@
 {
-  "video": "4ogqjqlxed",
-  "slides": [{
-    "type": "question",
-    "time": "5:13",
-    "question": "Koji programski jezik ćemo naučiti kroz eSova kurs?",
-    "options": [
-      "Ruby",
-      "JavaScript",
-      "Java",
-      "Python"
-    ],
-    "answer": [1]
-  },{
-    "type": "challenge",
-    "time": "5:06",
-    "text": "Napravite Code Combat nalog i odigrajte prve 3 sobe ",
-    "link": {
-      "url": "http://codecombat.com/play/dungeon",
-      "title": "Napravite Code Combat nalog"
-    }
-    }, {
-      "type": "solution",
-      "time": "5:13",
-      "text": "Ukoliko ste uspešno prošli kroz prve 3 sobe u Code Combat-u, završite lekciju i idite na sledeću.",
-      "button": "Završite lekciju"
-      }]
-    }
+"video": "c3io1b5m35",
+"slides": [{
+  "type": "question",
+  "time": "2:59",
+  "question": "How do we call digital recording of computer screen output, also known as a video screen capture, often containing audio narration?",
+  "options": [
+    "Video",
+    "Screen",
+    "Screencast",
+    "Screencastify"
+  ],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "2:59",
+  "text": "Go and create your first Screencast. You can of course also use QuickTime Player or other tools available.",
+  "link": {
+    "url": "",
+    "title": "Create your screencast"
+  }
+}, {
+  "type": "solution",
+  "time": "2:59",
+  "text": "If you successfully created your first screencast, click here to complete the lesson.",
+  "button": "Complete the lesson"
+}]
+}

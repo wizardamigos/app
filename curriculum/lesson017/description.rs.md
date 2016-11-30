@@ -1,10 +1,9 @@
 ---
 {
-  "title": "Posebni simboli 1",
-  "duration": "3:40"
+  "title": "Posebni simboli 2",
+  "duration": "3:09"
 }
 ---
 
-Dobrodošli u šesnaestu lekciju! Predah od prethodnog ciklusa i nastavljamo dalje sa učenjem novih stvari. Definitivno je došlo vreme da krenemo korak dalje, pošto smo uspešno završili prvo poglavlje eSova kursa. Vreme je da naučimo nove komande i simbole - u šesnaestoj lekciji naučićemo koji su najčešće korišćeni posebni simboli u JavaScript programskom jeziku i kako ih pronaći na tastaturi. Imaćemo priliku da testiramo i vežbamo brzinu svojih prstiju, što je veoma bitno za bilo koga ko želi da se bavi programiranjem i jednog dana uspe da sve svoje radne zadatke završi na vreme. Razvijanje ove veštine omogućiće nam da brzo napišemo tačan, pregledan i koristan kod, kako nama tako i nekome ko taj kod čita. 
-
+U prethodnoj lekciji naučili smo za šta koristimo i gde se nalaze neki novi simboli na našoj tastaturi. Oni se vrlo često primenjuju kako u JavaScript-u, tako i u drugim programskim jezicima na malo drugačiji način, u zavisnosti od pravila. U današnjoj lekciji saznaćemo koje je još simbole potrebno i bitno savladati da bismo uspešno nastavili dalje. Pored toga naučićemo kako da prečice do naučenih simbola zapišemo i sačuvamo u puškicu, odnosno Gist datoteku u okviru svog GitHub naloga. Ponovo ćemo testirati koliko smo naučili putem online testa za kucanje, gde ćemo takođe imati priliku da proverimo i njegoviu brzinu. Od sledeće lekcije moći ćemo da pokažemo šta smo naučili kroz kod koji budemo pisali.
 

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Special characters 1",
-  "duration": "3:40"
+  "title": "Special characters 2",
+  "duration": "3:09"
 }
 ---
 
-You will learn what are the most used special characters in Javascript programming language and how to find them on your keyboard.
+You will learn even more special characters and at the end you will also be able to test your typing speed.

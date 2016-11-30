@@ -1,26 +1,28 @@
 {
-"video": "htx2zbzjtn",
+"video": "9szsqqteui",
 "slides": [{
   "type": "question",
-  "time": "3:31",
-  "question": "Where do we save the cheatsheet for Special Characters from this lesson?",
+  "time": "3:00",
+  "question": "Mark the characters for which we created a shortcut in our Gist?",
   "options": [
-    "in the Gist (and Bookmarked under GISTS/Special Characters)",
-    "we don't save it"
+    "/",
+    ";",
+    "ß",
+    ">"
   ],
-  "answer": [0]
+  "answer": [0,1,3]
 },{
   "type": "challenge",
-  "time": "3:31",
-  "text": "Find special characters on your keyboard, then create a Gist and save shortcuts for curly braces {} and square brackets [].",
+  "time": "3:00",
+  "text": "Add more special characters to your gist and then test practise typing them with WPM test.",
   "link": {
-    "url": "https://gist.github.com/",
+    "url": "http://wpm-test.com/programming-typing-test/",
     "title": "Start now"
   }
 },{
   "type": "solution",
-  "time": "3:31",
-  "text": "If you successfuly saved and bookmarked Special Characters gist, click here to complete the lesson.",
+  "time": "3:00",
+  "text": "If you successfuly added all special characters from the video to your gist and finished the test, click here to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

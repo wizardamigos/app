@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "2:35"
+  "title": "Special characters 1",
+  "duration": "3:40"
 }
 ---
 
-With help of the game you will learn more tricks with methods, loops and variables in JavaScript programming language.
+You will learn what are the most used special characters in Javascript programming language and how to find them on your keyboard.

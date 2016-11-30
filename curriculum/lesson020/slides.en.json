@@ -1,31 +1,27 @@
 {
-"video": "ivnri05x8y",
+"video": "s77wyim63o",
 "slides": [{
   "type": "question",
-  "time": "4:14",
-  "question":
-[
-"Is a) and b) the same?",
-" a) self.attack('Kratt');",
-" b) var enemy = 'Kratt';",
-"    self.attack(enemy);"
-],
+  "time": "1:24",
+  "question": "What is a name of the variable we create in this statement var enemy1 = findNearestEnemy(); ?",
   "options": [
-    "yes, in example a) we use nametag and in example b) we are using variable enemy instead of a nametag",
-    "no"
+    "enemy2",
+    "enemy3",
+    "enemy1",
+    "enemy4"
   ],
-  "answer": [0]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "3:29",
+  "time": "0:29",
   "text": "Play Code Combat and learn new tricks",
   "link": {
-    "url": "http://codecombat.com/play/dungeon",
+    "url": "https://codecombat.com/play/level/closing-the-distance",
     "title": "Play now"
   }
 },{
   "type": "solution",
-  "time": "4:14",
+  "time": "1:24",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

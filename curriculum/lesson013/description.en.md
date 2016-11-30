@@ -5,4 +5,4 @@
 }
 ---
 
-With help of the game you will learn how to make things happen over and over again.
+In this lesson we are getting a new tools - a book that gives us a special ability called loop. With the help of loop you will learn how to make things repeat over and over again.

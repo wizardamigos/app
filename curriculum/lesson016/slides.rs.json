@@ -1,28 +1,26 @@
 {
-"video": "z290kufgqd",
-"slides": [{
-  "type": "question",
-  "time": "1:38",
-  "question": "Koja je prava forma korišćenja moveDown metode u Code Combat-u?",
-  "options": [
-    "this.moveDown[]",
-    "this.moveDown",
-    "this.moveDown();",
-    "this.moveDown!"
-  ],
-  "answer": [2]
-  },{
-    "type": "challenge",
-    "time": "0:45",
-     "text": "Igrajte Code Combat i naučite nove trikove",
-    "link": {
-      "url": "http://codecombat.com/play/dungeon",
-      "title": "Igrajte sada"
-    }
+  "video": "htx2zbzjtn",
+  "slides": [{
+    "type": "question",
+    "time": "3:31",
+    "question": "Gde čuvamo puškicu za posebne simbole iz ove lekcije?",
+    "options": [
+      "u Gist (i obeležimo pod GISTS/posebni simboli)",
+      "ne čuvamo je"
+    ],
+    "answer": [0]
     },{
-      "type": "solution",
-      "time": "1:38",
-      "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
-      "button": "Završite lekciju"
-      }]
-    }
+      "type": "challenge",
+      "time": "3:31",
+      "text": "Pronađite posebne simbole na tastaturi, zatim kreirajte Gist i u njega sačuvajte prečice za vitičaste i uglaste zagrade.",
+      "link": {
+        "url": "https://gist.github.com/",
+        "title": "Počnite sada"
+      }
+      },{
+        "type": "solution",
+        "time": "3:31",
+        "text": "Ukoliko ste uspešno sačuvali i obeležili Gist posebni simboli, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

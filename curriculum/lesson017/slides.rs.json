@@ -1,26 +1,28 @@
 {
-  "video": "htx2zbzjtn",
+  "video": "9szsqqteui",
   "slides": [{
     "type": "question",
-    "time": "3:31",
-    "question": "Gde čuvamo puškicu za posebne simbole iz ove lekcije?",
+    "time": "3:00",
+    "question": "Označite simbole za koje smo napravili prečice u našem Gistu",
     "options": [
-      "u Gist (i obeležimo pod GISTS/posebni simboli)",
-      "ne čuvamo je"
+      "/",
+      ";",
+      "ß",
+      ">"
     ],
-    "answer": [0]
+    "answer": [0,1,3]
     },{
       "type": "challenge",
-      "time": "3:31",
-      "text": "Pronađite posebne simbole na tastaturi, zatim kreirajte Gist i u njega sačuvajte prečice za vitičaste i uglaste zagrade.",
+      "time": "3:00",
+      "text": "Dodajte još posebnih simbola u svoj Gist, a zatim vežbajte kucanje uz pomoć WPM testa.",
       "link": {
-        "url": "https://gist.github.com/",
+        "url": "http://wpm-test.com/programming-typing-test/",
         "title": "Počnite sada"
       }
       },{
         "type": "solution",
-        "time": "3:31",
-        "text": "Ukoliko ste uspešno sačuvali i obeležili Gist posebni simboli, kliknite da završite lekciju",
+        "time": "3:00",
+        "text": "Ukoliko ste uspešno dodali sve posebne simbole iz videa u svoj Gist i završili test, kliknite da završite lekciju.",
         "button": "Završite lekciju"
         }]
       }
