@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "2:51"
+  "title": "Developer Tools",
+  "duration": "2:35"
 }
 ---
 
-You will have to find the way to your friends and protect them from the enemies.
+You will learn how to open Developer Tools in the browser and how to use a JavaScript console for the first time.

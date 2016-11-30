@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - zaštita",
-  "duration": "2:51"
+  "title": "Programerski alati",
+  "duration": "2:35"
 }
 ---
 
-Možda toga niste svesni, ali već smo stigli do dvadesetog nivoa! Bravo za nas! Prelazeći različite nivoe dobili smo mnogo praktičnih alata koje naš heroj po potrebi može da koristi. Ovoga puta izbraćemo one najpotrebnije, i upustiti se u još jednu programersku avanturu. Bilo bi super da u nekom trenutku naučimo da koristimo svaki od njih,  jer uz svaki novi alat saznajemo korisne informacije. Dobijamo novi deo slagalice znanja koju trenutno sastavljamo u svojoj glavi, i na nama je da je da ga pravilno uklopimo i dopunimo već stečeno .  Pošto smo bez problema rešli prethodne, verujemo da ćemo i ovaj nivo preći sa lakoćom. 
+Na početku eSova kursa, u jednoj od prvih lekcija, instalirali smo Google Chrome čitač zato što ima ugrađene programerske alate, i konačno je došlo je vreme da naučimo i kako da ih koristimo! Naučićemo kako da otvorimo programersku konzolu  i videti kako se ona ponaša u odnosu na to šta u nju unesemo.  U nju možemo unositi brojeve, kao i stringove, a upoznaćemo se i sa boolean tipom podataka u JavaScript programskom jeziku. Boolean nam otkriva da li je neki iskaz tačan ili netačan. Pored toga, podsetićemo se i  kako se u kodu koristi while(true) petlja, ovoga puta u Chrome konzoli. Ona nam omogućava da jednu ili više komandi, u okviru petlje ponavljamo dokle god se za to ispunjava uslov. Konačno ćemo imati priliku da van igre primenimo svoje znanje, zato brzo tastauru u ruke, i kuckajmo!

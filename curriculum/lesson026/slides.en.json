@@ -1,26 +1,37 @@
 {
-"video": "eyar3r1ubk",
+"video": "kaws7oksf9",
 "slides": [{
   "type": "question",
-  "time": "5:39",
-  "question": "Which variable did we create to count our gems(diamonds)?",
+  "time": "5:17",
+  "question": "How do you make one-line comments in Javascript code?",
   "options": [
-    "enemy",
-    "count"
+    "you start a line with //",
+    "you start a line with /*"
   ],
-  "answer": [1]
+  "answer": [0]
+},{
+  "type": "question",
+  "time": "5:17",
+  "question": "What here is a string?",
+  "options": [
+    "1",
+    "'123'",
+    "'Brak'",
+    "enemy"
+  ],
+  "answer": [1,2]
 },{
   "type": "challenge",
-  "time": "1:36",
-  "text": "Play Code Combat and learn new tricks",
+  "time": "5:17",
+  "text": "Repeat what you've learned about JavaScript and create a new Gist, call it Javascript cheatsheet and save the content from the video in it.",
   "link": {
-    "url": "http://codecombat.com/play/dungeon",
-    "title": "Play now"
+    "url": "https://gist.github.com/",
+    "title": "Repeat Javascript"
   }
 },{
   "type": "solution",
-  "time": "5:39",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "time": "5:17",
+  "text": "If you successfuly finished saved and bookmarked JavaScript Cheatsheet gist, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

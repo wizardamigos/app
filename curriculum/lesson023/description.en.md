@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat",
-  "duration": "2:02"
+  "duration": "3:30"
 }
 ---
 
-With help of this game you will learn to combine loops and variables.
+With help of amazing Code Combat game you will fight even more enemies.

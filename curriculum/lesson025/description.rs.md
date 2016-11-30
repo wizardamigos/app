@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat - novi trikovi",
-  "duration": "2:56"
+  "title": "Code Combat - brojanje i lozinka",
+  "duration": "5:48"
 }
 ---
 
-Odlično napredujemo, stigli smo skoro do polovine Code Combat igre i svašta naučili. Pred nama je još mnogo toga vrednog pažnje, pa je vreme da se usmerimo na prelazak još jednog nivoa. Novi alat kojim se opremamo je čekić, koji nam donosi veštinu pravljenja ograde i vatrene zamke. Naučićemo kako da zaustavimo neprijatelje bez napada,  koristeći samo novu komandu koju smo savladali. Neće biti lako, neprijatelja je mnogo, ali uz trud i upornost uspećemo da pređemo i ovaj nivo. I naravno, počnite sami, a nakon toga udružićemo snage i tada je nivo sigurno naš!
+Stigli smo do dvadeset i pete lekcije! Danas ćemo naučiti kako da saberemo prikupljene dragulje i koristimo lozinku da bismo otvorili vrata. Od pomoćnih alata ponovo ćemo koristiti mač koji nam vraća sposobnost napada: ovooga puta neće biti dovoljno da samo zaustavimo neprijatelje: moramo ih uništiti. Koristićemo unapred definisane promenljive u while(true) petlji, jer ne znamo koliko će nas neprijatelja napasti niti koliko je dragulja koje treba da pokupimo.  Petlja omogućava da se proces ponavlja u krug sve dok se uslov za njeno pokretanje izvršava. Pokušajte da kod napišete bez naše pomoći, a onda se vratite da ga zajedno proverimo.
+

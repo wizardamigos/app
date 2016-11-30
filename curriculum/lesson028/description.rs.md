@@ -1,12 +1,8 @@
 ---
 {
-  "title": "Znakovni nizovi, brojevi, promenljive i petlje",
-  "duration": "5:26"
+  "title": "Code Combat - građenje ograda",
+  "duration": "2:57"
 }
 ---
 
-Uspešno smo prošli kroz ceo prvi svet Code Combat igre, i došlo je vreme da ponovimo sve ono što smo na tom putu naučili.  U ovoj lekciji napravićemo novu puškicu u GitHub-u, odnosno novi Gist, gde ćemo zabeležiti sve ono što je bitno, a što smo do sada koristili kako bismo prelazili nivoe. Podsetićemo se kako da u JavaScript-u ostavimo komentare u okviru koda i kako da različito obeležimo brojeve, a kako nizove. Setićemo se pravila kako se sastavljaju veći nizovi od više malih, i kako se pravilno definiše neka promenljiva koju želimo da koristimo u svom kodu. 
-Naravno, tu je i while(true) petlja koja nam omogućava beskonačno ponavljanje iskaza koji se unutar nje nalaze. Sve su ovo veoma bitni pojmovi iz JavaScrit-a, krucijalni za razvoj budućih programera.
-
-
-
+Dobrodošli u 29. Lekciju eSova kursa. Dosta toga smo već naučili, ali to nije ništa u odnosu na ono što nas tek čeka. Međutim, da bismo nastavili da učimo nove stvari moramo prvo da budemo sigurni da smo ono prethodno jako dobro savladali. Da li se sećate kako smo seljane uspeli da zaštitimo praveći ograde? Ukoliko se sećate, odlično, ovo je prilika da se podsetite i unapredite to znanje! Ako se ipak ne sećate, nikakav problem, evo prilike da se podsetite. Dakle, uživajmo u spajanju lepog i korisnog uz Code Combat, jer stvarno svašta možemo naučiti dok se igramo.

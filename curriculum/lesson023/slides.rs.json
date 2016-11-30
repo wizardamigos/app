@@ -1,17 +1,19 @@
 {
-  "video": "wjk6yl3ioo",
+  "video": "03y7d76a60",
   "slides": [{
     "type": "question",
-    "time": "1:52",
-    "question": "Kako napadamo neograničen broj neprijatelja??",
+    "time": "3:21",
+    "question": "Kako kreiramo novu promenljivu enemy (neprijatelj)?",
     "options": [
-      "moramo znati tačan broj neprijatelja kako bismo mogli da napišemo metod napada za svakog od njih",
-      "možemo kreirati while(true) petlju koja ponavlja kod za napad i tako uništi bilo koji broj neprijatelja"
+      "v enemy = this.findNearestEnemy();",
+      "var enemy = this.findNearestEnemy();",
+      "enemy = this.findNearestEnemy();",
+      "variable enemy = this.findNearestEnemy();"
     ],
     "answer": [1]
     },{
       "type": "challenge",
-      "time": "0:52",
+      "time": "0:49",
        "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
@@ -19,7 +21,7 @@
       }
       },{
         "type": "solution",
-        "time": "1:52",
+        "time": "3:21",
         "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

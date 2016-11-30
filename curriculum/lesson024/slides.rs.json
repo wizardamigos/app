@@ -1,19 +1,19 @@
 {
-  "video": "03y7d76a60",
+  "video": "rbp2kkrtes",
   "slides": [{
     "type": "question",
-    "time": "3:21",
-    "question": "Kako kreiramo novu promenljivu enemy (neprijatelj)?",
+    "time": "2:47",
+    "question": "Koje parametre koristimo u buildXY ako želimo da izgradimo ogradu?",
     "options": [
-      "v enemy = this.findNearestEnemy();",
-      "var enemy = this.findNearestEnemy();",
-      "enemy = this.findNearestEnemy();",
-      "variable enemy = this.findNearestEnemy();"
+      "'fence', x i y",
+      "x i y",
+      "'fence'",
+      "Ništa od toga"
     ],
-    "answer": [1]
+    "answer": [0]
     },{
       "type": "challenge",
-      "time": "0:49",
+      "time": "1:31",
        "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
@@ -21,7 +21,7 @@
       }
       },{
         "type": "solution",
-        "time": "3:21",
+        "time": "2:47",
         "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

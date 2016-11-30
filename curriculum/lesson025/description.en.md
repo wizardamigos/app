@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat",
-  "duration": "2:56"
+  "duration": "5:48"
 }
 ---
 
-In this game you will learn how to build fences and fire traps.
+In this room you will learn how to count gems(diamons) you will be picking up and how to use the password to open the door.

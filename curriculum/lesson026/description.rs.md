@@ -1,9 +1,12 @@
 ---
 {
-  "title": "Code Combat - brojanje i lozinka",
-  "duration": "5:48"
+  "title": "Znakovni nizovi, brojevi, promenljive i petlje",
+  "duration": "5:26"
 }
 ---
 
-Stigli smo do dvadeset i pete lekcije! Danas ćemo naučiti kako da saberemo prikupljene dragulje i koristimo lozinku da bismo otvorili vrata. Od pomoćnih alata ponovo ćemo koristiti mač koji nam vraća sposobnost napada: ovooga puta neće biti dovoljno da samo zaustavimo neprijatelje: moramo ih uništiti. Koristićemo unapred definisane promenljive u while(true) petlji, jer ne znamo koliko će nas neprijatelja napasti niti koliko je dragulja koje treba da pokupimo.  Petlja omogućava da se proces ponavlja u krug sve dok se uslov za njeno pokretanje izvršava. Pokušajte da kod napišete bez naše pomoći, a onda se vratite da ga zajedno proverimo.
+Uspešno smo prošli kroz ceo prvi svet Code Combat igre, i došlo je vreme da ponovimo sve ono što smo na tom putu naučili.  U ovoj lekciji napravićemo novu puškicu u GitHub-u, odnosno novi Gist, gde ćemo zabeležiti sve ono što je bitno, a što smo do sada koristili kako bismo prelazili nivoe. Podsetićemo se kako da u JavaScript-u ostavimo komentare u okviru koda i kako da različito obeležimo brojeve, a kako nizove. Setićemo se pravila kako se sastavljaju veći nizovi od više malih, i kako se pravilno definiše neka promenljiva koju želimo da koristimo u svom kodu. 
+Naravno, tu je i while(true) petlja koja nam omogućava beskonačno ponavljanje iskaza koji se unutar nje nalaze. Sve su ovo veoma bitni pojmovi iz JavaScrit-a, krucijalni za razvoj budućih programera.
+
+
 

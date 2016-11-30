@@ -1,27 +1,25 @@
 {
-  "video": "rbp2kkrtes",
+  "video": "ptppzia6d3",
   "slides": [{
     "type": "question",
-    "time": "2:47",
-    "question": "Koje parametre koristimo u buildXY ako želimo da izgradimo ogradu?",
+    "time": "5:39",
+    "question": "Koju novu promenljivu smo kreirali kako bismo izbrojali dragulje?",
     "options": [
-      "'fence', x i y",
-      "x i y",
-      "'fence'",
-      "Ništa od toga"
+      "enemy",
+      "count"
     ],
-    "answer": [0]
+    "answer": [1]
     },{
       "type": "challenge",
-      "time": "1:31",
-       "text": "Igrajte Code Combat i naučite nove trikove",
+      "time": "1:36",
+       "text": "Odigrajte nivo i vratite se",
       "link": {
-        "url": "http://codecombat.com/play/dungeon",
+        "url": "http://codecombat.com/play/level/kithgard-mastery",
         "title": "Igrajte sada"
       }
       },{
         "type": "solution",
-        "time": "2:47",
+        "time": "5:39",
         "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

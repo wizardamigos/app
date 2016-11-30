@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - neprijatelji",
-  "duration": "3:30"
+  "title": "Code Combat - novi trikovi",
+  "duration": "2:56"
 }
 ---
 
-Dvadeset treći nivo i prilika da primenimo svašta što smo do sada naučili. Kako napredujemo kroz igru, ona postaje sve kompleksnija i interesantnija, i pred nama su sve veći izazovi. Važno je da nas komplikovaniji zadaci ne obeshrabre, već ukažu na to da uz malo vežbe možemo svaki preći sa lakoćom. Ovoga puta u manje od deset iskaza treba da napišemo kod kojim će naš heroj postati veoma snalažljiv: bez problema uspeti da se otarasi svih neprijatelja i uz to prikupi dragulje. Aktivirajte svoje vijuge i ponavljajte dok ne dođete do najboljeg rešenja, jer je naš cilj da budemo najbolji, zar ne? Srećno!
-
+Odlično napredujemo, stigli smo skoro do polovine Code Combat igre i svašta naučili. Pred nama je još mnogo toga vrednog pažnje, pa je vreme da se usmerimo na prelazak još jednog nivoa. Novi alat kojim se opremamo je čekić, koji nam donosi veštinu pravljenja ograde i vatrene zamke. Naučićemo kako da zaustavimo neprijatelje bez napada,  koristeći samo novu komandu koju smo savladali. Neće biti lako, neprijatelja je mnogo, ali uz trud i upornost uspećemo da pređemo i ovaj nivo. I naravno, počnite sami, a nakon toga udružićemo snage i tada je nivo sigurno naš!

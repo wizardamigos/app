@@ -1,25 +1,25 @@
 {
-"video": "eyar3r1ubk",
+"video": "d1uiznprup",
 "slides": [{
   "type": "question",
-  "time": "5:39",
-  "question": "Which variable did we create to count our gems(diamonds)?",
+  "time": "1:53",
+  "question": "How do you attack an enemy twice?",
   "options": [
-    "enemy",
-    "count"
+    "this.attack(enemy) x 2",
+    "this.attack(enemy) this.attack(enemy)"
   ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:36",
+  "time": "0:26",
   "text": "Play Code Combat and learn new tricks",
   "link": {
-    "url": "https://codecombat.com/play/level/signs-and-portents",
+    "url": "https://codecombat.com/play/level/a-mayhem-of-munchkins",
     "title": "Play now"
   }
 },{
   "type": "solution",
-  "time": "5:39",
+  "time": "1:53",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "5:48"
+  "title": "Strings, numbers, variables and loops",
+  "duration": "5:26"
 }
 ---
 
-In this room you will learn how to count gems(diamons) you will be picking up and how to use the password to open the door.
+In this lesson you will repeat what we've learned about JavaScript so far. You will learn about number and string types, variables and loops.

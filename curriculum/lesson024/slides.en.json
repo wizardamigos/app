@@ -1,27 +1,27 @@
 {
-"video": "r9nbw92eje",
+"video": "rbp2kkrtes",
 "slides": [{
   "type": "question",
-  "time": "3:21",
-  "question": "How do we create a new variable called enemy?",
+  "time": "2:47",
+  "question": "What arguments do we use in buildXY if we want to build a fence?",
   "options": [
-    "v enemy = this.findNearestEnemy();",
-    "var enemy = this.findNearestEnemy();",
-    "enemy = this.findNearestEnemy();",
-    "variable enemy = this.findNearestEnemy();"
+    "fence, x coordinate and y coordinate - this.buildXY('fence', 34, 44)",
+    "just x and y coordinates - this.buildXY(34, 44)",
+    "just fence - this.buildXY('fence')",
+    "Nothing - this.buildXY()"
   ],
-  "answer": [1]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "0:49",
+  "time": "1:31",
   "text": "Play Code Combat and learn new tricks",
   "link": {
-    "url": "http://codecombat.com/play/dungeon",
+    "url": "https://codecombat.com/play/level/kithgard-mastery",
     "title": "Play now"
   }
 },{
   "type": "solution",
-  "time": "3:21",
+  "time": "2:47",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]
