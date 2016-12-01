@@ -1,10 +1,8 @@
 ---
 {
-  "title": "Code Combat - Plemenita žrtva",
-  "duration": "2:04"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Naš najveći saveznik kroz pustinje i prašume Code Combata bila je naša upornost. Svaki nivo koji smo prešli, svaki kod koji smo iskucali, primicao nas je sve bliže našem cilju - da postanemo programeri. I sve smo bliže ostvarenju tog cilja. Na tom trnovitom putu učili smo nove veštine i borili se protiv raznih neprijatelja, srčano i odlučno. Neprijateljske vojske pokušale su da nas zaustave i sruše ono što smo gradili, ali iz dana u dan naš junak je sve jači, jer naše znanje raste. Nastavljamo hrabro napred u nove pobede!
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

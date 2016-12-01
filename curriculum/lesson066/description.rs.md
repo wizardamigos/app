@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - zastave",
-  "duration": "4:01"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Nastavljamo dalje! Danas se posebno opremamo, pred nama je malo kompleksniji zadatak. Uzećemo oruđe za pravljenje ograda i vatrenih zamki, a biće nam potrebne i zastave! Naš zadatak će biti da ih pronađemo u ovoj avanturi. Moramo slušati strelce jer će nam oni reći šta tačno da sagradimo. Ako je pred nama zelena zastava , trebalo bi da sagradimo ogradu na njenom mestu i da je nakon toga pokupimo. Ako imamo crnu zastavu , trebalo bi da tu napravimo zamku, i naravno da je pokupimo na kraju. U suprotnom, trebalo bi se vratiti u centar. Srećno!
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

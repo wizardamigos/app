@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Vital Powers)",
   "duration": "9:99"
 }
 ---

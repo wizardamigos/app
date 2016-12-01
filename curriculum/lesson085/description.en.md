@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Timber Guard)",
   "duration": "9:99"
 }
 ---

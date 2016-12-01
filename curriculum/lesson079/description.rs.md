@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - Ludi Maks",
-  "duration": "2:35"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Naš cilj na ovom nivou jeste da napišemo bolji kod. Ono što treba da uradimo ovde je jako slično prethodnom nivou. Razlika je u tome što ovde treba da nađemo najdaljeg, umesto najbližeg neprijatelja. Ponovo ćemo pomoću petlje proći kroz sve neprijatelje i proveriti razdaljinu izmedju nas i mete.  Zatim ćemo uporediti razdaljine, i pronaći najudaljenije neprijatelje. Kada utvrdimo koji je najudaljeniji, proverićemo njegovo zdravlje i sve dok je ono veće od nule, napadaćemo ga. Hajde da primenimo ono što smo do sada naučili!
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

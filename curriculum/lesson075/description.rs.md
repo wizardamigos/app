@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - Prašina",
-  "duration": "2:14"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Naš današnji zadatak je da ubijemo deset ogara uz pomoć While petlji…Izgleda da je korisno imati programersko znanje, čak i u sred pustinje. Ova soba se zove prašina, a znamo koliko ona ume da bude dosadna i naporna. Dobro je da smo se opremili znanje, pa će biti kao rukom odnesena. Dok je broj napada manji od 10, napadamo najbliže neprijatelje. Kada je broj napada jednak ili veći od 10, očitaće se novi deo koda, povućićemo se i vratiti na bezbednu poziciju. Hajde da pokušamo! 
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

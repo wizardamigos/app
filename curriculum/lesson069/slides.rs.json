@@ -1,27 +1,27 @@
 {
-"video": "yhdqwubpkt",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "4:10",
-  "question": "Koliko je zlatnika ukupno potrebno prikupiti za izgradnju četiri mamca?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "40",
-    "25",
-    "100",
-    "0"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:35",
-   "text": "Odigrajte nivo i vratite se",
+  "time": "0:43",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/decoy-drill",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:10",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

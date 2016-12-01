@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (The Agrippa Defense)",
   "duration": "9:99"
 }
 ---

@@ -1,11 +1,8 @@
 ---
 {
-  "title": "Code Combat - Lovci i plen",
-  "duration": "4:25"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Dobrodošli u novu epizodu! Danas ćemo igrati igru lovca i plena. Do sada smo bili uspešan vojskovođa i čarobnjak, i nastavljamo da stičemo nove veštine i osvajamo nove svetove.Cilj ovog nivoa je da naši irvasi ostanu živi. Imamo strelce i trebalo bi da pokupimo novčiće kako bismo prizvali nove vojnike koji će otići u napad na protivnike. Koristićemo informacije iz Gistova, kako bismo što bolje savladali zadatke koji su pred nama. Zajedno do pobede!
-
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

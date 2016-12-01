@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Peasant Protection)",
   "duration": "9:99"
 }
 ---

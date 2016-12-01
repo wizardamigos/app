@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - prikupljanje dragulja",
-  "duration": "5:34"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-U novoj avanturi našeg heroja ne očekuje nimalo lak zadatak. On je u životnoj opasnosti i jedina šansa da preživi mu je upravo u našim rukama. Kombinovanjem prethodno stečenih znanja, IF ELSE petlje i određivanjem da li su neki iskazi tačni i netačni, vi mu dajete šansu da još jednom pobedi neprijatelje i nastavi svoj put ka novim avanturama. Kako za našeg heroja, tako i za vas ovaj zadatak neće biti nimalo lak i zahteva da ste prethodne lekcije jako dobro savladali. Zato budite hrabri i svojim znanjem pomozite našem heroju da savlada još jednu prepreku.
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

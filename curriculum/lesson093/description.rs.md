@@ -1,10 +1,8 @@
 ---
 {
-  "title": "Code Combat - Dva Cveta",
-  "duration": "4:32"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Čeka nas još zabave sa funkcijama, pa hajde da nastavimo. Naš cilj ovoga puta je da cvetovi izrastu do pune veličine i ujedno Hektor preživi. Dakle, na nama je da zaštitimo Hektora i pustimo cvetove da izrastu. Potrebno je da definišemo funkcije komandovanja vojnicima i sakupljanja najbližeg novčica, a zatim da napravimo petlju. Ukoliko sve uradimo kako treba, na poklon ćemo dobiti prsten od cvetova, najmirišljaviji među trofejima. Idemo zajedno u šarene pobede!
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Crag Tag)",
   "duration": "9:99"
 }
 ---

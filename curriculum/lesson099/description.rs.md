@@ -1,11 +1,8 @@
 ---
 {
-  "title": "Code Combat - Taktike jedinica",
-  "duration": "2:29"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Drago nam je što ste ponovo sa nama! Hajde da nastavimo. U novom veoma interesantnom nivou, nastavljamo vežbanje modula, ovog puta kombinujući ga sa petljom i redom. Cilj nam je da preživimo 30 sekundi i takođe prikupimo 300 zlatnika. Bonus dobijamo ukoliko preživimo 60 sekundi. Vežbaćemo korišćenje nove operacije kako bismo ubacili red u petlju. Potrebno je da izaberemo kojim redosledom želimo da prizovemo jedinice i tako ispunimo ovaj red. Idemo da savladamo još jedan nivo! Srećno!
-
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Medical Attention)",
   "duration": "9:99"
 }
 ---

@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Danger Valley)",
   "duration": "9:99"
 }
 ---

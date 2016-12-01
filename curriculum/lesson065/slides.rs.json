@@ -1,27 +1,27 @@
 {
-"video": "cp0nzbsep2",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "3:01",
-  "question": "Ukoliko je nivo zdravlja našeg heroja viši od donjeg praga zdravlja, šta on radi?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "Beži u zasedu",
-    "Ipak odlazi do lekara",
-    "Napada neprijatelja",
-    "Postavlja zamku"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:07",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/medical-attention",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:01",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

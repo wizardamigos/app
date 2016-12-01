@@ -1,27 +1,28 @@
 {
-  "video": "qd0uu8wkak",
-  "slides": [{
-    "type": "question",
-    "time": "5:25",
-    "question": "Koju strukturu koristimo u slučaju 'ako-u suprotnom'?",
-    "options": [
-      "While-If",
-      "If-then",
-      "If-else"
-    ],
-    "answer": [2]
-  },{
-    "type": "challenge",
-    "time": "2:30",
-    "text": "Odigrajte nivo i vratite se",
-    "link": {
-      "url": "http://codecombat.com/play/level/gems-or-death",
-      "title": "Igrajte sada"
-    }
-  },{
-    "type": "solution",
-    "time": "5:25",
-    "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
-    "button": "Završite lekciju"
-  }]
+"video": "ja7ormpwm4",
+"slides": [{
+  "type": "question",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
+  "options": [
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
+  ],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "0:43",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "http://codecombat.com/play/level/winding-trail",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "1:19",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
 }

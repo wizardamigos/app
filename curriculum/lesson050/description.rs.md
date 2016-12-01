@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - zamke za ogare",
-  "duration": "2:44"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Ono što nas očekuje u ovoj igri je da porazimo ogre tako što ćemo ih zarobiti. Kako bismo napravili zamke, moraćemo da koristimo zastave. Kako bismo to uspeli, koristićemo komande pickUpFlag, build, fireTrap, tako što ćemo postavljati zastave na mestima na kojima želimo da sagradimo zamke. Da bi nam to uspelo, prvo ćemo morati da definišemo  promenljivu pozicioniranja zastave. To ćemo uraditi isto kao i za svaki objekat. Imaćete priliku, kao i uvek, da probate da sami napišete kod, a zatim da se vratite kako bismo zajdno to uradili.
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

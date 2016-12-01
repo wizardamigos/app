@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Objekti",
-  "duration": "5:26"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Nastavljamo da eksperimentišemo sa konzolom našeg čitača i postaje sve interesanatnije.  U prošloj lekciji bavili smo se ugnježdenim if-else petljama, a ovog puta fokusiraćemo se na objekte. Objekti se mogu zapisivati na više razlučitih načina, a danas ćemo saznati i kako. Koristićemo ključeve objekata i saznati šta oni zapravo predstavljaju. Naučićemo kako da izdvojimo postojeće atribute nekog objekta, kao i da kreiramo potpuno nove ili ih u potpunosti uklonimo.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

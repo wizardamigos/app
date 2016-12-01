@@ -1,28 +1,27 @@
 {
-"video": "smy8opmurx",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "2:17",
-  "question": "Ukoliko ne naiđe na neprijatelja, šta radi naš junak?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "Postavlja ogradu iznad sebe",
-    "Postavlja ogradu ispod sebe",
-    "Nastavlja da se kreće ka oazi",
-    "Čeka neprijatelja",
-    "Vraća se nazad"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:54",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/thunderhooves",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:17",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

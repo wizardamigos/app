@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Munchkin Swarm)",
   "duration": "9:99"
 }
 ---

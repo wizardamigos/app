@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - put do oaze",
-  "duration": "2:54"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Nije lako probijati se kroz pustinju, posebno kada na putu do oaze nalećemo na neprijateljski nastorjene ogare. Sada smo u novoj sobi. Ovde cemo kupiti novi mač, koji nam daje mogućnost da napadamo neprijatelje nanoseći im veliku štetu. Naš junak u ovom nivou mora da preživi, stigne u oazu i da pobedi ogare izvidjače. Ukoliko vidimo neprijatelja, trebalo bi da ga napadnemo, a u suprotnom ćemo se kretati ka oazi. Par klikova nas deli od nove avanture, krenimo!
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

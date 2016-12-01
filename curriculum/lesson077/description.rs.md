@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - Zlatna Groznica",
-  "duration": "2:38"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Uspešno prelazimo na sledeći nivo! Još malo i otarasićemo se peska koji se uvlači svuda! Cilj našeg junaka na ovom nivou je da prikupi sto zlatnika. U pisanju koda koristićemo While petlju kako bismo uz pomoć nje obuhvatili red novčićasa komandom za pronalaženje. Ovo neće biti previše teško, slično je prethodnim zadacima. Indeks novčića započećemo nulom, i imaćemo još jednu While petlju pomoću koje ćemo prolaziti kroz sve novčiće u redu. Hajde da se igramo i programiramo!
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

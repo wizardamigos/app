@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - Rogati spasitelj",
-  "duration": "5:23"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Hajde da krenemo u novu avanturu. Moramo da opremimo našeg junaka tako da može da gradi ograde, vatrene zamke i mamce.  Ovoga puta ćemo koristiti niz odnosno ARRAY. Šta je to u stvari? To je lista predmeta. U ovom slučaju imamo niz koji se zove “FriendNames” (imena prijatelja), što je u stvari lista nizova. To su Joan, Ronan, Nikita, Augustus. Tako da ova promenljiva u stvari predstavlja niz. Počinje uglastom zagradom i istom takvom se završava. A unutar toga imamo nizove. Počnimo!
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

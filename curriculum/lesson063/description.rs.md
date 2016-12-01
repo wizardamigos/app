@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - raskrsnica",
-  "duration": "3:02"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Lutajući kroz pustinje Code Combata, naš junak se našao na velikoj raskrsnici. Potrebno je da je odbranimo od napada ogara, ali kako? Opremićemo ga oruđem za pravljenje ograda i početi da postavljamo vatrene zamke. Postavljaćemo ih u zavisnosti od toga gde se nalaze neprijatelji. Ukoliko je pozicija X ogra manja (odnosno veća) od pozicije X našeg junaka znači da se on nalazi sa naše leve (odnosno desne) strane - dakle tu treba da postavimo zamku! Sličan slučaj je sa Y koordinatom, samo ograde postavljamo gore ili dole.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

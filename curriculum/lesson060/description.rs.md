@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - Oaza",
-  "duration": "2:02"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Ponovo smo u svetu Code Combata i to veoma surovom. Naš junak se našao u sred pustinje i u potrazi je za oazom kako bi se okrepio i povratio snagu. Kako bi do nje bezbedno stigao potrebno je da izbegne celo krdo jakova. Mi smo tu da mu pomognemo, što nam neće teško pasti s obzirom na to koliko smo se izveštili. Stigli smo do trećeg sveta ove programerske igrice, što nije nimalo lako! Hajde da pokažemo šta smo sve naučili i pomognemo našem heroju da lakše podnese tople pustinjske dane.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

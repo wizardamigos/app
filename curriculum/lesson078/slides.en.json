@@ -1,5 +1,5 @@
 {
-"video": "aaaaa99999",
+"video": "-1RdCdCr5HQ",
 "slides": [{
   "type": "question",
   "time": "9:99",
@@ -16,7 +16,39 @@
   "time": "9:99",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
+    "url": "https://codecombat.com/play/level/the-trials",
+    "title": "Title of the link"
+  }
+},{
+  "type": "challenge",
+  "time": "9:99",
+  "text": "Challenge - what should they do after they click the link",
+  "link": {
+    "url": "https://codecombat.com/play/level/sarven-brawl",
+    "title": "Title of the link"
+  }
+},{
+  "type": "challenge",
+  "time": "9:99",
+  "text": "Challenge - what should they do after they click the link",
+  "link": {
+    "url": "https://codecombat.com/play/level/backwoods-brawl",
+    "title": "Title of the link"
+  }
+},{
+  "type": "challenge",
+  "time": "9:99",
+  "text": "Challenge - what should they do after they click the link",
+  "link": {
+    "url": "https://codecombat.com/play/level/cavern-survival",
+    "title": "Title of the link"
+  }
+},{
+  "type": "challenge",
+  "time": "9:99",
+  "text": "Challenge - what should they do after they click the link",
+  "link": {
+    "url": "https://codecombat.com/play/level/kithgard-brawl",
     "title": "Title of the link"
   }
 },{

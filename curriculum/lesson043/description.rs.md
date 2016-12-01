@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - borba protiv zlog kamena",
-  "duration": "3:54"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Postajemo sve bolji. Uskoro ćemo biti spremni za jako ozbiljno programiranje. Još malo ćemo se igrati, a onda ćemo napraviti malu pauzu da obnovimo ono što smo do sad naučili. Ovoga puta nećemo uvrstiti novu opremu u svoj arsenal, već ćemo koristiti sve ono što smo do sada sakupili. Protivnici će nam ovoga puta biti vatrene kugle, kojima će se pridružiti i zli kamen. Koristićemo umetnute IF strukture kako bi naš junak uspeo da pronađe bezbedno mesto na kome može da se sakrije.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

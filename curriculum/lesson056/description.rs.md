@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Utvrđivanje IF, ELSE i ELSE IF struktura ",
-  "duration": "5:22"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Završili smo sa još jednom sobom u Code Combat-u i sada pravimo pauzu! Red je došao na obnavljanje gradiva a u tome će nam pomoći Google Chrome čitač. Ponovićemo sve što smo naučili vezano za IF, ELSE i ELSE IF strukture. To ćemo učiniti koristeći programerske alate u okviru čitača, kako bismo uspešno dopunili svoju puškicu znanjima koje smo stekli u prethodnim lekcijama. Pred nama je bilo lakih i teških zadataka, a najbitnije je da smo ih zajedno savladali i mnogo toga naučili. Veoma nam je drago što smo zajedno prošli mnogo avantura i stekli ovoliko znanja! Ne brinite, najbolje je tek pred nama!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

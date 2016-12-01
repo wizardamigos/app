@@ -1,26 +1,27 @@
 {
-"video": "9sxoiq8oyc",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "2:52",
-  "question": "Koliko treba da budu udaljeni neprijatelji da bismo mogli da ih napadnemo komandom CLEAVE na ovom nivou?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "manje od 5 metara",
-    "5 metara",
-    "više od 5 metara"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
-  "answer": [0]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:19",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/the-agrippa-defense",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:52",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

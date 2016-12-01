@@ -1,26 +1,27 @@
 {
-"video": "azw2kdbs0p",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "3:19",
-  "question": "Koja je početna vrednost indeksa novčića?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "2",
-    "1",
-    "0"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:05",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/sand-snakes",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:19",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

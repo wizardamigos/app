@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Bookkeeper)",
   "duration": "9:99"
 }
 ---

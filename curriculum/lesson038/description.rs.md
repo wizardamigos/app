@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - mačevanje",
-  "duration": "2:12"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Da li ste spremni za potpuno drugačiju avanturu? Ovoga puta dobijamo novi mač koji ima specijalnu moć. Uz pomoć njega ćemo moći da ubijemo neprijatelje koji se nalaze na udaljenosti od čak 10 metara od nas. To ćemo uraditi pomoću opcije CLEAVE što znači preseći na pola. Međutim takvu moć ne možemo da koristimo konstantno, već samo kada je spremna. I to je izazov za nas i našeg heroja, moraćemo da odredimo kada ćemo tačno koristiti koji napad, kako bismo uspešno savladali sve neprijatelje odgovarajućim napadima.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - minsko polje",
-  "duration": "2:05"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-U novoj avanturi, naš izazov je da porazimo ogare koji se nalaze sa naše strane mina. Kako ne bismo nagazili na mine moramo da izračunamo udaljenost od njih. To ćemo uraditi tako što ćemo definisati varijablu udaljenosti i proveriti da li je neprijatelj udaljen manje od 10 metara. Ukoliko to bude slučaj, koristićemo naš najjači napad presecanja. Takođe ćemo koristiti zastave i komandu pickUpFlag kako bismo usmerili junaka da se kreće ka njima, umesto u pravcu mina.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

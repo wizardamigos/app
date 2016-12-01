@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Sand Snakes)",
   "duration": "9:99"
 }
 ---

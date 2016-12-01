@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - patuljci i ostali neprijatelji ",
-  "duration": "4:59"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Da vidimo koliko ćemo uspešni biti u novoj igri, koristeći na nov način neke stvari koje smo već naučili. U početku ćemo se oslanjati na IF komande kako bismo videli da li ima neprijatelja ili ćemo samo konstatovati da ga nema i ostati u odbrambenoj poziciji. Zatim ćemo se oslanjati na računanje udaljenosti od neprijatelja, jer ukoliko nam nisu dovoljno blizu, nemamo razloga za napad. Pre početka igre ćemo heroja obavezno opremiti štitom, jer bez njega nećemo biti u mogućnoti da se uspešno branimo.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

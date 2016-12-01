@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Coinucopia)",
   "duration": "9:99"
 }
 ---

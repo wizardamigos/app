@@ -1,27 +1,27 @@
 {
-"video": "ypoc84tod1",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "3:54",
-  "question": "Kod ugnježdenih if-else petlji imamo uvlačenja od:",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "1 razmaka",
-    "2 razmaka",
-    "3 razmaka",
-    "4 razmaka"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
-  "answer": [1,3]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:11",
-  "text": "Otvorite novi Gist i dopunite ga stečenim znanjem",
+  "time": "0:43",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://gist.github.com/",
-    "title": "Otvorite novi Gist"
+    "url": "http://codecombat.com/play/level/winding-trail",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:54",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

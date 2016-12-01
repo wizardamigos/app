@@ -1,34 +1,27 @@
 {
-"video": "qf039aqt3m",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "9:25",
-  "question": "Šta je niz?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "promenljiva",
-    "objekat",
-    "vrednost promenljive"
-],
-  "answer": [1]
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
+  ],
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "6:42",
-  "text": "Pokrenite ovaj link",
+  "time": "0:43",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype#Methods",
-    "title": "Nizovi"
-  }
-},{
-  "type": "challenge",
-  "time": "0:40",
-   "text": "Pokrenite ovaj link",
-  "link": {
-    "url": "https://gist.github.com/esova-ana",
-    "title": "Puškice"
+    "url": "http://codecombat.com/play/level/winding-trail",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:25",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

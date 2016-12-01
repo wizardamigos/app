@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - borba uživo",
-  "duration": "3:58"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Ovoga puta imamo priliku da pokušamo nešto sasvim novo - da se borimo protiv pravih igrača. To nisu kompjuterski programi protiv kojih smo se do sada borili, već ljudi koji isto kao i mi uče programiranje kroz ovu interaktivnu igricu. Ponuđena su nam 3 nivoa borbe: lak, srednji i težak. Cilj ove igre je da porazimo protivnika. Čak i ukoliko nepobedimo, ne dozvolite da vas to obeshrabri, već pokušajte ponovo sa drugačijim kodom ili drugačijim oružjima. Pokažite sebi i drugima da ste pobednici u svetu programiranja!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

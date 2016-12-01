@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - pustinjska borba",
-  "duration": "5:04"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Veoma uspešno prelazimo ovaj put, vidite šta smo sve već prešli, a hajde da vidimo šta nas još čeka.  U ovoj lekciji cilj nam je da ubijemo sve ogare. Bitno je da se opremimo dobrim mačem, jer ovaj koji trenutno imamo nanosi nedovoljno štete. Moramo da budemo sigurni da smo dopunili uslove za ostvarenje While petlje kako ne bismo bili zaglavljeni u petlji zauvek. Mala pomoć: kod će se sastojati od dva dela. hajde da vidimo šta nas ćeka u novoj avanturi! Srećno!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

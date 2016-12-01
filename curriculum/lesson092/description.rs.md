@@ -1,10 +1,8 @@
 ---
 {
-  "title": "Code Combat - Čarobnjak Kithgarda",
-  "duration": "2:33"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Ponovo osvajamo svetove Code Combata, ovoga puta funkcijama. Konačno počinjemo ozbiljno da ih koristimo, i to će biti veoma izazovno. Potrebno je da pomognemo našem heroju da izbegne šiljke i sakupi dragulje. Setićemo se jednostavnijih vremena, kada smo kroz tamnicu bežali i borili se za svoj život sa samo čizmama na nogama? Ovoga puta, nemamo čak ni čizme, već moramo simulirati njihovo postajanje brzim kretanjem. Zakoračimo bosi u novu avanturu, zajedno!
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

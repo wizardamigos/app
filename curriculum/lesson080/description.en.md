@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Theory (arrays)",
   "duration": "9:99"
 }
 ---

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - Potraga za blagom",
-  "duration": "2:12"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-U ovoj igri smo naišli na škrinju koja u sebi sadrži blago. Međutim da bismo mogli da ga uzmemo, moramo prvo da savladamo sve neprijatelje. Da li znate koju ćemo strukturu koristiti za to? Naravno, i ovoga puta ćemo koristiti IF/ЕLSE. Međutim, pojaviće se jedan mali problem, taj što nećemo odmah prepoznati neprijatelja, pa ćemo morati da ga definišemo. Ništa teško za vas koji ste već stigli do ovde. Krenite odmah u avanturu, kako bismo što pre savladali neprijatelje i pronašli blago koje čeka na nas.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

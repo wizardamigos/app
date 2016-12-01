@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Copper Meadows)",
   "duration": "9:99"
 }
 ---

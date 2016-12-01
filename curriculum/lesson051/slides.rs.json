@@ -1,27 +1,27 @@
 {
-"video": "z3iw2mjwr8",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "1:56",
-  "question": "Kako proveravamo da li je udaljenost od neprijatelja manja od 10?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "this.distanceTo(enemy) > 10",
-    "his.distanceTo(enemy) === 10",
-    "this.distanceTo(enemy) < 10",
-    "this.distanceTo(enemy) <= 10"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:01",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/mind-the-trap",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:56",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

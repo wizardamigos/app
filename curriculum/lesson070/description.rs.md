@@ -1,10 +1,8 @@
 ---
 {
-  "title": "Code Combat - čuvar",
-  "duration": "5:49"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Zadatak našeg junaka danas biće da prati vreme dok pobeđujemo i prikupljamo zlato. Od opreme nam je potreban samo mač, kako bismo mogli da napadamo neprijatelje i to je to.
-Šta bismo trebali da uradimo ovde? Moraćemo da koristimo now metodu kako bismo proverili vreme i metodu prekida da bismo ponistili While petlju. U ovom nivou cemo imati tri faze. Prvo ćemo se boriti sa ogarima petnaest sekundi, pa ćemo sakupljati novčiće petnaest sekundi, a zatim cemo se boriti sa još ogara u sledećih petnaest sekundi. U međuvremenu ćemo odlaziti do Narije i govoriti joj koliko smo neprijatelja ukupno pobedili ili koliko smo zlata sakupili u svakoj fazi. Srećno nam bilo!
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

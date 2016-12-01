@@ -1,11 +1,8 @@
 ---
 {
-  "title": "Code Combat - Geometrija Cveća ",
-  "duration": "5:26"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Naš prelepi trofej iz prethodnog nivoa nije samo puki trofej - u sebi krije magične moći! U ovoj lekciji zalazimo u novu sobu zvanu Geometrija Cveća gde ćemo imati prilike da iskoristimo moći prstena. Lepi divlji cvetovi rastu kuda god prođemo, kada ga nosimo na ruci. Garantuje nam veštinu biranja boja cvetova, najšareniju među veštinama. Cvetovi mogu biti roze, crveni, žuti, plavi, ljubičasti, beli ili nasumični. Takođe dobijamo moć da izaberemo da li će cvetovi izrasti ili ne. Vreme je da naučimo kako je to biti baštenski čarobnjak!
-
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

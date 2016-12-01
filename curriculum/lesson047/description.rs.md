@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - zastave",
-  "duration": "2:24"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-U novoj avanturi dobijamo novu opremu i ovoga puta to su zastave. Kada ih pronađemo, dobićemo mogućnost da ih i podignemo. Ukoliko sve uradimo kako treba, bićemo nagrađeni novčićima! 20 novčića nam je potrebno kako bismo prešli na sledeću avanturu. Ne zvuči teško, zar ne? Kroz svaku avanturu utvrđujemo ono što smo do sada naučili ali i saznajemo nešto novo. Nadamo se da uživate u Code Combatu koliko i mi! Hajde da zajedno savladamo još jedan nivo i napravimo još jedan korak napred u svetu programiranja.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

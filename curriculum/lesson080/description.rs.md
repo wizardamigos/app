@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - Potraga za zlatom",
-  "duration": "8:00"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Stigli smo do nivoa koji je namenjen naprednim igračima, tako da nas očekuje jedna odlična, ali jako teška borba. Pred nama je ozbiljan izazov, i za njega moramo dobro pripremiti našeg junaka! Prva stanica? Orman sa opremom! Potrebna nam je vrhunska oprema kako bismo preživeli ozbiljan boj. Naočare će nam biti neophodne, kao i štit, i mač! Na vama je da sami izaberete pravu kombinaciju, ali imaćete našu pomoć, kao i sugestije u okviru igre. Upustimo se u još jednu avanturu, hrabro i naoružani znanjem! Srećno!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

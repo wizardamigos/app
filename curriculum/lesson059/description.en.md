@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Basin Stampede)",
   "duration": "9:99"
 }
 ---

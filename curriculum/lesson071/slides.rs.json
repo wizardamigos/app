@@ -1,27 +1,27 @@
 {
-"video": "8f0fujg6ql",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "4:55",
-  "question": "Dok je broj naređenja manji od 5, naš junak će se pomerati:",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "Gore",
-    "Dole",
-    "Levo",
-    "Desno"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:38",
-   "text": "Odigrajte nivo i vratite se",
+  "time": "0:43",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/desert-combat",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:55",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

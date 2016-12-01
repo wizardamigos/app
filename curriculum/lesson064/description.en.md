@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Sarven Sentry)",
   "duration": "9:99"
 }
 ---

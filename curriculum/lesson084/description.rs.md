@@ -1,10 +1,8 @@
 ---
 {
-  "title": "Code Combat - Ogar Džordž",
-  "duration": "2:50"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
- Nastavićemo naše putovanje kroz planinski svet kako bismo videli šta nas čeka u sledećem nivou. Očigledno ćemo morati da postavimo neke ograde, zamke ili mamce. Pre toga ćemo pogledati šta sve sadrži ovaj Programatikon 4 koji smo dobili kada smo završili sa pustinjskim svetom. Kao što smo ranije napomenuli, ova knjiga će nam omoguciti da pravimo funkcije. Veštine koje smo dobili ovde smo već pominjali, a najbitnije među njima su funkcije. JavaScript funkcije nam omogućuju da napravite kodove za višekratnu upotrebu. Hajde da vidimo o čemu se radi!
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

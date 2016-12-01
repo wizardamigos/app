@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - Šumska straža",
-  "duration": "2:36"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-U nivou koji je pred nama prikupljaćemo novčiće i boriti se protiv neprijatelja. Kako bismo ga uspešno prešli naučićemo da koristimo for-loop petlju. Ona je slična while-loop petlji, s tim što ima više različitih podešavanja. Kao i do sada, učimo se kroz igru, i imamo priliku da stečeno znanje odmah primenimo . Lepota Code Combata je u tome što učenje čini interaktivnim, a provere znanja interesantnim. Hajde da osvojimo vrhove JavaScripta zajedno!  
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

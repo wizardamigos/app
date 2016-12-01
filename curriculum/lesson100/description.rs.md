@@ -1,12 +1,8 @@
 ---
 {
-  "title": "Code Combat - Košenje vatre",
-  "duration": "6:54"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Danas ćemo se posvetiti nešto komplikovanijem, ali veoma zanimljivom nivou koji će od nas zahtevati da izaberemo kojom tačno strategijom ćemo se boriti protiv neprijatelja. Dobili smo novi predmet  Boss 3 Zvezda i ovoga puta ćemo imati prilike da ga upotrebimo.
-Ciljevi u ovoj igri su nam da preživimo 30 sekundi, da zaštitimo minsko polje 30 sekundi i dobijamo poene bonusa ukoliko preživimo svih 60 sekundi. Hajde da zajedno preguramo taj dugi minut!
-
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

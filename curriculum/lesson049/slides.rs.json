@@ -1,27 +1,27 @@
 {
-"video": "84iqv218ev",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "4:08",
-  "question": "Kako da proverimo udaljenost od naše trenutne pozicije do zastave?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "this.pos - flag.pos",
-    "flag.pos - this.pos",
-    "this.distanceTo(flag)",
-    "this.flag.pos"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:29",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/hold-the-forest-pass",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:08",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

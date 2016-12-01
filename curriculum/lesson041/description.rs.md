@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - borba protiv patuljaka",
-  "duration": "1:49"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-U novoj avanturi se borimo protiv patuljaka. Naš junak ima mogućnost da ih otera na dva načina. Prva mogućnost je držanje govora, jer ga se patuljci plaše i čim kaže nešto, oni će pobeći. Druga mogućnost je znatno surovija i uključuje naš najjači napad presecanja neprijatelja na pola. Međutim junak mora u ovoj igri biti jako pažljiv, jer ukoliko se skupi više patuljaka na jednom mestu, napraviće zasedu i lako ga poraziti. Zato moramo biti jako proračunati i odrediti kada ćemo koristiti koju mogućnost. Srećno!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

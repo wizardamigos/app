@@ -1,11 +1,8 @@
 ---
 {
-  "title": "Code Combat - Bibliotekarski taktičar",
-  "duration": "2:54"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Probijamo se kroz nivoe Code Combata i polako ali sigurno prelazimo i one poslednje. Ova igrica nam je dala mogućnost da stečeno znanje odmah primenimo, učimo na svojim greškama i utvrdimo ono što smo naučili. Gejmifikacija procesa učenja čini ga interesantnijim, efektivnijim i efikasnijim što ste, verujemo, imali prilike da primetite u poslednjih nekoliko meseci. Drago nam je što ste i dalje sa nama, i nadamo se da smo uspešno spojili lepo i korisno. Puno sreće u daljem radu i igri!
-
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

@@ -1,27 +1,27 @@
 {
-"video": "2f8i4mf1cy",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "2:58",
-  "question": "U kom primeru će naš heroj izgovoriti 'I don’t see an enemy'? (enemy postoji)",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "If (enemy) { this.attack(enemy) }",
-    "If (enemy) { this.say('I don’t see an enemy') }",
-    "If (enemy) { this.attack(enemy) } else { this.say('I don’t see an enemy') }",
-    "If (enemy) { this.attack(enemy) } else { this.moveXY(x,y) }"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:24",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/back-to-back",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:58",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

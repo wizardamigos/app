@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - izbegavanje stampeda",
-  "duration": "2:37"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Suva vrela pustinja se prostire pred našim herojem i na nama je da mu pomognemo da preživi. Na ovom nivou potrebno je da dinamički izbegnemo Jakove. Dodavanjem i oduzimanjem vrednosti promenljivoj x pomeraćemo heroja napred nazad, dok ćemo primenjivanjem istog principa na promenljivu y moći da mu komandujemo da li da ide gore ili dole. Postoje neka jednostavna pravila za izbegavanje stampeda jakova, i osim što ćemo saznati koja su imaćemo priliku i da ih primenimo.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

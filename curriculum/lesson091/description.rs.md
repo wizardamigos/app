@@ -1,10 +1,8 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

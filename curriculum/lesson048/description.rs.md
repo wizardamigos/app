@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - sakupljanje ",
-  "duration": "3:21"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Dobordošli u novu avanturu. Pre nego što počnemo sa igricom, iskoristićemo to što smo do sada bili vredni i pokupili mnogo dijamanata, pa ćemo unaprediti svog junaka pomoću njih. Da li ćete kupiti dodatno zdravlje? Bolji štit koji vam garantuje bolju odbranu od neprijatelja? Ili možda mač koji će vam omogućiti da sa većom lakoćom savladate nove neprijatelje koji vas napadaju? Nakon toga ćemo ući u novu avanturu i videti šta još možemo da uradimo sa zastavama. Sve u svemu, očekuje nas još puno učenja i naravno još puno zabave.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

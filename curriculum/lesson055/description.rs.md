@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - zaštita seljana",
-  "duration": "6:18"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Još jedan novi nivo Code Combata je pred nama! Cilj nam je da pobedimo neprijatelja i zaštitimo seljane. Ponovo se susrećemo sa zastavama i u zavisnosti od toga koje su one boje, naš junak treba nešto da preduzme. Ukoliko naiđe na zastavu crne boje potrebno je da postavi zamku, dok je zelena zastava znak da na tom mestu treba postaviti ogradu. Ljubičastu zastavu će pokupiti, ona mu omogućava da ode do mesta za lečenje ili da izbegnemo neki žbun i da se lakše kreće. Malo smo vas uputili u značenje boja zastava, a sada je na vama da pomognete junaku da ispuni svoj cilj. Srećno!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (The Two Flowers)",
   "duration": "9:99"
 }
 ---

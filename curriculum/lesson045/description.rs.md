@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat - odbrana livade",
-  "duration": "3:01"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Naš heroj se ovog puta bori protiv velikog broja neprijatelja i ponovo koristi moćnu komandu CLEAVE. U zavisnosti od njihove udaljenosti, koji ćemo moći da izračunamo, bićemo u prilici da porazimo više neprijatelja jednim potezom ukoliko su nam dovoljno blizu. Koristićemo loop petlju i if strukture kako bismo ovo postigli. Kombinujuči ono što već znamo sa novonastalim situacijama imaćemo priliku da unapredimo i učvrstimo svoje znanje, i tako postanemo još bolji!
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

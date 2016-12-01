@@ -1,11 +1,8 @@
 ---
 {
-  "title": "CodeCombat - borba protiv ogara",
-  "duration": "3:14"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Dobrodošli u još jednu avanturu Code Combat-a. Kako bismo bolje videli neprijatelje sa velike razdaljine, u svoju opremu smo uvrstili naočare. One nam daju mogućnost da izračunamo koliko tačno smo udaljeni od neprijatelja, kako bismo znali da li su dovoljno blizu da naš napad bude uspešan. Kao i što smo navikli, ogari retko kada napaduju sami, pa ćemo ponovo koristiti petlju, kako bismo odbili sve njihove napade. Puno sreće u ovom zadatku i nadamo se da ćete se lepo zabaviti, ali mnogo i naučiti.
-
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

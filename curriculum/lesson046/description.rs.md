@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - otvaranje škrinje",
-  "duration": "2:32"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Ovoga puta pred nama je veliki izazov: treba da otvorimo škrinju ali će nas u tome ometati neprijatelji. Cilj nam je da se uspešno odbranimo i saznamo šta se nalazi u zapečaćenom kovčegu. Koristićemo nizove, while petlju i if izjave kako bismo ovo sproveli u delo. Komandom napada pokušaćemo da otvorimo škrinju dok će komanda CLEAVE biti rezervisana za patuljke. Ovo će biti izazovan nivo ali mi  imamo dovoljno znanja i iskustva da ga savladamo bez problema. Hajde da se upustimo u ovu avanturu! 
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

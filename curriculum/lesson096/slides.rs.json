@@ -1,26 +1,27 @@
 {
-"video": "iia8rr6pka",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "4:15",
-  "question": "Zašto prikupljamo novčiće?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "da bismo ih stavili na štednu knjižicu",
-    "da bismo kupili novu uniformu",
-    "da bismo prizvali vojnike"
-],
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
+  ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:37",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/hunters-and-prey",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "4:15",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

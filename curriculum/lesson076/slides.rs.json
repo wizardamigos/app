@@ -1,26 +1,27 @@
 {
-"video": "x3bkaxkbs3",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "3:38",
-  "question": "Šta radimo naredbom continue",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "ubijamo neprijatelja",
-    "ponavljamo petlju",
-    "prekidamo trenutno ponavljanje petlje i započinjemo sledeću"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:03",
-     "text": "Odigrajte nivo i vratite se",
+  "time": "0:43",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/continuous-alchemy",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:38",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

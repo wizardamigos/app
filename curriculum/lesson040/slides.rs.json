@@ -1,25 +1,27 @@
 {
-"video": "8sct2fkqe2",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "3:49",
-  "question": "Protiv koga smo se borili u današnjoj lekciji?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "kompjutera",
-    "drugih igrača"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:18",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/level/dueling-grounds",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:49",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

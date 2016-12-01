@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - Jak moćnog peska",
-  "duration": "2:45"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Vraćamo se našoj omiljenoj programerskoj igrici! Zakoračićemo u potpuno novi Code Combat svet, prepun peska i oaza. Pogodili ste, ulazimo u pustinju gde nas sigurno očekuje mnogo izazova. U trećem svetu ćemo se suočiti sa aritmetikom, brojačima, while petljama, prekidima, nizovima, poredićemo stringove, i tražiti minimume i maksimume. Postaje sve uzbudljivije, svaki novi svet donosi mnogo novih saznanja i jedva čekamo da se zajedno upustimo u još jednu veliku avanturu!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

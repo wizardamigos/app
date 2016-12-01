@@ -1,10 +1,8 @@
 ---
 {
-  "title": "Code Combat - Vojskovođa da budemo",
-  "duration": "2:25"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Konačno je došao i taj dan - postajemo vojskovođa! Sve ono što smo do sada u borbama naučili imaćemo priliku da prenesemo na one koji imaju manje iskustva od nas. U ovoj lekciji koristićemo novu opremu, u pitanju je “boss star”. On nam daje mogućnost da kontrolišemo svoje vojnike sve dok imamo dovoljno zlata. Naredbe koje možemo da koristimo su: command (komanduj) - naredba koja omogućava korišćenje bilo kojih komandnih metoda (pomeri se, napadni, brani se). Moguće je komandovati samo onima koji spadaju u vojnike ili strelce. 
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

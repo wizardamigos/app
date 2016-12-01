@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - 3 zastave",
-  "duration": "3:56"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-U  novoj igri ćemo koristiti zastave različitih boja, za različite komande. Ukoliko postavimo zelenu zastavu, naš junak će se kretati ka njoj, ukoliko postavimo crnu, junak će preseći neprijatelja na pola, a crvena će značiti da je potrebno lečenje. Kod crne zastave ćemo koristiti duplu IF tehniku, kako bismo u presekli neprijatelja ukoliko je daleko, a ukoliko je blizu, samo ga napali. Da bi nam ovo uspelo, moramo da koristimo jednu promenljivu koju smo definisali ranije. Kako bismo uspešno završili ovaj nivo, moraćemo da kombinujemo sve 3 zastave. Ne zaboravite na zdravlje našeg junaka i srećno!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - odbrana sela",
-  "duration": "3:16"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Ovoga puta patroliramo selom. Ogri nailaze sa dve strane i ako uđu u selo, srušiće ga i nauditi seljanima. Naše glavno oružije u ovoj igrici je IF struktura, jer će naš heroj morati da prepozna da li je onaj koji  nailazi ogar ili seljanin. Ujedno ćemo pored izraza na srpskom koristiti i izraze na engleskom jeziku. Čak iako ne znate engleski jezik, potrudite se da zapamtite neke osnovne izraze jer je engleski veoma bitan za programiranje i značiće vam u budućnosti. Hajde da krenemo u novu avanturu i zajedno učimo programiranje i engleski jezik!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

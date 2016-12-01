@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Thunderhooves)",
   "duration": "9:99"
 }
 ---

@@ -1,10 +1,8 @@
 ---
 {
-  "title": "Code Combat - Uspon na Planinu ",
-  "duration": "4:30"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Kroz eSova kurs proći ćemo kroz celu JavaScript sintaksu i pokušati da naučimo osnovne stvari uz pomoć Code Combata. Kasnije ćemo preći na druge priručnike, i na kraju koristiti stečeno znanje kako bismo napravili nešto korisno. Code Combat je zaista odličan metod učenja jer sve vreme vežbamo igrajući ga, i pored toga imamo vizuale pomoću kojih vidimo šta kod zapravo radi. Stoga, nastavljamo u poslednji svet ove igre koji se zove Planina. Biće uzbudljivo i poučno! Krenimo!
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

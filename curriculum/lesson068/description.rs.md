@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - sakupljanje zlata",
-  "duration": "5:28"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Da li ćemo se usuditi da odigramo još jedan nivo? Naravno! U ovoj sobi ćemo dobiti novi specijalni deo opreme - kamen. On služi tome da nam da uvid u to koliko zlata naš junak poseduje. Kamen nam daje informacije o zlatu, jer nam kaže koliko tačno zlata naš tim poseduje,  zdravlju -  jer nam govori koliko je nas junak zdrav u datom trenutku, maksimalnom zdravlju, jer nam govori sa koliko zdravstvenih poena nas junak kreće u avanturu, i junakovoj pozicija. Bićemo u prilici da proverimo koliko zlata imamo, koliko smo zdravi, koliko nam je maksimalno zdravlje i koje su koordinate našeg junaka.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

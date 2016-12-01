@@ -1,5 +1,5 @@
 {
-"video": "aaaaa99999",
+"video": "Ri-W5RQn-aw",
 "slides": [{
   "type": "question",
   "time": "9:99",
@@ -11,14 +11,6 @@
     "d"
   ],
   "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "link",
-    "title": "Title of the link"
-  }
 },{
   "type": "solution",
   "time": "8:32",

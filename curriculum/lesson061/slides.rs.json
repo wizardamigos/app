@@ -1,27 +1,27 @@
 {
-"video": "0wrmjwfeil",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "2:28",
-  "question": "Šta u ovoj igri označava xPos＝this.pos.x + 5?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "Da će se naš heroj stalno kretati unazad",
-    "Da će se naš heroj stalno kretati napred ",
-    "Da će se naš heroj stalno kretati na gore",
-    "Da će se naš heroj stalno kretati na dole"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:00",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/basin-stampede",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:28",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - odbrana sela",
-  "duration": "3:07"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Dobrodošli ponovo u eSovu, mesto gde se kroz zabavu jako puno nauči. Naš zadatak je ponovo da spasemo seljane, ali ovoga puta sa komandom IF ELSE. Ovoga puta naš junak će naići na jednu novu situaciju u kojoj će napadati neprijatelje ukoliko ih bude bilo, a ukoliko ih ne bude, on će stati u odbrambenu poziciju i reći nam kako nema neprijatelja na ekranu. Ponovo ćemo, kao i mnogo puta do sada koristiti petlje, kako bismo utvrdili da smo to savladali, jer neprijatelja ima puno i potrebno je da ih sve pobedimo.
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

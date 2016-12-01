@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Oasis)",
   "duration": "9:99"
 }
 ---

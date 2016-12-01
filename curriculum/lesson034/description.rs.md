@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat - borba protiv najbližih neprijatelja",
-  "duration": "2:37"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Ponovo igramo Code Combat igricu i ponovo koristimo naredbu IF. Otklanjamo samo najveće pretnje tako što ćemo napadati najbliže neprijatelje, a one koji to nisu ostaviti na miru. Pred nama će se pojaviti ponovo i IF ELSE struktura, pa ćemo imati prilike da proverimo da li je pravilno koristimo. Pojaviće se mnogo neprijatelja pa ćemo morati da koristimo petlju kako bismo ih sve porazili, ali ovoga puta samo one najbliže. Jednog po jednog, sve ćemo ih poraziti znanjem. verujemo u vas!
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Gist - obnavljanje",
-  "duration": "9:45"
+  "title":"Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Nije važno samo učiti nove stvari, već i obnavljati naučeno. Zato ćemo ovu epizodu posvetiti tome da utvrdimo neke stvari koje smo već naučili u poslednjih 10 lekcija i da vidimo da li postoji nešto što možda nismo još uvek dovoljno dobro savladali. Jako je bitno da stalno ažurirate svoj gist kako biste imali uvek na raspologanju sve informacije koje ste do sada naučili, i mogli brzo i lako da se podsetite. Budite iskreni prema sebi i ukoliko ima nešto što vam nije još uvek potpuno jasno, pređite to još nekoliko puta, pa ćemo da krenemo dalje u nove avanture.
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno. 

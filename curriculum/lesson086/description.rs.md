@@ -1,10 +1,8 @@
 ---
 {
-  "title": "Code Combat - Planinski Plaćenici",
-  "duration": "3:57"
+  "title": "Code Combat - putovanje",
+  "duration": "1:28"
 }
 ---
 
-Kao što i sami znate, do sada smo bili jako uspešni na svom putu. Hajde da nastavimo u istom ritmu! Penjemo se na planinu znanja u Code Combatu, što je ujedno i poslednji svet ove igre koji ćemo preći u okviru eSova kursa. Kroz svaki nivo koji smo prešli, naše znanje iz oblasti programiranja u JavaScriptu je raslo i bilo sve potpunije, i tako će biti i u buduće. Na ovom nivou bi trebalo da koristimo komande summon (prizvati) i command (komandovati) kako bismo zastitili heroja dok sakuplja novčiće. Krenimo!
-
-
+Kao što ste mogli da primetite do sada, našem heroju nije dovoljno da ostane isti kao što je bio, već mora konstantno da napreduje. Isto to se odnosi i na naše znanje programiranja. Upustite se u novu avanturu u kojoj će naš heroj dobiti novi deo opreme koji će mu u velikoj meri pomoći da savlada nove prepreke u surovom svetu Code Combata. Takođe, u ovom nivou ćete naučiti da napravite nešto sasvim novo. Nećemo vam otkriti još uvek šta je to, već ćemo vas ostaviti da kroz igru sami otkrijete. Srećno.

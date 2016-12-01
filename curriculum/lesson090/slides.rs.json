@@ -1,26 +1,27 @@
 {
-"video": "afgfifqcs7",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "1:54",
-  "question": "While petlju smo u ovom slučaju koristili za:",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "slanje vojnika do tačaka",
-    "sakupljanje novčića",
-    "pravljenje vojnika"
-],
-  "answer": [1]
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
+  ],
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:29",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/noble-sacrifice",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:54",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

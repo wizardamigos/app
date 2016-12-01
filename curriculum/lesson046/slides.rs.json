@@ -1,26 +1,27 @@
 {
-"video": "wmxh5qh031",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "2:22",
-  "question": "Kojom komandom merimo udaljenost neprijatelja?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "this.countEnemy(distance)",
-    "this.enemyCount(distance)",
-    "this.distanceTo(enemy)"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:05",
+  "time": "0:43",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/munchkin-swarm",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:23",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,27 +1,28 @@
 {
-"video": "s4gi1dfg28",
+"video": "gH7s1CKY9hI",
 "slides": [{
   "type": "question",
-  "time": "3:05",
-  "question": "šta dobijemo pomoću naočara?",
+  "time": "9:99",
+  "question": "First question",
   "options": [
-    "mogućnost da se sakrijemo ",
-    "mogućnost da izračunamo koliko tačno smo udaljeni od neprijatelja",
-    
+    "a",
+    "b",
+    "c",
+    "d"
   ],
-  "answer": [1]
+  "answer": [9]
 },{
   "type": "challenge",
-  "time": "1:42",
-  "text": "Odigrajte nivo i vratite se",
+  "time": "9:99",
+  "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "http://codecombat.com/play/level/peasant-protection",
-    "title": "Igrajte sada"
+    "url": "https://codecombat.com/play/level/stillness-in-motion",
+    "title": "Title of the link"
   }
 },{
   "type": "solution",
-  "time": "3:05",
-  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
-  "button": "Završite lekciju"
+  "time": "8:32",
+  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "button": "Complete the lesson"
 }]
 }

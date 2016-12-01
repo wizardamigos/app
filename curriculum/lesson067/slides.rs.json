@@ -1,26 +1,27 @@
 {
-"video": "x5fdfrardj",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "2:53",
-  "question": "Ako je izmereno vreme manje od deset:",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "Napadamo ogare",
-    "Definišemo varijablu zastava",
-    "Proveravamo zdravlje"
+    "a,b",
+    "v,z",
+    "x,y",
+    "x,z"
   ],
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "1:05",
-   "text": "Odigrajte nivo i vratite se",
+  "time": "0:43",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/keeping-time",
+    "url": "http://codecombat.com/play/level/winding-trail",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:53",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]
