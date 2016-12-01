@@ -56,6 +56,11 @@ var src1 = urify(path.join(__dirname,'node_modules/_assets/Avenir-Roman.woff'))
 // var ROUTES = ud.defobj(module, ROUTER(STATE))
 /******************************************************************************
   MAIN
+
+  CONCEPT
+  // Event for beginners to work on there projects/tutorials and have coaches
+  // + around to ask something
+  // Event for beginners to learn JavaScript
 ******************************************************************************/
 db(opts, app)
 
