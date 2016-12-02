@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Code Combat (Shine Getter)",
+  "title": "Quiz App 05",
   "duration": "9:99"
 }
 ---
