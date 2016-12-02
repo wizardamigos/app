@@ -1,28 +1,28 @@
 {
-  "video": "4ogqjqlxed",
-  "slides": [{
-    "type": "question",
-    "time": "5:07",
-    "question": "Which programming language will we learn at WizardAmigos code camp?",
-    "options": [
-      "Ruby",
-      "JavaScript",
-      "Java",
-      "Python"
-    ],
-    "answer": [1]
-  },{
-    "type": "challenge",
-    "time": "5:07",
-    "text": "Create a Code Combat account and play first 3 rooms",
-    "link": {
-      "url": "http://codecombat.com/play",
-      "title": "Join Code Combat"
-    }
+"video": "FTdzIYifO0A",
+"slides": [{
+  "type": "question",
+  "time": "2:59",
+  "question": "How do we call digital recording of computer screen output, also known as a video screen capture, often containing audio narration?",
+  "options": [
+    "Video",
+    "Screen",
+    "Screencast",
+    "Screencastify"
+  ],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "2:59",
+  "text": "Go and create your first Screencast. You can of course also use QuickTime Player or other tools available.",
+  "link": {
+    "url": "",
+    "title": "Create your screencast"
+  }
 }, {
-    "type": "solution",
-    "time": "5:07",
-    "text": "If you successfuly completed first 3 rooms in Code Combat, press complete and continue to the new lesson.",
-    "button": "Complete the lesson"
-  }]
+  "type": "solution",
+  "time": "2:59",
+  "text": "If you successfully created your first screencast, click here to complete the lesson.",
+  "button": "Complete the lesson"
+}]
 }

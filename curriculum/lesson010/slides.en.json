@@ -1,16 +1,16 @@
 {
-  "video": "4ogqjqlxed",
+  "video": "NM81oO9Lufs",
   "slides": [{
     "type": "question",
     "time": "5:07",
-    "question": "Which programming language will we learn at WizardAmigos code camp?",
+    "question": "What is the name of the first world in Code Combat game?",
     "options": [
-      "Ruby",
-      "JavaScript",
-      "Java",
-      "Python"
+      "Sarven Desert",
+      "Cloudrip Mountain",
+      "Backwoods Forest",
+      "Kithgard Dungeon"
     ],
-    "answer": [1]
+    "answer": [3]
   },{
     "type": "challenge",
     "time": "5:07",

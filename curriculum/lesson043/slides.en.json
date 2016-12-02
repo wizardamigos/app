@@ -14,10 +14,10 @@
 },{
   "type": "challenge",
   "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "https://codecombat.com/play/level/the-agrippa-defense",
-    "title": "Title of the link"
+    "title": "Play now"
   }
 },{
   "type": "solution",

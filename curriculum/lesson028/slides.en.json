@@ -1,5 +1,5 @@
 {
-"video": "aaaaa99999",
+"video": "CiRZ6Ir_6fs",
 "slides": [{
   "type": "question",
   "time": "9:99",
@@ -14,10 +14,10 @@
 },{
   "type": "challenge",
   "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "text": "Play Code Combat and learn new tricks",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/defense-of-plainswood",
+    "title": "Play now"
   }
 },{
   "type": "solution",
