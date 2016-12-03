@@ -9,21 +9,21 @@
       "title": "Gems in the deep"
     }
   },{
-      "type": "challenge",
-      "time": "2:43",
-      "text": "Challenge - solve the level and then come back and continue",
-      "link": {
-        "url": "https://codecombat.com/play/level/shadow-guard",
-        "title": "Shadow Guard"
-      }
+    "type": "challenge",
+    "time": "2:43",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/shadow-guard",
+      "title": "Shadow Guard"
+    }
   },{
-      "type": "challenge",
-      "time": "4:59",
-      "text": "Challenge - solve the level and then come back and continue",
-      "link": {
-        "url": "https://codecombat.com/play/level/forgetful-gemsmith",
-        "title": "Forgetful Gemsmith"
-      }
+    "type": "challenge",
+    "time": "4:59",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/forgetful-gemsmith",
+      "title": "Forgetful Gemsmith"
+    }
   },{
     "type": "question",
     "time": "6:31",

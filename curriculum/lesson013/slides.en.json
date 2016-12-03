@@ -1,26 +1,34 @@
 {
-"video": "JMf2-F_0Q4M",
-"slides": [{
-  "type": "question",
-  "time": "1:59",
-  "question": "What is a while(true) loop?",
-  "options": [
-    "It's a special command that makes the code repeat over and over again",
-    "It's a name of an Ogre we have to attack"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "1:59",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/kithgard-librarian",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "1:59",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "JMf2-F_0Q4M",
+  "slides": [{
+    "type": "challenge",
+    "time": "0:51",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/kithgard-librarian",
+      "title": "Kithgard Librarian"
+    }
+  },{
+    "type": "challenge",
+    "time": "2:43",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/fire-dancing",
+      "title": "Fire Dancing"
+    }
+  },{
+    "type": "question",
+    "time": "4:21",
+    "question": "What is a while(true) loop?",
+    "options": [
+      "It's a special command that makes the code repeat over and over again",
+      "It's a name of an Ogre we have to attack"
+    ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "4:21",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }
