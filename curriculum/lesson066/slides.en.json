@@ -3,14 +3,12 @@
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "First question",
+  "question": "What happens when the value of gold is 25 or more?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "We continue collecting gold",
+    "We stop the loop"
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
   "time": "9:99",
@@ -22,7 +20,7 @@
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

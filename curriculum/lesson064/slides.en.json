@@ -3,14 +3,12 @@
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "First question",
+  "question": "What does the hero do in this level when she/he sees a green flag?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "Builds a trap",
+    "Builds a fense"
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
   "time": "9:99",
@@ -22,7 +20,7 @@
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

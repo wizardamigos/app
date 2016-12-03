@@ -3,14 +3,14 @@
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "First question",
+  "question": "What do we do when the measured time in the level is less than 10?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "We attack the ogres",
+    "We define var flag",
+    "We check our health",
+    "We search for the enemies"
   ],
-  "answer": [9]
+  "answer": [2]
 },{
   "type": "challenge",
   "time": "9:99",
@@ -22,7 +22,7 @@
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }
