@@ -4,13 +4,14 @@
   "type": "question",
   "time": "9:99",
   "question": "First question",
+  "question": "How can we check the distance from our position to the flag?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "this.pos - flag.pos",
+    "flag.pos - this.pos",
+    "this.distanceTo(flag)",
+    "this.flag.pos"
   ],
-  "answer": [9]
+  "answer": [2]
 },{
   "type": "challenge",
   "time": "9:99",
@@ -22,7 +23,7 @@
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

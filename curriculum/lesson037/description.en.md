@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Theory (conditions and comparisons)",
   "duration": "9:99"
 }
 ---

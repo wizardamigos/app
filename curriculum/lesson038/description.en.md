@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Title",
+  "title": "Code Combat (Dueling Grounds)",
   "duration": "9:99"
 }
 ---

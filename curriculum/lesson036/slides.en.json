@@ -5,7 +5,7 @@
   "time": "9:99",
   "question": "Which of the two methods do we use to beat more enemies?",
   "options": [
-    "this.attack(enemy) ",
+    "this.attack(enemy)",
     "this.cleave(enemy)"
   ],
   "answer": [1]

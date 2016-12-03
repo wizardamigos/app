@@ -3,14 +3,14 @@
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "First question",
+  "question": "When can we use 'cleave' method?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "Only once in the game",
+    "Whenever we want",
+    "If there is more than 10 enemies",
+    "When it's ready"
   ],
-  "answer": [9]
+  "answer": [3]
 },{
   "type": "challenge",
   "time": "9:99",
@@ -22,7 +22,7 @@
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

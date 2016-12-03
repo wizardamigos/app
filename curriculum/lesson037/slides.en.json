@@ -3,18 +3,18 @@
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "Theory (conditions and comparissons)",
+  "question": "Which statement will return 'true'?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "5 != 5",
+    "6 < 7",
+    "x = 2; x > 15",
+    "y = 7; y === 'seven'"
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

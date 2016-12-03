@@ -3,14 +3,14 @@
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "First question",
+  "question": "How many meters away from the enemies do we have to be in this level in order to be able to cleave them?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "Less than 5 meters",
+    "5 meters",
+    "10 meters",
+    "More than 5 meters"
   ],
-  "answer": [9]
+  "answer": [0]
 },{
   "type": "challenge",
   "time": "9:99",
@@ -22,7 +22,7 @@
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

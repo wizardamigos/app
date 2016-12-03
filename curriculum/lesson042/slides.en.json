@@ -3,14 +3,12 @@
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "First question",
+  "question": "What do we have to take care of when writing an if statement inside of another if statement?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "About the indentation",
+    "Nothing special"
   ],
-  "answer": [9]
+  "answer": [0]
 },{
   "type": "challenge",
   "time": "9:99",
@@ -22,7 +20,7 @@
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }
