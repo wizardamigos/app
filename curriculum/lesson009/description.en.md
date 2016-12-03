@@ -1,7 +1,7 @@
 ---
 {
   "title": "Create a screencast",
-  "duration": "5:22"
+  "duration": "6:39"
 }
 ---
 
