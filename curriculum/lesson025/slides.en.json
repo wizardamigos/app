@@ -1,15 +1,6 @@
 {
 "video": "1siP_JzVjcU",
 "slides": [{
-  "type": "question",
-  "time": "5:39",
-  "question": "Which variable do we create to count our gems(diamonds)?",
-  "options": [
-    "enemy",
-    "count"
-  ],
-  "answer": [1]
-},{
   "type": "challenge",
   "time": "1:36",
   "text": "Play Code Combat and learn new tricks",

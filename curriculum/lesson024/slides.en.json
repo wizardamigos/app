@@ -3,14 +3,12 @@
 "slides": [{
   "type": "question",
   "time": "2:47",
-  "question": "Which arguments do we use in buildXY function if we want to build a fence?",
+  "question": "Which variable do we create to count our gems(diamonds)?",
   "options": [
-    "fence, x coordinate and y coordinate - this.buildXY('fence', 34, 44)",
-    "just x and y coordinates - this.buildXY(34, 44)",
-    "just fence - this.buildXY('fence')",
-    "Nothing - this.buildXY()"
+    "enemy",
+    "count"
   ],
-  "answer": [0]
+  "answer": [1]
 },{
   "type": "challenge",
   "time": "1:31",
