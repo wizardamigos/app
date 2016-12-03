@@ -2,7 +2,7 @@
   "video": "Zd5b0tOkr8E",
   "slides": [{
     "type": "question",
-    "time": "3:55",
+    "time": "2:15",
     "question": "What is the name of a social network page for open source programmers?",
     "options": [
       "Github",
@@ -13,7 +13,7 @@
     "answer": [0]
   }, {
     "type": "challenge",
-    "time": "3:55",
+    "time": "2:15",
     "text": "Click here to create Github and WizardAmigos account.",
     "link": {
       "url": "http://app.wizardamigos.com",

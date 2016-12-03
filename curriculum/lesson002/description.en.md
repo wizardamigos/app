@@ -1,7 +1,7 @@
 ---
 {
   "title": "Download & Install Chrome Browser",
-  "duration": "3:29"
+  "duration": "9:16"
 }
 ---
 

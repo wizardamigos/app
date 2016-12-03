@@ -1,28 +1,28 @@
 {
-"video": "-YzMiTUjUZw",
-"slides": [{
-  "type": "question",
-  "time": "2:59",
-  "question": "How do we call a digital recording of computer screen output, also known as a video screen capture, often containing audio narration?",
-  "options": [
-    "Video",
-    "Screen",
-    "Screencast",
-    "Screencastify"
-  ],
-  "answer": [2]
-},{
-  "type": "challenge",
-  "time": "2:59",
-  "text": "Go and create your first Screencast. You can try out Screencastify, but of course you can also use QuickTime Player or other tools available.",
-  "link": {
-    "url": "https://storage.googleapis.com/n9g240g14gn805g/Chrome%20profile%20blog%20post/Sign%20in%20to%20chrome.jpg",
-    "title": "Create your screencast"
-  }
-}, {
-  "type": "solution",
-  "time": "2:59",
-  "text": "If you successfully created your first screencast, click here to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "-YzMiTUjUZw",
+  "slides": [{
+    "type": "question",
+    "time": "3:01",
+    "question": "How do we call a digital recording of computer screen output, also known as a video screen capture, often containing audio narration?",
+    "options": [
+      "Video",
+      "Screen",
+      "Screencast",
+      "Screencastify"
+    ],
+    "answer": [2]
+  },{
+    "type": "challenge",
+    "time": "3:01",
+    "text": "Go and create your first Screencast. You can try out Screencastify, but of course you can also use QuickTime Player or other tools available.",
+    "link": {
+      "url": "https://storage.googleapis.com/n9g240g14gn805g/Chrome%20profile%20blog%20post/Sign%20in%20to%20chrome.jpg",
+      "title": "Create your screencast"
+    }
+  }, {
+    "type": "solution",
+    "time": "3:01",
+    "text": "If you successfully created your first screencast, click here to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

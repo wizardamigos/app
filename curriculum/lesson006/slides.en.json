@@ -1,39 +1,39 @@
 {
-"video": "dgDIKUgpFx4",
-"slides": [{
-  "type": "question",
-  "time": "5:05",
-  "question": "What can we do with these shortcuts: ctrl-c and ctrl-v (cmd-c and cmd-v for Apple users)?",
-  "options": [
-    "save and delete",
-    "copy and paste",
-    "open and close",
-    "click and unclick"
-  ],
-  "answer": [1]
-},{
-  "type": "question",
-  "time": "5:05",
-  "question": "What is Wikipedia?",
-  "options": [
-    "blogging platform",
-    "online newspaper",
-    "free online encyclopedia",
-    "image gallery"
-  ],
-  "answer": [2]
-},{
-  "type": "challenge",
-  "time": "5:05",
-  "text": "Go click Show bookmark bar to make bookmarks visible on every browser tab. Then visit Wikipedia, copy part of the article and paste it into Google Translate to read it in your language. After you are done, save links to your Help Tools folder. ",
-  "link": {
-    "url": "https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)",
-    "title": "Start the challenge"
-  }
-}, {
-  "type": "solution",
-  "time": "5:05",
-  "text": "If you successfuly finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "dgDIKUgpFx4",
+  "slides": [{
+    "type": "question",
+    "time": "7:40",
+    "question": "What can we do with these shortcuts: ctrl-c and ctrl-v (cmd-c and cmd-v for Apple users)?",
+    "options": [
+      "save and delete",
+      "copy and paste",
+      "open and close",
+      "click and unclick"
+    ],
+    "answer": [1]
+  },{
+    "type": "question",
+    "time": "7:40",
+    "question": "What is Wikipedia?",
+    "options": [
+      "blogging platform",
+      "online newspaper",
+      "free online encyclopedia",
+      "image gallery"
+    ],
+    "answer": [2]
+  },{
+    "type": "challenge",
+    "time": "7:40",
+    "text": "Go click Show bookmark bar to make bookmarks visible on every browser tab. Then visit Wikipedia, copy part of the article and paste it into Google Translate to read it in your language. After you are done, save links to your Help Tools folder. ",
+    "link": {
+      "url": "https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)",
+      "title": "Start the challenge"
+    }
+  }, {
+    "type": "solution",
+    "time": "7:40",
+    "text": "If you successfuly finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

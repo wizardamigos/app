@@ -1,7 +1,7 @@
 ---
 {
   "title": "Chrome Profile and Gmail Account",
-  "duration": "3:08"
+  "duration": "3:02"
 }
 ---
 

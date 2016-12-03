@@ -1,28 +1,28 @@
 {
-"video": "jZn0quwIb9Q",
-"slides": [{
-  "type": "question",
-  "time": "3:21",
-  "question": "What is NOT a browser?",
-  "options": [
-    "Google Chrome",
-    "Mozilla Firefox",
-    "Microsoft Windows",
-    "Internet Explorer"
-  ],
-  "answer": [2]
-},{
-  "type": "challenge",
-  "time": "3:21",
-  "text": "Click to check what browser you have and if you don't have Google Chrome browser on your computer, install it now. You will be using it in the next lessons.",
-  "link": {
-    "url": "http://www.whatbrowser.org/intl/sr/",
-    "title": "Click to check your browser"
-  }
-}, {
-  "type": "solution",
-  "time": "3:21",
-  "text": "If you have Chrome browser installed on your computer, you can click here to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "jZn0quwIb9Q",
+  "slides": [{
+    "type": "question",
+    "time": "9:15",
+    "question": "What is NOT a browser?",
+    "options": [
+      "Google Chrome",
+      "Mozilla Firefox",
+      "Microsoft Windows",
+      "Internet Explorer"
+    ],
+    "answer": [2]
+  },{
+    "type": "challenge",
+    "time": "9:15",
+    "text": "Click to check what browser you have and if you don't have Google Chrome browser on your computer, install it now. You will be using it in the next lessons.",
+    "link": {
+      "url": "http://www.whatbrowser.org/intl/sr/",
+      "title": "Click to check your browser"
+    }
+  }, {
+    "type": "solution",
+    "time": "9:15",
+    "text": "If you have Chrome browser installed on your computer, you can click here to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

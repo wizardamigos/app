@@ -1,33 +1,33 @@
 {
-"video": "1EDG8-hgo6w",
-"slides": [{
-  "type": "challenge",
-  "time": "0:14",
-  "text": "You will learn how to use Github - a social network for programmers. Check it out and then come back - but just take a quick look, you DON'T need to do signup yet.",
-  "link": {
-    "url": "https://github.com/personal",
-    "title": "Click here"
-  }
-}, {
-  "type": "challenge",
-  "time": "0:14",
-  "text": "For support you will be able to use WizardAmigos Gitter chat. You will create an account in the next lessons, so just a sneak peek for now.",
-  "link": {
-    "url": "https://gitter.im/codingamigos/learners",
-    "title": "Click here"
-  }
-}, {
-  "type": "challenge",
-  "time": "0:14",
-  "text": "You will play a programming game Code Combat. Don't start playing it yet, wait for the further instructions first.",
-  "link": {
-    "url": "http://codecombat.com",
-    "title": "Click here"
-  }
-},{
-  "type": "solution",
-  "time": "0:14",
-  "text": "First you will set up your environment (create an account and get to know some tools you will be using), then you will learn the grammar/syntax of JavaScript programming language and after that you will build your web and mobile app. Get started now! The world is yours.",
-  "button": "Start now"
-}]
+  "video": "1EDG8-hgo6w",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:53",
+    "text": "You will learn how to use Github - a social network for programmers. Check it out and then come back - but just take a quick look, you DON'T need to do signup yet.",
+    "link": {
+      "url": "https://github.com/personal",
+      "title": "Click here"
+    }
+  }, {
+    "type": "challenge",
+    "time": "2:53",
+    "text": "For support you will be able to use WizardAmigos Gitter chat. You will create an account in the next lessons, so just a sneak peek for now.",
+    "link": {
+      "url": "https://gitter.im/codingamigos/learners",
+      "title": "Click here"
+    }
+  }, {
+    "type": "challenge",
+    "time": "2:53",
+    "text": "You will play a programming game Code Combat. Don't start playing it yet, wait for the further instructions first.",
+    "link": {
+      "url": "http://codecombat.com",
+      "title": "Click here"
+    }
+  },{
+    "type": "solution",
+    "time": "2:53",
+    "text": "First you will set up your environment (create an account and get to know some tools you will be using), then you will learn the grammar/syntax of JavaScript programming language and after that you will build your web and mobile app. Get started now! The world is yours.",
+    "button": "Start now"
+  }]
 }

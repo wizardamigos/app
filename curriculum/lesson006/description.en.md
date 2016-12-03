@@ -1,7 +1,7 @@
 ---
 {
   "title": "Google Translate and Wikipedia",
-  "duration": "5:13"
+  "duration": "7:41"
 }
 ---
 
