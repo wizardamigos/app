@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (Ogre Gorge Gouger)",
-  "duration": "9:99"
+  "duration": "4:50"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

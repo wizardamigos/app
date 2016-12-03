@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (Toil and Trouble)",
-  "duration": "9:99"
+  "duration": "3:54"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

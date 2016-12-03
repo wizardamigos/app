@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (Danger Valley)",
-  "duration": "9:99"
+  "duration": "2:10"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

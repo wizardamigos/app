@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (The Spy Among Us)",
-  "duration": "9:99"
+  "duration": "2:56"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

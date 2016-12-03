@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (The Geometry of Flowers)",
-  "duration": "9:99"
+  "duration": "9:41"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

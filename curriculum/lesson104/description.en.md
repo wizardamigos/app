@@ -1,8 +1,10 @@
 ---
 {
   "title": "Theory (functions: returning a function)",
-  "duration": "9:99"
+  "duration": "9:27"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

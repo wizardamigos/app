@@ -1,8 +1,10 @@
 ---
 {
   "title": "Theory (arrays)",
-  "duration": "9:99"
+  "duration": "15:17"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

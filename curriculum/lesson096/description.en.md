@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (Steelclaw Gap)",
-  "duration": "9:99"
+  "duration": "6:21"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

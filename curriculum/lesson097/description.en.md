@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (Mixed Unit Tactics)",
-  "duration": "9:99"
+  "duration": "4:07"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

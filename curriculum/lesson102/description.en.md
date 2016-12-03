@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (Cloudrip Siege)",
-  "duration": "9:99"
+  "duration": "9:22"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```

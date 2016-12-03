@@ -1,8 +1,10 @@
 ---
 {
-  "title": "Code Combat (Crag Tag)",
-  "duration": "9:99"
+  "title": "Code Combat (Crag Tag, Slalom)",
+  "duration": "6:24"
 }
 ---
 
-Here comes description
+```js
+// @TODO: put proper description
+```
