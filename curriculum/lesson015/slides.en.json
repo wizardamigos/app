@@ -9,14 +9,14 @@
     "",
     "Example",
     "while(true) {",
-    "  // indented code here",
+    "  //this is the indented code",
     "}",
     "",
     "So what is indentation?"
   ],
   "options": [
-    "empty space at the beginning of a line",
-    "empty space at the end of a line"
+    "An empty space at the beginning of a line",
+    "An empty space at the end of a line"
   ],
   "answer": [0]
 },{
@@ -30,7 +30,7 @@
 },{
   "type": "solution",
   "time": "2:14",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

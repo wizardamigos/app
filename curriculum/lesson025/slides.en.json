@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "5:39",
-  "question": "Which variable did we create to count our gems(diamonds)?",
+  "question": "Which variable do we create to count our gems(diamonds)?",
   "options": [
     "enemy",
     "count"
@@ -20,7 +20,7 @@
 },{
   "type": "solution",
   "time": "5:39",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

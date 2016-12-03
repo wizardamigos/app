@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "5:05",
-  "question": "What are these shortcuts (CTRL C and CTRL V (CMD C and CMD V if you are on Apple) used for?",
+  "question": "What can we do with these shortcuts: ctrl-c and ctrl-v (cmd-c and cmd-v for Apple users)?",
   "options": [
     "save and delete",
     "copy and paste",
@@ -16,16 +16,16 @@
   "time": "5:05",
   "question": "What is Wikipedia?",
   "options": [
-    "email provider",
-    "internet browser",
-    "online encyclopedia",
-    "search engine"
+    "blogging platform",
+    "online newspaper",
+    "free online encyclopedia",
+    "image gallery"
   ],
   "answer": [2]
 },{
   "type": "challenge",
   "time": "5:05",
-  "text": "Go click Show bookmark bar to make bookmarks visible on every browser tab. Then visit Wikipedia, copy part of the article and paste it into Google Translate to read it in Serbian. After you are done, save both links into Bookmark bar folder - Help Tools. ",
+  "text": "Go click Show bookmark bar to make bookmarks visible on every browser tab. Then visit Wikipedia, copy part of the article and paste it into Google Translate to read it in your language. After you are done, save links to your Help Tools folder. ",
   "link": {
     "url": "https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)",
     "title": "Start the challenge"
@@ -33,7 +33,7 @@
 }, {
   "type": "solution",
   "time": "5:05",
-  "text": "If you tried out Wikipedia and Google Translate and bookmarked them both in the Bookmark bar that is now visible on all the browser tabs, then click to complete the lesson.",
+  "text": "If you successfuly finished the challenge for this lesson, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

@@ -3,14 +3,14 @@
 "slides": [{
   "type": "question",
   "time": "1:24",
-  "question": "What is a name of the variable we create in this statement var enemy1 = findNearestEnemy(); ?",
+  "question": "What is a name of the variable we create in this statement var enemy = findNearestEnemy();?",
   "options": [
-    "enemy2",
-    "enemy3",
-    "enemy1",
-    "enemy4"
+    "enemy",
+    ";",
+    "var",
+    "findNearestEnemy()"
   ],
-  "answer": [2]
+  "answer": [0]
 },{
   "type": "challenge",
   "time": "0:29",
@@ -22,7 +22,7 @@
 },{
   "type": "solution",
   "time": "1:24",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

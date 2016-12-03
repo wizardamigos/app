@@ -4,16 +4,16 @@
   "type": "question",
   "time": "4:14",
   "question":
-[
-"Is a) and b) the same?",
-" a) self.attack('Kratt');",
-" b) var enemy = 'Kratt';",
-"    self.attack(enemy);"
-],
-  "options": [
-    "yes, in example a) we use nametag and in example b) we are using variable enemy instead of a nametag",
-    "no"
-  ],
+    [
+    "Can you use b) instead of a)?",
+    " a) self.attack('Kratt');",
+    " b) var enemy = 'Kratt';",
+    "    self.attack(enemy);"
+    ],
+    "options": [
+      "Yes, in example a) we use name the name 'Krat' directly and in example b) we create a variable and assign 'Krat' to it.",
+      "No, this would mean a complitely different thing."
+    ],
   "answer": [0]
 },{
   "type": "challenge",
@@ -26,7 +26,7 @@
 },{
   "type": "solution",
   "time": "4:14",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

@@ -14,7 +14,7 @@
 },{
   "type": "question",
   "time": "8:32",
-  "question": "What is a result of 'esova' === 'esova' ?",
+  "question": "What is a result of 'esova' === 'esova'?",
   "options": [
     "esova",
     "true",
@@ -25,7 +25,7 @@
 },{
   "type": "challenge",
   "time": "8:32",
-  "text": "Learn to use Developer Tools (Console), then edit your Javascript Cheatsheet Gist and save the content from this lesson to it.",
+  "text": "Learn to use Developer Tools (Console), then add what you've learned in this lesson to your Javascript Cheatsheet Gist.",
   "link": {
     "url": "https://gist.github.com/",
     "title": "Try out the console"
@@ -33,7 +33,7 @@
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfully finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

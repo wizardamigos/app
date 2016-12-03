@@ -3,10 +3,10 @@
 "slides": [{
   "type": "question",
   "time": "3:31",
-  "question": "Where do we save the cheatsheet for Special Characters from this lesson?",
+  "question": "How do we call these special characters - '{}'?",
   "options": [
-    "in the Gist (and Bookmarked under GISTS/Special Characters)",
-    "we don't save it"
+    "Curly braces",
+    "Semicolon"
   ],
   "answer": [0]
 },{
@@ -20,7 +20,7 @@
 },{
   "type": "solution",
   "time": "3:31",
-  "text": "If you successfuly saved and bookmarked Special Characters gist, click here to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

@@ -5,8 +5,8 @@
   "time": "1:59",
   "question": "What is a while(true) loop?",
   "options": [
-    "it's a special command - a loop - that make things happen over and over again",
-    "it is a name of an Ogre we have to attack"
+    "It's a special command that makes the code repeat over and over again",
+    "It's a name of an Ogre we have to attack"
   ],
   "answer": [0]
 },{
@@ -20,7 +20,7 @@
 },{
   "type": "solution",
   "time": "1:59",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

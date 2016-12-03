@@ -3,26 +3,26 @@
 "slides": [{
   "type": "question",
   "time": "3:00",
-  "question": "Mark the characters for which we created a shortcut in our Gist?",
+  "question": "How do we DON'T call this special character - '/'?",
   "options": [
-    "/",
-    ";",
-    "ß",
-    ">"
+    "The slash",
+    "The colon",
+    "Single quotes",
+    "Brackets"
   ],
-  "answer": [0,1,3]
+  "answer": [1,2,3]
 },{
   "type": "challenge",
   "time": "3:00",
-  "text": "Add more special characters to your gist and then test practise typing them with WPM test.",
+  "text": "Add more special characters to your gist and then practise typing them.",
   "link": {
     "url": "http://wpm-test.com/programming-typing-test/",
-    "title": "Start now"
+    "title": "Practise typing"
   }
 },{
   "type": "solution",
   "time": "3:00",
-  "text": "If you successfuly added all special characters from the video to your gist and finished the test, click here to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

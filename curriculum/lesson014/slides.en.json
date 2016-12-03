@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "2:03",
-  "question": "What type of special characters are used in a while(true) loop to wrap the code in the loop that repeats forever?",
+  "question": "What type of special characters are used in a while(true) loop that is used to wrap the part of the code that repeats itself?",
   "options": [
     "curly braces - {}",
     "square brackets - []"
@@ -20,7 +20,7 @@
 },{
   "type": "solution",
   "time": "2:03",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

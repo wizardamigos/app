@@ -3,16 +3,16 @@
 "slides": [{
   "type": "question",
   "time": "5:17",
-  "question": "How do you make one-line comments in Javascript code?",
+  "question": "How do you create comments in Javascript code to make sure computer will ignore them?",
   "options": [
-    "you start a line with //",
-    "you start a line with /*"
+    "you start a comment with //",
+    "you start a comment with =="
   ],
   "answer": [0]
 },{
   "type": "question",
   "time": "5:17",
-  "question": "What here is a string?",
+  "question": "What in this example is a string?",
   "options": [
     "1",
     "'123'",
@@ -23,15 +23,15 @@
 },{
   "type": "challenge",
   "time": "5:17",
-  "text": "Repeat what you've learned about JavaScript and create a new Gist, call it Javascript cheatsheet and save the content from the video in it.",
+  "text": "Create your personal Javascript cheatsheet gist and try to repeat and write down what you've learned so far.",
   "link": {
     "url": "https://gist.github.com/",
-    "title": "Repeat Javascript"
+    "title": "Create your cheatsheet"
   }
 },{
   "type": "solution",
   "time": "5:17",
-  "text": "If you successfuly finished saved and bookmarked JavaScript Cheatsheet gist, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

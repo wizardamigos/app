@@ -3,7 +3,7 @@
   "slides": [{
     "type": "question",
     "time": "5:07",
-    "question": "What is the name of the first world in Code Combat game?",
+    "question": "What is the name of the first world in the Code Combat game?",
     "options": [
       "Sarven Desert",
       "Cloudrip Mountain",
@@ -14,15 +14,15 @@
   },{
     "type": "challenge",
     "time": "5:07",
-    "text": "Create a Code Combat account and play first 3 rooms",
+    "text": "Create a Code Combat account. Click Create account and then choose Signup as individual.",
     "link": {
-      "url": "http://codecombat.com/play",
+      "url": "http://codecombat.com",
       "title": "Join Code Combat"
     }
 }, {
     "type": "solution",
     "time": "5:07",
-    "text": "If you successfuly completed first 3 rooms in Code Combat, press complete and continue to the new lesson.",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

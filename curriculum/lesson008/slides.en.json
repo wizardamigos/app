@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "4:34",
-  "question": "Which two letters on keyboard have a little bump that marks the correct starting position for our second fingers?",
+  "question": "Which two letters on keyboard have a little bumps which mark the correct starting position for our second fingers?",
   "options": [
     "B and V",
     "G and H",
@@ -22,7 +22,7 @@
 },{
   "type": "challenge",
   "time": "4:34",
-  "text": "If you think you are ready, let's test our typing skills one.",
+  "text": "If you think you are ready, test your typing skills with this simple game.",
   "link": {
     "url": "http://www.learninggamesforkids.com/keyboarding_games/keyboarding_games_typing_adventure1.html",
     "title": "Test your typing skills"
@@ -31,7 +31,7 @@
 {
   "type": "solution",
   "time": "4:34",
-  "text": "If your time is somewhere below 50000, complete lesson, otherwise, practise a bit more.",
+  "text": "If you are satisfied with the results, click to complete the lesson. ",
   "button": "Complete the lesson"
 }]
 }

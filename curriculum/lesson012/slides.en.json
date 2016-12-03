@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "3:17",
-  "question": "What is the correct command to attack Ogre named Brak?",
+  "question": "What is the correct command in this level that helps us attack Ogre named Brak?",
   "options": [
     "this.attack(Brak);",
     "this.attack('Brak');"
@@ -20,7 +20,7 @@
 },{
   "type": "solution",
   "time": "3:17",
-  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }
