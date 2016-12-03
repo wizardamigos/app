@@ -3,12 +3,12 @@
   "slides": [{
     "type": "question",
     "time": "3:55",
-    "question": "What is the name of a famous social network page for programmers?",
+    "question": "What is the name of a social network page for open source programmers?",
     "options": [
       "Github",
-      "Gigi",
-      "Bitbag",
-      "Bithub"
+      "Twitter",
+      "Gitter",
+      "Reddit"
     ],
     "answer": [0]
   }, {
