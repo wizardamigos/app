@@ -1,6 +1,15 @@
 {
   "video": "8oMgk3Lmh4Q",
   "slides": [{
+  "type": "question",
+  "time": "3:56",
+  "question": "What type of loop did we get to know in this lesson?",
+  "options": [
+    "A while-loop",
+    "A for-loop"
+],
+  "answer": [1]
+},{
     "type": "challenge",
     "time": "0:41",
     "text": "Challenge - solve the level and then come back and continue",

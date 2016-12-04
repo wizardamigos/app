@@ -3,18 +3,18 @@
   "slides": [{
     "type": "question",
     "time": "15:16",
-    "question": "First question",
+    "question": "What JavaScript data type is variable fruits in this example: var fruits = ['banana','apple','kiwi']",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "string",
+      "integer",
+      "array",
+      "object"
     ],
-    "answer": [9]
+    "answer": [2]
   },{
     "type": "solution",
     "time": "15:16",
-    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

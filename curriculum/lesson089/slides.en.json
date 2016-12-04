@@ -1,6 +1,17 @@
 {
   "video": "5ijW9esxrEc",
   "slides": [{
+  "type": "question",
+  "time": "4:41",
+  "question": "In this lesson we get the bonus if:",
+  "options": [
+    "we destroy 20 ogres",
+    "all our troops survive",
+    "we find 30 enemies",
+    "we collect 100 coins"
+],
+  "answer": [1]
+},{
     "type": "challenge",
     "time": "1:04",
     "text": "Challenge - solve the level and then come back and continue",

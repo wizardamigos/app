@@ -1,6 +1,17 @@
 {
   "video": "MzIluFtW5jE",
   "slides": [{
+  "type": "question",
+  "time": "2:40",
+  "question": "How many times will a for-loop repeat if (var i = 0; i < 30, i++)",
+  "options": [
+    "1x",
+    "29x",
+    "30x",
+    "0x"
+],
+  "answer": [2]
+},{
     "type": "challenge",
     "time": "0:43",
     "text": "Challenge - solve the level and then come back and continue",

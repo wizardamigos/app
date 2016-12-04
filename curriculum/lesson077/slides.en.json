@@ -3,26 +3,24 @@
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "First question",
+  "question": "Which enemy do we have to attack first?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "The one that is the closest",
+    "The one that is the furthest"
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
   "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "https://codecombat.com/play/level/sand-snakes",
-    "title": "Title of the link"
+    "title": "Play now"
   }
 },{
   "type": "solution",
   "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+  "text": "If you successfuly finished the challenge, click to complete the lesson.",
   "button": "Complete the lesson"
 }]
 }

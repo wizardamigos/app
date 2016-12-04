@@ -1,6 +1,15 @@
 {
   "video": "nyqvPy2xE3Y",
   "slides": [{
+  "type": "question",
+  "time": "7:49",
+  "question": "What is the equivalent of this.say('Hello') in JavaScript developer tools?",
+  "options": [
+    "console.log('Hello')",
+    "console.say('Hello')"
+],
+  "answer": [0]
+},{
     "type": "challenge",
     "time": "1:04",
     "text": "Challenge - solve the level and then come back and continue",

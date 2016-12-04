@@ -1,6 +1,15 @@
 {
   "video": "VUoknsgUX-w",
   "slides": [{
+  "type": "question",
+  "time": "4:57",
+  "question": "What does friends.length give us?",
+  "options": [
+    "Number of elements in the friends array",
+    "Number of attributes in the friends method"
+],
+  "answer": [0]
+},{
     "type": "challenge",
     "time": "0:58",
     "text": "Challenge - solve the level and then come back and continue",

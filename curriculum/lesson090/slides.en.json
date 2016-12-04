@@ -1,6 +1,17 @@
 {
   "video": "xeORWeNZPVY",
   "slides": [{
+  "type": "question",
+  "time": "6:05",
+  "question": "What can replace i++?",
+  "options": [
+    "i+1+1+1+1...",
+    "i-1-1-1-1...",
+    "i+=1",
+    "i-=1"
+],
+  "answer": [0,2]
+},{
     "type": "challenge",
     "time": "1:11",
     "text": "Challenge - solve the level and then come back and continue",

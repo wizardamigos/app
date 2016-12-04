@@ -1,6 +1,15 @@
 {
   "video": "0qI7If1P6WM",
   "slides": [{
+  "type": "question",
+  "time": "4:49",
+  "question": "JavaScript functions help us create parts of code we can use:",
+  "options": [
+    "only once",
+    "many times"
+],
+  "answer": [1]
+},{
     "type": "challenge",
     "time": "2:09",
     "text": "Challenge - solve the level and then come back and continue",

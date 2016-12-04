@@ -1,6 +1,17 @@
 {
   "video": "DoFp4h-knpA",
   "slides": [{
+  "type": "question",
+  "time": "3:59",
+  "question": "What did we use the while-loop for in this level?",
+  "options": [
+    "to send soldiers to the locations",
+    "to collect the coins",
+    "to summon soldiers",
+    "to attack the enemies"
+],
+  "answer": [1]
+},{
     "type": "challenge",
     "time": "1:21",
     "text": "Challenge - solve the level and then come back and continue",

@@ -1,6 +1,17 @@
 {
   "video": "cZcK5OM1vtY",
   "slides": [{
+  "type": "question",
+  "time": "6:23",
+  "question": "How many arguments does a function move(pos) have?",
+  "options": [
+    "None",
+    "One",
+    "Two",
+    "three"
+],
+  "answer": [1]
+}, {
     "type": "challenge",
     "time": "2:07",
     "text": "Challenge - solve the level and then come back and continue",

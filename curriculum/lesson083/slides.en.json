@@ -1,6 +1,17 @@
 {
   "video": "sG3ynl4YoQ8",
   "slides": [{
+  "type": "question",
+  "time": "3:35",
+  "question": "In this level we can only command:",
+  "options": [
+    "marines",
+    "archers",
+    "soldiers",
+    "snipers"
+],
+  "answer": [1,2]
+},{
     "type": "challenge",
     "time": "2:16",
     "text": "Challenge - solve the level and then come back and continue",
