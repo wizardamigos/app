@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "3:30"
+  "title": "Code Combat (Kithgard Gates)",
+  "duration": "4:56"
 }
 ---
 
-With help of amazing Code Combat game you will fight even more enemies.
+Learn to `call` another `function` with multiple `arguments` called "buildXY"... yeah, just wait for it :-)

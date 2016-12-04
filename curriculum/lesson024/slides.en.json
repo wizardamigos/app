@@ -1,26 +1,26 @@
 {
-"video": "-TblQ4QbZvk",
-"slides": [{
-  "type": "question",
-  "time": "2:47",
-  "question": "Which variable do we create to count our gems(diamonds)?",
-  "options": [
-    "enemy",
-    "count"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "1:31",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/kithgard-mastery",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "2:47",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "-TblQ4QbZvk",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:20",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/kithgard-mastery",
+      "title": "Kithgard Mastery"
+    }
+  },{
+    "type": "question",
+    "time": "8:16",
+    "question": "Which variable name would be good to store the number of collected gems?",
+    "options": [
+      "var enemy;",
+      "var count;"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "8:16",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

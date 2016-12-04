@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "5:48"
+  "title": "Code Combat (Signs and Portents)",
+  "duration": "5:00"
 }
 ---
 
-In this room you will learn how to count gems(diamons) you will be picking up and how to use the password to open the door.
+Have fun with another little challenge.

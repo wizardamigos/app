@@ -1,28 +1,29 @@
 {
-"video": "YtqcIj66wRI",
-"slides": [{
-  "type": "question",
-  "time": "3:21",
-  "question": "How do we create a new variable called enemy?",
-  "options": [
-    "v enemy = this.findNearestEnemy();",
-    "var enemy = this.findNearestEnemy();",
-    "enemy = this.findNearestEnemy();",
-    "variable enemy = this.findNearestEnemy();"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "0:49",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/kithgard-gates",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "3:21",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "YtqcIj66wRI",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:42",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/kithgard-gates",
+      "title": "Kithgard Gates"
+    }
+  },{
+    "type": "question",
+    "time": "4:55",
+    "question": "How do we create a new variable called enemy?",
+    "options": [
+      "v enemy = this.findNearestEnemy();",
+      "var enemy;",
+      "var enemy = this.findNearestEnemy();",
+      "enemy = this.findNearestEnemy();",
+      "variable enemy = this.findNearestEnemy();"
+    ],
+    "answer": [1,2]
+  },{
+    "type": "solution",
+    "time": "4:55",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

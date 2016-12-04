@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "4:23"
+  "title": "Code Combat (Known Enemy, Master of Names)",
+  "duration": "6:32"
 }
 ---
 
-With help of amazing Code Combat game you will learn how to create enemy variable.
+With help of amazing Code Combat game you will learn how to **remember** an enemy for future reference by using a `variable`.

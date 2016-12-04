@@ -1,7 +1,7 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "2:02"
+  "title": "Code Combat (A Mayhem of Munchkins)",
+  "duration": "3:25"
 }
 ---
 

@@ -1,28 +1,31 @@
 {
-"video": "ThhgntAb6sI",
-"slides": [{
-  "type": "question",
-  "time": "3:00",
-  "question": "How do we DON'T call this special character - '/'?",
-  "options": [
-    "The slash",
-    "The colon",
-    "Single quotes",
-    "Brackets"
-  ],
-  "answer": [1,2,3]
-},{
-  "type": "challenge",
-  "time": "3:00",
-  "text": "Add more special characters to your gist and then practise typing them.",
-  "link": {
-    "url": "http://wpm-test.com/programming-typing-test/",
-    "title": "Practise typing"
-  }
-},{
-  "type": "solution",
-  "time": "3:00",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "ThhgntAb6sI",
+  "slides": [{
+    "type": "question",
+    "time": "2:25",
+    "question": "How do we NOT call this special character: '/'?",
+    "options": [
+      "The slash",
+      "The colon",
+      "Single quotes",
+      "Brackets"
+    ],
+    "answer": [1,2,3]
+  },{
+    "type": "question",
+    "time": "2:25",
+    "question": "How do we call this special character: '-'?",
+    "options": [
+      "hyphen",
+      "minus",
+      "dash",
+      "stroke"
+    ],
+    "answer": [0,1,2]
+  },{
+    "type": "solution",
+    "time": "2:25",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

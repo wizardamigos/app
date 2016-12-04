@@ -1,28 +1,28 @@
 {
-"video": "dYL1LZ2pacM",
-"slides": [{
-  "type": "question",
-  "time": "1:23",
-  "question": "What is the name of the method we use to destroy the door in this level?",
-  "options": [
-    "attack",
-    "destroy",
-    "explode",
-    "remove"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "0:51",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/dread-door",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "1:23",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "dYL1LZ2pacM",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:08",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/dread-door",
+      "title": "Dread Door"
+    }
+  },{
+    "type": "question",
+    "time": "2:02",
+    "question": "What is the name of the method we use to destroy the door in this level?",
+    "options": [
+      "attack",
+      "destroy",
+      "explode",
+      "remove"
+    ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "2:02",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

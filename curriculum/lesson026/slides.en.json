@@ -1,37 +1,38 @@
 {
-"video": "DFX_GpuDA5M",
-"slides": [{
-  "type": "question",
-  "time": "5:17",
-  "question": "How do you create comments in Javascript code to make sure computer will ignore them?",
-  "options": [
-    "you start a comment with //",
-    "you start a comment with =="
-  ],
-  "answer": [0]
-},{
-  "type": "question",
-  "time": "5:17",
-  "question": "What in this example is a string?",
-  "options": [
-    "1",
-    "'123'",
-    "'Brak'",
-    "enemy"
-  ],
-  "answer": [1,2]
-},{
-  "type": "challenge",
-  "time": "5:17",
-  "text": "Create your personal Javascript cheatsheet gist and try to repeat and write down what you've learned so far.",
-  "link": {
-    "url": "https://gist.github.com/",
-    "title": "Create your cheatsheet"
-  }
-},{
-  "type": "solution",
-  "time": "5:17",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "DFX_GpuDA5M",
+  "slides": [{
+    "type": "challenge",
+    "time": "0:25",
+    "text": "Create notes in another gist and write down what you learn and then bookmark it",
+    "link": {
+      "url": "https://gist.github.com/",
+      "title": "Create your cheatsheet"
+    }
+  },{
+    "type": "question",
+    "time": "4:56",
+    "question": "How do you create comments in Javascript code to make sure computer will ignore them?",
+    "options": [
+      "// this line is a valid comment that is ignored when the code excutes",
+      "== this line is a valid comment that is ignored when the code executes",
+      "/* this line is a valid comment that is ignored when the code executes */"
+    ],
+    "answer": [0,2]
+  },{
+    "type": "question",
+    "time": "4:56",
+    "question": "What in this example is a string?",
+    "options": [
+      "1",
+      "'123'",
+      "'Brak'",
+      "enemy"
+    ],
+    "answer": [1,2]
+  },{
+    "type": "solution",
+    "time": "4:56",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

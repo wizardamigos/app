@@ -1,28 +1,29 @@
 {
-"video": "eNB3pmUr1jk",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "Whis of the examples represents a conditional statement?",
-     "options": [
-       "While - If",
-       "If - then",
-       "While - else"
-       "If - else"
-     ],
-     "answer": [3]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/gems-or-death",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "eNB3pmUr1jk",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:47",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/gems-or-death",
+      "title": "Gems or Death"
+    }
+  },{
+    "type": "question",
+    "time": "6:42",
+    "question": "Which of the examples represents a conditional statement?",
+       "options": [
+         "while (true) { } else { }",
+         "if (true) { } then { }",
+         "else if (true) { } if (false) { }",
+         "if (true) { } else if (true) { } else { }",
+         "if (true) { } else { }"
+       ],
+       "answer": [3,4]
+  },{
+    "type": "solution",
+    "time": "6:42",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

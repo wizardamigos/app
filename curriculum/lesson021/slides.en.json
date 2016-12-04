@@ -1,26 +1,26 @@
 {
-"video": "C4jKvD5d5Zk",
-"slides": [{
-  "type": "question",
-  "time": "1:53",
-  "question": "How do you attack an enemy twice?",
-  "options": [
-    "this.attack(enemy) x 2",
-    "this.attack(enemy) this.attack(enemy)"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "0:26",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/a-mayhem-of-munchkins",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "1:53",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "C4jKvD5d5Zk",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:33",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/a-mayhem-of-munchkins",
+      "title": "A Mayhem of Munchkins"
+    }
+  },{
+    "type": "question",
+    "time": "3:24",
+    "question": "How do you attack an enemy twice?",
+    "options": [
+      "2 * this.attack(enemy);",
+      "this.attack(enemy); this.attack(enemy);"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "3:24",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

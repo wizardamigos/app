@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "2:56"
+  "title": "Code Combat (Kithgard Mastery)",
+  "duration": "8:17"
 }
 ---
 
-In this game you will learn how to build fences and fire traps.
+Prepare for a challenging loop. You have to decide whether to attack, collect or talk.

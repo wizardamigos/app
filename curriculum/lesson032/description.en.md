@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Title",
-  "duration": "9:99"
+  "title": "Code Combat (Patrol Buster)",
+  "duration": "3:25"
 }
 ---
 
-Here comes description
+Selectively choose targets using `if/else if/else` logic

@@ -1,28 +1,28 @@
 {
-"video": "4h_WTQh-GW0",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "In which example will our hero say 'I don’t see an enemy'?",
-  "options": [
-    "If (enemy) { this.attack(enemy) }",
-    "If (enemy) { this.say('I don’t see an enemy') }",
-    "If (enemy) { this.attack(enemy) } else { this.say('I don’t see an enemy') }",
-    "If (enemy) { this.attack(enemy) } else { this.moveXY(x,y) }"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/back-to-back",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "4h_WTQh-GW0",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:46",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/back-to-back",
+      "title": "Back to Back"
+    }
+  },{
+    "type": "question",
+    "time": "4:12",
+    "question": "In which example will our hero say 'I don’t see an enemy'? when there is no enemy",
+    "options": [
+      "if (enemy) { this.attack(enemy); }",
+      "if (enemy) { this.say('I don’t see an enemy'); }",
+      "if (enemy) { this.attack(enemy); } else { this.say('I don’t see an enemy'); }",
+      "if (enemy) { this.attack(enemy); } else { this.moveXY(x,y); }"
+    ],
+    "answer": [2]
+  },{
+    "type": "solution",
+    "time": "4:12",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }
