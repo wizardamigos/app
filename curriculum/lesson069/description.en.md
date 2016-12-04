@@ -5,4 +5,4 @@
 }
 ---
 
-Here comes description
+Do not use an infinite loop this time, but rather repeat it for a while and then do something else.

@@ -2,11 +2,12 @@
   "video": "EDHy51UzfIE",
   "slides": [{
     "type": "question",
-    "time": "9:99",
+    "time": "5:18",
     "question": "What happens when we run 'continue'?",
     "options": [
-      "Loop repeats",
-      "We stop the loop and move to the next one"
+      "Loop repeats where it currently is",
+      "We stop the loop and move on",
+      "The remaining lines inside the current loop are skipped"
     ],
     "answer": [1]
   },{
@@ -19,7 +20,7 @@
     }
   },{
     "type": "solution",
-    "time": "8:32",
+    "time": "5:18",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

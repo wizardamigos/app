@@ -1,7 +1,7 @@
 ---
 {
   "title": "Code Combat (Continuous Alchemy)",
-  "duration": "9:99"
+  "duration": "5:19"
 }
 ---
 
