@@ -1,8 +1,16 @@
 {
   "video": "lZMWQxYQlOI",
   "slides": [{
+    "type": "challenge",
+    "time": "0:52",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/sarven-shepherd",
+      "title": "Sarven Shepherd"
+    }
+  },{
     "type": "question",
-    "time": "9:99",
+    "time": "4:00",
     "question": "What is the correct answer to array.length if var array = [10,20,30,40,50]?",
     "options": [
       "50",
@@ -12,16 +20,8 @@
     ],
     "answer": [2]
   },{
-    "type": "challenge",
-    "time": "9:99",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/sarven-shepherd",
-      "title": "Play now"
-    }
-  },{
     "type": "solution",
-    "time": "8:32",
+    "time": "4:00",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

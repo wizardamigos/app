@@ -1,8 +1,16 @@
 {
   "video": "wG0EUnokxkQ",
   "slides": [{
+    "type": "challenge",
+    "time": "1:41",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/shine-getter",
+      "title": "Shine Getter"
+    }
+  },{
     "type": "question",
-    "time": "9:99",
+    "time": "3:46",
     "question": "What is the correct answer for coin.value in this level if we have a golden coin?",
     "options": [
       "1",
@@ -12,16 +20,8 @@
     ],
     "answer": [3]
   },{
-    "type": "challenge",
-    "time": "9:99",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/shine-getter",
-      "title": "Play now"
-    }
-  },{
     "type": "solution",
-    "time": "8:32",
+    "time": "3:46",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

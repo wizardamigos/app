@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Lurkers)",
-  "duration": "9:99"
+  "duration": "5:02"
 }
 ---
 
-Here comes description
+Practice moooaaaar :-D

@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Sarven Shepherd)",
-  "duration": "9:99"
+  "duration": "4:01"
 }
 ---
 
-Here comes description
+Even moooaaaaar learning... yay :-)

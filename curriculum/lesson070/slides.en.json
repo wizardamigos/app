@@ -1,23 +1,23 @@
 {
   "video": "EDHy51UzfIE",
   "slides": [{
+    "type": "challenge",
+    "time": "3:00",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/continuous-alchemy",
+      "title": "Continuous Alchemy"
+    }
+  },{
     "type": "question",
     "time": "5:18",
     "question": "What happens when we run 'continue'?",
     "options": [
       "Loop repeats where it currently is",
       "We stop the loop and move on",
-      "The remaining lines inside the current loop are skipped"
+      "The remaining lines inside the current loop are skipped and the loop continous the next iteration immediately"
     ],
-    "answer": [1]
-  },{
-    "type": "challenge",
-    "time": "9:99",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/continuous-alchemy",
-      "title": "Play now"
-    }
+    "answer": [2]
   },{
     "type": "solution",
     "time": "5:18",

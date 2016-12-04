@@ -1,27 +1,27 @@
 {
   "video": "hq0FbWR-1g0",
   "slides": [{
+    "type": "challenge",
+    "time": "2:43",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/sarven-savior",
+      "title": "Sarven Savior"
+    }
+  },{
     "type": "question",
-    "time": "9:99",
-    "question": "What is the item 0 in this array var array = [10,11,12,13]?",
+    "time": "6:53",
+    "question": "What is the item 2 in this array var array = [10,11,12,13]?",
     "options": [
       "10",
       "11",
       "12",
       "13"
     ],
-    "answer": [0]
-  },{
-    "type": "challenge",
-    "time": "9:99",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/sarven-savior",
-      "title": "Play now"
-    }
+    "answer": [2]
   },{
     "type": "solution",
-    "time": "8:32",
+    "time": "6:53",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
