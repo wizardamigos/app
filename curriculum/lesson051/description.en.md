@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Rich Forager)",
-  "duration": "9:99"
+  "duration": "6:56"
 }
 ---
 
-Here comes description
+Combine a lot of things together and practice to write more complex logic that involves checking for different flags in your code.

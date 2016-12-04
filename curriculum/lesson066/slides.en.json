@@ -1,26 +1,17 @@
 {
-"video": "BFG70sQE0mU",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "What happens when the value of gold is 25 or more?",
-  "options": [
-    "We continue collecting gold",
-    "We stop the loop"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/hoarding-gold",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "BFG70sQE0mU",
+  "slides": [{
+    "type": "challenge",
+    "time": "3:37",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/hoarding-gold",
+      "title": "Hoarding Gold"
+    }
+  },{
+    "type": "solution",
+    "time": "7:03",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

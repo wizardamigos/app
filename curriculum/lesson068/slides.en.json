@@ -1,27 +1,17 @@
 {
-"video": "iGRaub_7XHU",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "What are Naria's coordinates?",
-  "options": [
-    "59, 33",
-    "90, 90",
-    "23, 40"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/bookkeeper",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "iGRaub_7XHU",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:21",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/bookkeeper",
+      "title": "Bookkeeper"
+    }
+  },{
+    "type": "solution",
+    "time": "7:01",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

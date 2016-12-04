@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Crossroads)",
-  "duration": "9:99"
+  "duration": "4:26"
 }
 ---
 
-Here comes description
+Build some traps based on where enemies are coming from.

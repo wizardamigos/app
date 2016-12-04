@@ -1,20 +1,28 @@
 {
-"video": "MXgB52STgXk",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "What dos this statement mean - if (x < 20 || y < 10) { console.log('true') }",
-  "options": [
-    "if x less than 20 and y less than 10",
-    "if x less than 20 or y less than 10",
-    "if x less than 20 if else y less than 10",
-    "if x less than 20 while y less than 10"
-  ],
-  "answer": [1]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "MXgB52STgXk",
+  "slides": [{
+    "type": "challenge",
+    "time": "0:02",
+    "text": "Write down you knowledge about conditionals in a gist and bookmark it for later reference :-)",
+    "link": {
+      "url": "https://gist.github.com/",
+      "title": "Make gist and bookmark it"
+    }
+  },{
+    "type": "question",
+    "time": "6:34",
+    "question": "What dos this statement mean - if (x < 20 || y < 10) { console.log('true') }",
+    "options": [
+      "if x less than 20 and y less than 10, print 'true' to the console",
+      "if x less than 20 or y less than 10, print 'true' to the console",
+      "if x less than 20 if else y less than 10, print 'true' to the console",
+      "if x less than 20 while y less than 10, print 'true' to the console"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "6:34",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

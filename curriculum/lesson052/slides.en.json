@@ -1,27 +1,26 @@
 {
-"video": "Mx7mkUNouQk",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "Which code is correct?",
-  "options": [
-    "if (enemy) { this.attack(enemy) } else if { this.attack(coin) }",
-    "if (enemy) { this.attack(enemy) } else if (coin) { this.attack(coin) }"
-
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/multiplayer-treasure-grove",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "Mx7mkUNouQk",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:28",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/multiplayer-treasure-grove",
+      "title": "Multiplayer Treasure Grove"
+    }
+  },{
+    "type": "question",
+    "time": "10:26",
+    "question": "Which code is correct?",
+    "options": [
+      "if (enemy) { hero.attack(enemy) } else if { hero.attack(coin) }",
+      "if (enemy) { hero.attack(enemy) } else if (coin) { hero.moveXY(coin.pos.x, coin.pos.y) }"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "10:26",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

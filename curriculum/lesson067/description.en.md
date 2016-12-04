@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Decoy Drill)",
-  "duration": "9:99"
+  "duration": "5:55"
 }
 ---
 
-Here comes description
+Practice and improve your skills by implementing battle logic for your robot

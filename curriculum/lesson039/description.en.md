@@ -1,7 +1,7 @@
 ---
 {
-  "title": "Code Combat (Backwood Standoff)",
-  "duration": "9:99"
+  "title": "Code Combat (Backwoods Standoff)",
+  "duration": "3:28"
 }
 ---
 

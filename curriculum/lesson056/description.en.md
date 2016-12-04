@@ -1,8 +1,8 @@
 ---
 {
   "title": "Theory (relational operators: and, or, not)",
-  "duration": "9:99"
+  "duration": "6:35"
 }
 ---
 
-Here comes description
+Make another `gist` about relational `operators` and `bookmark` it for later lookup and improvement.

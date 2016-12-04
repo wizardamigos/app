@@ -1,28 +1,17 @@
 {
-"video": "NUM3O_Dcqxw",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "How much gold do we need to build 4 traps?",
-  "options": [
-    "40",
-    "25",
-    "100",
-    "0"
-  ],
-  "answer": [2]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/decoy-drill",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "NUM3O_Dcqxw",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:12",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/decoy-drill",
+      "title": "Decoy Drill"
+    }
+  },{
+    "type": "solution",
+    "time": "5:54",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

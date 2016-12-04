@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Title",
-  "duration": "9:99"
+  "title": "Code Combat (Woodland Cleaver)",
+  "duration": "3:10"
 }
 ---
 
-Here comes description
+Use a new attack move whenever it's ready.  You use conditionals to check for it.

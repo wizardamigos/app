@@ -1,29 +1,29 @@
 {
-"video": "swny9NWMpQE",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "question": "What method do we use in Code Combat to pick up the flag?",
-  "options": [
-    "findfFlag",
-    "pickUpFlag",
-    "pickFlag",
-    "flagPickUp"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/coinucopia",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "swny9NWMpQE",
+  "slides": [{
+    "type": "challenge",
+    "time": "3:11",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/coinucopia",
+      "title": "Coinucopia"
+    }
+  },{
+    "type": "question",
+    "time": "4:10",
+    "question": "First question",
+    "question": "What method do we use in Code Combat to pick up the flag?",
+    "options": [
+      "hero.findfFlag()",
+      "hero.pickUpFlag()",
+      "hero.pickFlag()",
+      "hero.flagPickUp()"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "4:10",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

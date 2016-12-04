@@ -1,18 +1,27 @@
 {
-"video": "Ri-W5RQn-aw",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "What is the right format of a conditional statement if we want to check 4 different conditions?",
-  "options": [
-    "if - if - if - if - else",
-    "if - else if - else if - else if"
-  ],
-  "answer": [1]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "Ri-W5RQn-aw",
+  "slides": [{
+    "type": "challenge",
+    "time": "0:06",
+    "text": "Write down you knowledge about conditionals in a gist and bookmark it for later reference :-)",
+    "link": {
+      "url": "https://gist.github.com/",
+      "title": "Make gist and bookmark it"
+    }
+  },{
+    "type": "question",
+    "time": "7:33",
+    "question": "What is the right format of a conditional statement if we want to check 3 different exclusive conditions and a default case ?",
+    "options": [
+      "if - if - if - if - else",
+      "if - else if - else if - else if",
+      "if - else if - else if - else"
+    ],
+    "answer": [2]
+  },{
+    "type": "solution",
+    "time": "7:33",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

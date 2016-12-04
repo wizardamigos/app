@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Theory (conditions and comparisons)",
-  "duration": "9:99"
+  "title": "Theory (conditionals & comparison operators)",
+  "duration": "14:09"
 }
 ---
 
-Here comes description
+Make a new `gist` to add a summary of the new knowledge to your `bookmarks`.

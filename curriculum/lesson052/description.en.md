@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Multiplayer Treasure Grove)",
-  "duration": "9:99"
+  "duration": "10:27"
 }
 ---
 
-Here comes description
+Use flags to navigate your little warrior robot and write some code to make the robot react smartly when it sees your flags.

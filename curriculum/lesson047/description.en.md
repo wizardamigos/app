@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Hold the Forest Pass)",
-  "duration": "9:99"
+  "duration": "7:56"
 }
 ---
 
-Here comes description
+Some more code with flags

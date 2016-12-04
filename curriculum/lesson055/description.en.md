@@ -1,8 +1,8 @@
 ---
 {
   "title": "Theory (nesting conditionals, indentation)",
-  "duration": "9:99"
+  "duration": "5:50"
 }
 ---
 
-Here comes description
+Make some more notes about what you've learned

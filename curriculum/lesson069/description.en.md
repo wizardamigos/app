@@ -1,7 +1,7 @@
 ---
 {
   "title": "Code Combat (Desert Combat)",
-  "duration": "9:99"
+  "duration": "6:36"
 }
 ---
 

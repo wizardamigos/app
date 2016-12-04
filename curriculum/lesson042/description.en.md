@@ -1,8 +1,9 @@
 ---
 {
   "title": "Code Combat (Stillness in Motion)",
-  "duration": "9:99"
+  "duration": "7:03"
 }
 ---
 
-Here comes description
+And some more repetition to practice nested `if/else` logic.
+Try to really take care that you indent your nested if/else logic with spaces. That is common best practice and makes your code a lot more readable.

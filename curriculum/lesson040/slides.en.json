@@ -1,26 +1,17 @@
 {
-"video": "4hpdyf3Pp-8",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "What do wooden glasses enables us to do?",
-  "options": [
-    "Calculate the distance",
-    "Calculate the number of enemies"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/peasant-protection",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "4hpdyf3Pp-8",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:18",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/peasant-protection",
+      "title": "Peasant Protection"
+    }
+  },{
+    "type": "solution",
+    "time": "4:41",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

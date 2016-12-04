@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (The Mighty Sand Yak)",
-  "duration": "9:99"
+  "duration": "4:30"
 }
 ---
 
-Here comes description
+From now on, start learning about `arithmetic`, `counters`, `while-loops`,  `break`, `arrays`, `string comparison` and finding `min/max` numbers.

@@ -1,29 +1,29 @@
 {
-"video": "4jPvPQbCJiU",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "question": "How can we check the distance from our position to the flag?",
-  "options": [
-    "this.pos - flag.pos",
-    "flag.pos - this.pos",
-    "this.distanceTo(flag)",
-    "this.flag.pos"
-  ],
-  "answer": [2]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/hold-the-forest-pass",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "4jPvPQbCJiU",
+  "slides": [{
+    "type": "challenge",
+    "time": "5:16",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/hold-the-forest-pass",
+      "title": "Hold the Forest Pass"
+    }
+  },{
+    "type": "question",
+    "time": "7:55",
+    "question": "First question",
+    "question": "How can we check the distance from our position to the flag?",
+    "options": [
+      "var distance = this.pos - flag.pos",
+      "var distance = flag.pos - this.pos",
+      "var distance = hero.distanceTo(flag)",
+      "var distance = this.flag.pos"
+    ],
+    "answer": [2]
+  },{
+    "type": "solution",
+    "time": "7:55",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

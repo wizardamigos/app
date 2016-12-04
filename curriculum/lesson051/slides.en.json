@@ -1,28 +1,17 @@
 {
-"video": "rmJGR87O3DQ",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "What does a hero do when he comes to the green flag in this level?",
-  "options": [
-    "attacks an enemy",
-    "shields",
-    "moves to a certain position",
-    "says: 'This is a green flag'"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/rich-forager",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "rmJGR87O3DQ",
+  "slides": [{
+    "type": "challenge",
+    "time": "3:39",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/rich-forager",
+      "title": "Rich Forager"
+    }
+  },{
+    "type": "solution",
+    "time": "6:55",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

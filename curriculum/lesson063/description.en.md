@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Medical Attention)",
-  "duration": "9:99"
+  "duration": "5:11"
 }
 ---
 
-Here comes description
+And some more practice :-)

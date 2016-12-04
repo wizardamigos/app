@@ -1,28 +1,17 @@
 {
-"video": "QdwbzirwEFY",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "What does the hero do when the health levels are higher than minimum health required?",
-  "options": [
-    "Hides away",
-    "Goes to the doctor anyway",
-    "Attacks the enemy",
-    "Builds a trap"
-  ],
-  "answer": [2]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/medical-attention",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "QdwbzirwEFY",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:56",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/medical-attention",
+      "title": "Medical Attention"
+    }
+  },{
+    "type": "solution",
+    "time": "5:10",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

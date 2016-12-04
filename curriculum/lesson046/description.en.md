@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Copper Meadows)",
-  "duration": "9:99"
+  "duration": "6:29"
 }
 ---
 
-Here comes description
+Lets get started with writing some code that uses flags.

@@ -1,28 +1,17 @@
 {
-"video": "N3hU-5MTLXI",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "How many meters away from the enemies do we have to be in this level in order to be able to cleave them?",
-  "options": [
-    "Less than 5 meters",
-    "5 meters",
-    "10 meters",
-    "More than 5 meters"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/the-agrippa-defense",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "N3hU-5MTLXI",
+  "slides": [{
+    "type": "challenge",
+    "time": "3:33",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/the-agrippa-defense",
+      "title": "The Agrippa Defense"
+    }
+  },{
+    "type": "solution",
+    "time": "3:33",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

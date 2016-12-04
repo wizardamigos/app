@@ -1,28 +1,28 @@
 {
-"video": "ar2GXxJyE3k",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "Which command do we use to find out position of the evil stone?",
-  "options": [
-    "find.nearestEnemy",
-    "find.nearestItem",
-    "find.theEnemy",
-    "find.theItem"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/forest-fire-dancing",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "ar2GXxJyE3k",
+  "slides": [{
+    "type": "challenge",
+    "time": "4:14",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/forest-fire-dancing",
+      "title": "Forest Fire Dancing"
+    }
+  },{
+    "type": "question",
+    "time": "6:55",
+    "question": "Which command do we use to find out position of the evil stone?",
+    "options": [
+      "hero.nearestEnemy()",
+      "hero.nearestItem()",
+      "hero.theEnemy()",
+      "hero.theItem()"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "6:55",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

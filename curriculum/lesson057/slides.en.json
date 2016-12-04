@@ -1,28 +1,17 @@
 {
-"video": "vPcxAyecdWE",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "If the distance to yak in this lesson is less than 10, hero has to move",
-  "options": [
-    "x-5 steps",
-    "x+5 steps",
-    "x-10 steps",
-    "x+10 steps"
-  ],
-  "answer": [3]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/the-mighty-sand-yak",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "vPcxAyecdWE",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:28",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/the-mighty-sand-yak",
+      "title": "The Mighty Sand Yak"
+    }
+  },{
+    "type": "solution",
+    "time": "4:29",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

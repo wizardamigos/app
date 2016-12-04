@@ -1,28 +1,17 @@
 {
-"video": "O1mZSj4vZhU",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "What does our hero do in this level if the enemy comes too close to her/him?",
-  "options": [
-    "run away",
-    "attack",
-    "shield",
-    "cry"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/signal-corpse",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "O1mZSj4vZhU",
+  "slides": [{
+    "type": "challenge",
+    "time": "3:06",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/signal-corpse",
+      "title": "Signal Corpse"
+    }
+  },{
+    "type": "solution",
+    "time": "6:46",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

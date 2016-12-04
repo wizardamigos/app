@@ -1,28 +1,28 @@
 {
-"video": "WRltQKaXSMg",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "Where did we in this level put a trap if enemy's Y coordinate was bigger than our Y coordinate?",
-  "options": [
-    "Up",
-    "Down",
-    "Left",
-    "Right"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/crossroads",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "WRltQKaXSMg",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:54",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/crossroads",
+      "title": "Crossroads"
+    }
+  },{
+    "type": "question",
+    "time": "4:25",
+    "question": "Where did we in this level put a trap if enemy's Y coordinate was bigger than our Y coordinate?",
+    "options": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "4:25",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

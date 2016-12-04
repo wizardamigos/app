@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Bookkeeper)",
-  "duration": "9:99"
+  "duration": "7:02"
 }
 ---
 
-Here comes description
+And practice some more :-) Count the time and alternate what you do at certain times.

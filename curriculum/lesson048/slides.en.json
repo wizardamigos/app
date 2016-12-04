@@ -1,28 +1,27 @@
 {
-"video": "ttHRLa830c8",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "How do we define a variable x for a postion of the flag??",
-  "options": [
-    "var flagX = flag.pos.x",
-    "var flagX = flag.x",
-    "var flagX = flag.pos",
-    "flagX = flag.pos.x "
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/drop-the-flag",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "ttHRLa830c8",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:26",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/drop-the-flag",
+      "title": "Drop the Flag"
+    }
+  },{
+    "type": "question",
+    "time": "4:13",
+    "question": "How do we define a variable x for a postion of the flag??",
+    "options": [
+      "var flagX = flag.pos.x",
+      "var flagX = flag.x",
+      "var flagX = flag.pos"
+    ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "4:13",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

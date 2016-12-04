@@ -1,26 +1,17 @@
 {
-"video": "oOYmnJkvt54",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "What was the variable item in this level?",
-  "options": [
-    "Coins",
-    "Flags"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/copper-meadows",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "oOYmnJkvt54",
+  "slides": [{
+    "type": "challenge",
+    "time": "4:02",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/copper-meadows",
+      "title": "Copper Meadows"
+    }
+  },{
+    "type": "solution",
+    "time": "6:28",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

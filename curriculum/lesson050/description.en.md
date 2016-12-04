@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Signal Corpse)",
-  "duration": "9:99"
+  "duration": "6:47"
 }
 ---
 
-Here comes description
+Start using multiple flag colors to send different signals to your little robot. Take the differently colored flags into account when writing the code.
