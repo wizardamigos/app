@@ -1,6 +1,15 @@
 {
   "video": "JbqZnn87Psg",
   "slides": [{
+  "type": "question",
+  "time": "4:50",
+  "question": "How many parameters does the function attackEnemy have: function attackEnemy (enemy) { attack(enemy) }",
+  "options": [
+    "None",
+    "One"
+],
+  "answer": [1]
+},{
     "type": "challenge",
     "time": "0:42",
     "text": "Challenge - solve the level and then come back and continue",
@@ -11,7 +20,7 @@
   },{
     "type": "solution",
     "time": "4:50",
-    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

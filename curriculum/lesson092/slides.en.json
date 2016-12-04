@@ -1,6 +1,15 @@
 {
   "video": "_VrQ9vxTCjM",
   "slides": [{
+  "type": "question",
+  "time": "9:40",
+  "question": "What are the parameters in this function: function (x,y) { if (flag) { this.moveXY(x,y) } }?",
+  "options": [
+    "x and y",
+    "x, y and flag"
+],
+  "answer": [0]
+},{
     "type": "challenge",
     "time": "2:24",
     "text": "Challenge - solve the level and then come back and continue",
@@ -11,7 +20,7 @@
   },{
     "type": "solution",
     "time": "9:40",
-    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

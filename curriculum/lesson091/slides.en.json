@@ -1,6 +1,15 @@
 {
   "video": "y7xW7GjKq7s",
   "slides": [{
+  "type": "question",
+  "time": "6:52",
+  "question": "What is the right way to define a function?",
+  "options": [
+    "function () { if (distanceTo(enemy)<5) { this.attack(enemy) } }",
+    "var function() = { if (distanceTo(enemy)<5) { this.attack(enemy) } }"
+],
+  "answer": [0]
+},{
     "type": "challenge",
     "time": "1:03",
     "text": "Challenge - solve the level and then come back and continue",
@@ -11,7 +20,7 @@
   },{
     "type": "solution",
     "time": "6:52",
-    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

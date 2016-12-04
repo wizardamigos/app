@@ -1,6 +1,15 @@
 {
   "video": "RYqSfqfdbSo",
   "slides": [{
+  "type": "question",
+  "time": "7:05",
+  "question": "What do we pass in the functions that include params when we make a function call ()",
+  "options": [
+    "An argument",
+    "A variable"
+],
+  "answer": [0]
+},{
     "type": "challenge",
     "time": "0:44",
     "text": "Challenge - solve the level and then come back and continue",
@@ -11,7 +20,7 @@
   },{
     "type": "solution",
     "time": "7:05",
-    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }
