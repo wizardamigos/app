@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "3:01",
-    "question": "How do we call a digital recording of computer screen output, also known as a video screen capture, often containing audio narration?",
+    "question": "What type of the profile did we create in this lesson?",
     "options": [
-      "Video",
-      "Screen",
-      "Screencast",
-      "Screencastify"
+      "E-mail account",
+      "Gitter account",
+      "Github account",
+      "Twitter account"
     ],
-    "answer": [2]
+    "answer": [0]
   },{
     "type": "challenge",
     "time": "3:01",
