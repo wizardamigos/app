@@ -1,8 +1,10 @@
 ---
 {
   "title": "Quiz App 05",
-  "duration": "9:99"
+  "duration": "11:18"
 }
 ---
 
-Here comes description
+```js
+// @TODO: adding a library for making the chart diagram
+```

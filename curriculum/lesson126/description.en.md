@@ -1,8 +1,10 @@
 ---
 {
   "title": "Mobile iOS App 02",
-  "duration": "9:99"
+  "duration": "4:07"
 }
 ---
 
-Here comes description
+```js
+// @TODO: customize your app a bit more
+```

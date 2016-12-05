@@ -1,8 +1,10 @@
 ---
 {
   "title": "Build your portfolio 05",
-  "duration": "9:99"
+  "duration": "10:47"
 }
 ---
 
-Here comes description
+```js
+// @TODO: learn how to make API calls (ajax)
+```

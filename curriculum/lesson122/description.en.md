@@ -1,8 +1,10 @@
 ---
 {
   "title": "Quiz App 07",
-  "duration": "9:99"
+  "duration": "11:41"
 }
 ---
 
-Here comes description
+```js
+// @TODO: setting up a regular dev environment
+```

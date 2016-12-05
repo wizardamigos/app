@@ -1,8 +1,10 @@
 ---
 {
   "title": "Mobile iOS App 04",
-  "duration": "9:99"
+  "duration": "3:51"
 }
 ---
 
-Here comes description
+```js
+// @TODO: use xcode to create an iphone app from your code
+```

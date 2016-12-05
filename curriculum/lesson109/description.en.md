@@ -1,8 +1,10 @@
 ---
 {
   "title": "Build your portfolio 02",
-  "duration": "9:99"
+  "duration": "7:35"
 }
 ---
 
-Here comes description
+```js
+// @TODO: part2
+```

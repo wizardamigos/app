@@ -1,8 +1,10 @@
 ---
 {
   "title": "Quiz App 08",
-  "duration": "9:99"
+  "duration": "19:47"
 }
 ---
 
-Here comes description
+```js
+// @TODO: some basics about the command line interface
+```

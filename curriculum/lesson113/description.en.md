@@ -1,8 +1,10 @@
 ---
 {
   "title": "Build your portfolio 06",
-  "duration": "9:99"
+  "duration": "6:43"
 }
 ---
 
-Here comes description
+```js
+// @TODO: add color animation
+```

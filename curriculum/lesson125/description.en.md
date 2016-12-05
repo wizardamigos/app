@@ -1,8 +1,10 @@
 ---
 {
   "title": "Mobile iOS App 01",
-  "duration": "9:99"
+  "duration": "6:53"
 }
 ---
 
-Here comes description
+```js
+// @TODO: use cordova phonegape to make your mobile app
+```

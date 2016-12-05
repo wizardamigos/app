@@ -1,20 +1,20 @@
 {
-"video": "zT1VYVD7Rlk",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "zT1VYVD7Rlk",
+  "slides": [{
+    "type": "question",
+    "time": "6:42",
+    "question": "First question",
+    "options": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "answer": [9]
+  },{
+    "type": "solution",
+    "time": "6:42",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }
