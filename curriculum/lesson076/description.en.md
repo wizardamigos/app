@@ -1,7 +1,7 @@
 ---
 {
   "title": "Code Combat (Mad Maxer)",
-  "duration": "9:99"
+  "duration": "6:29"
 }
 ---
 
