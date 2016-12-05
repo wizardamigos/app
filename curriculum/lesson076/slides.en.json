@@ -1,27 +1,16 @@
 {
   "video": "b86O5hn4ioQ",
   "slides": [{
-    "type": "question",
-    "time": "9:99",
-    "question": "Which method did we learn to rebuild in this level of Code Combat?",
-    "options": [
-      "findNearest",
-      "attack",
-      "shield",
-      "distanceTo"
-    ],
-    "answer": [0]
-  },{
     "type": "challenge",
-    "time": "9:99",
+    "time": "1:18",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/mad-maxer",
-      "title": "Play now"
+      "url": "https://codecombat.com/play/level/sand-snakes",
+      "title": "Sand Snakes"
     }
   },{
     "type": "solution",
-    "time": "8:32",
+    "time": "4:47",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

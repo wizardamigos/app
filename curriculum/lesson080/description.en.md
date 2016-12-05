@@ -5,6 +5,4 @@
 }
 ---
 
-```js
-// @TODO: put proper description
-```
+Make another `gist` about `arrays` and `bookmark` it next to your other bookmarks.

@@ -5,6 +5,4 @@
 }
 ---
 
-```js
-// @TODO: put proper description
-```
+Practice even more :-)

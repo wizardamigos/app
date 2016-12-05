@@ -2,47 +2,47 @@
   "video": "-1RdCdCr5HQ",
   "slides": [{
     "type": "challenge",
-    "time": "9:99",
+    "time": "2:50",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
       "url": "https://codecombat.com/play/level/the-trials",
-      "title": "Play now"
+      "title": "The Trials"
     }
   },{
     "type": "challenge",
-    "time": "9:99",
+    "time": "4:19",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
       "url": "https://codecombat.com/play/level/sarven-brawl",
-      "title": "Play now"
+      "title": "Sarven Brawl"
     }
   },{
     "type": "challenge",
-    "time": "9:99",
+    "time": "6:29",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
       "url": "https://codecombat.com/play/level/backwoods-brawl",
-      "title": "Play now"
+      "title": "Backwoods Brawl"
     }
   },{
     "type": "challenge",
-    "time": "9:99",
+    "time": "8:30",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
       "url": "https://codecombat.com/play/level/cavern-survival",
-      "title": "Play now"
+      "title": "Cavern Survival"
     }
   },{
     "type": "challenge",
-    "time": "9:99",
+    "time": "10:29",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
       "url": "https://codecombat.com/play/level/kithgard-brawl",
-      "title": "Play now"
+      "title": "Kithgard Brawl"
     }
   },{
     "type": "solution",
-    "time": "8:32",
+    "time": "11:39",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

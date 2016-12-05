@@ -5,6 +5,5 @@
 }
 ---
 
-```js
-// @TODO: put proper description
-```
+This level is actually one that can be played over and over again and becomes harder every time.
+If you want to practice some more, go for it :-)

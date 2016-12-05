@@ -5,6 +5,6 @@
 }
 ---
 
-```js
-// @TODO: put proper description
-```
+Practice a bit more and use the `modulo` operator to indefinitely loop through your array.
+
+This is a very common use case for the `modulo` operator

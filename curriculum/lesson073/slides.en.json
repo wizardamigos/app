@@ -10,7 +10,7 @@
     }
   },{
     "type": "question",
-    "time": "9:99",
+    "time": "5:01",
     "question": "How do we in this level check if the enemy is a shaman?",
     "options": [
       "enemy.type = 'shaman'",

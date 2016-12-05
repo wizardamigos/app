@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat (Mad Maxer)",
-  "duration": "6:29"
+  "title": "Code Combat (Sand Snakes)",
+  "duration": "4:48"
 }
 ---
 
-Here comes description
+Collect coins, but take care of not hitting mines.
+Get your calculations right :-)

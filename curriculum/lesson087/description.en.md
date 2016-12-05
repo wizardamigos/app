@@ -5,6 +5,4 @@
 }
 ---
 
-```js
-// @TODO: put proper description
-```
+This time your robot stays on the side line and tries to earn resources to summon other little robots to solve the level. Implement the code to solve this level and get some more routine.
