@@ -6,15 +6,15 @@
     "text": "You will learn how to use Github - a social network for programmers. Check it out and then come back - but just take a quick look, you DON'T need to do signup yet.",
     "link": {
       "url": "https://github.com/personal",
-      "title": "Click here"
+      "title": "Checkout Github"
     }
   }, {
     "type": "challenge",
     "time": "1:47",
     "text": "For support you will be able to use WizardAmigos Gitter chat. You will create an account in the next lessons, so just a sneak peek for now.",
     "link": {
-      "url": "https://gitter.im/codingamigos/learners",
-      "title": "Click here"
+      "url": "https://gitter.im/wizardamigosinstitute/program",
+      "title": "See our chat"
     }
   }, {
     "type": "challenge",
@@ -22,7 +22,7 @@
     "text": "You will play a programming game Code Combat. Don't start playing it yet, wait for the further instructions first.",
     "link": {
       "url": "http://codecombat.com",
-      "title": "Click here"
+      "title": "See Codecombat"
     }
   },{
     "type": "solution",
