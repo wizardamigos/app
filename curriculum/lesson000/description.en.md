@@ -1,7 +1,7 @@
 ---
 {
   "title": "Welcome to WizardAmigos CodeCamp",
-  "duration": "2:53"
+  "duration": "1:47"
 }
 ---
 
