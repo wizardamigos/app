@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "8:53",
-    "question": "First question",
+    "question": "What is a result of 'counter % array.length' if var array = [123,45,66,2] and var counter = 0 (hint: you can use the console)",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "0",
+      "1",
+      "2",
+      "3"
     ],
-    "answer": [9]
+    "answer": [0]
   },{
     "type": "solution",
     "time": "8:53",

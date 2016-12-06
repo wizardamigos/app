@@ -1,6 +1,17 @@
 {
   "video": "V8hMapNTPZg",
-  "slides": [{
+    "slides": [{
+    "type": "question",
+    "time": "2:55",
+    "question": "What do we mean when we say that we 'loop through an array'?",
+    "options": [
+      "We delete first item in the array",
+      "We add a new item to the array",
+      "We go through all the items in the array"
+      "We create a loop inside of an array",
+  ],
+    "answer": [2]
+  },{
     "type": "challenge",
     "time": "1:23",
     "text": "Challenge - solve the level and then come back and continue",

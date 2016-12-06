@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "30:43",
-    "question": "First question",
+    "question": "What magic word do we type to be able to use a NPM module in our code and get access to all the functions in that certain library?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "publish",
+      "use",
+      "require",
+      "get"
     ],
-    "answer": [9]
+    "answer": [2]
   },{
     "type": "solution",
     "time": "30:43",

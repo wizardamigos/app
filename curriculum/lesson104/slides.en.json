@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "9:26",
-    "question": "First question",
+    "question": "If we have array var LOCATIONS = [ { name:'home', pos: { x:12,y:25 } }, { name:'school', pos: { x:27, y:88} } } ], how do we get a y coordinate for home?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "LOCATIONS.school.pos.y",
+      "LOCATIONS[1].school.pos.y",
+      "LOCATIONS[1].pos.y",
+      "LOCATIONS[1].y"
     ],
-    "answer": [9]
+    "answer": [2]
   },{
     "type": "solution",
     "time": "9:26",

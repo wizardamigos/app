@@ -1,6 +1,17 @@
 {
   "video": "eJKSklBmnQ8",
-  "slides": [{
+    "slides": [{
+    "type": "question",
+    "time": "9:21",
+    "question": "When will the statement return 'true' - if (soldiers.length <= 3) { return 'true'}?",
+    "options": [
+      "var soldiers = ['Ana', 'Nicole', 'Simon']",
+      "var soldiers = ['Ana', 'Nicole']",
+      "var soldiers = ['Ana', 'Nicole', 'Simon', 'Bob']",
+      "var soldiers = ['Ana', 'Nicole', 'Simon', 'Bob', 'Zoe']"
+  ],
+    "answer": [0,1]
+  },{
     "type": "challenge",
     "time": "2:38",
     "text": "Challenge - solve the level and then come back and continue",

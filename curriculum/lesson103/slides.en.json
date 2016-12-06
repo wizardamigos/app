@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "21:08",
-    "question": "First question",
+    "question": "What will we get if we run console.log(add(15,6) in this example - function add (x,y) { return x+y }",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "21",
+      "9",
+      "15",
+      "6"
     ],
-    "answer": [9]
+    "answer": [0]
   },{
     "type": "solution",
     "time": "21:08",

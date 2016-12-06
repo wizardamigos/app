@@ -3,14 +3,12 @@
   "slides": [{
     "type": "question",
     "time": "8:53",
-    "question": "First question",
+    "question": "What happens if we use an alert function (the one that is built in the browser)? alert('Hello')",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "It will log 'Hello' to the console",
+      "It will open a popup with 'Hello' message"
     ],
-    "answer": [9]
+    "answer": [1]
   },{
     "type": "solution",
     "time": "8:53",
