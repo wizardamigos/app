@@ -5,4 +5,4 @@
 }
 ---
 
-Here comes description
+Learn how to scare off your enemies while you charge your mighty Cleave Attack!!!
