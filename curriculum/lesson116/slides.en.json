@@ -1,16 +1,15 @@
 {
   "video": "qY6AkT3DCBY",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "9:03",
-    "question": "First question",
+    "question": "How do we in this lesson set the color for the arrow?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "color: ${PINK}",
+      "color: €{PINK}",
+      "color: %{PINK}"
+  ],
+    "answer": [0]
   },{
     "type": "solution",
     "time": "9:03",

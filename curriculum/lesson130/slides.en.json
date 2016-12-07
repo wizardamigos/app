@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "5:40",
-    "question": "First question",
+    "question": "What is a tool Apple uses to identify individual apps?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "Deployment target",
+      "Version",
+      "Bundle identifier (Bundle ID)",
+      "Type"
     ],
-    "answer": [9]
+    "answer": [2]
   },{
     "type": "solution",
     "time": "5:40",

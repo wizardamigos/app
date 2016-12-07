@@ -1,16 +1,16 @@
 {
   "video": "c7BaQPI5_SI",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "6:01",
-    "question": "First question",
+    "question": "What is in the position 0 of the array?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "First element",
+      "Deleted element",
+      "Last element",
+      "Second element"
+  ],
+    "answer": [0]
   },{
     "type": "solution",
     "time": "6:01",

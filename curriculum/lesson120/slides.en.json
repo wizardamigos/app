@@ -1,16 +1,14 @@
 {
   "video": "jXBTclroR8M",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "11:17",
-    "question": "First question",
+    "question": "Which method do we use to 'send' information from app to the server (Firebase in our case)?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "get",
+      "post"
+  ],
+    "answer": [1]
   },{
     "type": "solution",
     "time": "11:17",

@@ -3,14 +3,13 @@
   "slides": [{
     "type": "question",
     "time": "11:40",
-    "question": "First question",
+    "question": "Which text editor do we use to write code in WizardAmigos lessons?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "Sublime",
+      "Atom",
+      "Brackets"
     ],
-    "answer": [9]
+    "answer": [1]
   },{
     "type": "solution",
     "time": "11:40",

@@ -1,16 +1,16 @@
 {
   "video": "9G4zMumoVMQ",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "5:05",
-    "question": "First question",
+    "question": "Finish the function to reduce the value of i for 1: if (i>0) ",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "{}",
+      "{ i = i + 1 }",
+      "{ i = i - 1 }",
+      "{ i = i }"
+  ],
+    "answer": [2]
   },{
     "type": "solution",
     "time": "5:05",

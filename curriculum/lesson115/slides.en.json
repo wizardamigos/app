@@ -1,16 +1,16 @@
 {
   "video": "ORYyfevzr0c",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "7:34",
-    "question": "First question",
+    "question": "How do we call a DOM method with which we append elements to existing DOM elements?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "appendChild",
+      "appendMom",
+      "appendDad",
+      "appendGrandma"
+  ],
+    "answer": [0]
   },{
     "type": "solution",
     "time": "7:34",

@@ -1,16 +1,14 @@
 {
   "video": "HsvtL6iAAB8",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "10:46",
-    "question": "First question",
+    "question": "What CSS property do we use to modify the size of the fonts?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "font-size",
+      "letter-size"
+  ],
+    "answer": [0]
   },{
     "type": "solution",
     "time": "10:46",

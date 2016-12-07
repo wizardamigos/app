@@ -1,16 +1,14 @@
 {
   "video": "nBRH0xuIY0A",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "7:31",
-    "question": "First question",
+    "question": "What is a DOM (document object model)?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "HTML's live version in the browser",
+      "Another name for HTML"
+  ],
+    "answer": [0]
   },{
     "type": "solution",
     "time": "7:31",

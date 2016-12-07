@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "4:06",
-    "question": "First question",
+    "question": "What terminal command do we use to check what is our current directory?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "cd (change directory)",
+      "pwd (print working directory)",
+      "ls (list)",
+      "open . (open this document)"
     ],
-    "answer": [9]
+    "answer": [1]
   },{
     "type": "solution",
     "time": "4:06",

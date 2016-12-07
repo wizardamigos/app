@@ -3,14 +3,12 @@
   "slides": [{
     "type": "question",
     "time": "5:40",
-    "question": "First question",
+    "question": "Is it free to enroll Apple Developer Program?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "No, you have to pay a yearly membership fee ($99 in 2016)",
+      "Yes it's free"
     ],
-    "answer": [9]
+    "answer": [0]
   },{
     "type": "solution",
     "time": "5:40",

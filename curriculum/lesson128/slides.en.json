@@ -3,14 +3,12 @@
   "slides": [{
     "type": "question",
     "time": "3:50",
-    "question": "First question",
+    "question": "How do you stop a running server (npm run start or phonegap serve etc.)?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "With ctrl-c (cmd-c) command",
+      "With ctrl-q (cmd-q) command"
     ],
-    "answer": [9]
+    "answer": [0]
   },{
     "type": "solution",
     "time": "3:50",

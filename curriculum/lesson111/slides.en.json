@@ -1,16 +1,16 @@
 {
   "video": "QVUSi_AOKkQ",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "15:43",
-    "question": "First question",
+    "question": "How do we use the variable var GREY = 'hsla(30,100%,99%,1)' in html?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "@{GREY}",
+      "${GREY}",
+      "%{GREY}",
+      "!{GREY}"
+  ],
+    "answer": [1]
   },{
     "type": "solution",
     "time": "15:43",

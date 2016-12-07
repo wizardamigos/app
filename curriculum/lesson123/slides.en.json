@@ -3,14 +3,12 @@
   "slides": [{
     "type": "question",
     "time": "19:46",
-    "question": "First question",
+    "question": "What is another name for a command line tool, an interface to the underlying operating system via a shell, usually bash",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "System",
+      "Terminal"
     ],
-    "answer": [9]
+    "answer": [1]
   },{
     "type": "solution",
     "time": "19:46",

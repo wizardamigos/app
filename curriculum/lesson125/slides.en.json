@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "6:52",
-    "question": "First question",
+    "question": "What is the command that enables us to run the app in Phonegap (to be able to access it on our phone)",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "phonegap play",
+      "phonegap serve",
+      "phonegap phone",
+      "phonegap create"
     ],
-    "answer": [9]
+    "answer": [1]
   },{
     "type": "solution",
     "time": "6:52",

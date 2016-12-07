@@ -1,16 +1,16 @@
 {
   "video": "XGLiFUy3k18",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "18:46",
-    "question": "First question",
+    "question": "What do we use miniXHR for?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "to get data",
+      "to show data",
+      "to delete data",
+      "to send data"
+  ],
+    "answer": [0,3]
   },{
     "type": "solution",
     "time": "18:46",

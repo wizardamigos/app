@@ -1,16 +1,14 @@
 {
   "video": "r3GhBvyGgy8",
-  "slides": [{
+    "slides": [{
     "type": "question",
     "time": "20:47",
-    "question": "First question",
+    "question": "What does cd in the terminal do (example: cd Documents)?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ],
-    "answer": [9]
+      "allows you to change directories, but you have to have in mind that when you open a terminal you will be in your home directory.",
+      "allows you to list all the directories"
+  ],
+    "answer": [0]
   },{
     "type": "solution",
     "time": "20:47",
