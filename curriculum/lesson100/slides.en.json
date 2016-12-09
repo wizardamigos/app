@@ -7,8 +7,8 @@
     "options": [
       "tile = 1",
       "tile = 1?",
-      "tile != 1"
-      "tile === 1",
+      "tile != 1",
+      "tile === 1"
   ],
     "answer": [3]
   },{
