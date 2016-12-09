@@ -7,8 +7,8 @@
     "options": [
       "We delete first item in the array",
       "We add a new item to the array",
-      "We go through all the items in the array"
-      "We create a loop inside of an array",
+      "We go through all the items in the array",
+      "We create a loop inside of an array"
   ],
     "answer": [2]
   },{
