@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Drop the Flag)",
-  "duration": "9:99"
+  "duration": "4:14"
 }
 ---
 
-Here comes description
+Practice on more challenging problems where you need to use flags to solve them.

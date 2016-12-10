@@ -1,28 +1,26 @@
 {
-"video": "gH7s1CKY9hI",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/stillness-in-motion",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "gH7s1CKY9hI",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:53",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/stillness-in-motion",
+      "title": "Stillness in Motion"
+    }
+  },{
+    "type": "question",
+    "time": "7:02",
+    "question": "What do we have to take care of when writing an if statement inside of another if statement?",
+    "options": [
+      "About the indentation (usually 2 additional spaces for each more level of nesting)",
+      "Nothing special"
+    ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "7:02",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

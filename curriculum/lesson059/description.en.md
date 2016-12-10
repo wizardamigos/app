@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (Basin Stampede)",
-  "duration": "9:99"
+  "duration": "4:13"
 }
 ---
 
-Here comes description
+Dynamically figure out how to move based on your surrounding.
+Calculate the right distances and walking directions.
+It's all about `cartesian coordinates` where the lower left corner of the screen corresponds to x=0 and y=0.

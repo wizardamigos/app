@@ -1,20 +1,20 @@
 {
-"video": "QVUSi_AOKkQ",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+  "video": "QVUSi_AOKkQ",
+    "slides": [{
+    "type": "question",
+    "time": "15:43",
+    "question": "How do we use the variable var GREY = 'hsla(30,100%,99%,1)' in html?",
+    "options": [
+      "@{GREY}",
+      "${GREY}",
+      "%{GREY}",
+      "!{GREY}"
   ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "15:43",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

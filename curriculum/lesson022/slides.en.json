@@ -1,26 +1,26 @@
 {
-"video": "2cvwo_EUmaw",
-"slides": [{
-  "type": "question",
-  "time": "1:53",
-  "question": "What command do you use if you want to attack the enemy twice?",
-  "options": [
-    "this.attack.attack(enemy)",
-    "this.attack(enemy) this.attack(enemy)"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "0:26",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/the-final-kithmaze",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "1:53",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "2cvwo_EUmaw",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:12",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/the-final-kithmaze",
+      "title": "The final Kithmaze"
+    }
+  },{
+    "type": "question",
+    "time": "6:16",
+    "question": "What command do you use if you want to attack many enemies twice?",
+    "options": [
+      "while (true) { var enemy = this.findNearestEnemy(); this.attack(enemy); }",
+      "var enemy = this.findNearestEnemy(); while (true) { this.attack(enemy); this.attack(enemy); }"
+    ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "6:16",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

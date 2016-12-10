@@ -1,20 +1,21 @@
 {
-"video": "luxpr09zHxU",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+  "video": "luxpr09zHxU",
+    "slides": [{
+    "type": "question",
+    "time": "17:11",
+    "question": "What is the right format for defining a class in CSS?",
+    "options": [
+      "<div='my_class'></div>",
+      "<div class'my_class'></div>",
+      "<div my_class'></div>",
+      "<div class='my_class'></div>"
   ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "answer": [3]
+
+  },{
+    "type": "solution",
+    "time": "17:11",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

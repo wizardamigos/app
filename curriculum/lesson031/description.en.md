@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Title",
-  "duration": "9:99"
+  "title": "Code Combat (Gems or Death)",
+  "duration": "6:43"
 }
 ---
 
-Here comes description
+Some more fun with `if/else`

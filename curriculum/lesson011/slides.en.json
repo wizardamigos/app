@@ -1,28 +1,36 @@
 {
-"video": "ThRG7LdAcqA",
-"slides": [{
-  "type": "question",
-  "time": "2:02",
-  "question": "Which are the basic commands in CodeCombat that you get with the boots?",
-  "options": [
-    "moveLeft",
-    "moveBack",
-    "moveUp",
-    "moveDown"
-  ],
-  "answer": [0,2,3]
-},{
-  "type": "challenge",
-  "time": "1:14",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/gems-in-the-deep",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "2:02",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "ThRG7LdAcqA",
+  "slides": [{
+    "type": "challenge",
+    "time": "0:22",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/gems-in-the-deep",
+      "title": "Gems in the deep"
+    }
+  },{
+    "type": "challenge",
+    "time": "2:43",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/shadow-guard",
+      "title": "Shadow Guard"
+    }
+  },{
+    "type": "question",
+    "time": "6:31",
+    "question": "Which are basic commands in CodeCombat that you get with the boots?",
+    "options": [
+      "moveLeft",
+      "moveBack",
+      "moveUp",
+      "moveDown"
+    ],
+    "answer": [0,2,3]
+  },{
+    "type": "solution",
+    "time": "6:31",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

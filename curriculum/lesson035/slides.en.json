@@ -1,28 +1,27 @@
 {
-"video": "_uzkx_IJmc4",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/ogre-encampment",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "_uzkx_IJmc4",
+  "slides": [{
+    "type": "challenge",
+    "time": "0:56",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/ogre-encampment",
+      "title": "Ogre Encampment"
+    }
+  },{
+    "type": "question",
+    "time": "3:10",
+    "question": "When do we in this lesson attack the chest?",
+    "options": [
+      "At the beginning of the game",
+      "When there is no emenies left",
+      "Whenever there is currently no enemy in sight"
+    ],
+    "answer": [2]
+  },{
+    "type": "solution",
+    "time": "3:10",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

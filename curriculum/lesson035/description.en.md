@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Title",
-  "duration": "9:99"
+  "title": "Code Combat (Ogre Encampment)",
+  "duration": "3:11"
 }
 ---
 
-Here comes description
+Switch back and forth again between different activities using `if/else`

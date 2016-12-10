@@ -1,20 +1,20 @@
 {
-"video": "9G4zMumoVMQ",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+  "video": "9G4zMumoVMQ",
+    "slides": [{
+    "type": "question",
+    "time": "5:05",
+    "question": "Finish the function to reduce the value of i for 1: if (i>0) ",
+    "options": [
+      "{}",
+      "{ i = i + 1 }",
+      "{ i = i - 1 }",
+      "{ i = i }"
   ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "answer": [2]
+  },{
+    "type": "solution",
+    "time": "5:05",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

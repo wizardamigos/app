@@ -1,28 +1,28 @@
 {
-"video": "V8hMapNTPZg",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+  "video": "V8hMapNTPZg",
+    "slides": [{
+    "type": "question",
+    "time": "2:55",
+    "question": "What do we mean when we say that we 'loop through an array'?",
+    "options": [
+      "We delete first item in the array",
+      "We add a new item to the array",
+      "We go through all the items in the array",
+      "We create a loop inside of an array"
   ],
-  "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "https://codecombat.com/play/level/the-spy-among-us",
-    "title": "Title of the link"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "answer": [2]
+  },{
+    "type": "challenge",
+    "time": "1:23",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/the-spy-among-us",
+      "title": "The Spy Among Us"
+    }
+  },{
+    "type": "solution",
+    "time": "2:55",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

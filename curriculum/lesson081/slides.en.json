@@ -1,28 +1,36 @@
 {
-"video": "cZcK5OM1vtY",
-"slides": [{
+  "video": "cZcK5OM1vtY",
+  "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "6:23",
+  "question": "How many arguments does a function move(pos) have?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "https://codecombat.com/play/level/crag-tag",
-    "title": "Title of the link"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "None",
+    "One",
+    "Two",
+    "three"
+],
+  "answer": [1]
+}, {
+    "type": "challenge",
+    "time": "2:07",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/crag-tag",
+      "title": "Crag Tag"
+    }
+  },{
+    "type": "challenge",
+    "time": "4:03",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/slalom",
+      "title": "Slalom"
+    }
+  },{
+    "type": "solution",
+    "time": "6:23",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

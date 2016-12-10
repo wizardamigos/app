@@ -1,20 +1,39 @@
 {
-"video": "7LbTJn7dCZQ",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "7LbTJn7dCZQ",
+  "slides": [{
+    "type": "challenge",
+    "time": "0:01",
+    "text": "Write down you knowledge about conditionals in a gist and bookmark it for later reference :-)",
+    "link": {
+      "url": "https://gist.github.com/",
+      "title": "Make gist and bookmark it"
+    }
+  },{
+    "type": "question",
+    "time": "5:49",
+    "question": "What are common amounts of indentation?",
+    "options": [
+      "4 spaces",
+      "2 spaces",
+      "1 tab",
+      "3 spaces"
+    ],
+    "answer": [0,1,2]
+  },{
+    "type": "question",
+    "time": "5:49",
+    "question": "What is the standardjs amount of indentation?",
+    "options": [
+      "4 spaces",
+      "2 spaces",
+      "tabs",
+      "3 spaces"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "5:49",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

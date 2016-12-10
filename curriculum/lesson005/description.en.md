@@ -1,7 +1,7 @@
 ---
 {
   "title": "Creating Avatar",
-  "duration": "3:48"
+  "duration": "6:18"
 }
 ---
 

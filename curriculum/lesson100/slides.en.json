@@ -1,28 +1,28 @@
 {
-"video": "7WKeLcoKKFY",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+  "video": "7WKeLcoKKFY",
+    "slides": [{
+    "type": "question",
+    "time": "3:53",
+    "question": "How to check if tile equals 1?",
+    "options": [
+      "tile = 1",
+      "tile = 1?",
+      "tile != 1",
+      "tile === 1"
   ],
-  "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "https://codecombat.com/play/level/danger-valley",
-    "title": "Title of the link"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "answer": [3]
+  },{
+    "type": "challenge",
+    "time": "0:32",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/danger-valley",
+      "title": "Danger Valley"
+    }
+  },{
+    "type": "solution",
+    "time": "2:09",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

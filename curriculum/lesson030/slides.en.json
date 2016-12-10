@@ -1,28 +1,28 @@
 {
-"video": "4U9kwKRtacE",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "https://codecombat.com/play/level/thumb-biter",
-    "title": "Title of the link"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "4U9kwKRtacE",
+  "slides": [{
+    "type": "challenge",
+    "time": "0:31",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/thumb-biter",
+      "title": "Thumb Biter"
+    }
+  },{
+    "type": "question",
+    "time": "4:21",
+    "question": "In which statements will our hero say 'Hey'?",
+    "options": [
+      "if (2+2===4) { this.say('Hey'); }",
+      "if ((2+3)===5) { this.say('Hey'); }",
+      "if (2+2=4) { this.say('Hey'); }",
+      "if (2+3=4) { this.say('Hey'); }"
+    ],
+    "answer": [0,1]
+  },{
+    "type": "solution",
+    "time": "4:21",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

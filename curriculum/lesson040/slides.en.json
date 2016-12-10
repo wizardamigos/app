@@ -1,28 +1,28 @@
 {
-"video": "4hpdyf3Pp-8",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/peasant-protection",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "4hpdyf3Pp-8",
+  "slides": [{
+    "type": "question",
+    "time": "4:41",
+    "question": "What needs to be in the if condition in order for hero to attack the enemy within a distance of 10?",
+    "options": [
+      "(distance < 10)",
+      "(enemy)",
+      "(distance > 10)",
+      "(distance)"
+    ],
+    "answer": [0]
+  },{
+    "type": "challenge",
+    "time": "2:18",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/peasant-protection",
+      "title": "Peasant Protection"
+    }
+  },{
+    "type": "solution",
+    "time": "4:41",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

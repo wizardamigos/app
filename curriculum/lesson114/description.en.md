@@ -1,8 +1,10 @@
 ---
 {
   "title": "Build your portfolio 07",
-  "duration": "9:99"
+  "duration": "7:32"
 }
 ---
 
-Here comes description
+```js
+// @TODO: add portfolio hover animation
+```

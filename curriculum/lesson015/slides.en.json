@@ -1,36 +1,35 @@
 {
-"video": "7UGTGbuN6J4",
-"slides": [{
-  "type": "question",
-  "time": "2:14",
-  "question":
-  [
-    "In the written form of many languages, an indentation is an empty space at the beginning of a line to signal the start of a new paragraph. Many computer languages have adopted this technique to designate 'paragraphs' or other logical blocks in the program.",
-    "",
-    "Example",
-    "while(true) {",
-    "  //this is the indented code",
-    "}",
-    "",
-    "So what is indentation?"
-  ],
-  "options": [
-    "An empty space at the beginning of a line",
-    "An empty space at the end of a line"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "1:06",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/haunted-kithmaze",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "2:14",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "7UGTGbuN6J4",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:44",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/haunted-kithmaze",
+      "title": "Haunted Kithmaze"
+    }
+  },{
+    "type": "question",
+    "time": "5:35",
+    "question": [
+      "In the written form of many languages, an indentation is empty spaces at the beginning of a line to signal the start of a 'new paragraph'. Many computer languages have adopted this technique to designate 'paragraphs' or other logical blocks in the program.",
+      "",
+      "// Example",
+      "while(true) {",
+      "  // this is the indented code",
+      "}",
+      "",
+      "So what is indentation?"
+    ],
+    "options": [
+      "Empty spaces at the beginning of a line",
+      "Empty spaces at the end of a line"
+    ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "5:35",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

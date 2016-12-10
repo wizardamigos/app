@@ -1,28 +1,28 @@
 {
-"video": "xeORWeNZPVY",
-"slides": [{
+  "video": "xeORWeNZPVY",
+  "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "6:05",
+  "question": "What can be a replacement for i++?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
+    "i+1+1+1+1...",
+    "i-1-1-1-1...",
+    "i+=1",
+    "i-=1"
+],
+  "answer": [0,2]
 },{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "https://codecombat.com/play/level/vital-powers",
-    "title": "Title of the link"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "type": "challenge",
+    "time": "1:11",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/vital-powers",
+      "title": "Vital Powers"
+    }
+  },{
+    "type": "solution",
+    "time": "6:05",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

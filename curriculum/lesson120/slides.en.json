@@ -1,20 +1,18 @@
 {
-"video": "jXBTclroR8M",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+  "video": "jXBTclroR8M",
+    "slides": [{
+    "type": "question",
+    "time": "11:17",
+    "question": "Which method do we use to 'send' information from app to the server (Firebase in our case)?",
+    "options": [
+      "get",
+      "post"
   ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "11:17",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

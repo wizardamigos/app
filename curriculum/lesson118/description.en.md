@@ -1,8 +1,10 @@
 ---
 {
   "title": "Quiz App 03",
-  "duration": "9:99"
+  "duration": "6:02"
 }
 ---
 
-Here comes description
+```js
+// @TODO: quiz part3
+```

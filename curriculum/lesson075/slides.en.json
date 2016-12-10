@@ -1,28 +1,28 @@
 {
-"video": "wG0EUnokxkQ",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "https://codecombat.com/play/level/shine-getter",
-    "title": "Title of the link"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "wG0EUnokxkQ",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:41",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/shine-getter",
+      "title": "Shine Getter"
+    }
+  },{
+    "type": "question",
+    "time": "3:46",
+    "question": "What is the correct answer for coin.value in this level if we have a golden coin?",
+    "options": [
+      "1",
+      "10",
+      "2",
+      "3"
+    ],
+    "answer": [3]
+  },{
+    "type": "solution",
+    "time": "3:46",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

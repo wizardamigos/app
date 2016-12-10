@@ -1,26 +1,34 @@
 {
-"video": "VN5DlDEHMrc",
-"slides": [{
-  "type": "question",
-  "time": "3:31",
-  "question": "How do we call these special characters - '{}'?",
-  "options": [
-    "Curly braces",
-    "Semicolon"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "3:31",
-  "text": "Find special characters on your keyboard, then create a Gist and save shortcuts for curly braces {} and square brackets [].",
-  "link": {
-    "url": "https://gist.github.com/",
-    "title": "Start now"
-  }
-},{
-  "type": "solution",
-  "time": "3:31",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "VN5DlDEHMrc",
+  "slides": [{
+    "type": "challenge",
+    "time": "4:40",
+    "text": "Find special characters on your keyboard, then create a Gist and save shortcuts for curly braces {} and square brackets [].",
+    "link": {
+      "url": "https://gist.github.com/",
+      "title": "Start now"
+    }
+  },{
+    "type": "challenge",
+    "time": "6:53",
+    "text": "Try to practice typing of special JavaScript characters - and come back when you are satisfied with your speed",
+    "link": {
+      "url": "http://wpm-test.com/programming-typing-test/",
+      "title": "Practice now"
+    }
+  },{
+    "type": "question",
+    "time": "6:53",
+    "question": "How do we call these special characters - '{}'?",
+    "options": [
+      "Curly braces",
+      "Semicolon"
+    ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "6:53",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

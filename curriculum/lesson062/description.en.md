@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Thunderhooves)",
-  "duration": "9:99"
+  "duration": "3:28"
 }
 ---
 
-Here comes description
+Practice a bit more by protecting yourself from yaks

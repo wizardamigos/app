@@ -1,7 +1,7 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "1:33"
+  "title": "Code Combat (Dread Door)",
+  "duration": "2:03"
 }
 ---
 

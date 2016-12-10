@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Munchkin Swarm)",
-  "duration": "9:99"
+  "duration": "3:10"
 }
 ---
 
-Here comes description
+Here comes more practicing :-)

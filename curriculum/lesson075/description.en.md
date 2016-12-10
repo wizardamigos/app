@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Shine Getter)",
-  "duration": "9:99"
+  "duration": "3:47"
 }
 ---
 
-Here comes description
+Gather some coins

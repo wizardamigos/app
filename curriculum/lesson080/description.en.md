@@ -1,8 +1,8 @@
 ---
 {
   "title": "Theory (arrays)",
-  "duration": "9:99"
+  "duration": "15:17"
 }
 ---
 
-Here comes description
+Make another `gist` about `arrays` and `bookmark` it next to your other bookmarks.

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Title",
-  "duration": "9:99"
+  "title": "Code Combat (Thumb Biter)",
+  "duration": "4:22"
 }
 ---
 
-Here comes description
+Make your first steps using conditional syntax `if/else`

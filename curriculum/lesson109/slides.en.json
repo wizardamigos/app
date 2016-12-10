@@ -1,20 +1,20 @@
 {
-"video": "F_rA5h-9FZ0",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+  "video": "F_rA5h-9FZ0",
+    "slides": [{
+    "type": "question",
+    "time": "7:34",
+    "question": "Which NPM modul helps us use CSS inside of our JavaScript code?",
+    "options": [
+      "yo-yo",
+      "csjs-inject",
+      "minixhr",
+      "chart.js"
   ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "7:34",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

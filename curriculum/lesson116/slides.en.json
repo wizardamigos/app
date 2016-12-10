@@ -1,20 +1,19 @@
 {
-"video": "qY6AkT3DCBY",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+  "video": "qY6AkT3DCBY",
+    "slides": [{
+    "type": "question",
+    "time": "9:03",
+    "question": "How do we in this lesson set the color for the arrow?",
+    "options": [
+      "color: ${PINK}",
+      "color: €{PINK}",
+      "color: %{PINK}"
   ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "9:03",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Continuous Alchemy)",
-  "duration": "9:99"
+  "duration": "5:19"
 }
 ---
 
-Here comes description
+Lets practice some more :-)

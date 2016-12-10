@@ -1,28 +1,28 @@
 {
-"video": "wNRhT2Pvnz0",
-"slides": [{
-  "type": "question",
-  "time": "1:49",
-  "question": "What happens when you bookmark the page?",
-  "options": [
-    "You create a shortcut to you favourite page.",
-    "You share a page with your friends.",
-    "You delete a link.",
-    "You open a new page."
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "1:49",
-  "text": "Click here to create your WizardAmigos bookmark folder and save the link to your e-mail account.",
-  "link": {
-    "url": "http://bit.ly/2gXZ2kC",
-    "title": "Create a bookmark"
-  }
-}, {
-  "type": "solution",
-  "time": "1:49",
-  "text": "If you managed to add Gmail to your bookmarks, you can click here to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "wNRhT2Pvnz0",
+  "slides": [{
+    "type": "question",
+    "time": "1:27",
+    "question": "What happens when you bookmark the page?",
+    "options": [
+      "You create a shortcut to your favourite page.",
+      "You share a page with your friends.",
+      "You delete a link.",
+      "You open a new page."
+    ],
+    "answer": [0]
+  },{
+    "type": "challenge",
+    "time": "1:27",
+    "text": "Click here to create your WizardAmigos bookmark folder and save the link to your e-mail account.",
+    "link": {
+      "url": "http://bit.ly/2gXZ2kC",
+      "title": "Create a bookmark"
+    }
+  }, {
+    "type": "solution",
+    "time": "1:27",
+    "text": "If you managed to add Gmail to your bookmarks, you can click here to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

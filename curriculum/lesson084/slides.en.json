@@ -1,28 +1,26 @@
 {
-"video": "nyqvPy2xE3Y",
-"slides": [{
+  "video": "nyqvPy2xE3Y",
+  "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "7:49",
+  "question": "What is the equivalent of this.say('Hello') in JavaScript developer tools?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
+    "console.log('Hello')",
+    "console.say('Hello')"
+],
+  "answer": [0]
 },{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "https://codecombat.com/play/level/mountain-mercenaries",
-    "title": "Title of the link"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "type": "challenge",
+    "time": "1:04",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/mountain-mercenaries",
+      "title": "Mountain Mercenaries"
+    }
+  },{
+    "type": "solution",
+    "time": "7:49",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

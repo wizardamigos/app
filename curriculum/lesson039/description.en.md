@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Backwood Standoff)",
-  "duration": "9:99"
+  "title": "Code Combat (Backwoods Standoff)",
+  "duration": "3:28"
 }
 ---
 
-Here comes description
+Learn how to scare off your enemies while you charge your mighty Cleave Attack!!!

@@ -1,20 +1,20 @@
 {
-"video": "szw-xfM303Y",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "szw-xfM303Y",
+  "slides": [{
+    "type": "question",
+    "time": "4:06",
+    "question": "What terminal command do we use to check what is our current directory?",
+    "options": [
+      "cd (change directory)",
+      "pwd (print working directory)",
+      "ls (list)",
+      "open . (open this document)"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "4:06",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

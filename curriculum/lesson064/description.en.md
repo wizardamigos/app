@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Sarven Sentry)",
-  "duration": "9:99"
+  "duration": "6:13"
 }
 ---
 
-Here comes description
+Now lets again involve differently colored flags to spice it up.

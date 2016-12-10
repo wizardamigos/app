@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Keeping Time)",
-  "duration": "9:99"
+  "duration": "3:52"
 }
 ---
 
-Here comes description
+Practice to do activities based on a certain timing

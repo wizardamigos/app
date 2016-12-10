@@ -1,28 +1,26 @@
 {
-"video": "-TblQ4QbZvk",
-"slides": [{
-  "type": "question",
-  "time": "2:47",
-  "question": "Which arguments do we use in buildXY function if we want to build a fence?",
-  "options": [
-    "fence, x coordinate and y coordinate - this.buildXY('fence', 34, 44)",
-    "just x and y coordinates - this.buildXY(34, 44)",
-    "just fence - this.buildXY('fence')",
-    "Nothing - this.buildXY()"
-  ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "1:31",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/kithgard-mastery",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "2:47",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "-TblQ4QbZvk",
+  "slides": [{
+    "type": "challenge",
+    "time": "2:20",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/kithgard-mastery",
+      "title": "Kithgard Mastery"
+    }
+  },{
+    "type": "question",
+    "time": "8:16",
+    "question": "Which variable name would be good to store the number of collected gems?",
+    "options": [
+      "var enemy;",
+      "var count;"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "8:16",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

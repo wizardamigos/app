@@ -1,32 +1,40 @@
 {
-"video": "fh9kHkjfUvU",
-"slides": [{
-  "type": "question",
-  "time": "4:14",
-  "question":
-    [
-    "Can you use b) instead of a)?",
-    " a) self.attack('Kratt');",
-    " b) var enemy = 'Kratt';",
-    "    self.attack(enemy);"
-    ],
-    "options": [
-      "Yes, in example a) we use name the name 'Krat' directly and in example b) we create a variable and assign 'Krat' to it.",
-      "No, this would mean a complitely different thing."
-    ],
-  "answer": [0]
-},{
-  "type": "challenge",
-  "time": "3:29",
-  "text": "Play Code Combat and learn new tricks",
-  "link": {
-    "url": "https://codecombat.com/play/level/known-enemy",
-    "title": "Play now"
-  }
-},{
-  "type": "solution",
-  "time": "4:14",
-  "text": "If you successfuly finished the challenge, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "fh9kHkjfUvU",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:27",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/known-enemy",
+      "title": "Known Enemy"
+    }
+  },{
+    "type": "challenge",
+    "time": "4:53",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/master-of-names",
+      "title": "Master of Names"
+    }
+  },{
+    "type": "question",
+    "time": "6:31",
+    "question":
+      [
+      "Can you use b) instead of a)?",
+      " a) hero.attack('Kratt');",
+      " b) var enemy = 'Kratt';",
+      "    hero.attack(enemy);"
+      ],
+      "options": [
+        "Yes, in example a) we use name the name 'Kratt' directly and in example b) we create a variable and assign 'Kratt' to it.",
+        "No, the second one would attack a character with the name 'enemy'"
+      ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "6:31",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

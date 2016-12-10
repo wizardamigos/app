@@ -1,20 +1,18 @@
 {
-"video": "nBRH0xuIY0A",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+  "video": "nBRH0xuIY0A",
+    "slides": [{
+    "type": "question",
+    "time": "7:31",
+    "question": "What is a DOM (document object model)?",
+    "options": [
+      "HTML's live version in the browser",
+      "Another name for HTML"
   ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "7:31",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

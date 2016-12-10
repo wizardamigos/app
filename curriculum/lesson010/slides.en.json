@@ -1,27 +1,24 @@
 {
-  "video": "NM81oO9Lufs",
+  "video": "TePE94ARdf4",
   "slides": [{
-    "type": "question",
-    "time": "5:07",
-    "question": "What is the name of the first world in the Code Combat game?",
-    "options": [
-      "Sarven Desert",
-      "Cloudrip Mountain",
-      "Backwoods Forest",
-      "Kithgard Dungeon"
-    ],
-    "answer": [3]
-  },{
     "type": "challenge",
-    "time": "5:07",
-    "text": "Create a Code Combat account. Click Create account and then choose Signup as individual.",
+    "time": "0:42",
+    "text": "Create a Code Combat account. Click Create account and then choose Signup as INDIVIDUAL.",
     "link": {
       "url": "http://codecombat.com",
       "title": "Join Code Combat"
     }
-}, {
+  },{
+    "type": "challenge",
+    "time": "5:34",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/dungeons-of-kithgard",
+      "title": "Dungeons of Kithgard"
+    }
+  },{
     "type": "solution",
-    "time": "5:07",
+    "time": "7:09",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

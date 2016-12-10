@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Sarven Road)",
-  "duration": "9:99"
+  "duration": "4:12"
 }
 ---
 
-Here comes description
+Practice relative movements for a bit more to get confident in calculating where to move next based on your robots situation and its relative position

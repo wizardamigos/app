@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Title",
-  "duration": "9:99"
+  "title": "Code Combat (Winding Trail)",
+  "duration": "3:08"
 }
 ---
 
-Here comes description
+Learn some more JavaScript

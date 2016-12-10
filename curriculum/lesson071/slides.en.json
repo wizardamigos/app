@@ -1,28 +1,26 @@
 {
-"video": "ibqoGE8dAMw",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "https://codecombat.com/play/level/dust",
-    "title": "Title of the link"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "ibqoGE8dAMw",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:30",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/dust",
+      "title": "Dust"
+    }
+  },{
+    "type": "question",
+    "time": "3:33",
+    "question": "What happens when the number of attacks is 10 in this case: while (attacks < 10) { this.attack(enemy) }",
+    "options": [
+      "We attack the enemy",
+      "We stop attacking the enemy"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "3:33",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

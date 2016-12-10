@@ -1,20 +1,20 @@
 {
-"video": "T1UgQURq1iI",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "T1UgQURq1iI",
+  "slides": [{
+    "type": "question",
+    "time": "5:40",
+    "question": "What is a tool Apple uses to identify individual apps?",
+    "options": [
+      "Deployment target",
+      "Version",
+      "Bundle identifier (Bundle ID)",
+      "Type"
+    ],
+    "answer": [2]
+  },{
+    "type": "solution",
+    "time": "5:40",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

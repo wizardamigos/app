@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Sand Snakes)",
-  "duration": "9:99"
+  "title": "Code Combat (Mad Maxer)",
+  "duration": "4:40"
 }
 ---
 
-Here comes description
+Good luck

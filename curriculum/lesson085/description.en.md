@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Timber Guard)",
-  "duration": "9:99"
+  "duration": "3:57"
 }
 ---
 
-Here comes description
+Practice a bit more.

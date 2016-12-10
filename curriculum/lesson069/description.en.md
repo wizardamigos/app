@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Desert Combat)",
-  "duration": "9:99"
+  "duration": "6:36"
 }
 ---
 
-Here comes description
+Do not use an infinite loop this time, but rather repeat it for a while and then do something else.

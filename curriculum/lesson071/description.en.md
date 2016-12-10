@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Dust)",
-  "duration": "9:99"
+  "duration": "3:34"
 }
 ---
 
-Here comes description
+Slay some ogres to practice your skills a bit more.

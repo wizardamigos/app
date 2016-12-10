@@ -1,20 +1,18 @@
 {
-"video": "PycqshVgoQ4",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "PycqshVgoQ4",
+  "slides": [{
+    "type": "question",
+    "time": "8:53",
+    "question": "What happens if we use an alert function (the one that is built in the browser)? alert('Hello')",
+    "options": [
+      "It will log 'Hello' to the console",
+      "It will open a popup with 'Hello' message"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "8:53",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

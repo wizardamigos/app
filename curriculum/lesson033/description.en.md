@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Title",
-  "duration": "9:99"
+  "title": "Code Combat (Village Guard)",
+  "duration": "4:51"
 }
 ---
 
-Here comes description
+Practice a bit more.

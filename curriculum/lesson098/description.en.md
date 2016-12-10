@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Reaping Fire)",
-  "duration": "9:99"
+  "duration": "10:03"
 }
 ---
 
-Here comes description
+Lets practice a bit more. Just a few level more code combat and we will finally start building our first website :-)

@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Noble Sacrifice)",
-  "duration": "9:99"
+  "duration": "4:00"
 }
 ---
 
-Here comes description
+Practice a bit more

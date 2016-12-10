@@ -1,8 +1,9 @@
 ---
 {
   "title": "Code Combat (Ogre Gorge Gouger)",
-  "duration": "9:99"
+  "duration": "4:50"
 }
 ---
 
-Here comes description
+All the re-usable code snippets that you save or in the past saved to your `gists` can become `functions`.
+We will practice a bit more and soon introduce how to turn your most common `code snippets` into `functions`

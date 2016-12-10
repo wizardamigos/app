@@ -1,8 +1,7 @@
 ---
 {
   "title": "Code Combat (Oasis)",
-  "duration": "9:99"
+  "duration": "2:18"
 }
 ---
-
-Here comes description
+Start learning about calculating relative positions and distances 

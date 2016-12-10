@@ -1,8 +1,10 @@
 ---
 {
   "title": "Mobile iOS App 03",
-  "duration": "9:99"
+  "duration": "2:01"
 }
 ---
 
-Here comes description
+```js
+// @TODO: use cordova in the terminal
+```

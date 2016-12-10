@@ -1,8 +1,12 @@
 ---
 {
-  "title": "Code Combat - moveUp, moveDown, moveLeft, moveRight",
-  "duration": "2:11"
+  "title": "Code Combat (Gems in the deep, Shadow Guard, Forgetful Gemsmith)",
+  "duration": "6:33"
 }
 ---
 
-With help of amazing Code Combat game you will get to know first commands (moveUp, moveDown, moveLeft and moveRight).
+With help of amazing Code Combat game you will get to know first commands
+* `moveUp`
+* `moveDown`
+* `moveLeft`
+* `moveRight`

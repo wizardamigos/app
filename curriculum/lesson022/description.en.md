@@ -1,7 +1,7 @@
 ---
 {
-  "title": "Code Combat",
-  "duration": "2:02"
+  "title": "Code Combat (The final Kithmaze)",
+  "duration": "6:17"
 }
 ---
 

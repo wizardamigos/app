@@ -1,8 +1,10 @@
 ---
 {
   "title": "Quiz App 06",
-  "duration": "9:99"
+  "duration": "14:38"
 }
 ---
 
-Here comes description
+```js
+// @TODO: calculating averages for the chart
+```

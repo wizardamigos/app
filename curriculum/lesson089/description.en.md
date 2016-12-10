@@ -1,8 +1,8 @@
 ---
 {
   "title": "Code Combat (Hunting Party)",
-  "duration": "9:99"
+  "duration": "4:42"
 }
 ---
 
-Here comes description
+Practice even more :-)

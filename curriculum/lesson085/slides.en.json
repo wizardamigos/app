@@ -1,28 +1,26 @@
 {
-"video": "8oMgk3Lmh4Q",
-"slides": [{
+  "video": "8oMgk3Lmh4Q",
+  "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "3:56",
+  "question": "What type of loop did we get to know in this lesson?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
+    "A while-loop",
+    "A for-loop"
+],
+  "answer": [1]
 },{
-  "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "https://codecombat.com/play/level/timber-guard",
-    "title": "Title of the link"
-  }
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+    "type": "challenge",
+    "time": "0:41",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/timber-guard",
+      "title": "Timber Guard"
+    }
+  },{
+    "type": "solution",
+    "time": "3:56",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

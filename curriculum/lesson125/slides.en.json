@@ -1,20 +1,20 @@
 {
-"video": "m6XeNYAaBu0",
-"slides": [{
-  "type": "question",
-  "time": "9:99",
-  "question": "First question",
-  "options": [
-    "a",
-    "b",
-    "c",
-    "d"
-  ],
-  "answer": [9]
-},{
-  "type": "solution",
-  "time": "8:32",
-  "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-  "button": "Complete the lesson"
-}]
+  "video": "m6XeNYAaBu0",
+  "slides": [{
+    "type": "question",
+    "time": "6:52",
+    "question": "What is the command that enables us to run the app in Phonegap (to be able to access it on our phone)",
+    "options": [
+      "phonegap play",
+      "phonegap serve",
+      "phonegap phone",
+      "phonegap create"
+    ],
+    "answer": [1]
+  },{
+    "type": "solution",
+    "time": "6:52",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
 }

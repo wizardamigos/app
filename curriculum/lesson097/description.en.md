@@ -1,8 +1,10 @@
 ---
 {
   "title": "Code Combat (Mixed Unit Tactics)",
-  "duration": "9:99"
+  "duration": "4:07"
 }
 ---
 
-Here comes description
+Practice a bit more and use the `modulo` operator to indefinitely loop through your array.
+
+This is a very common use case for the `modulo` operator
