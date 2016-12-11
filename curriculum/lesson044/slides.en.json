@@ -10,7 +10,7 @@
     }
   },{
     "type": "question",
-    "time": "3:10",
+    "time": "3:09",
     "question": "Which method do we us to measure the distance from the enemy?",
     "options": [
       "this.countEnemy(distance)",
@@ -21,7 +21,7 @@
     "answer": [3]
   },{
     "type": "solution",
-    "time": "3:10",
+    "time": "3:09",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
