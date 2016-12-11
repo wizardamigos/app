@@ -1,8 +1,15 @@
 ---
 {
-  "title": "Download & Install Chrome Browser",
-  "duration": "9:16"
+  "title": "Join the community and get started with managing your growing knowledge",
+  "duration": "6:16"
 }
 ---
 
-In this lesson you will find out how to install Google Chrome web browser which has amazing built-in developer tools you will learn to use in the future lessons. Since it became the leading Internet company at the turn of the century, Google has developed, apart from the most popular web browser, a variety of useful tools and programs. One of their most successful projects is Google Chrome browser, which uses JavaScript console and multiprocessing architecture. This browser easily became the most popular web browser on the Internet because of its amazing user interface, speed and responsiveness. But, what really made it stand out from other browsers were built-in programming tools that open an array of opportunities for developers. In the next lessons, we are going to learn how to use these tools and how to program directly from Chrome browser.
+In this lesson, we encourage you to fill out your github profile with some more information
+and create an avatar or upload a picture of yourself. Then we show you how you can improve your
+keyboard typing skills and test them. You should at least be able to type ~30 words per minute.
+
+Once you are comfortable, please introduce yourself in the chat. We are always happy to welcome new wizards :-)
+
+We also present some basic tools that can proof to be useful on your journey and add them to your bookmark bar.
+If you know some more cool tools or stumble upon them - please feel free to share them with the wizardamigos community :-)

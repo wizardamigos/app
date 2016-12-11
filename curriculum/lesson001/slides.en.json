@@ -2,27 +2,55 @@
   "video": "5A0SqkdL894",
   "slides": [{
     "type": "question",
-    "time": "3:01",
-    "question": "What type of the profile did we create in this lesson?",
+    "time": "3:58",
+    "question": "What happens when you bookmark the page?",
     "options": [
-      "E-mail account",
-      "Gitter account",
-      "Github account",
-      "Twitter account"
+      "You create a shortcut to your favourite page.",
+      "You share a page with your friends.",
+      "You delete a link.",
+      "You open a new page."
     ],
     "answer": [0]
   },{
     "type": "challenge",
-    "time": "3:01",
-    "text": "Go and create your E-mail account. But if you already have one, just continue",
+    "time": "3:58",
+    "text": "Click here to create your WizardAmigos bookmark folder and save links like the (gitter chat, wizardamigos app, github profile, ...)",
     "link": {
-      "url": "https://www.gmail.com",
-      "title": "Create your screencast"
+      "url": "http://bit.ly/2gXZ2kC",
+      "title": "Create some bookmarks and bookmark folders"
     }
-  }, {
+  },{
+    "type": "question",
+    "time": "3:58",
+    "question": "Can you store your personal notes in your bookmarks?",
+    "options": [
+      "No, you can't bookmark your notes",
+      "Yes, you can for example create Gists and bookmark them"
+    ],
+    "answer": [1]
+  },{
+    "type": "question",
+    "time": "3:58",
+    "question": "What can we do with these shortcuts: ctrl-c and ctrl-v (cmd-c and cmd-v for Apple users)?",
+    "options": [
+      "save and delete selected text",
+      "copy and paste selected text",
+      "open and close a window",
+      "click and unclick a checkbox"
+    ],
+    "answer": [1]
+  },{
+    "type": "challenge",
+    "time": "3:58",
+    "text": "Create your first Gist and save what you've learned so far and then bookmark it",
+    "link": {
+      "url": "https://gist.github.com/",
+      "title": "Create the gist"
+    }
+  },{
     "type": "solution",
-    "time": "3:01",
-    "text": "If you successfully finished your task, click here to complete the lesson.",
+    "time": "3:58",
+    "text": "You are know equipped with a powerfull tool to advance on your journey",
     "button": "Complete the lesson"
   }]
 }
