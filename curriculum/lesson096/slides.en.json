@@ -1,28 +1,28 @@
 {
-  "video": "ZgybwhNh-XE",
+  "video": "eJKSklBmnQ8",
     "slides": [{
     "type": "question",
-    "time": "6:20",
-    "question": "What 6 modulo 4 (6 % 4)",
+    "time": "9:21",
+    "question": "When will the statement return 'true' - if (soldiers.length <= 3) { return 'true'}?",
     "options": [
-      "1",
-      "4",
-      "2",
-      "6"
+      "var soldiers = ['Ana', 'Nicole', 'Simon']",
+      "var soldiers = ['Ana', 'Nicole']",
+      "var soldiers = ['Ana', 'Nicole', 'Simon', 'Bob']",
+      "var soldiers = ['Ana', 'Nicole', 'Simon', 'Bob', 'Zoe']"
   ],
-    "answer": [2]
+    "answer": [0,1]
   },{
     "type": "challenge",
-    "time": "2:05",
+    "time": "2:38",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/steelclaw-gap",
-      "title": "Steelclaw Gap"
+      "url": "https://codecombat.com/play/level/cloudrip-siege",
+      "title": "Cloudrip Siege"
     }
   },{
     "type": "solution",
-    "time": "6:20",
-    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "time": "9:21",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

@@ -1,27 +1,16 @@
 {
-  "video": "MXgB52STgXk",
+  "video": "Xn2_6YHBoQA",
   "slides": [{
     "type": "challenge",
-    "time": "0:02",
-    "text": "Write down you knowledge about conditionals in a gist and bookmark it for later reference :-)",
+    "time": "1:19",
+    "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://gist.github.com/",
-      "title": "Make gist and bookmark it"
+      "url": "https://codecombat.com/play/level/thunderhooves",
+      "title": "Thunderhooves"
     }
   },{
-    "type": "question",
-    "time": "6:34",
-    "question": "What dos this statement mean - if (x < 20 || y < 10) { console.log('true') }",
-    "options": [
-      "if x less than 20 and y less than 10, print 'true' to the console",
-      "if x less than 20 or y less than 10, print 'true' to the console",
-      "if x less than 20 if else y less than 10, print 'true' to the console",
-      "if x less than 20 while y less than 10, print 'true' to the console"
-    ],
-    "answer": [1]
-  },{
     "type": "solution",
-    "time": "6:34",
+    "time": "3:27",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

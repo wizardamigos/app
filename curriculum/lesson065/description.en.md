@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Keeping Time)",
-  "duration": "3:52"
+  "title": "Code Combat (Dust)",
+  "duration": "3:34"
 }
 ---
 
-Practice to do activities based on a certain timing
+Slay some ogres to practice your skills a bit more.

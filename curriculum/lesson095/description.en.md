@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat (Library Tactician)",
-  "duration": "4:51"
+  "title": "Code Combat (The Spy Among Us)",
+  "duration": "2:56"
 }
 ---
 
-Practice some more and think hard about which `functions` that you defined in your `gists` can be re-used.
+Again, lets do some easy functions with parameters, so we can `call` them while writing our solution and pass the appropriate `arguments` to them.
 
-One main goal is, that through practice, you get good in writing `functions` *(=verbs)*, which can be re-used in many situations. So you slowly build yourself a useful vocabulary that with which you can easily solve problems you encounter :-)
+Again, if the words above are not clear - feel free to ask in the chat or google them and add them to your `gists` :-)

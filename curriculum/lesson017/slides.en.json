@@ -1,30 +1,16 @@
 {
-  "video": "ThhgntAb6sI",
+  "video": "1siP_JzVjcU",
   "slides": [{
-    "type": "question",
+    "type": "challenge",
     "time": "2:25",
-    "question": "How do we NOT call this special character: '/'?",
-    "options": [
-      "The slash",
-      "The colon",
-      "Single quotes",
-      "Brackets"
-    ],
-    "answer": [1,2,3]
-  },{
-    "type": "question",
-    "time": "2:25",
-    "question": "How do we call this special character: '-'?",
-    "options": [
-      "hyphen",
-      "minus",
-      "dash",
-      "stroke"
-    ],
-    "answer": [0,1,2]
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/signs-and-portents",
+      "title": "Signs and Portents"
+    }
   },{
     "type": "solution",
-    "time": "2:25",
+    "time": "4:59",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

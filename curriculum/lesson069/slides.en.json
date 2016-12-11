@@ -1,16 +1,27 @@
 {
-  "video": "4sDalMRynGA",
+  "video": "wG0EUnokxkQ",
   "slides": [{
     "type": "challenge",
-    "time": "3:30",
+    "time": "1:41",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/desert-combat",
-      "title": "Desert Combat"
+      "url": "https://codecombat.com/play/level/shine-getter",
+      "title": "Shine Getter"
     }
   },{
+    "type": "question",
+    "time": "3:46",
+    "question": "What is the correct answer for coin.value in this level if we have a golden coin?",
+    "options": [
+      "1",
+      "10",
+      "2",
+      "3"
+    ],
+    "answer": [3]
+  },{
     "type": "solution",
-    "time": "6:35",
+    "time": "3:46",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

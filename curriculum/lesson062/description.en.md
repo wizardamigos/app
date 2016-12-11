@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Thunderhooves)",
-  "duration": "3:28"
+  "title": "Code Combat (Bookkeeper)",
+  "duration": "7:02"
 }
 ---
 
-Practice a bit more by protecting yourself from yaks
+And practice some more :-) Count the time and alternate what you do at certain times.

@@ -1,19 +1,25 @@
 {
-  "video": "sK6R-8FxT8s",
+  "video": "VUoknsgUX-w",
   "slides": [{
-    "type": "question",
-    "time": "15:16",
-    "question": "What JavaScript data type is variable fruits in this example: var fruits = ['banana','apple','kiwi']",
-    "options": [
-      "string",
-      "integer",
-      "array",
-      "object"
-    ],
-    "answer": [2]
+  "type": "question",
+  "time": "4:57",
+  "question": "What does friends.length give us?",
+  "options": [
+    "Number of elements in the friends array",
+    "Number of attributes in the friends method"
+],
+  "answer": [0]
+},{
+    "type": "challenge",
+    "time": "0:58",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/zero-sum",
+      "title": "Zero Sum"
+    }
   },{
     "type": "solution",
-    "time": "15:16",
+    "time": "4:57",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

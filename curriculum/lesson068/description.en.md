@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Bookkeeper)",
-  "duration": "7:02"
+  "title": "Code Combat (Sarven Shepherd)",
+  "duration": "4:01"
 }
 ---
 
-And practice some more :-) Count the time and alternate what you do at certain times.
+Even moooaaaaar learning... yay :-)

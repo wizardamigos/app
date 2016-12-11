@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Quiz App 07",
-  "duration": "11:41"
+  "title": "Mobile iOS App 04",
+  "duration": "3:51"
 }
 ---
 
 ```js
-// @TODO: setting up a regular dev environment
+// @TODO: use xcode to create an iphone app from your code
 ```

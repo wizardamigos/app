@@ -1,16 +1,25 @@
 {
-  "video": "NUM3O_Dcqxw",
+  "video": "0kxtjmFaZGI",
   "slides": [{
     "type": "challenge",
-    "time": "2:12",
+    "time": "1:29",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/decoy-drill",
-      "title": "Decoy Drill"
+      "url": "https://codecombat.com/play/level/lurkers",
+      "title": "Lurkers"
     }
   },{
+    "type": "question",
+    "time": "5:01",
+    "question": "How do we in this level check if the enemy is a shaman?",
+    "options": [
+      "enemy.type = 'shaman'",
+      "enemy.type === 'shaman'"
+    ],
+    "answer": [1]
+  },{
     "type": "solution",
-    "time": "5:54",
+    "time": "5:01",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

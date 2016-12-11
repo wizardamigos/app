@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Quiz App 08",
-  "duration": "19:47"
+  "title": "Mobile iOS App 05",
+  "duration": "5:41"
 }
 ---
 
 ```js
-// @TODO: some basics about the command line interface
+// @TODO: use cordova in the terminal
 ```

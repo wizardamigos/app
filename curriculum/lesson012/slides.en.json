@@ -1,34 +1,27 @@
 {
-  "video": "i7RseDCaK5U",
+  "video": "dYL1LZ2pacM",
   "slides": [{
     "type": "challenge",
-    "time": "1:02",
+    "time": "1:08",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/true-names",
-      "title": "True Names"
-    }
-  },{
-    "type": "challenge",
-    "time": "3:32",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/the-raised-sword",
-      "title": "The Raised Sword"
+      "url": "https://codecombat.com/play/level/dread-door",
+      "title": "Dread Door"
     }
   },{
     "type": "question",
-    "time": "6:06",
-    "question": "What is the correct command that helps us attack the Ogre named Brak?",
+    "time": "2:02",
+    "question": "What is the name of the method we use to destroy the door in this level?",
     "options": [
-      "this.attack(Brak);",
-      "hero.attack('Brak');",
-      "this.attack('Brak');"
+      "attack",
+      "destroy",
+      "explode",
+      "remove"
     ],
-    "answer": [1,2]
+    "answer": [0]
   },{
     "type": "solution",
-    "time": "6:06",
+    "time": "2:02",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

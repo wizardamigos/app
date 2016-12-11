@@ -1,26 +1,27 @@
 {
-  "video": "_uzkx_IJmc4",
+  "video": "ar2GXxJyE3k",
   "slides": [{
     "type": "challenge",
-    "time": "0:56",
+    "time": "4:14",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/ogre-encampment",
-      "title": "Ogre Encampment"
+      "url": "https://codecombat.com/play/level/forest-fire-dancing",
+      "title": "Forest Fire Dancing"
     }
   },{
     "type": "question",
-    "time": "3:10",
-    "question": "When do we in this lesson attack the chest?",
+    "time": "6:55",
+    "question": "Which command do we use to find out position of the evil stone?",
     "options": [
-      "At the beginning of the game",
-      "When there is no emenies left",
-      "Whenever there is currently no enemy in sight"
+      "hero.nearestEnemy()",
+      "hero.nearestItem()",
+      "hero.theEnemy()",
+      "hero.theItem()"
     ],
-    "answer": [2]
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "3:10",
+    "time": "6:55",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

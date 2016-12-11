@@ -1,0 +1,35 @@
+{
+  "video": "i7RseDCaK5U",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:02",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/true-names",
+      "title": "True Names"
+    }
+  },{
+    "type": "challenge",
+    "time": "3:32",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/the-raised-sword",
+      "title": "The Raised Sword"
+    }
+  },{
+    "type": "question",
+    "time": "6:06",
+    "question": "What is the correct command that helps us attack the Ogre named Brak?",
+    "options": [
+      "this.attack(Brak);",
+      "hero.attack('Brak');",
+      "this.attack('Brak');"
+    ],
+    "answer": [1,2]
+  },{
+    "type": "solution",
+    "time": "6:06",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
+}

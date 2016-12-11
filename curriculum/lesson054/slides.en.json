@@ -1,26 +1,25 @@
 {
-  "video": "Ri-W5RQn-aw",
+  "video": "nocprmTtm9g",
   "slides": [{
     "type": "challenge",
-    "time": "0:06",
-    "text": "Write down you knowledge about conditionals in a gist and bookmark it for later reference :-)",
+    "time": "1:27",
+    "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://gist.github.com/",
-      "title": "Make gist and bookmark it"
+      "url": "https://codecombat.com/play/level/sarven-road",
+      "title": "Sarven Road"
     }
   },{
     "type": "question",
-    "time": "7:33",
-    "question": "What is the right format of a conditional statement if we want to check 3 different exclusive conditions and a default case ?",
+    "time": "4:12",
+    "question": "How to make hero move up in Code Combat?",
     "options": [
-      "if - if - if - if - else",
-      "if - else if - else if - else if",
-      "if - else if - else if - else"
+      "pos.y + 3",
+      "pos.y - 3"
     ],
-    "answer": [2]
+    "answer": [0]
   },{
     "type": "solution",
-    "time": "7:33",
+    "time": "4:12",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

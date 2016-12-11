@@ -1,25 +1,27 @@
 {
-  "video": "0qI7If1P6WM",
+  "video": "DoFp4h-knpA",
   "slides": [{
   "type": "question",
-  "time": "4:49",
-  "question": "JavaScript functions help us create parts of code we can use:",
+  "time": "3:59",
+  "question": "What did we use the while-loop for in this level?",
   "options": [
-    "only once",
-    "many times"
+    "to send soldiers to the locations",
+    "to collect the coins",
+    "to summon soldiers",
+    "to attack the enemies"
 ],
   "answer": [1]
 },{
     "type": "challenge",
-    "time": "2:09",
+    "time": "1:21",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/ogre-gorge-gouger",
-      "title": "Ogre Gorge Gouger"
+      "url": "https://codecombat.com/play/level/noble-sacrifice",
+      "title": "Noble Sacrifice"
     }
   },{
     "type": "solution",
-    "time": "4:49",
+    "time": "3:59",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

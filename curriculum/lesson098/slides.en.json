@@ -1,28 +1,20 @@
 {
-  "video": "XD0nO6vFbAU",
-    "slides": [{
+  "video": "6YSD7Dtp6yw",
+  "slides": [{
     "type": "question",
-    "time": "10:03",
-    "question": "What is the name of this function: function findNearestItem (items) { this.findNearest(item) }?",
+    "time": "9:26",
+    "question": "If we have array var LOCATIONS = [ { name:'home', pos: { x:12,y:25 } }, { name:'school', pos: { x:27, y:88} } } ], how do we get a y coordinate for home?",
     "options": [
-      "findNearestItem",
-      "items",
-      "this",
-      "findNearest"
-  ],
-    "answer": [0]
-  },{
-    "type": "challenge",
-    "time": "1:41",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/reaping-fire",
-      "title": "Reaping Fire"
-    }
+      "LOCATIONS.school.pos.y",
+      "LOCATIONS[1].school.pos.y",
+      "LOCATIONS[1].pos.y",
+      "LOCATIONS[1].y"
+    ],
+    "answer": [2]
   },{
     "type": "solution",
-    "time": "10:03",
-    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "time": "9:26",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

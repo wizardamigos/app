@@ -1,25 +1,25 @@
 {
-  "video": "y7xW7GjKq7s",
-  "slides": [{
-  "type": "question",
-  "time": "6:52",
-  "question": "What is the right way to define a function?",
-  "options": [
-    "function () { if (distanceTo(enemy)<5) { this.attack(enemy) } }",
-    "var function() = { if (distanceTo(enemy)<5) { this.attack(enemy) } }"
-],
-  "answer": [0]
-},{
+  "video": "5YL8mvkgUyo",
+    "slides": [{
+    "type": "question",
+    "time": "4:06",
+    "question": "What can we use the modulo for?",
+    "options": [
+      "To delete the array",
+      "To loop through the array"
+  ],
+    "answer": [1]
+  },{
     "type": "challenge",
-    "time": "1:03",
+    "time": "0:43",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/the-two-flowers",
-      "title": "The Two Flowers"
+      "url": "https://codecombat.com/play/level/mixed-unit-tactics",
+      "title": "Mixed Unit Tactics"
     }
   },{
     "type": "solution",
-    "time": "6:52",
+    "time": "4:06",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

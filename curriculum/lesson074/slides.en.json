@@ -1,27 +1,19 @@
 {
-  "video": "lZMWQxYQlOI",
+  "video": "sK6R-8FxT8s",
   "slides": [{
-    "type": "challenge",
-    "time": "0:52",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/sarven-shepherd",
-      "title": "Sarven Shepherd"
-    }
-  },{
     "type": "question",
-    "time": "4:00",
-    "question": "What is the correct answer to array.length if var array = [10,20,30,40,50]?",
+    "time": "15:16",
+    "question": "What JavaScript data type is variable fruits in this example: var fruits = ['banana','apple','kiwi']",
     "options": [
-      "50",
-      "4",
-      "5",
-      "10"
+      "string",
+      "integer",
+      "array",
+      "object"
     ],
     "answer": [2]
   },{
     "type": "solution",
-    "time": "4:00",
+    "time": "15:16",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

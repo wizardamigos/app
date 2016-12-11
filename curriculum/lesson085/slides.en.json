@@ -1,25 +1,25 @@
 {
-  "video": "8oMgk3Lmh4Q",
+  "video": "y7xW7GjKq7s",
   "slides": [{
   "type": "question",
-  "time": "3:56",
-  "question": "What type of loop did we get to know in this lesson?",
+  "time": "6:52",
+  "question": "What is the right way to define a function?",
   "options": [
-    "A while-loop",
-    "A for-loop"
+    "function () { if (distanceTo(enemy)<5) { this.attack(enemy) } }",
+    "var function() = { if (distanceTo(enemy)<5) { this.attack(enemy) } }"
 ],
-  "answer": [1]
+  "answer": [0]
 },{
     "type": "challenge",
-    "time": "0:41",
+    "time": "1:03",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/timber-guard",
-      "title": "Timber Guard"
+      "url": "https://codecombat.com/play/level/the-two-flowers",
+      "title": "The Two Flowers"
     }
   },{
     "type": "solution",
-    "time": "3:56",
+    "time": "6:52",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

@@ -1,33 +1,28 @@
 {
-  "video": "VN5DlDEHMrc",
+  "video": "YtqcIj66wRI",
   "slides": [{
     "type": "challenge",
-    "time": "4:40",
-    "text": "Find special characters on your keyboard, then create a Gist and save shortcuts for curly braces {} and square brackets [].",
+    "time": "2:42",
+    "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://gist.github.com/",
-      "title": "Start now"
-    }
-  },{
-    "type": "challenge",
-    "time": "6:53",
-    "text": "Try to practice typing of special JavaScript characters - and come back when you are satisfied with your speed",
-    "link": {
-      "url": "http://wpm-test.com/programming-typing-test/",
-      "title": "Practice now"
+      "url": "https://codecombat.com/play/level/kithgard-gates",
+      "title": "Kithgard Gates"
     }
   },{
     "type": "question",
-    "time": "6:53",
-    "question": "How do we call these special characters - '{}'?",
+    "time": "4:55",
+    "question": "How do we create a new variable called enemy?",
     "options": [
-      "Curly braces",
-      "Semicolon"
+      "v enemy = this.findNearestEnemy();",
+      "var enemy;",
+      "var enemy = this.findNearestEnemy();",
+      "enemy = this.findNearestEnemy();",
+      "variable enemy = this.findNearestEnemy();"
     ],
-    "answer": [0]
+    "answer": [1,2]
   },{
     "type": "solution",
-    "time": "6:53",
+    "time": "4:55",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

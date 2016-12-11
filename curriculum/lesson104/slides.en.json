@@ -1,19 +1,20 @@
 {
-  "video": "6YSD7Dtp6yw",
-  "slides": [{
+  "video": "luxpr09zHxU",
+    "slides": [{
     "type": "question",
-    "time": "9:26",
-    "question": "If we have array var LOCATIONS = [ { name:'home', pos: { x:12,y:25 } }, { name:'school', pos: { x:27, y:88} } } ], how do we get a y coordinate for home?",
+    "time": "17:11",
+    "question": "What is the right format for defining a class in CSS?",
     "options": [
-      "LOCATIONS.school.pos.y",
-      "LOCATIONS[1].school.pos.y",
-      "LOCATIONS[1].pos.y",
-      "LOCATIONS[1].y"
-    ],
-    "answer": [2]
+      "<div='my_class'></div>",
+      "<div class'my_class'></div>",
+      "<div my_class'></div>",
+      "<div class='my_class'></div>"
+  ],
+    "answer": [3]
+
   },{
     "type": "solution",
-    "time": "9:26",
+    "time": "17:11",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

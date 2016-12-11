@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Quiz App 05",
-  "duration": "11:18"
+  "title": "Mobile iOS App 03",
+  "duration": "2:01"
 }
 ---
 
 ```js
-// @TODO: adding a library for making the chart diagram
+// @TODO: use cordova in the terminal
 ```

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Sarven Sentry)",
-  "duration": "6:13"
+  "title": "Code Combat (Continuous Alchemy)",
+  "duration": "5:19"
 }
 ---
 
-Now lets again involve differently colored flags to spice it up.
+Lets practice some more :-)

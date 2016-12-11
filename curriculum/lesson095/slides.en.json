@@ -1,26 +1,28 @@
 {
-  "video": "JbqZnn87Psg",
-  "slides": [{
-  "type": "question",
-  "time": "4:50",
-  "question": "How many parameters does the function attackEnemy have: function attackEnemy (enemy) { attack(enemy) }",
-  "options": [
-    "None",
-    "One"
-],
-  "answer": [1]
-},{
+  "video": "V8hMapNTPZg",
+    "slides": [{
+    "type": "question",
+    "time": "2:55",
+    "question": "What do we mean when we say that we 'loop through an array'?",
+    "options": [
+      "We delete first item in the array",
+      "We add a new item to the array",
+      "We go through all the items in the array",
+      "We create a loop inside of an array"
+  ],
+    "answer": [2]
+  },{
     "type": "challenge",
-    "time": "0:42",
+    "time": "1:23",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/library-tactician",
-      "title": "Library Tactician"
+      "url": "https://codecombat.com/play/level/the-spy-among-us",
+      "title": "The Spy Among Us"
     }
   },{
     "type": "solution",
-    "time": "4:50",
-    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "time": "2:55",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

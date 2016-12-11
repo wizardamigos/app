@@ -1,8 +1,23 @@
 ---
 {
-  "title": "Code Combat (Reaping Fire)",
-  "duration": "10:03"
+  "title": "Theory (functions: returning a function)",
+  "duration": "9:27"
 }
 ---
 
-Lets practice a bit more. Just a few level more code combat and we will finally start building our first website :-)
+**Advanced**
+Here we explain what it means when we `return` a `function` from a `function`.
+This is called a `higher order function`.
+
+It is like a word machine that can produce words.
+For example:
+
+```js
+function addX (x) {
+  return function (y) { return x + y; }
+}
+var add5 = addX(5)
+
+add5(10) // => 15
+add5(14) // => 19
+```

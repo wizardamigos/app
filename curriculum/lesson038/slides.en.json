@@ -1,16 +1,27 @@
 {
-  "video": "39_rBqrtal0",
+  "video": "fGwiAU43yS0",
   "slides": [{
     "type": "challenge",
-    "time": "5:46",
+    "time": "1:16",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/dueling-grounds",
-      "title": "Dueling Grounds"
+      "url": "https://codecombat.com/play/level/munchkin-swarm",
+      "title": "Munchkin Swarm"
     }
   },{
+    "type": "question",
+    "time": "3:09",
+    "question": "Which method do we us to measure the distance from the enemy?",
+    "options": [
+      "this.countEnemy(distance)",
+      "this.enemyCount(distance)",
+      "this.enemy(distance)",
+      "this.distanceTo(enemy)"
+    ],
+    "answer": [3]
+  },{
     "type": "solution",
-    "time": "5:46",
+    "time": "3:09",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

@@ -1,16 +1,16 @@
 {
-  "video": "vPcxAyecdWE",
+  "video": "QdwbzirwEFY",
   "slides": [{
     "type": "challenge",
-    "time": "2:28",
+    "time": "1:56",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/the-mighty-sand-yak",
-      "title": "The Mighty Sand Yak"
+      "url": "https://codecombat.com/play/level/medical-attention",
+      "title": "Medical Attention"
     }
   },{
     "type": "solution",
-    "time": "4:29",
+    "time": "5:10",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

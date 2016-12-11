@@ -1,24 +1,33 @@
 {
-  "video": "TePE94ARdf4",
+  "video": "VN5DlDEHMrc",
   "slides": [{
     "type": "challenge",
-    "time": "0:42",
-    "text": "Create a Code Combat account. Click Create account and then choose Signup as INDIVIDUAL.",
+    "time": "4:40",
+    "text": "Find special characters on your keyboard, then create a Gist and save shortcuts for curly braces {} and square brackets [].",
     "link": {
-      "url": "http://codecombat.com",
-      "title": "Join Code Combat"
+      "url": "https://gist.github.com/",
+      "title": "Start now"
     }
   },{
     "type": "challenge",
-    "time": "5:34",
-    "text": "Challenge - solve the level and then come back and continue",
+    "time": "6:53",
+    "text": "Try to practice typing of special JavaScript characters - and come back when you are satisfied with your speed",
     "link": {
-      "url": "https://codecombat.com/play/level/dungeons-of-kithgard",
-      "title": "Dungeons of Kithgard"
+      "url": "http://wpm-test.com/programming-typing-test/",
+      "title": "Practice now"
     }
   },{
+    "type": "question",
+    "time": "6:53",
+    "question": "How do we call these special characters - '{}'?",
+    "options": [
+      "Curly braces",
+      "Semicolon"
+    ],
+    "answer": [0]
+  },{
     "type": "solution",
-    "time": "7:09",
+    "time": "6:53",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

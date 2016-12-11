@@ -1,27 +1,16 @@
 {
-  "video": "fGwiAU43yS0",
+  "video": "O1mZSj4vZhU",
   "slides": [{
     "type": "challenge",
-    "time": "1:16",
+    "time": "3:06",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/munchkin-swarm",
-      "title": "Munchkin Swarm"
+      "url": "https://codecombat.com/play/level/signal-corpse",
+      "title": "Signal Corpse"
     }
   },{
-    "type": "question",
-    "time": "3:09",
-    "question": "Which method do we us to measure the distance from the enemy?",
-    "options": [
-      "this.countEnemy(distance)",
-      "this.enemyCount(distance)",
-      "this.enemy(distance)",
-      "this.distanceTo(enemy)"
-    ],
-    "answer": [3]
-  },{
     "type": "solution",
-    "time": "3:09",
+    "time": "6:46",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

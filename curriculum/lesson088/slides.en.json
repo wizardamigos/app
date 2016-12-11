@@ -1,27 +1,25 @@
 {
-  "video": "DoFp4h-knpA",
+  "video": "RYqSfqfdbSo",
   "slides": [{
   "type": "question",
-  "time": "3:59",
-  "question": "What did we use the while-loop for in this level?",
+  "time": "7:05",
+  "question": "What do we pass in the functions that include params when we make a function call ()",
   "options": [
-    "to send soldiers to the locations",
-    "to collect the coins",
-    "to summon soldiers",
-    "to attack the enemies"
+    "An argument",
+    "A variable"
 ],
-  "answer": [1]
+  "answer": [0]
 },{
     "type": "challenge",
-    "time": "1:21",
+    "time": "0:44",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/noble-sacrifice",
-      "title": "Noble Sacrifice"
+      "url": "https://codecombat.com/play/level/hunters-and-prey",
+      "title": "Hunters and Prey"
     }
   },{
     "type": "solution",
-    "time": "3:59",
+    "time": "7:05",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

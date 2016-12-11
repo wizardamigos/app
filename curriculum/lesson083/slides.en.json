@@ -1,27 +1,27 @@
 {
-  "video": "sG3ynl4YoQ8",
+  "video": "5ijW9esxrEc",
   "slides": [{
   "type": "question",
-  "time": "3:35",
-  "question": "In this level we can only command:",
+  "time": "4:41",
+  "question": "In this lesson we get the bonus if:",
   "options": [
-    "marines",
-    "archers",
-    "soldiers",
-    "snipers"
+    "we destroy 20 ogres",
+    "all our troops survive",
+    "we find 30 enemies",
+    "we collect 100 coins"
 ],
-  "answer": [1,2]
+  "answer": [1]
 },{
     "type": "challenge",
-    "time": "2:16",
+    "time": "1:04",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/cloudrip-commander",
-      "title": "Cloudrip Commander"
+      "url": "https://codecombat.com/play/level/hunting-party",
+      "title": "Hunting Party"
     }
   },{
     "type": "solution",
-    "time": "3:35",
+    "time": "4:41",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Quiz App 06",
-  "duration": "14:38"
+  "title": "Mobile iOS App 02",
+  "duration": "4:07"
 }
 ---
 
 ```js
-// @TODO: calculating averages for the chart
+// @TODO: customize your app a bit more
 ```

@@ -1,16 +1,27 @@
 {
-  "video": "1siP_JzVjcU",
+  "video": "1eYx--1rMTk",
   "slides": [{
     "type": "challenge",
-    "time": "2:25",
+    "time": "1:33",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/signs-and-portents",
-      "title": "Signs and Portents"
+      "url": "https://codecombat.com/play/level/winding-trail",
+      "title": "Winding Trail"
     }
   },{
+    "type": "question",
+    "time": "3:06",
+    "question": "Which letters do we use to mark coordinates?",
+    "options": [
+      "a,b",
+      "v,z",
+      "x,y",
+      "x,z"
+    ],
+    "answer": [2]
+  },{
     "type": "solution",
-    "time": "4:59",
+    "time": "3:06",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

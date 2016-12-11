@@ -1,25 +1,25 @@
 {
-  "video": "Mx7mkUNouQk",
+  "video": "Y5NI1L7mpMw",
   "slides": [{
     "type": "challenge",
-    "time": "2:28",
+    "time": "1:22",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/multiplayer-treasure-grove",
-      "title": "Multiplayer Treasure Grove"
+      "url": "https://codecombat.com/play/level/oasis",
+      "title": "Oasis"
     }
   },{
     "type": "question",
-    "time": "10:26",
-    "question": "Which code is correct?",
+    "time": "2:17",
+    "question": "Which command enables our hero to move back in this level?",
     "options": [
-      "if (enemy) { hero.attack(enemy) } else if { hero.attack(coin) }",
-      "if (enemy) { hero.attack(enemy) } else if (coin) { hero.moveXY(coin.pos.x, coin.pos.y) }"
+      "moveXY(x+10,y)",
+      "moveXY(x-10,y)"
     ],
     "answer": [1]
   },{
     "type": "solution",
-    "time": "10:26",
+    "time": "2:17",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Winding Trail)",
-  "duration": "3:08"
+  "title": "Code Combat (Ogre Encampment)",
+  "duration": "3:11"
 }
 ---
 
-Learn some more JavaScript
+Switch back and forth again between different activities using `if/else`

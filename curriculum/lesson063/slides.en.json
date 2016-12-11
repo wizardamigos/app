@@ -1,16 +1,16 @@
 {
-  "video": "QdwbzirwEFY",
+  "video": "4sDalMRynGA",
   "slides": [{
     "type": "challenge",
-    "time": "1:56",
+    "time": "3:30",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/medical-attention",
-      "title": "Medical Attention"
+      "url": "https://codecombat.com/play/level/desert-combat",
+      "title": "Desert Combat"
     }
   },{
     "type": "solution",
-    "time": "5:10",
+    "time": "6:35",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

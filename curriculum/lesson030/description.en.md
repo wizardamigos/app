@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Thumb Biter)",
-  "duration": "4:22"
+  "title": "Code Combat (Woodland Cleaver)",
+  "duration": "3:10"
 }
 ---
 
-Make your first steps using conditional syntax `if/else`
+Use a new attack move whenever it's ready.  You use conditionals to check for it.

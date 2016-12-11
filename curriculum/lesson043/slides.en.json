@@ -1,16 +1,27 @@
 {
-  "video": "N3hU-5MTLXI",
+  "video": "djTnqsXfsRw",
   "slides": [{
     "type": "challenge",
-    "time": "1:30",
+    "time": "1:44",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/the-agrippa-defense",
-      "title": "The Agrippa Defense"
+      "url": "https://codecombat.com/play/level/mind-the-trap",
+      "title": "Mind the Trap"
     }
   },{
+    "type": "question",
+    "time": "3:20",
+    "question": "How to check if the distance to the enemy is less than 10?",
+    "options": [
+      "hero.distanceTo(enemy) > 10",
+      "hero.distanceTo(enemy) === 10",
+      "hero.distanceTo(enemy) < 10",
+      "hero.distanceTo(enemy) <= 10"
+    ],
+    "answer": [2]
+  },{
     "type": "solution",
-    "time": "3:33",
+    "time": "3:20",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

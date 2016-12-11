@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Build your portfolio 07",
-  "duration": "7:32"
+  "title": "Quiz App 05",
+  "duration": "11:18"
 }
 ---
 
 ```js
-// @TODO: add portfolio hover animation
+// @TODO: adding a library for making the chart diagram
 ```

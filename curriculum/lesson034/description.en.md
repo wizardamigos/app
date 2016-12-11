@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Back to Back)",
-  "duration": "4:13"
+  "title": "Code Combat (Peasant Protection)",
+  "duration": "4:42"
 }
 ---
 
-More practice and fun with `if/else`
+Use comparators like `<` or `>` to check whether a number is bigger or smaller than another given one. Combine that with conditional actions.

@@ -1,25 +1,16 @@
 {
-  "video": "nocprmTtm9g",
+  "video": "BFG70sQE0mU",
   "slides": [{
     "type": "challenge",
-    "time": "1:27",
+    "time": "3:37",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/sarven-road",
-      "title": "Sarven Road"
+      "url": "https://codecombat.com/play/level/hoarding-gold",
+      "title": "Hoarding Gold"
     }
   },{
-    "type": "question",
-    "time": "4:12",
-    "question": "How to make hero move up in Code Combat?",
-    "options": [
-      "pos.y + 3",
-      "pos.y - 3"
-    ],
-    "answer": [0]
-  },{
     "type": "solution",
-    "time": "4:12",
+    "time": "7:03",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

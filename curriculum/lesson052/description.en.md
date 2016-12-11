@@ -1,8 +1,7 @@
 ---
 {
-  "title": "Code Combat (Multiplayer Treasure Grove)",
-  "duration": "10:27"
+  "title": "Code Combat (Oasis)",
+  "duration": "2:18"
 }
 ---
-
-Use flags to navigate your little warrior robot and write some code to make the robot react smartly when it sees your flags.
+Start learning about calculating relative positions and distances 

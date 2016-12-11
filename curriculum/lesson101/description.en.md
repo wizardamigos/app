@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat (The Spy Among Us)",
-  "duration": "2:56"
+  "title": "Code Combat (Cloudrip Brawl)",
+  "duration": "5:31"
 }
 ---
 
-Again, lets do some easy functions with parameters, so we can `call` them while writing our solution and pass the appropriate `arguments` to them.
+Finally, we do one LAST LEVEL of code combat.
+Lets do it one more time and then - if you feel like continuing - do it on your own - otherwise, after this level, we start building our first website.
 
-Again, if the words above are not clear - feel free to ask in the chat or google them and add them to your `gists` :-)
+Have fun and see you after this one when we start building a website.

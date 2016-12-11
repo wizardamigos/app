@@ -1,16 +1,16 @@
 {
-  "video": "rmJGR87O3DQ",
+  "video": "vPcxAyecdWE",
   "slides": [{
     "type": "challenge",
-    "time": "3:39",
+    "time": "2:28",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/rich-forager",
-      "title": "Rich Forager"
+      "url": "https://codecombat.com/play/level/the-mighty-sand-yak",
+      "title": "The Mighty Sand Yak"
     }
   },{
     "type": "solution",
-    "time": "6:55",
+    "time": "4:29",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

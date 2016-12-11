@@ -1,16 +1,25 @@
 {
-  "video": "Ibl7f4CG-_Y",
+  "video": "ibqoGE8dAMw",
   "slides": [{
     "type": "challenge",
-    "time": "1:29",
+    "time": "1:30",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/keeping-time",
-      "title": "Keeping Time"
+      "url": "https://codecombat.com/play/level/dust",
+      "title": "Dust"
     }
   },{
+    "type": "question",
+    "time": "3:33",
+    "question": "What happens when the number of attacks is 10 in this case: while (attacks < 10) { this.attack(enemy) }",
+    "options": [
+      "We attack the enemy",
+      "We stop attacking the enemy"
+    ],
+    "answer": [1]
+  },{
     "type": "solution",
-    "time": "3:51",
+    "time": "3:33",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

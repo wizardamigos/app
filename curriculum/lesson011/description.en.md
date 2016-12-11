@@ -1,12 +1,8 @@
 ---
 {
-  "title": "Code Combat (Gems in the deep, Shadow Guard, Forgetful Gemsmith)",
-  "duration": "6:33"
+  "title": "Special characters 2",
+  "duration": "2:26"
 }
 ---
 
-With help of amazing Code Combat game you will get to know first commands
-* `moveUp`
-* `moveDown`
-* `moveLeft`
-* `moveRight`
+You will learn even more special characters and at the end you will also be able to test your typing speed. We will also write a little `gist` for it and save it in your `bookmarks`

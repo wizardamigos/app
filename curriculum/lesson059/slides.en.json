@@ -1,27 +1,16 @@
 {
-  "video": "JDsQMfBCCR0",
+  "video": "Ibl7f4CG-_Y",
   "slides": [{
     "type": "challenge",
-    "time": "1:21",
+    "time": "1:29",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/basin-stampede",
-      "title": "Basin Stampede"
+      "url": "https://codecombat.com/play/level/keeping-time",
+      "title": "Keeping Time"
     }
   },{
-    "type": "question",
-    "time": "4:12",
-    "question": "How will the hero in this level move based on the statement this.pos.x + 5?",
-    "options": [
-      "Backward",
-      "Forward",
-      "Up",
-      "Down"
-    ],
-    "answer": [1]
-  },{
     "type": "solution",
-    "time": "4:12",
+    "time": "3:51",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

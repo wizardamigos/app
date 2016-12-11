@@ -1,16 +1,25 @@
 {
-  "video": "b86O5hn4ioQ",
+  "video": "0qI7If1P6WM",
   "slides": [{
+  "type": "question",
+  "time": "4:49",
+  "question": "JavaScript functions help us create parts of code we can use:",
+  "options": [
+    "only once",
+    "many times"
+],
+  "answer": [1]
+},{
     "type": "challenge",
-    "time": "1:18",
+    "time": "2:09",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/sand-snakes",
-      "title": "Sand Snakes"
+      "url": "https://codecombat.com/play/level/ogre-gorge-gouger",
+      "title": "Ogre Gorge Gouger"
     }
   },{
     "type": "solution",
-    "time": "4:47",
+    "time": "4:49",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

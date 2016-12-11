@@ -1,27 +1,16 @@
 {
-  "video": "4hpdyf3Pp-8",
+  "video": "oOYmnJkvt54",
   "slides": [{
-    "type": "question",
-    "time": "4:41",
-    "question": "What needs to be in the if condition in order for hero to attack the enemy within a distance of 10?",
-    "options": [
-      "(distance < 10)",
-      "(enemy)",
-      "(distance > 10)",
-      "(distance)"
-    ],
-    "answer": [0]
-  },{
     "type": "challenge",
-    "time": "2:18",
+    "time": "4:02",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/peasant-protection",
-      "title": "Peasant Protection"
+      "url": "https://codecombat.com/play/level/copper-meadows",
+      "title": "Copper Meadows"
     }
   },{
     "type": "solution",
-    "time": "4:41",
+    "time": "6:28",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

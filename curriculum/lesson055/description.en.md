@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Theory (nesting conditionals, indentation)",
-  "duration": "5:50"
+  "title": "Code Combat (Crossroads)",
+  "duration": "4:26"
 }
 ---
 
-Make some more notes about what you've learned
+Build some traps based on where enemies are coming from.

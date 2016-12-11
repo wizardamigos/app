@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Dust)",
-  "duration": "3:34"
+  "title": "Code Combat (Mad Maxer)",
+  "duration": "4:40"
 }
 ---
 
-Slay some ogres to practice your skills a bit more.
+Good luck

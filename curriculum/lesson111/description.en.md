@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Build your portfolio 04",
-  "duration": "15:44"
+  "title": "Quiz App 02",
+  "duration": "18:47"
 }
 ---
 
 ```js
-// @TODO: add some icons
+// @TODO: quiz part2
 ```

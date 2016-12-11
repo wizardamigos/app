@@ -1,19 +1,17 @@
 {
-  "video": "z9TSzhcJWgI",
-  "slides": [{
+  "video": "nBRH0xuIY0A",
+    "slides": [{
     "type": "question",
-    "time": "30:43",
-    "question": "What magic word do we type to be able to use a NPM module in our code and get access to all the functions in that certain library?",
+    "time": "7:31",
+    "question": "What is a DOM (document object model)?",
     "options": [
-      "publish",
-      "use",
-      "require",
-      "get"
-    ],
-    "answer": [2]
+      "HTML's live version in the browser",
+      "Another name for HTML"
+  ],
+    "answer": [0]
   },{
     "type": "solution",
-    "time": "30:43",
+    "time": "7:31",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

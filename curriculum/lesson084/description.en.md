@@ -1,10 +1,12 @@
 ---
 {
-  "title": "Code Combat (Mountain Mercenaries)",
-  "duration": "7:51"
+  "title": "Code Combat (Vital Powers)",
+  "duration": "6:06"
 }
 ---
 
-Practice some more and whenever you feel a situation requires similar code to the one you already wrote in the past, then hopefully you made a `gist` from that code in the past and you can now copy & paste it and adapt it to your new problem :-)
+**In this level we introduce `functions`**
 
-Go ahead and practice a bit more.
+Feel free to re-write some of your `code snippets` you might have saved as `gists` as `functions`, so you can copy and paste them from your `bookmarked gists` to solve future levels.
+
+If you take some time to really improve the functions you define a lot and think how you want to customize them, then re-using them in the future becomes more easy :-)

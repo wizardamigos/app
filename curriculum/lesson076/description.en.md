@@ -1,9 +1,9 @@
 ---
 {
-  "title": "Code Combat (Sand Snakes)",
-  "duration": "4:48"
+  "title": "Code Combat (Ogre Gorge Gouger)",
+  "duration": "4:50"
 }
 ---
 
-Collect coins, but take care of not hitting mines.
-Get your calculations right :-)
+All the re-usable code snippets that you save or in the past saved to your `gists` can become `functions`.
+We will practice a bit more and soon introduce how to turn your most common `code snippets` into `functions`

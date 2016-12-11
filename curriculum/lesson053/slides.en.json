@@ -1,25 +1,27 @@
 {
-  "video": "t92_cp8Ggww",
+  "video": "JDsQMfBCCR0",
   "slides": [{
     "type": "challenge",
-    "time": "2:41",
+    "time": "1:21",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/siege-of-stonehold",
-      "title": "Siege of Stonehold"
+      "url": "https://codecombat.com/play/level/basin-stampede",
+      "title": "Basin Stampede"
     }
   },{
     "type": "question",
-    "time": "8:54",
-    "question": "Which is the correct way of finding a position x of the coin in this level?",
+    "time": "4:12",
+    "question": "How will the hero in this level move based on the statement this.pos.x + 5?",
     "options": [
-      "var x = pos.x",
-      "var x = coin.pos.x"
+      "Backward",
+      "Forward",
+      "Up",
+      "Down"
     ],
     "answer": [1]
   },{
     "type": "solution",
-    "time": "8:54",
+    "time": "4:12",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

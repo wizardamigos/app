@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Theory (if/else/else if)",
-  "duration": "7:34"
+  "title": "Code Combat (Sarven Road)",
+  "duration": "4:12"
 }
 ---
 
-Make a new `gist` and write down you new knowledge about `conditionals` to `bookmark` it for later reference. You might wanna return to your gists in the future and improve them slowly whenever you learn something new that is related to the gist's topic.
+Practice relative movements for a bit more to get confident in calculating where to move next based on your robots situation and its relative position

@@ -1,17 +1,17 @@
 {
-  "video": "nBRH0xuIY0A",
+  "video": "jXBTclroR8M",
     "slides": [{
     "type": "question",
-    "time": "7:31",
-    "question": "What is a DOM (document object model)?",
+    "time": "11:17",
+    "question": "Which method do we use to 'send' information from app to the server (Firebase in our case)?",
     "options": [
-      "HTML's live version in the browser",
-      "Another name for HTML"
+      "get",
+      "post"
   ],
-    "answer": [0]
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "7:31",
+    "time": "11:17",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

@@ -1,9 +1,33 @@
 ---
 {
-  "title": "Code Combat (Zero Sum)",
-  "duration": "4:58"
+  "title": "Code Combat (The Geometry of Flowers)",
+  "duration": "9:41"
 }
 ---
 
-Lets check what you have learned :-)
-This time you have to face another human player to compete against. Try to use what you have practiced to solve this level. Good Luck.
+Every time you see yourself repeating certain lines of codes - that is a **strong indicator** to write a `function` and use it instead of repeating yourself.
+
+For example:
+```js
+var enemy = hero.findNearestEnemy();
+hero.attack(enemy);
+hero.attack(enemy);
+
+var enemy = hero.findNearestEnemy();
+hero.attack(enemy);
+hero.attack(enemy);
+```
+
+would instead be:
+
+```js
+// wrap your duplicated code in a function definition
+function seekAndDestroy () {
+  var enemy = hero.findNearestEnemy();
+  hero.attack(enemy);
+  hero.attack(enemy);
+}
+// replace your duplicated code with function calls
+seekAndDestroy();
+seekAndDestroy();
+```

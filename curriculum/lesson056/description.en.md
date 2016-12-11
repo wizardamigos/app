@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Theory (relational operators: and, or, not)",
-  "duration": "6:35"
+  "title": "Code Combat (Thunderhooves)",
+  "duration": "3:28"
 }
 ---
 
-Make another `gist` about relational `operators` and `bookmark` it for later lookup and improvement.
+Practice a bit more by protecting yourself from yaks

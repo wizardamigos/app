@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat (Siege of Stonehold)",
-  "duration": "8:55"
+  "title": "Code Combat (Basin Stampede)",
+  "duration": "4:13"
 }
 ---
 
-Practice some more and this time include some logic to build stuff too.
-So use everything you have learned until now and combine it to solve this level. Good luck.
+Dynamically figure out how to move based on your surrounding.
+Calculate the right distances and walking directions.
+It's all about `cartesian coordinates` where the lower left corner of the screen corresponds to x=0 and y=0.

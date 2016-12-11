@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Mind the Trap)",
-  "duration": "3:21"
+  "title": "Theory (nesting conditionals, indentation)",
+  "duration": "5:50"
 }
 ---
 
-Some more opportunity to practice coding and interact with your code when its being executed by using your mouse to plant flags :-)
+Make some more notes about what you've learned

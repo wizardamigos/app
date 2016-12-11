@@ -1,27 +1,25 @@
 {
-  "video": "MzIluFtW5jE",
+  "video": "pY5oR2fjQm4",
   "slides": [{
   "type": "question",
-  "time": "2:40",
-  "question": "How many times will a for-loop repeat if (var i = 0; i < 30, i++)",
+  "time": "6:12",
+  "question": "Did you share with other learners your code and what you drew in this lesson?",
   "options": [
-    "1x",
-    "29x",
-    "30x",
-    "0x"
+    "Yes",
+    "No"
 ],
-  "answer": [2]
+  "answer": [0]
 },{
     "type": "challenge",
-    "time": "0:43",
+    "time": "1:51",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/zoo-keeper",
-      "title": "Zoo Keeper"
+      "url": "https://codecombat.com/play/level/mountain-flower-grove",
+      "title": "Mountain Flower Grove"
     }
   },{
     "type": "solution",
-    "time": "2:40",
+    "time": "6:12",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

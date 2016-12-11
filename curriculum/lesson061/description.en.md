@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Crossroads)",
-  "duration": "4:26"
+  "title": "Code Combat (Decoy Drill)",
+  "duration": "5:55"
 }
 ---
 
-Build some traps based on where enemies are coming from.
+Practice and improve your skills by implementing battle logic for your robot

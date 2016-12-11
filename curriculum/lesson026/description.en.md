@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Theory (Strings, numbers, variables & loops)",
-  "duration": "4:57"
+  "title": "Code Combat (Patrol Buster)",
+  "duration": "3:25"
 }
 ---
 
-In this lesson you will repeat what we've learned about JavaScript so far. You will learn about number and string types, variables and loops and write a little `gist` for it and save it in your `bookmarks`
+Selectively choose targets using `if/else if/else` logic

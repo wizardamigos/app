@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Patrol Buster)",
-  "duration": "3:25"
+  "title": "Code Combat (Dueling Grounds)",
+  "duration": "5:47"
 }
 ---
 
-Selectively choose targets using `if/else if/else` logic
+Use everything you learned so far to write a little program, that wins matches against other human players who wrote their little programs to beat you :-)

@@ -1,34 +1,25 @@
 {
-  "video": "7UGTGbuN6J4",
+  "video": "C4jKvD5d5Zk",
   "slides": [{
     "type": "challenge",
-    "time": "2:44",
+    "time": "1:33",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/haunted-kithmaze",
-      "title": "Haunted Kithmaze"
+      "url": "https://codecombat.com/play/level/a-mayhem-of-munchkins",
+      "title": "A Mayhem of Munchkins"
     }
   },{
     "type": "question",
-    "time": "5:35",
-    "question": [
-      "In the written form of many languages, an indentation is empty spaces at the beginning of a line to signal the start of a 'new paragraph'. Many computer languages have adopted this technique to designate 'paragraphs' or other logical blocks in the program.",
-      "",
-      "// Example",
-      "while(true) {",
-      "  // this is the indented code",
-      "}",
-      "",
-      "So what is indentation?"
-    ],
+    "time": "3:24",
+    "question": "How do you attack an enemy twice?",
     "options": [
-      "Empty spaces at the beginning of a line",
-      "Empty spaces at the end of a line"
+      "2 * this.attack(enemy);",
+      "this.attack(enemy); this.attack(enemy);"
     ],
-    "answer": [0]
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "5:35",
+    "time": "3:24",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

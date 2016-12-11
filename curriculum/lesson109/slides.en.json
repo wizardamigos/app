@@ -1,16 +1,16 @@
 {
-  "video": "F_rA5h-9FZ0",
+  "video": "ORYyfevzr0c",
     "slides": [{
     "type": "question",
     "time": "7:34",
-    "question": "Which NPM modul helps us use CSS inside of our JavaScript code?",
+    "question": "How do we call a DOM method with which we append elements to existing DOM elements?",
     "options": [
-      "yo-yo",
-      "csjs-inject",
-      "minixhr",
-      "chart.js"
+      "appendChild",
+      "appendMom",
+      "appendDad",
+      "appendGrandma"
   ],
-    "answer": [1]
+    "answer": [0]
   },{
     "type": "solution",
     "time": "7:34",

@@ -1,27 +1,26 @@
 {
-  "video": "1eYx--1rMTk",
+  "video": "_uzkx_IJmc4",
   "slides": [{
     "type": "challenge",
-    "time": "1:33",
+    "time": "0:56",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/winding-trail",
-      "title": "Winding Trail"
+      "url": "https://codecombat.com/play/level/ogre-encampment",
+      "title": "Ogre Encampment"
     }
   },{
     "type": "question",
-    "time": "3:06",
-    "question": "Which letters do we use to mark coordinates?",
+    "time": "3:10",
+    "question": "When do we in this lesson attack the chest?",
     "options": [
-      "a,b",
-      "v,z",
-      "x,y",
-      "x,z"
+      "At the beginning of the game",
+      "When there is no emenies left",
+      "Whenever there is currently no enemy in sight"
     ],
     "answer": [2]
   },{
     "type": "solution",
-    "time": "3:06",
+    "time": "3:10",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

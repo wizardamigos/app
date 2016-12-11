@@ -1,48 +1,25 @@
 {
-  "video": "-1RdCdCr5HQ",
+  "video": "nyqvPy2xE3Y",
   "slides": [{
+  "type": "question",
+  "time": "7:49",
+  "question": "What is the equivalent of this.say('Hello') in JavaScript developer tools?",
+  "options": [
+    "console.log('Hello')",
+    "console.say('Hello')"
+],
+  "answer": [0]
+},{
     "type": "challenge",
-    "time": "2:50",
+    "time": "1:04",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/the-trials",
-      "title": "The Trials"
-    }
-  },{
-    "type": "challenge",
-    "time": "4:19",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/sarven-brawl",
-      "title": "Sarven Brawl"
-    }
-  },{
-    "type": "challenge",
-    "time": "6:29",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/backwoods-brawl",
-      "title": "Backwoods Brawl"
-    }
-  },{
-    "type": "challenge",
-    "time": "8:30",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/cavern-survival",
-      "title": "Cavern Survival"
-    }
-  },{
-    "type": "challenge",
-    "time": "10:29",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/kithgard-brawl",
-      "title": "Kithgard Brawl"
+      "url": "https://codecombat.com/play/level/mountain-mercenaries",
+      "title": "Mountain Mercenaries"
     }
   },{
     "type": "solution",
-    "time": "11:39",
+    "time": "7:49",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

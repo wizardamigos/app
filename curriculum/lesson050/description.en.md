@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Signal Corpse)",
-  "duration": "6:47"
+  "title": "Theory (relational operators: and, or, not)",
+  "duration": "6:35"
 }
 ---
 
-Start using multiple flag colors to send different signals to your little robot. Take the differently colored flags into account when writing the code.
+Make another `gist` about relational `operators` and `bookmark` it for later lookup and improvement.

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Signs and Portents)",
-  "duration": "5:00"
+  "title": "Code Combat (Winding Trail)",
+  "duration": "3:08"
 }
 ---
 
-Have fun with another little challenge.
+Learn some more JavaScript

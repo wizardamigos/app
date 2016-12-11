@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Kithgard Mastery)",
-  "duration": "8:17"
+  "title": "Code Combat (Gems or Death)",
+  "duration": "6:43"
 }
 ---
 
-Prepare for a challenging loop. You have to decide whether to attack, collect or talk.
+Some more fun with `if/else`

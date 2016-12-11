@@ -1,27 +1,38 @@
 {
-  "video": "djTnqsXfsRw",
+  "video": "7LbTJn7dCZQ",
   "slides": [{
     "type": "challenge",
-    "time": "1:44",
-    "text": "Challenge - solve the level and then come back and continue",
+    "time": "0:01",
+    "text": "Write down you knowledge about conditionals in a gist and bookmark it for later reference :-)",
     "link": {
-      "url": "https://codecombat.com/play/level/mind-the-trap",
-      "title": "Mind the Trap"
+      "url": "https://gist.github.com/",
+      "title": "Make gist and bookmark it"
     }
   },{
     "type": "question",
-    "time": "3:20",
-    "question": "How to check if the distance to the enemy is less than 10?",
+    "time": "5:49",
+    "question": "What are common amounts of indentation?",
     "options": [
-      "hero.distanceTo(enemy) > 10",
-      "hero.distanceTo(enemy) === 10",
-      "hero.distanceTo(enemy) < 10",
-      "hero.distanceTo(enemy) <= 10"
+      "4 spaces",
+      "2 spaces",
+      "1 tab",
+      "3 spaces"
     ],
-    "answer": [2]
+    "answer": [0,1,2]
+  },{
+    "type": "question",
+    "time": "5:49",
+    "question": "What is the standardjs amount of indentation?",
+    "options": [
+      "4 spaces",
+      "2 spaces",
+      "tabs",
+      "3 spaces"
+    ],
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "3:20",
+    "time": "5:49",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

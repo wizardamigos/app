@@ -1,12 +1,8 @@
 ---
 {
-  "title": "Code Combat (Danger Valley)",
-  "duration": "2:10"
+  "title": "Theory (modulo)",
+  "duration": "8:54"
 }
 ---
 
-Lets try to build a loop in a loop to refresh our knowledge a bit.
-
-The challenge is to wrap the body of the loop, thus the lines inside the loop in a function and use that function instead, so that your code becomes more readable.
-
-Its always possible to write code without functions, but using them heavily makes your code a lot easier to understand.
+Finally let's also make a `gist` for the `modulo` operator and `bookmark` it. If you already did that in the past - then now is the time to review it and maybe improve it :-)

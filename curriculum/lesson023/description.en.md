@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Kithgard Gates)",
-  "duration": "4:56"
+  "title": "Code Combat (Thumb Biter)",
+  "duration": "4:22"
 }
 ---
 
-Learn to `call` another `function` with multiple `arguments` called "buildXY"... yeah, just wait for it :-)
+Make your first steps using conditional syntax `if/else`

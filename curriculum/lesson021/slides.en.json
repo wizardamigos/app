@@ -1,25 +1,38 @@
 {
-  "video": "C4jKvD5d5Zk",
+  "video": "KCZbfETGUHs",
   "slides": [{
     "type": "challenge",
-    "time": "1:33",
-    "text": "Challenge - solve the level and then come back and continue",
+    "time": "0:02",
+    "text": "Learn to use Developer Tools (Console) and add what you learn in this lesson to your Javascript Cheatsheet Gist and bookmark it",
     "link": {
-      "url": "https://codecombat.com/play/level/a-mayhem-of-munchkins",
-      "title": "A Mayhem of Munchkins"
+      "url": "https://gist.github.com/",
+      "title": "Try out the console and add to your gist"
     }
   },{
     "type": "question",
-    "time": "3:24",
-    "question": "How do you attack an enemy twice?",
+    "time": "8:10",
+    "question": "What is the result of this concatenation 'Hello' + ', ' + 'Ana!' ?",
     "options": [
-      "2 * this.attack(enemy);",
-      "this.attack(enemy); this.attack(enemy);"
+      "Hello,Ana!",
+      "Hello , Ana!",
+      "'Hello' + ', ' + 'Ana!'",
+      "Hello, Ana!"
+    ],
+    "answer": [3]
+  },{
+    "type": "question",
+    "time": "8:10",
+    "question": "What is a result of 'esova' === 'esova'?",
+    "options": [
+      "esova",
+      "true",
+      "false",
+      "esovaesova"
     ],
     "answer": [1]
   },{
     "type": "solution",
-    "time": "3:24",
+    "time": "8:10",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

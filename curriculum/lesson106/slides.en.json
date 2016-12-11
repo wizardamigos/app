@@ -1,19 +1,17 @@
 {
-  "video": "Eg0y8pP7bxQ",
-  "slides": [{
+  "video": "HsvtL6iAAB8",
+    "slides": [{
     "type": "question",
-    "time": "8:53",
-    "question": "What is a result of 'counter % array.length' if var array = [123,45,66,2] and var counter = 0 (hint: you can use the console)",
+    "time": "10:46",
+    "question": "What CSS property do we use to modify the size of the fonts?",
     "options": [
-      "0",
-      "1",
-      "2",
-      "3"
-    ],
+      "font-size",
+      "letter-size"
+  ],
     "answer": [0]
   },{
     "type": "solution",
-    "time": "8:53",
+    "time": "10:46",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

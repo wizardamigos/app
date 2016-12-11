@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat (Continuous Alchemy)",
-  "duration": "5:19"
+  "title": "Code Combat (Sand Snakes)",
+  "duration": "4:48"
 }
 ---
 
-Lets practice some more :-)
+Collect coins, but take care of not hitting mines.
+Get your calculations right :-)

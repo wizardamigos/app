@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Gems or Death)",
-  "duration": "6:43"
+  "title": "Theory (conditionals & comparison operators)",
+  "duration": "14:09"
 }
 ---
 
-Some more fun with `if/else`
+Make a new `gist` to add a summary of the new knowledge to your `bookmarks`.

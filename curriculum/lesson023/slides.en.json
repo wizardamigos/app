@@ -1,28 +1,27 @@
 {
-  "video": "YtqcIj66wRI",
+  "video": "4U9kwKRtacE",
   "slides": [{
     "type": "challenge",
-    "time": "2:42",
+    "time": "0:31",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/kithgard-gates",
-      "title": "Kithgard Gates"
+      "url": "https://codecombat.com/play/level/thumb-biter",
+      "title": "Thumb Biter"
     }
   },{
     "type": "question",
-    "time": "4:55",
-    "question": "How do we create a new variable called enemy?",
+    "time": "4:21",
+    "question": "In which statements will our hero say 'Hey'?",
     "options": [
-      "v enemy = this.findNearestEnemy();",
-      "var enemy;",
-      "var enemy = this.findNearestEnemy();",
-      "enemy = this.findNearestEnemy();",
-      "variable enemy = this.findNearestEnemy();"
+      "if (2+2===4) { this.say('Hey'); }",
+      "if ((2+3)===5) { this.say('Hey'); }",
+      "if (2+2=4) { this.say('Hey'); }",
+      "if (2+3=4) { this.say('Hey'); }"
     ],
-    "answer": [1,2]
+    "answer": [0,1]
   },{
     "type": "solution",
-    "time": "4:55",
+    "time": "4:21",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

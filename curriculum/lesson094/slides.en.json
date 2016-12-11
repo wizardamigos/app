@@ -1,25 +1,27 @@
 {
-  "video": "RYqSfqfdbSo",
-  "slides": [{
-  "type": "question",
-  "time": "7:05",
-  "question": "What do we pass in the functions that include params when we make a function call ()",
-  "options": [
-    "An argument",
-    "A variable"
-],
-  "answer": [0]
-},{
+  "video": "7WKeLcoKKFY",
+    "slides": [{
+    "type": "question",
+    "time": "3:53",
+    "question": "How to check if tile equals 1?",
+    "options": [
+      "tile = 1",
+      "tile = 1?",
+      "tile != 1",
+      "tile === 1"
+  ],
+    "answer": [3]
+  },{
     "type": "challenge",
-    "time": "0:44",
+    "time": "0:32",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/hunters-and-prey",
-      "title": "Hunters and Prey"
+      "url": "https://codecombat.com/play/level/danger-valley",
+      "title": "Danger Valley"
     }
   },{
     "type": "solution",
-    "time": "7:05",
+    "time": "2:09",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

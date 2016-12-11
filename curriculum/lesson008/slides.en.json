@@ -1,0 +1,26 @@
+{
+  "video": "i3OvrsNhNXo",
+  "slides": [{
+    "type": "challenge",
+    "time": "1:36",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/loop-da-loop",
+      "title": "Loop Da Loop"
+    }
+  },{
+    "type": "question",
+    "time": "3:56",
+    "question": "What type of special characters are used in a while(true) loop that is used to wrap the part of the code that repeats itself?",
+    "options": [
+      "curly braces - {}",
+      "square brackets - []"
+    ],
+    "answer": [0]
+  },{
+    "type": "solution",
+    "time": "3:56",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
+}

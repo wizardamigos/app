@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Medical Attention)",
-  "duration": "5:11"
+  "title": "Code Combat (Desert Combat)",
+  "duration": "6:36"
 }
 ---
 
-And some more practice :-)
+Do not use an infinite loop this time, but rather repeat it for a while and then do something else.

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Decoy Drill)",
-  "duration": "5:55"
+  "title": "Code Combat (Lurkers)",
+  "duration": "5:02"
 }
 ---
 
-Practice and improve your skills by implementing battle logic for your robot
+Practice moooaaaar :-D

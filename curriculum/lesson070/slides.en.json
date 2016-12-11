@@ -1,26 +1,16 @@
 {
-  "video": "EDHy51UzfIE",
+  "video": "b86O5hn4ioQ",
   "slides": [{
     "type": "challenge",
-    "time": "3:00",
+    "time": "1:18",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/continuous-alchemy",
-      "title": "Continuous Alchemy"
+      "url": "https://codecombat.com/play/level/sand-snakes",
+      "title": "Sand Snakes"
     }
   },{
-    "type": "question",
-    "time": "5:18",
-    "question": "What happens when we run 'continue'?",
-    "options": [
-      "Loop repeats where it currently is",
-      "We stop the loop and move on",
-      "The remaining lines inside the current loop are skipped and the loop continous the next iteration immediately"
-    ],
-    "answer": [2]
-  },{
     "type": "solution",
-    "time": "5:18",
+    "time": "4:47",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

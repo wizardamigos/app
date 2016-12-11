@@ -1,16 +1,27 @@
 {
-  "video": "3jRD4YM-37s",
+  "video": "sG3ynl4YoQ8",
   "slides": [{
+  "type": "question",
+  "time": "3:35",
+  "question": "In this level we can only command:",
+  "options": [
+    "marines",
+    "archers",
+    "soldiers",
+    "snipers"
+],
+  "answer": [1,2]
+},{
     "type": "challenge",
-    "time": "0:39",
+    "time": "2:16",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/mad-maxer",
-      "title": "Mad Maxer"
+      "url": "https://codecombat.com/play/level/cloudrip-commander",
+      "title": "Cloudrip Commander"
     }
   },{
     "type": "solution",
-    "time": "4:39",
+    "time": "3:35",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

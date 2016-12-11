@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat (Hold the Forest Pass)",
-  "duration": "7:56"
+  "title": "Code Combat (Siege of Stonehold)",
+  "duration": "8:55"
 }
 ---
 
-Some more code with flags
+Practice some more and this time include some logic to build stuff too.
+So use everything you have learned until now and combine it to solve this level. Good luck.

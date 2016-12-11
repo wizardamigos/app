@@ -1,33 +1,39 @@
 {
-  "video": "JMf2-F_0Q4M",
+  "video": "fh9kHkjfUvU",
   "slides": [{
     "type": "challenge",
-    "time": "0:51",
+    "time": "1:27",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/kithgard-librarian",
-      "title": "Kithgard Librarian"
+      "url": "https://codecombat.com/play/level/known-enemy",
+      "title": "Known Enemy"
     }
   },{
     "type": "challenge",
-    "time": "2:43",
+    "time": "4:53",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/fire-dancing",
-      "title": "Fire Dancing"
+      "url": "https://codecombat.com/play/level/master-of-names",
+      "title": "Master of Names"
     }
   },{
     "type": "question",
-    "time": "4:21",
-    "question": "What is a while(true) loop?",
-    "options": [
-      "It's a special command that makes the code repeat over and over again",
-      "It's a name of an Ogre we have to attack"
-    ],
+    "time": "6:31",
+    "question":
+      [
+      "Can you use b) instead of a)?",
+      " a) hero.attack('Kratt');",
+      " b) var enemy = 'Kratt';",
+      "    hero.attack(enemy);"
+      ],
+      "options": [
+        "Yes, in example a) we use name the name 'Kratt' directly and in example b) we create a variable and assign 'Kratt' to it.",
+        "No, the second one would attack a character with the name 'enemy'"
+      ],
     "answer": [0]
   },{
     "type": "solution",
-    "time": "4:21",
+    "time": "6:31",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

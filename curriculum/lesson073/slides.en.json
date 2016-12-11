@@ -1,25 +1,25 @@
 {
-  "video": "0kxtjmFaZGI",
+  "video": "7FJNLSE7--s",
   "slides": [{
     "type": "challenge",
-    "time": "1:29",
+    "time": "2:46",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/lurkers",
-      "title": "Lurkers"
+      "url": "https://codecombat.com/play/level/dueling-grounds",
+      "title": "Dueling Grounds"
     }
   },{
-    "type": "question",
-    "time": "5:01",
-    "question": "How do we in this level check if the enemy is a shaman?",
-    "options": [
-      "enemy.type = 'shaman'",
-      "enemy.type === 'shaman'"
-    ],
-    "answer": [1]
+  "slides": [{
+    "type": "challenge",
+    "time": "4:35",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/clash-of-clones",
+      "title": "Clash of Clones"
+    }
   },{
     "type": "solution",
-    "time": "5:01",
+    "time": "6:24",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

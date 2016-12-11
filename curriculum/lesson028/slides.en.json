@@ -1,27 +1,27 @@
 {
-  "video": "CiRZ6Ir_6fs",
+  "video": "4h_WTQh-GW0",
   "slides": [{
     "type": "challenge",
-    "time": "3:06",
+    "time": "1:46",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/defense-of-plainswood",
-      "title": "Defense of Plainswood"
+      "url": "https://codecombat.com/play/level/back-to-back",
+      "title": "Back to Back"
     }
   },{
     "type": "question",
-    "time": "4:00",
-    "question": "Which arguments do we use in the buildXY function if we want to build a fence?",
+    "time": "4:12",
+    "question": "In which example will our hero say 'I don’t see an enemy'? when there is no enemy",
     "options": [
-      "fence, x coordinate and y coordinate - this.buildXY('fence', 34, 44)",
-      "just x and y coordinates - this.buildXY(34, 44)",
-      "just fence - this.buildXY('fence')",
-      "Nothing - this.buildXY()"
+      "if (enemy) { this.attack(enemy); }",
+      "if (enemy) { this.say('I don’t see an enemy'); }",
+      "if (enemy) { this.attack(enemy); } else { this.say('I don’t see an enemy'); }",
+      "if (enemy) { this.attack(enemy); } else { this.moveXY(x,y); }"
     ],
-    "answer": [0]
+    "answer": [2]
   },{
     "type": "solution",
-    "time": "4:00",
+    "time": "4:12",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

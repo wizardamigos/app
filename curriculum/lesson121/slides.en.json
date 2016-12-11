@@ -1,19 +1,19 @@
 {
-  "video": "iQVEEIgGJR0",
-    "slides": [{
+  "video": "szw-xfM303Y",
+  "slides": [{
     "type": "question",
-    "time": "6:57",
-    "question": "Which html element does Chart.js use to display the chart?",
+    "time": "4:06",
+    "question": "What terminal command do we use to check what is our current directory?",
     "options": [
-      "Paper",
-      "Canvas",
-      "Animation",
-      "Brush"
-  ],
+      "cd (change directory)",
+      "pwd (print working directory)",
+      "ls (list)",
+      "open . (open this document)"
+    ],
     "answer": [1]
   },{
     "type": "solution",
-    "time": "14:37",
+    "time": "4:06",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

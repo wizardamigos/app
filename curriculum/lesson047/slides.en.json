@@ -1,28 +1,25 @@
 {
-  "video": "4jPvPQbCJiU",
+  "video": "t92_cp8Ggww",
   "slides": [{
     "type": "challenge",
-    "time": "5:16",
+    "time": "2:41",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/hold-the-forest-pass",
-      "title": "Hold the Forest Pass"
+      "url": "https://codecombat.com/play/level/siege-of-stonehold",
+      "title": "Siege of Stonehold"
     }
   },{
     "type": "question",
-    "time": "7:55",
-    "question": "First question",
-    "question": "How can we check the distance from our position to the flag?",
+    "time": "8:54",
+    "question": "Which is the correct way of finding a position x of the coin in this level?",
     "options": [
-      "var distance = this.pos - flag.pos",
-      "var distance = flag.pos - this.pos",
-      "var distance = hero.distanceTo(flag)",
-      "var distance = this.flag.pos"
+      "var x = pos.x",
+      "var x = coin.pos.x"
     ],
-    "answer": [2]
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "7:55",
+    "time": "8:54",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

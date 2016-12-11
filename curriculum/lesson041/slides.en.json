@@ -1,27 +1,28 @@
 {
-  "video": "ar2GXxJyE3k",
+  "video": "4jPvPQbCJiU",
   "slides": [{
     "type": "challenge",
-    "time": "4:14",
+    "time": "5:16",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/forest-fire-dancing",
-      "title": "Forest Fire Dancing"
+      "url": "https://codecombat.com/play/level/hold-the-forest-pass",
+      "title": "Hold the Forest Pass"
     }
   },{
     "type": "question",
-    "time": "6:55",
-    "question": "Which command do we use to find out position of the evil stone?",
+    "time": "7:55",
+    "question": "First question",
+    "question": "How can we check the distance from our position to the flag?",
     "options": [
-      "hero.nearestEnemy()",
-      "hero.nearestItem()",
-      "hero.theEnemy()",
-      "hero.theItem()"
+      "var distance = this.pos - flag.pos",
+      "var distance = flag.pos - this.pos",
+      "var distance = hero.distanceTo(flag)",
+      "var distance = this.flag.pos"
     ],
-    "answer": [1]
+    "answer": [2]
   },{
     "type": "solution",
-    "time": "6:55",
+    "time": "7:55",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

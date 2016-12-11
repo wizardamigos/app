@@ -1,27 +1,25 @@
 {
-  "video": "5ijW9esxrEc",
+  "video": "JbqZnn87Psg",
   "slides": [{
   "type": "question",
-  "time": "4:41",
-  "question": "In this lesson we get the bonus if:",
+  "time": "4:50",
+  "question": "How many parameters does the function attackEnemy have: function attackEnemy (enemy) { attack(enemy) }",
   "options": [
-    "we destroy 20 ogres",
-    "all our troops survive",
-    "we find 30 enemies",
-    "we collect 100 coins"
+    "None",
+    "One"
 ],
   "answer": [1]
 },{
     "type": "challenge",
-    "time": "1:04",
+    "time": "0:42",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/hunting-party",
-      "title": "Hunting Party"
+      "url": "https://codecombat.com/play/level/library-tactician",
+      "title": "Library Tactician"
     }
   },{
     "type": "solution",
-    "time": "4:41",
+    "time": "4:50",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

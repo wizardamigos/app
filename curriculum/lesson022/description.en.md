@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (The final Kithmaze)",
-  "duration": "6:17"
+  "title": "Code Combat (Defense of Plainswood)",
+  "duration": "4:01"
 }
 ---
 
-With help of this game you will learn to combine loops and variables.
+Welcome to Backwoods Forest. Here you will learn about `conditionals (if/else)`, `operators`, `object properties` & input handling.

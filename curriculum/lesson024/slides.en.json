@@ -1,25 +1,28 @@
 {
-  "video": "-TblQ4QbZvk",
+  "video": "eNB3pmUr1jk",
   "slides": [{
     "type": "challenge",
-    "time": "2:20",
+    "time": "2:47",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/kithgard-mastery",
-      "title": "Kithgard Mastery"
+      "url": "https://codecombat.com/play/level/gems-or-death",
+      "title": "Gems or Death"
     }
   },{
     "type": "question",
-    "time": "8:16",
-    "question": "Which variable name would be good to store the number of collected gems?",
-    "options": [
-      "var enemy;",
-      "var count;"
-    ],
-    "answer": [1]
+    "time": "6:42",
+    "question": "Which of the examples represents a conditional statement?",
+       "options": [
+         "while (true) { } else { }",
+         "if (true) { } then { }",
+         "else if (true) { } if (false) { }",
+         "if (true) { } else if (true) { } else { }",
+         "if (true) { } else { }"
+       ],
+       "answer": [3,4]
   },{
     "type": "solution",
-    "time": "8:16",
+    "time": "6:42",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

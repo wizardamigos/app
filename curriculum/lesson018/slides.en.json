@@ -1,27 +1,25 @@
 {
-  "video": "dYL1LZ2pacM",
+  "video": "-TblQ4QbZvk",
   "slides": [{
     "type": "challenge",
-    "time": "1:08",
+    "time": "2:20",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/dread-door",
-      "title": "Dread Door"
+      "url": "https://codecombat.com/play/level/kithgard-mastery",
+      "title": "Kithgard Mastery"
     }
   },{
     "type": "question",
-    "time": "2:02",
-    "question": "What is the name of the method we use to destroy the door in this level?",
+    "time": "8:16",
+    "question": "Which variable name would be good to store the number of collected gems?",
     "options": [
-      "attack",
-      "destroy",
-      "explode",
-      "remove"
+      "var enemy;",
+      "var count;"
     ],
-    "answer": [0]
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "2:02",
+    "time": "8:16",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

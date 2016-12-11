@@ -1,25 +1,25 @@
 {
-  "video": "VUoknsgUX-w",
+  "video": "_VrQ9vxTCjM",
   "slides": [{
   "type": "question",
-  "time": "4:57",
-  "question": "What does friends.length give us?",
+  "time": "9:40",
+  "question": "What are the parameters in this function: function (x,y) { if (flag) { this.moveXY(x,y) } }?",
   "options": [
-    "Number of elements in the friends array",
-    "Number of attributes in the friends method"
+    "x and y",
+    "x, y and flag"
 ],
   "answer": [0]
 },{
     "type": "challenge",
-    "time": "0:58",
+    "time": "2:24",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/zero-sum",
-      "title": "Zero Sum"
+      "url": "https://codecombat.com/play/level/the-geometry-of-flowers",
+      "title": "The Geometry of Flowers"
     }
   },{
     "type": "solution",
-    "time": "4:57",
+    "time": "9:40",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

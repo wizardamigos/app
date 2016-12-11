@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Quiz App 02",
-  "duration": "18:47"
+  "title": "Quiz App 08",
+  "duration": "19:47"
 }
 ---
 
 ```js
-// @TODO: quiz part2
+// @TODO: some basics about the command line interface
 ```

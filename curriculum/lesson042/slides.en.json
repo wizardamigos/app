@@ -1,25 +1,26 @@
 {
-  "video": "gH7s1CKY9hI",
+  "video": "ttHRLa830c8",
   "slides": [{
     "type": "challenge",
-    "time": "1:53",
+    "time": "1:26",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/stillness-in-motion",
-      "title": "Stillness in Motion"
+      "url": "https://codecombat.com/play/level/drop-the-flag",
+      "title": "Drop the Flag"
     }
   },{
     "type": "question",
-    "time": "7:02",
-    "question": "What do we have to take care of when writing an if statement inside of another if statement?",
+    "time": "4:13",
+    "question": "How do we define a variable x for a postion of the flag??",
     "options": [
-      "About the indentation (usually 2 additional spaces for each more level of nesting)",
-      "Nothing special"
+      "var flagX = flag.pos.x",
+      "var flagX = flag.x",
+      "var flagX = flag.pos"
     ],
     "answer": [0]
   },{
     "type": "solution",
-    "time": "7:02",
+    "time": "4:13",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

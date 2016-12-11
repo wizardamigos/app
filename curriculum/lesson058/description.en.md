@@ -1,7 +1,8 @@
 ---
 {
-  "title": "Code Combat (Oasis)",
-  "duration": "2:18"
+  "title": "Code Combat (Sarven Sentry)",
+  "duration": "6:13"
 }
 ---
-Start learning about calculating relative positions and distances 
+
+Now lets again involve differently colored flags to spice it up.

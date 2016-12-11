@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Quiz App 01",
-  "duration": "9:04"
+  "title": "Quiz App 07",
+  "duration": "11:41"
 }
 ---
 
 ```js
-// @TODO: quiz part1
+// @TODO: setting up a regular dev environment
 ```

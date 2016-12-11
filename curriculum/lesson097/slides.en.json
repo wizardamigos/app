@@ -1,26 +1,20 @@
 {
-  "video": "5YL8mvkgUyo",
-    "slides": [{
+  "video": "ebYy_T_Hucg",
+  "slides": [{
     "type": "question",
-    "time": "4:06",
-    "question": "What can we use the modulo for?",
+    "time": "21:08",
+    "question": "What will we get if we run console.log(add(15,6) in this example - function add (x,y) { return x+y }",
     "options": [
-      "To delete the array",
-      "To loop through the array"
-  ],
-    "answer": [1]
-  },{
-    "type": "challenge",
-    "time": "0:43",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/mixed-unit-tactics",
-      "title": "Mixed Unit Tactics"
-    }
+      "21",
+      "9",
+      "15",
+      "6"
+    ],
+    "answer": [0]
   },{
     "type": "solution",
-    "time": "4:06",
-    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "time": "21:08",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

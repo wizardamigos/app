@@ -1,19 +1,19 @@
 {
-  "video": "QVUSi_AOKkQ",
+  "video": "XGLiFUy3k18",
     "slides": [{
     "type": "question",
-    "time": "15:43",
-    "question": "How do we use the variable var GREY = 'hsla(30,100%,99%,1)' in html?",
+    "time": "18:46",
+    "question": "What do we use miniXHR for?",
     "options": [
-      "@{GREY}",
-      "${GREY}",
-      "%{GREY}",
-      "!{GREY}"
+      "to get data",
+      "to show data",
+      "to delete data",
+      "to send data"
   ],
-    "answer": [1]
+    "answer": [0,3]
   },{
     "type": "solution",
-    "time": "15:43",
+    "time": "18:46",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

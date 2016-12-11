@@ -1,0 +1,25 @@
+{
+  "video": "TePE94ARdf4",
+  "slides": [{
+    "type": "challenge",
+    "time": "0:42",
+    "text": "Create a Code Combat account. Click Create account and then choose Signup as INDIVIDUAL.",
+    "link": {
+      "url": "http://codecombat.com",
+      "title": "Join Code Combat"
+    }
+  },{
+    "type": "challenge",
+    "time": "5:34",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/dungeons-of-kithgard",
+      "title": "Dungeons of Kithgard"
+    }
+  },{
+    "type": "solution",
+    "time": "7:09",
+    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "button": "Complete the lesson"
+  }]
+}

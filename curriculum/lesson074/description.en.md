@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Sarven Shepherd)",
-  "duration": "4:01"
+  "title": "Theory (arrays)",
+  "duration": "15:17"
 }
 ---
 
-Even moooaaaaar learning... yay :-)
+Make another `gist` about `arrays` and `bookmark` it next to your other bookmarks.

@@ -1,19 +1,16 @@
 {
-  "video": "jKkDa_4GUUI",
+  "video": "N3hU-5MTLXI",
   "slides": [{
-    "type": "question",
-    "time": "14:08",
-    "question": "Which statement will return 'true'?",
-    "options": [
-      "5 !== 5",
-      "6 < 7",
-      "x = 2; x > 15",
-      "y = 7; y === 'seven'"
-    ],
-    "answer": [1]
+    "type": "challenge",
+    "time": "1:30",
+    "text": "Challenge - solve the level and then come back and continue",
+    "link": {
+      "url": "https://codecombat.com/play/level/the-agrippa-defense",
+      "title": "The Agrippa Defense"
+    }
   },{
     "type": "solution",
-    "time": "14:08",
+    "time": "3:33",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

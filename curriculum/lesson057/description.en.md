@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (The Mighty Sand Yak)",
-  "duration": "4:30"
+  "title": "Code Combat (Medical Attention)",
+  "duration": "5:11"
 }
 ---
 
-From now on, start learning about `arithmetic`, `counters`, `while-loops`,  `break`, `arrays`, `string comparison` and finding `min/max` numbers.
+And some more practice :-)

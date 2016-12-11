@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat (Cloudrip Siege)",
-  "duration": "9:22"
+  "title": "Build your portfolio 01",
+  "duration": "30:44"
 }
 ---
 
-This level is actually one that can be played over and over again and becomes harder every time.
-If you want to practice some more, go for it :-)
+```js
+// @TODO: part1
+```

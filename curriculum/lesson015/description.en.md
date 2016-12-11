@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Haunted Kithmaze)",
-  "duration": "5:36"
+  "title": "Code Combat (A Mayhem of Munchkins)",
+  "duration": "3:25"
 }
 ---
 
-With help of the game you will learn more about while(true) syntax.
+With help of amazing Code Combat game you will learn to attack twice.

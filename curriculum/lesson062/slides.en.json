@@ -1,16 +1,16 @@
 {
-  "video": "Xn2_6YHBoQA",
+  "video": "iGRaub_7XHU",
   "slides": [{
     "type": "challenge",
-    "time": "1:19",
+    "time": "1:21",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/thunderhooves",
-      "title": "Thunderhooves"
+      "url": "https://codecombat.com/play/level/bookkeeper",
+      "title": "Bookkeeper"
     }
   },{
     "type": "solution",
-    "time": "3:27",
+    "time": "7:01",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

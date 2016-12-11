@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Peasant Protection)",
-  "duration": "4:42"
+  "title": "Code Combat (Copper Meadows)",
+  "duration": "6:29"
 }
 ---
 
-Use comparators like `<` or `>` to check whether a number is bigger or smaller than another given one. Combine that with conditional actions.
+Lets get started with writing some code that uses flags.

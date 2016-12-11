@@ -1,25 +1,27 @@
 {
-  "video": "pY5oR2fjQm4",
-  "slides": [{
-  "type": "question",
-  "time": "6:12",
-  "question": "Did you share with other learners your code and what you drew in this lesson?",
-  "options": [
-    "Yes",
-    "No"
-],
-  "answer": [0]
-},{
+  "video": "R6x7Azlk7IE",
+    "slides": [{
+    "type": "question",
+    "time": "3:53",
+    "question": "What do we write to get back the value from the function?",
+    "options": [
+      "print",
+      "give",
+      "return",
+      "value"
+  ],
+    "answer": [2]
+  },{
     "type": "challenge",
-    "time": "1:51",
+    "time": "1:36",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/mountain-flower-grove",
-      "title": "Mountain Flower Grove"
+      "url": "https://codecombat.com/play/level/toil-and-trouble",
+      "title": "Toil and Trouble"
     }
   },{
     "type": "solution",
-    "time": "6:12",
+    "time": "3:53",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Quiz App 09",
-  "duration": "20:48"
+  "title": "Mobile iOS App 06",
+  "duration": "5:40"
 }
 ---
 
 ```js
-// @TODO: put your code on github
+// @TODO: put your app into the app store
 ```

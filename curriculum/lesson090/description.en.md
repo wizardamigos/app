@@ -1,12 +1,12 @@
 ---
 {
-  "title": "Code Combat (Vital Powers)",
-  "duration": "6:06"
+  "title": "Code Combat (Steelclaw Gap)",
+  "duration": "6:21"
 }
 ---
 
-**In this level we introduce `functions`**
+In this lesson you learn a new operator called `modulo`, which gives you the `"remainder"` when you divide numbers.
 
-Feel free to re-write some of your `code snippets` you might have saved as `gists` as `functions`, so you can copy and paste them from your `bookmarked gists` to solve future levels.
+`95` divided by `10` is `9` rest `5`.  
 
-If you take some time to really improve the functions you define a lot and think how you want to customize them, then re-using them in the future becomes more easy :-)
+So  `95` **modulo** `10` would be **`5`**

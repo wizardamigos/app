@@ -1,16 +1,26 @@
 {
-  "video": "l431dM5Pv1E",
+  "video": "EDHy51UzfIE",
   "slides": [{
     "type": "challenge",
-    "time": "1:45",
+    "time": "3:00",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/sarven-sentry",
-      "title": "Sarven Sentry"
+      "url": "https://codecombat.com/play/level/continuous-alchemy",
+      "title": "Continuous Alchemy"
     }
   },{
+    "type": "question",
+    "time": "5:18",
+    "question": "What happens when we run 'continue'?",
+    "options": [
+      "Loop repeats where it currently is",
+      "We stop the loop and move on",
+      "The remaining lines inside the current loop are skipped and the loop continous the next iteration immediately"
+    ],
+    "answer": [2]
+  },{
     "type": "solution",
-    "time": "6:12",
+    "time": "5:18",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

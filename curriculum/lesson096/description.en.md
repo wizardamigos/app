@@ -1,12 +1,9 @@
 ---
 {
-  "title": "Code Combat (Steelclaw Gap)",
-  "duration": "6:21"
+  "title": "Code Combat (Cloudrip Siege)",
+  "duration": "9:22"
 }
 ---
 
-In this lesson you learn a new operator called `modulo`, which gives you the `"remainder"` when you divide numbers.
-
-`95` divided by `10` is `9` rest `5`.  
-
-So  `95` **modulo** `10` would be **`5`**
+This level is actually one that can be played over and over again and becomes harder every time.
+If you want to practice some more, go for it :-)

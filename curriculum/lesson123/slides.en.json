@@ -1,17 +1,17 @@
 {
-  "video": "yQ-9pxjDOvY",
+  "video": "UFCubUL9OOw",
   "slides": [{
     "type": "question",
-    "time": "19:46",
-    "question": "What is another name for a command line tool, an interface to the underlying operating system via a shell, usually bash",
+    "time": "5:40",
+    "question": "Is it free to enroll Apple Developer Program?",
     "options": [
-      "System",
-      "Terminal"
+      "No, you have to pay a yearly membership fee ($99 in 2016)",
+      "Yes it's free"
     ],
-    "answer": [1]
+    "answer": [0]
   },{
     "type": "solution",
-    "time": "19:46",
+    "time": "5:40",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

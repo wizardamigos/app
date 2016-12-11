@@ -1,27 +1,27 @@
 {
-  "video": "xeORWeNZPVY",
-  "slides": [{
-  "type": "question",
-  "time": "6:05",
-  "question": "What can be a replacement for i++?",
-  "options": [
-    "i+1+1+1+1...",
-    "i-1-1-1-1...",
-    "i+=1",
-    "i-=1"
-],
-  "answer": [0,2]
-},{
+  "video": "ZgybwhNh-XE",
+    "slides": [{
+    "type": "question",
+    "time": "6:20",
+    "question": "What 6 modulo 4 (6 % 4)",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "6"
+  ],
+    "answer": [2]
+  },{
     "type": "challenge",
-    "time": "1:11",
+    "time": "2:05",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/vital-powers",
-      "title": "Vital Powers"
+      "url": "https://codecombat.com/play/level/steelclaw-gap",
+      "title": "Steelclaw Gap"
     }
   },{
     "type": "solution",
-    "time": "6:05",
+    "time": "6:20",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

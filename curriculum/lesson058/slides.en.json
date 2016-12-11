@@ -1,25 +1,16 @@
 {
-  "video": "Y5NI1L7mpMw",
+  "video": "l431dM5Pv1E",
   "slides": [{
     "type": "challenge",
-    "time": "1:22",
+    "time": "1:45",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/oasis",
-      "title": "Oasis"
+      "url": "https://codecombat.com/play/level/sarven-sentry",
+      "title": "Sarven Sentry"
     }
   },{
-    "type": "question",
-    "time": "2:17",
-    "question": "Which command enables our hero to move back in this level?",
-    "options": [
-      "moveXY(x+10,y)",
-      "moveXY(x-10,y)"
-    ],
-    "answer": [1]
-  },{
     "type": "solution",
-    "time": "2:17",
+    "time": "6:12",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

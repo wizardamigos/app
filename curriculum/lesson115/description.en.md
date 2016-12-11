@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Build your portfolio 08",
-  "duration": "7:35"
+  "title": "Quiz App 06",
+  "duration": "14:38"
 }
 ---
 
 ```js
-// @TODO: open new tab
+// @TODO: calculating averages for the chart
 ```

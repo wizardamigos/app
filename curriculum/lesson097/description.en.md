@@ -1,10 +1,9 @@
 ---
 {
-  "title": "Code Combat (Mixed Unit Tactics)",
-  "duration": "4:07"
+  "title": "Theory (functions)",
+  "duration": "21:09"
 }
 ---
 
-Practice a bit more and use the `modulo` operator to indefinitely loop through your array.
-
-This is a very common use case for the `modulo` operator
+Let's wrap up the theory about `functions` and make a `gist` from it and add it to your `bookmarks`.
+You might soon need it for reference when you build your first website.

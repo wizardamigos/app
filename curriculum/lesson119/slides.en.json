@@ -1,19 +1,19 @@
 {
-  "video": "9G4zMumoVMQ",
-    "slides": [{
+  "video": "m6XeNYAaBu0",
+  "slides": [{
     "type": "question",
-    "time": "5:05",
-    "question": "Finish the function to reduce the value of i for 1: if (i>0) ",
+    "time": "6:52",
+    "question": "What is the command that enables us to run the app in Phonegap (to be able to access it on our phone)",
     "options": [
-      "{}",
-      "{ i = i + 1 }",
-      "{ i = i - 1 }",
-      "{ i = i }"
-  ],
-    "answer": [2]
+      "phonegap play",
+      "phonegap serve",
+      "phonegap phone",
+      "phonegap create"
+    ],
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "5:05",
+    "time": "6:52",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

@@ -1,16 +1,16 @@
 {
-  "video": "1CCiDMHEB2Q",
+  "video": "39_rBqrtal0",
   "slides": [{
     "type": "challenge",
-    "time": "1:37",
+    "time": "5:46",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/patrol-buster",
-      "title": "Patrol Buster"
+      "url": "https://codecombat.com/play/level/dueling-grounds",
+      "title": "Dueling Grounds"
     }
   },{
     "type": "solution",
-    "time": "3:24",
+    "time": "5:46",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

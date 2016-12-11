@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Copper Meadows)",
-  "duration": "6:29"
+  "title": "Code Combat (Multiplayer Treasure Grove)",
+  "duration": "10:27"
 }
 ---
 
-Lets get started with writing some code that uses flags.
+Use flags to navigate your little warrior robot and write some code to make the robot react smartly when it sees your flags.

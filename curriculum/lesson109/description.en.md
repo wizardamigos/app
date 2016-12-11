@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Build your portfolio 02",
+  "title": "Build your portfolio 08",
   "duration": "7:35"
 }
 ---
 
 ```js
-// @TODO: part2
+// @TODO: open new tab
 ```

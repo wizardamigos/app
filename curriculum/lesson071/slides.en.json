@@ -1,25 +1,16 @@
 {
-  "video": "ibqoGE8dAMw",
+  "video": "3jRD4YM-37s",
   "slides": [{
     "type": "challenge",
-    "time": "1:30",
+    "time": "0:39",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/dust",
-      "title": "Dust"
+      "url": "https://codecombat.com/play/level/mad-maxer",
+      "title": "Mad Maxer"
     }
   },{
-    "type": "question",
-    "time": "3:33",
-    "question": "What happens when the number of attacks is 10 in this case: while (attacks < 10) { this.attack(enemy) }",
-    "options": [
-      "We attack the enemy",
-      "We stop attacking the enemy"
-    ],
-    "answer": [1]
-  },{
     "type": "solution",
-    "time": "3:33",
+    "time": "4:39",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

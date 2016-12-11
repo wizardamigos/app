@@ -1,28 +1,20 @@
 {
-  "video": "7WKeLcoKKFY",
-    "slides": [{
+  "video": "Eg0y8pP7bxQ",
+  "slides": [{
     "type": "question",
-    "time": "3:53",
-    "question": "How to check if tile equals 1?",
+    "time": "8:53",
+    "question": "What is a result of 'counter % array.length' if var array = [123,45,66,2] and var counter = 0 (hint: you can use the console)",
     "options": [
-      "tile = 1",
-      "tile = 1?",
-      "tile != 1",
-      "tile === 1"
-  ],
-    "answer": [3]
-  },{
-    "type": "challenge",
-    "time": "0:32",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/danger-valley",
-      "title": "Danger Valley"
-    }
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": [0]
   },{
     "type": "solution",
-    "time": "2:09",
-    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "time": "8:53",
+    "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

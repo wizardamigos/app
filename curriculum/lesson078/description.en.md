@@ -1,12 +1,10 @@
 ---
 {
-  "title": "Code Combat (The Trials, Sarven Brawl, Backwoods Brawl, Cavern Survival, Kithgard Brawl)",
-  "duration": "11:40"
+  "title": "Code Combat (Mountain Mercenaries)",
+  "duration": "7:51"
 }
 ---
 
-Let speed things up. This time we do many levels in a row.
-It will be very hard.
-If you don't manage, don't feel shy to check our solution.
-We also sometimes did not find a way to solve a certain level and sometimes you can just skip it.
-If you manage to solve `The Trials` you will probably practice and learn a lot :-)
+Practice some more and whenever you feel a situation requires similar code to the one you already wrote in the past, then hopefully you made a `gist` from that code in the past and you can now copy & paste it and adapt it to your new problem :-)
+
+Go ahead and practice a bit more.

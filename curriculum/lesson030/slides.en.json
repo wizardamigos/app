@@ -1,27 +1,25 @@
 {
-  "video": "4U9kwKRtacE",
+  "video": "b1iKVk9_yuY",
   "slides": [{
     "type": "challenge",
-    "time": "0:31",
+    "time": "2:00",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/thumb-biter",
-      "title": "Thumb Biter"
+      "url": "https://codecombat.com/play/level/woodland-cleaver",
+      "title": "Woodland Cleaver"
     }
   },{
     "type": "question",
-    "time": "4:21",
-    "question": "In which statements will our hero say 'Hey'?",
+    "time": "3:09",
+    "question": "Which of the two methods do we use to beat more enemies?",
     "options": [
-      "if (2+2===4) { this.say('Hey'); }",
-      "if ((2+3)===5) { this.say('Hey'); }",
-      "if (2+2=4) { this.say('Hey'); }",
-      "if (2+3=4) { this.say('Hey'); }"
+      "hero.attack(enemy)",
+      "hero.cleave(enemy)"
     ],
-    "answer": [0,1]
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "4:21",
+    "time": "3:09",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

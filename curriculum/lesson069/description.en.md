@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Desert Combat)",
-  "duration": "6:36"
+  "title": "Code Combat (Shine Getter)",
+  "duration": "3:47"
 }
 ---
 
-Do not use an infinite loop this time, but rather repeat it for a while and then do something else.
+Gather some coins

@@ -1,9 +1,8 @@
 ---
 {
-  "title": "Code Combat (Stillness in Motion)",
-  "duration": "7:03"
+  "title": "Code Combat (Drop the Flag)",
+  "duration": "4:14"
 }
 ---
 
-And some more repetition to practice nested `if/else` logic.
-Try to really take care that you indent your nested if/else logic with spaces. That is common best practice and makes your code a lot more readable.
+Practice on more challenging problems where you need to use flags to solve them.

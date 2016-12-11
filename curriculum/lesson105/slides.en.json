@@ -1,17 +1,19 @@
 {
-  "video": "PycqshVgoQ4",
-  "slides": [{
+  "video": "QVUSi_AOKkQ",
+    "slides": [{
     "type": "question",
-    "time": "8:53",
-    "question": "What happens if we use an alert function (the one that is built in the browser)? alert('Hello')",
+    "time": "15:43",
+    "question": "How do we use the variable var GREY = 'hsla(30,100%,99%,1)' in html?",
     "options": [
-      "It will log 'Hello' to the console",
-      "It will open a popup with 'Hello' message"
-    ],
+      "@{GREY}",
+      "${GREY}",
+      "%{GREY}",
+      "!{GREY}"
+  ],
     "answer": [1]
   },{
     "type": "solution",
-    "time": "8:53",
+    "time": "15:43",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

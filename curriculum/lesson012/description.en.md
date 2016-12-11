@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (True Names, The Raised Sword)",
-  "duration": "6:07"
+  "title": "Code Combat (Dread Door)",
+  "duration": "2:03"
 }
 ---
 
-With help of amazing Code Combat game you will get to know how to use command `attack`.
+With help of amazing Code Combat game you will learn how to destroy the door with a loop.

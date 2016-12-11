@@ -1,26 +1,26 @@
 {
-  "video": "ttHRLa830c8",
+  "video": "Ri-W5RQn-aw",
   "slides": [{
     "type": "challenge",
-    "time": "1:26",
-    "text": "Challenge - solve the level and then come back and continue",
+    "time": "0:06",
+    "text": "Write down you knowledge about conditionals in a gist and bookmark it for later reference :-)",
     "link": {
-      "url": "https://codecombat.com/play/level/drop-the-flag",
-      "title": "Drop the Flag"
+      "url": "https://gist.github.com/",
+      "title": "Make gist and bookmark it"
     }
   },{
     "type": "question",
-    "time": "4:13",
-    "question": "How do we define a variable x for a postion of the flag??",
+    "time": "7:33",
+    "question": "What is the right format of a conditional statement if we want to check 3 different exclusive conditions and a default case ?",
     "options": [
-      "var flagX = flag.pos.x",
-      "var flagX = flag.x",
-      "var flagX = flag.pos"
+      "if - if - if - if - else",
+      "if - else if - else if - else if",
+      "if - else if - else if - else"
     ],
-    "answer": [0]
+    "answer": [2]
   },{
     "type": "solution",
-    "time": "4:13",
+    "time": "7:33",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

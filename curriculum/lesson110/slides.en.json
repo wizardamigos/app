@@ -1,20 +1,18 @@
 {
-  "video": "luxpr09zHxU",
+  "video": "qY6AkT3DCBY",
     "slides": [{
     "type": "question",
-    "time": "17:11",
-    "question": "What is the right format for defining a class in CSS?",
+    "time": "9:03",
+    "question": "How do we in this lesson set the color for the arrow?",
     "options": [
-      "<div='my_class'></div>",
-      "<div class'my_class'></div>",
-      "<div my_class'></div>",
-      "<div class='my_class'></div>"
+      "color: ${PINK}",
+      "color: €{PINK}",
+      "color: %{PINK}"
   ],
-    "answer": [3]
-
+    "answer": [0]
   },{
     "type": "solution",
-    "time": "17:11",
+    "time": "9:03",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

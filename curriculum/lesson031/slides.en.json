@@ -1,28 +1,19 @@
 {
-  "video": "eNB3pmUr1jk",
+  "video": "jKkDa_4GUUI",
   "slides": [{
-    "type": "challenge",
-    "time": "2:47",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/gems-or-death",
-      "title": "Gems or Death"
-    }
-  },{
     "type": "question",
-    "time": "6:42",
-    "question": "Which of the examples represents a conditional statement?",
-       "options": [
-         "while (true) { } else { }",
-         "if (true) { } then { }",
-         "else if (true) { } if (false) { }",
-         "if (true) { } else if (true) { } else { }",
-         "if (true) { } else { }"
-       ],
-       "answer": [3,4]
+    "time": "14:08",
+    "question": "Which statement will return 'true'?",
+    "options": [
+      "5 !== 5",
+      "6 < 7",
+      "x = 2; x > 15",
+      "y = 7; y === 'seven'"
+    ],
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "6:42",
+    "time": "14:08",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

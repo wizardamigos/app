@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Build your portfolio 06",
-  "duration": "6:43"
+  "title": "Quiz App 04",
+  "duration": "5:06"
 }
 ---
 
 ```js
-// @TODO: add color animation
+// @TODO: add database to store quiz answers
 ```

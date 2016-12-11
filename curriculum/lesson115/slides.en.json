@@ -1,19 +1,19 @@
 {
-  "video": "ORYyfevzr0c",
+  "video": "iQVEEIgGJR0",
     "slides": [{
     "type": "question",
-    "time": "7:34",
-    "question": "How do we call a DOM method with which we append elements to existing DOM elements?",
+    "time": "6:57",
+    "question": "Which html element does Chart.js use to display the chart?",
     "options": [
-      "appendChild",
-      "appendMom",
-      "appendDad",
-      "appendGrandma"
+      "Paper",
+      "Canvas",
+      "Animation",
+      "Brush"
   ],
-    "answer": [0]
+    "answer": [1]
   },{
     "type": "solution",
-    "time": "7:34",
+    "time": "14:37",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

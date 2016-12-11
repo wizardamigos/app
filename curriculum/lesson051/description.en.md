@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Rich Forager)",
-  "duration": "6:56"
+  "title": "Code Combat (The Mighty Sand Yak)",
+  "duration": "4:30"
 }
 ---
 
-Combine a lot of things together and practice to write more complex logic that involves checking for different flags in your code.
+From now on, start learning about `arithmetic`, `counters`, `while-loops`,  `break`, `arrays`, `string comparison` and finding `min/max` numbers.

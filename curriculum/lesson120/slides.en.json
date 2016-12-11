@@ -1,17 +1,19 @@
 {
-  "video": "jXBTclroR8M",
-    "slides": [{
+  "video": "mhIGdQDvXWA",
+  "slides": [{
     "type": "question",
-    "time": "11:17",
-    "question": "Which method do we use to 'send' information from app to the server (Firebase in our case)?",
+    "time": "2:00",
+    "question": "How to list an npm module in a package.json file in order to always be able to find the list of all the modules you are using in a certain project?",
     "options": [
-      "get",
-      "post"
-  ],
-    "answer": [1]
+      "npm install nameOfTheModule",
+      "npm install nameOfTheModule -g",
+      "npm install nameOfTheModule --save",
+      "npm install nameOfTheModule --save-dev"
+    ],
+    "answer": [2,3]
   },{
     "type": "solution",
-    "time": "11:17",
+    "time": "2:00",
     "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

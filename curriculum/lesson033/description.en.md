@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Village Guard)",
-  "duration": "4:51"
+  "title": "Code Combat (Backwoods Standoff)",
+  "duration": "3:28"
 }
 ---
 
-Practice a bit more.
+Learn how to scare off your enemies while you charge your mighty Cleave Attack!!!

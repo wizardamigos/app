@@ -1,35 +1,27 @@
 {
-  "video": "cZcK5OM1vtY",
+  "video": "MzIluFtW5jE",
   "slides": [{
   "type": "question",
-  "time": "6:23",
-  "question": "How many arguments does a function move(pos) have?",
+  "time": "2:40",
+  "question": "How many times will a for-loop repeat if (var i = 0; i < 30, i++)",
   "options": [
-    "None",
-    "One",
-    "Two",
-    "three"
+    "1x",
+    "29x",
+    "30x",
+    "0x"
 ],
-  "answer": [1]
-}, {
+  "answer": [2]
+},{
     "type": "challenge",
-    "time": "2:07",
+    "time": "0:43",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/crag-tag",
-      "title": "Crag Tag"
-    }
-  },{
-    "type": "challenge",
-    "time": "4:03",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/slalom",
-      "title": "Slalom"
+      "url": "https://codecombat.com/play/level/zoo-keeper",
+      "title": "Zoo Keeper"
     }
   },{
     "type": "solution",
-    "time": "6:23",
+    "time": "2:40",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

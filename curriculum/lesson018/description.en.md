@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Dread Door)",
-  "duration": "2:03"
+  "title": "Code Combat (Kithgard Mastery)",
+  "duration": "8:17"
 }
 ---
 
-With help of amazing Code Combat game you will learn how to destroy the door with a loop.
+Prepare for a challenging loop. You have to decide whether to attack, collect or talk.

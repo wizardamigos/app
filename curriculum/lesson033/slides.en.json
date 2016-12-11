@@ -1,16 +1,27 @@
 {
-  "video": "3I3eizql14I",
+  "video": "hSNE2or2qrY",
   "slides": [{
     "type": "challenge",
-    "time": "1:30",
+    "time": "1:24",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
-      "url": "https://codecombat.com/play/level/village-guard",
-      "title": "Village Guard"
+      "url": "https://codecombat.com/play/level/backwoods-standoff",
+      "title": "Backwoods Standoff"
     }
   },{
+    "type": "question",
+    "time": "3:27",
+    "question": "When can we use 'cleave' method?",
+    "options": [
+      "Only once in the game",
+      "Whenever we want",
+      "If there is more than 10 enemies",
+      "When it's ready"
+    ],
+    "answer": [3]
+  },{
     "type": "solution",
-    "time": "4:50",
+    "time": "3:27",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]

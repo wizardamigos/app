@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Loop Da Loop)",
-  "duration": "3:57"
+  "title": "Code Combat (Closing the Distance)",
+  "duration": "3:29"
 }
 ---
 
-With help of the game you will learn basic syntax for `loops` better.
+With help of amazing Code Combat game you will fight with many enemies and improve your JavaScript skills as a side effect. Repetition was never more fun :-)

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Code Combat (Known Enemy, Master of Names)",
-  "duration": "6:32"
+  "title": "Code Combat (The final Kithmaze)",
+  "duration": "6:17"
 }
 ---
 
-With help of amazing Code Combat game you will learn how to **remember** an enemy for future reference by using a `variable`.
+With help of this game you will learn to combine loops and variables.

@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Build your portfolio 01",
-  "duration": "30:44"
+  "title": "Build your portfolio 07",
+  "duration": "7:32"
 }
 ---
 
 ```js
-// @TODO: part1
+// @TODO: add portfolio hover animation
 ```
