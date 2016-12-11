@@ -1,28 +1,28 @@
 {
-  "video": "wNRhT2Pvnz0",
+  "video": "FTdzIYifO0A",
   "slides": [{
     "type": "question",
-    "time": "1:27",
-    "question": "What happens when you bookmark the page?",
+    "time": "6:38",
+    "question": "How do we call digital recording of computer screen output, also known as a video screen capture, often containing audio narration?",
     "options": [
-      "You create a shortcut to your favourite page.",
-      "You share a page with your friends.",
-      "You delete a link.",
-      "You open a new page."
+      "Video",
+      "Screen",
+      "Screencast",
+      "Screencastify"
     ],
-    "answer": [0]
+    "answer": [2]
   },{
     "type": "challenge",
-    "time": "1:27",
-    "text": "Click here to create your WizardAmigos bookmark folder and save the link to your e-mail account.",
+    "time": "6:38",
+    "text": "Go and create your screencast. You can use Sceencastify, QuickTime Player or any other tool available.",
     "link": {
-      "url": "http://bit.ly/2gXZ2kC",
-      "title": "Create a bookmark"
+      "url": "https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en",
+      "title": "Create your screencast"
     }
   }, {
     "type": "solution",
-    "time": "1:27",
-    "text": "If you managed to add Gmail to your bookmarks, you can click here to complete the lesson.",
+    "time": "6:38",
+    "text": "If you successfully created your sample screencast, click here to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }

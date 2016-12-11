@@ -1,33 +1,83 @@
 {
-  "video": "fZV6yr9W48A",
+  "video": "zF1UJ-X1_Ls",
   "slides": [{
     "type": "challenge",
-    "time": "1:47",
-    "text": "You will learn how to use Github - a social network for programmers. Check it out and then come back - but just take a quick look, you DON'T need to do signup yet.",
+    "time": "0:01",
+    "text": "Why is programming so important?",
+    "link": {
+      "url": "https://www.youtube.com/watch?v=7Pq-S557XQU",
+      "title": "Check 'Humans need not apply' on youtube"
+    }
+  },{
+  "slides": [{
+    "type": "challenge",
+    "time": "0:01",
+    "text": "Why is JavaScript the english of programming languages?",
+    "link": {
+      "url": "https://modulecounts.com",
+      "title": "See how JavaScript has the fastest growing ecosystem in human history"
+    }
+  },{
+  "slides": [{
+    "type": "challenge",
+    "time": "0:55",
+    "text": "Go and create your E-mail account. BUT: if you already have one, just continue",
+    "link": {
+      "url": "https://www.gmail.com",
+      "title": "Create GMail Account"
+    }
+  },{
+    "type": "challenge",
+    "time": "1:05",
+    "text": "We use the chrome browser and chrome dev tools in later lessons, so check if you have it",
+    "link": {
+      "url": "http://www.whatbrowser.org/",
+      "title": "Check Browser"
+    }
+  },{
+    "type": "challenge",
+    "time": "1:05",
+    "text": "Install the chrome browser",
+    "link": {
+      "url": "https://www.google.com/chrome/browser/desktop/",
+      "title": "Install chrome"
+    }
+  },{
+    "type": "challenge",
+    "time": "1:17",
+    "text": "Create a chrome profile",
+    "link": {
+      "url": "https://accounts.google.com/ServiceLogin",
+      "title": "Create chrome profile & sign in with your browser"
+    }
+  },{
+    "type": "challenge",
+    "time": "1:33",
+    "text": "SignUp to Github - the largest social network for programmers. (NOTE: check your browsers address bar to allow the signup popup for wizardamigos signup)",
     "link": {
       "url": "https://github.com/personal",
-      "title": "Checkout Github"
+      "title": "Signup to Github"
     }
-  }, {
+  },{
     "type": "challenge",
-    "time": "1:47",
-    "text": "For support you will be able to use WizardAmigos Gitter chat. You will create an account in the next lessons, so just a sneak peek for now.",
+    "time": "1:41",
+    "text": "To join our open chat, you need to signup to gitter (with your github account)",
     "link": {
       "url": "https://gitter.im/wizardamigosinstitute/program",
-      "title": "See our chat"
+      "title": "Sigin to gitter (with your github account)"
     }
-  }, {
+  },{
     "type": "challenge",
-    "time": "1:47",
-    "text": "You will play a programming game Code Combat. Don't start playing it yet, wait for the further instructions first.",
+    "time": "2:04",
+    "text": "Download the gitter mobile app (and activate NOTIFICATIONS on both)",
     "link": {
-      "url": "http://codecombat.com",
-      "title": "See Codecombat"
+      "url": "https://gitter.im/apps",
+      "title": "Get Gitter Chat App"
     }
   },{
     "type": "solution",
-    "time": "1:47",
-    "text": "First you will set up your environment (create an account and get to know some tools you will be using), then you will learn the grammar/syntax of JavaScript programming language and after that you will build your web and mobile app. Get started now! The world is yours.",
+    "time": "2:09",
+    "text": "NEXT: (1.) learn how to manage your knowledge, THEN: (2.) learn all javascript basics, THEN: (3.) build you first webpage, THEN: (4.) build your first webapp, FINALLY: (5.) turn your webapp into a iphone mobile app",
     "button": "Start now"
   }]
 }

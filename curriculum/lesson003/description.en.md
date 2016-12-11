@@ -1,14 +1,8 @@
 ---
 {
-  "title": "Bookmarks",
-  "duration": "1:28"
+  "title": "Create a screencast",
+  "duration": "6:39"
 }
 ---
 
-In this lesson you will find out how to save important links to your Chrome's bookmark bar.
-
-Often, when you need them, you remember you did it already, but you dont
-
-**This is a very important technique**, so you can "remember" things you learn during your journey. The goal is to slowly improve and refine your bookmarks over time so you can always lookup details and code snippets you already learned in the past when you need them.
-
-*Combining this technique with __github gists__, which is what we will talk about later, makes it a powerful tool to aid your bookmarking with custom notes too*
+Screencast is a digital recording of computer screen output, also known as a video screen capture, often containing audio narration. The term screencast compares with the related term screenshot; whereas screenshot generates a single picture of a computer screen, a screencast is essentially a movie of the changes over time that a user sees on a computer screen, enhanced with audio narration. In this lesson we will learn how to create one.

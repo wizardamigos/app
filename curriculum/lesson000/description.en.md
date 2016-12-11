@@ -1,15 +1,17 @@
 ---
 {
   "title": "Welcome to WizardAmigos CodeCamp",
-  "duration": "1:47"
+  "duration": "2:10"
 }
 ---
+This program is totally suitable for absolute beginners.
 
-In the future more and more jobs will demand the knowledge of programming - many say it will become the literacy of the future, like reading and writing today - so in order to not be left behind and to have nice opportunities in your future, it is really important to add this skill to your existing skill set.
+Programming is the literacy of the future. Not knowing how to program will be like being not able to read & write in todays world.
+In order to not be left behind and to have nice opportunities in your future, it is really important to add this skill to your existing skill set.
+There are many languages you can learn, but in the past years, JavaScript is becoming the English of programming languages.
+With it, you can build web pages, mobile apps, desktop apps, control drones, do virtual reality, data analysis and much more.
+It is very universal and it is growing in popularity.
 
-There are many languages you can learn, but in the past years, JavaScript is becoming the English of programming languages. With it, you can build web pages, mobile apps, desktop apps, control drones, do virtual reality, data analysis and much more. It is very universal and it is growing in popularity.
-
-This program is suitable for absolute beginners.
 
 ### 1. You start with setting up your environment
 * `Gmail`, `Chrome`, **`Bookmarks`**, `Keyboard Typing`, `Github Profile`
@@ -29,4 +31,22 @@ This is your first portfolio item and we recommend you play and customize it a b
 ### 5. Finally we learn how to transform this quiz into a mobile app.
 So you can upload it to the android play store or apple store for other users to download.
 
-After that more tutorials come, but this is the first batch. So, join us and get started. For all the questions, you have the `chat` and the community is more than happy to help you with answers.
+
+# FIRST (REQUIREMENTS):
+* MAIL - If you don't have an email account yet, create a gmail account
+* BROWSER - If you don't have the chrome browser yet, download & install it and singup for a chrome profile
+  * allows easy cross device synchronization of your personal browser configuration
+  * has amazing chrome developer tools to help you build awesome software
+* GITHUB - You will get to know the most important social network for programmers
+* GITTER - join the open chat platform, download the app and join our wizard amigos community chat
+  * Please introduce yourself and feel free to ask any questions. Our community is more than happy to help :-)
+# NEXT:
+1. learn how to manage your knowledge
+# THEN:
+2. learn all javascript basics
+# THEN:
+3. build you first webpage
+# THEN:
+4. build your first webapp
+# FINALLY:
+5. turn your webapp into a iphone mobile app
