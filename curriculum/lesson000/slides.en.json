@@ -2,7 +2,7 @@
   "video": "zF1UJ-X1_Ls",
   "slides": [{
     "type": "challenge",
-    "time": "1:05",
+    "time": "2:09",
     "text": "Install the chrome browser and then create a Chrome profile",
     "link": {
       "url": "https://www.google.com/chrome/browser/desktop/",
@@ -10,7 +10,7 @@
     }
   },{
     "type": "challenge",
-    "time": "1:33",
+    "time": "2:09",
     "text": "SignUp to Github - the largest social network for programmers. (NOTE: check your browsers address bar to allow the signup popup for wizardamigos signup)",
     "link": {
       "url": "https://github.com/personal",
