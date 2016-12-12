@@ -22,17 +22,6 @@ Here we set you up with all the requirements, which means:
 * `GITTER` - join the open chat platform, download the app and join our wizard amigos community chat
   * Please introduce yourself and feel free to ask any questions. Our community is more than happy to help :-)
 
-### How to manage your growing knowledge
-In order to grow, you need a solid way to **manage your growing knowledge**.
-* `BOOKMARKS` enable you to structure important links into folders for quick access
-  * The `bookmark manager` also allows you to search your growing knowledge base
-* `GISTS` allow you to add your personal custom notes in bookmark folders next to other links
-
-### Some basics before getting started with JavaScript
-* Add some more information to you **github profile** (e.g. an avatar)
-* Learn some typing or if you are already confident - go ahead and introduce yourself in the chat
-* Finally get ready to bookmark some first useful links which can help you on your journey
-
 ### What's next?
 #### 1. Next you learn the alphabet of JavaScript (syntax, grammar,...)
 Because this is pure theory that needs repetition to be memorized, we figured out, the best way is to use CodeCombat, a game that helps you learn the syntax without making it too dry and boring. This way you repeat things and in between you will find videos with theory summaries of what you have learned so far, so keep watching videos.
