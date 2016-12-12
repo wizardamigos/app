@@ -1,19 +1,8 @@
 {
   "video": "Latma0MTfek",
   "slides": [{
-    "type": "question",
-    "time": "3:05",
-    "question": "What is a graphical representation of the user?",
-    "options": [
-      "Nickname",
-      "Avatar",
-      "Email",
-      "Identity"
-    ],
-    "answer": [1]
-  },{
     "type": "challenge",
-    "time": "3:05",
+    "time": "6:15",
     "text": "Create your funky avatar and then update your Github profile with this avatar or with your photo.",
     "link": {
       "url": "http://www.buildyourwildself.com/",
@@ -21,51 +10,11 @@
     }
   },{
     "type": "challenge",
-    "time": "3:05",
-    "text": "Update your github profile with your avatar and some more information",
-    "link": {
-      "url": "http://www.github.com/",
-      "title": "Update your profile"
-    }
-  },{
-    "type": "challenge",
-    "time": "3:46",
-    "text": "Practice and check if you can type at least ~30 word per minute",
-    "link": {
-      "url": "http://www.typingstudy.com/",
-      "title": "Practice some typing"
-    }
-  },{
-    "type": "challenge",
-    "time": "3:46",
-    "text": "Introduce yourself on the gitter chat now that you have an avatar, a filled out profile & can type fast enough :-)",
+    "time": "6:15",
+    "text": "Say hi on the chat now that you have an avatar, a filled out profile & can type like a ninja",
     "link": {
       "url": "http://www.gitter.im/wizardamigosinstitute/program/",
-      "title": "Introduce yourself in our community chat :-)"
-    }
-  },{
-    "type": "challenge",
-    "time": "4:06",
-    "text": "Check language translation tool and bookmark it to an existing or new bookmark folder",
-    "link": {
-      "url": "https://translate.google.com",
-      "title": "Bookmark 'Google Translate' to your bookmark bar"
-    }
-  },{
-    "type": "challenge",
-    "time": "4:40",
-    "text": "Check the free encyclopedia and bookmark it to an existing or new bookmark folder",
-    "link": {
-      "url": "https://www.wikipedia.org",
-      "title": "Bookmark 'Wikipedia' to your bookmark bar"
-    }
-  },{
-    "type": "challenge",
-    "time": "5:18",
-    "text": "Check stack overflow and bookmark it to an existing or new bookmark folder",
-    "link": {
-      "url": "https://www.stackoverflow.com",
-      "title": "Bookmark 'StackOverflow' to your bookmark bar"
+      "title": "Introduce yourself"
     }
   },{
     "type": "question",
@@ -78,14 +27,6 @@
       "image gallery"
     ],
     "answer": [2]
-  },{
-    "type": "challenge",
-    "time": "6:15",
-    "text": "Go click 'Settings/Show bookmark' bar to make bookmarks visible on every browser tab. Then visit Wikipedia, copy part of the article and paste it into Google Translate to read it to your language.",
-    "link": {
-      "url": "https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)",
-      "title": "Start the challenge"
-    }
   },{
     "type": "solution",
     "time": "6:15",
