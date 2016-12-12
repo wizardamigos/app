@@ -5,7 +5,7 @@
 }
 ---
 
-### How to manage your ever growing knowledge during your journey?
+### How to manage your growing knowledge during this journey?
 You will learn about two tools and a very simple but essential technique,
 to remeber things you already learned during your journey and access them when you need them.
 1. **`BOOKMARKS`** enable you to save important links into folders for quick access
