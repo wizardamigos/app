@@ -1,6 +1,14 @@
 {
   "video": "jKkDa_4GUUI",
   "slides": [{
+    "type": "challenge",
+    "time": "14:08",
+    "text": "After all this theory you deserve a little break. Check the video to see why is programming so important?",
+    "link": {
+      "url": "https://www.youtube.com/watch?v=7Pq-S557XQU",
+      "title": "Watch the video"
+    }
+  },{
     "type": "question",
     "time": "14:08",
     "question": "Which statement will return 'true'?",
