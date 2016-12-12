@@ -2,51 +2,11 @@
   "video": "zF1UJ-X1_Ls",
   "slides": [{
     "type": "challenge",
-    "time": "0:01",
-    "text": "Why is programming so important?",
-    "link": {
-      "url": "https://www.youtube.com/watch?v=7Pq-S557XQU",
-      "title": "Check 'Humans need not apply' on youtube"
-    }
-  },{
-    "type": "challenge",
-    "time": "0:01",
-    "text": "Why is JavaScript the english of programming languages?",
-    "link": {
-      "url": "http://modulecounts.com",
-      "title": "See how JavaScript has the fastest growing ecosystem in human history"
-    }
-  },{
-    "type": "challenge",
-    "time": "0:55",
-    "text": "Go and create your E-mail account. BUT: if you already have one, just continue",
-    "link": {
-      "url": "https://www.gmail.com",
-      "title": "Create GMail Account"
-    }
-  },{
-    "type": "challenge",
     "time": "1:05",
-    "text": "We use the chrome browser and chrome dev tools in later lessons, so check if you have it",
-    "link": {
-      "url": "http://www.whatbrowser.org/",
-      "title": "Check Browser"
-    }
-  },{
-    "type": "challenge",
-    "time": "1:05",
-    "text": "Install the chrome browser",
+    "text": "Install the chrome browser and then create a Chrome profile",
     "link": {
       "url": "https://www.google.com/chrome/browser/desktop/",
       "title": "Install chrome"
-    }
-  },{
-    "type": "challenge",
-    "time": "1:17",
-    "text": "Create a chrome profile",
-    "link": {
-      "url": "https://accounts.google.com/ServiceLogin",
-      "title": "Create chrome profile & sign in with your browser"
     }
   },{
     "type": "challenge",
@@ -55,22 +15,6 @@
     "link": {
       "url": "https://github.com/personal",
       "title": "Signup to Github"
-    }
-  },{
-    "type": "challenge",
-    "time": "1:41",
-    "text": "To join our open chat, you need to signup to gitter (with your github account)",
-    "link": {
-      "url": "https://gitter.im/wizardamigosinstitute/program",
-      "title": "Sigin to gitter (with your github account)"
-    }
-  },{
-    "type": "challenge",
-    "time": "2:04",
-    "text": "Download the gitter mobile app (and activate NOTIFICATIONS on both)",
-    "link": {
-      "url": "https://gitter.im/apps",
-      "title": "Get Gitter Chat App"
     }
   },{
     "type": "solution",
