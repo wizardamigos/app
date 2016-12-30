@@ -1,4 +1,4 @@
-## WizardAmigos learning topics
+## WizardAmigos learning topics, projects and resources
 
 #### JavaScript
 
