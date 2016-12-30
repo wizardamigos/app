@@ -4,35 +4,43 @@
 
 >CodeCombat
 
->Portfolio static page (using JS, CSS, HTML)
+>https://www.github.com/sethvincent/javascripting
 
->Quiz web app
+>https://www.github.com/jesstelford/scope-chains-closures
+
+>https://github.com/timoxley/functional-javascript-workshop
 
 ---
 
 #### HTML
 
->Portfolio static page (using JS, CSS, HTML)
+>http://devdocs.io/html/
 
->Quiz web app
+---
+
+#### MARKDOWN
+
+>https://github.com/workshopper/how-to-markdown
 
 ---
 
 #### CSS
 
->Portfolio static page (using JS, CSS, HTML)
+>https://www.npmjs.com/package/csjs
 
->Quiz web app
+>http://devdocs.io/css/
 
 ---
 
 #### Git, Github
 
->
+>https://github.com/jlord/git-it
 
 ---
 
 #### NPM modules
+
+>https://github.com/workshopper/how-to-npm
 
 >Portfolio static page (using JS, CSS, HTML)
 
@@ -54,7 +62,7 @@
 
 #### Project setup - package.json, browserify and other tools
 
->
+>https://github.com/workshopper/browserify-adventure
 
 ---
 
@@ -72,7 +80,7 @@
 
 #### WebGL - 3D canvas
 
->
+>http://regl.party/
 
 ---
 
@@ -84,17 +92,17 @@
 
 #### LevelUp database
 
->
+>https://github.com/workshopper/levelmeup
 
 ---
 
 #### Creating desktop apps with Electron
 
->
+>https://www.github.com/maxogden/elementary-electron
 
 
 ---
 
 #### Web data extraction (scraping)
 
->
+>https://www.npmjs.com/package/x-ray-nightmare
