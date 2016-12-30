@@ -26,6 +26,12 @@
 
 ---
 
+#### Git, Github
+
+>
+
+---
+
 #### NPM modules
 
 >Portfolio static page (using JS, CSS, HTML)
