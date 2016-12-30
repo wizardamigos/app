@@ -3,7 +3,9 @@
 #### JavaScript
 
 >CodeCombat
+
 >Portfolio static page (using JS, CSS, HTML)
+
 >Quiz web app
 
 ---
@@ -11,6 +13,7 @@
 #### HTML
 
 >Portfolio static page (using JS, CSS, HTML)
+
 >Quiz web app
 
 ---
@@ -18,6 +21,7 @@
 #### CSS
 
 >Portfolio static page (using JS, CSS, HTML)
+
 >Quiz web app
 
 ---
@@ -25,6 +29,7 @@
 #### NPM modules
 
 >Portfolio static page (using JS, CSS, HTML)
+
 >Quiz web app
 
 ---
