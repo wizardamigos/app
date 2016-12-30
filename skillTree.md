@@ -1,7 +1,5 @@
 ## WizardAmigos learning topics
 
-Theory
-
 ### JavaScript
 
 >CodeCombat
@@ -10,9 +8,13 @@ Theory
 
 ### NPM modules
 
+>
+
 ---
 
 ### Project setup - package.json, browserify and other tools
+
+>
 
 ---
 
@@ -24,21 +26,31 @@ Theory
 
 ### WebGL - 3D canvas
 
+>
+
 ---
 
 ### Atom - text editor
+
+>
 
 ---
 
 ### Chrome Dev tools
 
+>
+
 ---
 
 ### Dat - P2P file system
 
+>
+
 ---
 
 ### LevelUp database
+
+> 
 
 ---
 
@@ -56,6 +68,8 @@ Theory
 
 ### Creating desktop apps with Electron
 
+>
+
 ---
 
 ### Creating mobile apps with Cordova
@@ -65,3 +79,5 @@ Theory
 ---
 
 ### Web data extraction (scraping)
+
+>
