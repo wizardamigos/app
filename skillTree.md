@@ -6,51 +6,21 @@
 
 ---
 
+### HTML
+
+>
+
+---
+
+### CSS
+
+>
+
+---
+
 ### NPM modules
 
 >
-
----
-
-### Project setup - package.json, browserify and other tools
-
->
-
----
-
-### Streaming data with Node Streams
-
->https://github.com/substack/stream-handbook
-
----
-
-### WebGL - 3D canvas
-
->
-
----
-
-### Atom - text editor
-
->
-
----
-
-### Chrome Dev tools
-
->
-
----
-
-### Dat - P2P file system
-
->
-
----
-
-### LevelUp database
-
-> 
 
 ---
 
@@ -66,7 +36,19 @@
 
 ---
 
-### Creating desktop apps with Electron
+### Atom - text editor
+
+>
+
+---
+
+### Chrome Dev tools
+
+>
+
+---
+
+### Project setup - package.json, browserify and other tools
 
 >
 
@@ -75,6 +57,37 @@
 ### Creating mobile apps with Cordova
 
 >Mobile Quiz app
+
+---
+
+### Streaming data with Node Streams
+
+>https://github.com/substack/stream-handbook
+
+---
+
+### WebGL - 3D canvas
+
+>
+
+---
+
+### Dat - P2P file system
+
+>
+
+---
+
+### LevelUp database
+
+>
+
+---
+
+### Creating desktop apps with Electron
+
+>
+
 
 ---
 
