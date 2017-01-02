@@ -146,6 +146,13 @@
 
 ---
 
+
+#### Modular hardware programming
+
+>[Tessel](https://tessel.gitbooks.io/t2-docs/content/)
+
+---
+
 ## P R O J E C T S
 
 ---
