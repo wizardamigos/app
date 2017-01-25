@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "6:42",
-    "question": "First question",
+    "question": "What are correct ways for specifying color values in CSS?",
     "options": [
-      "a",
-      "b",
-      "c",
-      "d"
+      "#26547C",
+      "%2674C",
+      "hsla(208,53%,32%, 1)",
+      "*2674C"
     ],
-    "answer": [0]
+    "answer": [0,2]
   },{
     "type": "solution",
     "time": "6:42",
