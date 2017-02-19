@@ -4,6 +4,7 @@
   "duration": "17:12"
 }
 ---
+In this lesson you will get to know how to make a new component using libraries like **Yo and Csjs**.
 
 ```js
 // @TODO: make another component
