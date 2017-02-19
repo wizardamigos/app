@@ -4,4 +4,4 @@
   "duration": "5:41"
 }
 ---
-In tis lesson we will work on more details inside of xCode so we will get our app ready for the App Store.
+In tis lesson we will work on more details inside of XCode so we will get our app ready for the App Store.
