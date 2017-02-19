@@ -5,7 +5,3 @@
 }
 ---
 In this lesson you will continue designing your **quiz questions** and forming the flow.
-
-```js
-// @TODO: quiz part2
-```

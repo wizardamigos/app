@@ -4,7 +4,4 @@
   "duration": "15:44"
 }
 ---
-
-```js
-// @TODO: add some icons
-```
+In this lesson you will learn all about **how to add icons to your project**.

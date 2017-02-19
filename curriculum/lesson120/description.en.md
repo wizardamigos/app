@@ -5,7 +5,3 @@
 }
 ---
 Learn how to use Phonegap (with Cordova) to create apps using the web technologies you know and love: HTML, CSS, and JavaScript.
-
-```js
-// @TODO: use cordova in the terminal
-```

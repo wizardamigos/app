@@ -5,7 +5,3 @@
 }
 ---
 In this lesson you will continue with applying your **quiz logic and design**.
-
-```js
-// @TODO: quiz part3
-```

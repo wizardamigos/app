@@ -5,6 +5,3 @@
 }
 ---
 In this lesson you will add a **color animation** to your portfolio page.
-```js
-// @TODO: add color animation
-```

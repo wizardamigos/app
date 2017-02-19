@@ -5,7 +5,3 @@
 }
 ---
 In this lesson, you will learn how to add the **Firebase database** to store users' quiz answers.
-
-```js
-// @TODO: add database to store quiz answers
-```

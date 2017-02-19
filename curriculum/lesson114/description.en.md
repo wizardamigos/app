@@ -4,7 +4,4 @@
   "duration": "11:18"
 }
 ---
-
-```js
-// @TODO: adding a library for making the chart diagram
-```
+This lesson will be focusing on a special **library for making charts** and other diagrams.
