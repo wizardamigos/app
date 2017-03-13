@@ -354,16 +354,13 @@
 >### STRINGS
 
 #### Mozilla
+[Handling text - strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+
+[Useful string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 #### W3schools
 [JS strings](https://www.w3schools.com/js/js_strings.asp)
 
 [String methods](https://www.w3schools.com/js/js_string_methods.asp)
-
-[Handling text - strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
-
-[Template literals](https://www.freecodecamp.com/challenges/declare-string-variables)
-
-[Useful string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 #### Free code camp
 [Declare string variables](https://www.freecodecamp.com/challenges/declare-string-variables)
 
