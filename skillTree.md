@@ -271,6 +271,7 @@
 [Animations](https://www.w3schools.com/css/css3_animations.asp)
 
 >### RESPONSIVE WEB DESIGN
+
 #### W3schools
 [Responsive web design intro](https://www.w3schools.com/css/css_rwd_intro.asp)
 
