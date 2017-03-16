@@ -1,28 +1,17 @@
 {
-  "video": "A3ZYNqDNzhM",
+  "video": "siZbBP7uwUo",
   "slides": [{
     "type": "challenge",
-    "time": "4:51",
-    "text": "Challenge - solve the level and then come back and continue",
+    "time": "1:04",
+    "text": "This level is now not available for free anymore. Don't worry, just skip it and move to the next one. Sorry for that.",
     "link": {
-      "url": "https://codecombat.com/play/level/gems-in-the-deep",
+      "url": "https://codecombat.com/play/level/forgetful-gemsmith",
       "title": "Gems in the deep"
     }
   },{
-    "type": "question",
-    "time": "4:51",
-    "question": "Which are basic commands in CodeCombat that you get with the boots?",
-    "options": [
-      "moveLeft",
-      "moveBack",
-      "moveUp",
-      "moveDown"
-    ],
-    "answer": [0,2,3]
-  },{
     "type": "solution",
-    "time": "4:51",
-    "text": "If you successfuly finished the challenge, click to complete the lesson.",
+    "time": "1:49",
+    "text": "Click to complete the lesson.",
     "button": "Complete the lesson"
   }]
 }
