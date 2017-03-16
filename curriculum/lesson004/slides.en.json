@@ -3,10 +3,10 @@
   "slides": [{
     "type": "challenge",
     "time": "4:51",
-    "text": "Challenge - solve the level and then come back and continue",
+    "text": "Create a Code Combat account. Click Create account and then choose Signup as INDIVIDUAL. Don't forget to set the programming language to JAVASCRIPT. THEN solve the levels and then come back and continue.",
     "link": {
-      "url": "https://codecombat.com/play/level/gems-in-the-deep",
-      "title": "Gems in the deep"
+      "url": "https://codecombat.com/play/level/dungeons-of-kithgard",
+      "title": "Join Code Combat"
     }
   },{
     "type": "question",
