@@ -1,32 +1,16 @@
 {
-  "video": "ThRG7LdAcqA",
+  "video": "A3ZYNqDNzhM",
   "slides": [{
     "type": "challenge",
-    "time": "0:22",
+    "time": "4:51",
     "text": "Challenge - solve the level and then come back and continue",
     "link": {
       "url": "https://codecombat.com/play/level/gems-in-the-deep",
       "title": "Gems in the deep"
     }
   },{
-    "type": "challenge",
-    "time": "2:43",
-    "text": "Challenge - solve the level and then come back and continue",
-    "link": {
-      "url": "https://codecombat.com/play/level/shadow-guard",
-      "title": "Shadow Guard"
-    }
-  },{
-    "type": "challenge",
-    "time": "4:56",
-    "text": "This level is now not available for free anymore. Don't worry, just skip it and move to the next one. Sorry for that.",
-    "link": {
-      "url": "https://codecombat.com/play/level/forgetful-gemsmith",
-      "title": "Forgetful Gemsmith"
-    }
-  },{
     "type": "question",
-    "time": "6:31",
+    "time": "4:51",
     "question": "Which are basic commands in CodeCombat that you get with the boots?",
     "options": [
       "moveLeft",
@@ -37,7 +21,7 @@
     "answer": [0,2,3]
   },{
     "type": "solution",
-    "time": "6:31",
+    "time": "4:51",
     "text": "If you successfuly finished the challenge, click to complete the lesson.",
     "button": "Complete the lesson"
   }]
