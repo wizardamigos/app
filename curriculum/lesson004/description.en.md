@@ -1,7 +1,7 @@
 ---
 {
   "title": "Code Combat Registration (Dungeons of Kithgard)",
-  "duration": "7:10"
+  "duration": "4:52"
 }
 ---
 
