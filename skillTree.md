@@ -144,7 +144,8 @@
 [SVG - video](https://www.youtube.com/watch?v=CDnbIvR6JrI)
 
 [SVG notes](https://github.com/cyberwizardinstitute/workshops/blob/master/svg.markdown)
-
+#### Wizard Amigos
+[Demo project - wizard logo](https://github.com/wizardamigosinstitute/organization/blob/master/ASSETS/logo.js)
 ---
 ## CSS
 
