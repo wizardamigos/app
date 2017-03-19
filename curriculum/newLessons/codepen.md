@@ -27,6 +27,7 @@ https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/fc0d32703dc
 
 ![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
 
+(see example: https://codepen.io/serapath/pen/yMpGXr/)
 
 ---
 ## Copy paste a sample code in JS section
