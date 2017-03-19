@@ -1,17 +1,28 @@
 # NPM modules for codepen.io
 
-1. ![Open codepen.io](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen1.png?raw=true)
-2. ![Create new pen]((https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen2.png?raw=true)
-3. ![Minimize CSS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen3.png?raw=true)
-4. ![Minimize HTML section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen4.png?raw=true)
-5. ![Click settings in JS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen5.png?raw=true)
-6. ![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
+![1. Open codepen.io](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen1.png?raw=true)
+
+---
+![2. Create new pen](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen2.png?raw=true)
+
+---
+![3. Minimize CSS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen3.png?raw=true)
+
+---
+![4. Minimize HTML section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen4.png?raw=true)
+
+---
+![5. Click settings in JS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen5.png?raw=true)
+
+---
+![6. Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
 
 ```
 https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/fc0d32703dc77cfa51405f198fa0eaea3e5a7bbb/require.js
 ```
 
-7. ![Copy paste a sample code](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen7.png?raw=true)
+---
+![7. Copy paste a sample code](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen7c.png?raw=true)
 
 ```js
 var yo = require('yo-yo')
