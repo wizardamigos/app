@@ -1,27 +1,35 @@
 # Require NPM modules in codepen.io
 
+## Open codepen.io
 ![Open codepen.io](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen1.png?raw=true)
 
 ---
+## Create new pen
 ![Create new pen](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen2.png?raw=true)
 
 ---
+## Minimize CSS section
 ![Minimize CSS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen3.png?raw=true)
 
 ---
+## Minimize HTML section
 ![Minimize HTML section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen4.png?raw=true)
 
 ---
+## Click settings in JS section
 ![Click settings in JS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen5.png?raw=true)
 
 ---
-![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
-
+## Paste the link
 ```
 https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/fc0d32703dc77cfa51405f198fa0eaea3e5a7bbb/require.js
 ```
 
+![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
+
+
 ---
+## Copy paste a sample code
 ![Copy paste a sample code](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen7c.png?raw=true)
 
 ```js
