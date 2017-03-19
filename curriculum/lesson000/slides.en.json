@@ -2,7 +2,7 @@
   "video": "zF1UJ-X1_Ls",
   "slides": [{
     "type": "challenge",
-    "time": "2:09",
+    "time": "2:10",
     "text": "Install the chrome browser and then create a Chrome profile",
     "link": {
       "url": "https://www.google.com/chrome/browser/desktop/",
@@ -10,7 +10,7 @@
     }
   },{
     "type": "challenge",
-    "time": "2:09",
+    "time": "2:10",
     "text": "SignUp to Github - the largest social network for programmers. (NOTE: check your browsers address bar to allow the signup popup for wizardamigos signup)",
     "link": {
       "url": "https://github.com/personal",
@@ -18,8 +18,8 @@
     }
   },{
     "type": "solution",
-    "time": "2:09",
-    "text": "NEXT: (1.) learn how to manage your knowledge, (2.) learn all javascript basics, (3.) build you first webpage, (4.) build your first webapp, (5.) turn your webapp into a iphone mobile app (6.) and more...",
-    "button": "Start now"
+    "time": "2:10",
+    "text": "NEXT: learn all javascript basics and build you first mobile app and much more...",
+    "button": "Start with the next lesson"
   }]
 }
