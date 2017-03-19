@@ -30,7 +30,7 @@ https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/fc0d32703dc
 
 ---
 ## Copy paste a sample code
-![Copy paste a sample code](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen7c.png?raw=true)
+![Copy paste a sample code](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen7.png?raw=true)
 
 ```js
 var yo = require('yo-yo')
