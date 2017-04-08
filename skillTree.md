@@ -1,6 +1,6 @@
-                                                           SKILL TREE
-                                                    RESOURCES FOR LEARNING JAVASCRIPT
-                                              [by WizardAmigos](http://app.wizardamigos.com) 
+                                                     SKILL TREE
+                                              RESOURCES FOR LEARNING JAVASCRIPT
+                                        [by WizardAmigos](http://app.wizardamigos.com) 
 
 ---
 ---
