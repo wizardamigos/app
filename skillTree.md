@@ -4,15 +4,15 @@
 
 ---
 ## VIDEOS
----
+
 >### Motivation
----
+
 [Bill Gates and Zuck motivation](https://www.youtube.com/watch?v=79GGUL00Gt4)
 
 [12 year old app maker](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
----
+
 >### Inspiration
----
+
 [Government.js by @maxogden](https://www.youtube.com/watch?v=lZYhCduUlqo)
 
 [Mariko Kosaka by @kosamari](https://www.youtube.com/watch?v=X1Cc1vrvjdY) 
@@ -23,9 +23,9 @@
 
 ---
 ## PROGRAMMING CONCEPTS 
----
+
 >### GAMES TO GET STARTED
----
+
 #### Studio Code 
 [Computational thinking 1](https://studio.code.org/s/20-hour/stage/2/puzzle/1)
 
@@ -49,24 +49,24 @@
 [CodeMonkey](https://www.playcodemonkey.com/challenges)
 #### Lightbot
 [Lightbot](http://lightbot.com/)
----
+
 >### TALKS
----
+
 #### TedX
 [What are algorithms](https://www.youtube.com/watch?v=6hfOvs8pY1k)
 
 ---
 ## HTML
----
+
 >### INTRODUCTION
----
+
 #### W3schools
 [HTML basics](https://www.w3schools.com/html/html_basic.asp)
 #### Khan academy
 [Intro to HTML](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-basics)
----
+
 >### ELEMENTS
----
+
 #### W3schools
 [HTML elements](https://www.w3schools.com/html/html_elements.asp)
 
@@ -79,65 +79,65 @@
 [Head](https://www.w3schools.com/html/html_head.asp)
 #### Free code camp
 [Say hello to HTML elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
----
+
 >### LAYOUT
----
+
 #### W3schools
 [HTML layout](https://www.w3schools.com/html/html_layout.asp)
----
+
 >### ATTRIBUTES
----
+
 #### W3schools
 [HTML attributes](https://www.w3schools.com/html/html_attributes.asp)
 
 [Classes](https://www.w3schools.com/html/html_classes.asp)
----
+
 >### LINKS
----
+
 #### W3schools
 [Links](https://www.w3schools.com/html/html_links.asp)
 
 [File paths](https://www.w3schools.com/html/html_filepaths.asp)
----
+
 >### IMAGES
----
+
 #### W3schools
 [Images](https://www.w3schools.com/html/html_images.asp)
 #### Khan academy
 [HTML images](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-images)
 #### Free code camp
 [Turn an Image into a Link](https://www.freecodecamp.com/challenges/turn-an-image-into-a-link)
----
+
 >### VIDEOS
----
+
 #### W3schools
 [Videos](https://www.w3schools.com/html/html5_video.asp)
 
 [YouTube](https://www.w3schools.com/html/html_youtube.asp)
----
+
 >### TABLES
----
+
 #### W3schools
 [Tables](https://www.w3schools.com/html/html_tables.asp)
----
+
 >### LISTS
----
+
 #### W3schools
 [Lists](https://www.w3schools.com/html/html_lists.asp)
 #### Khan academy
 [HTML lists](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-lists)
----
+
 >### FORMS
----
+
 #### W3schools
 [Forms](https://www.w3schools.com/html/html_forms.asp)
 
 [Form elements](https://www.w3schools.com/html/html_form_elements.asp)
 
 [Input types](https://www.w3schools.com/html/html_form_input_types.asp)
----
+
 >### SVG
----
+
 #### W3schools
 [HTML5 SVG](https://www.w3schools.com/html/html5_svg.asp)
 #### Cyber Wizard Institute
@@ -148,17 +148,17 @@
 [Demo project - wizard logo](https://github.com/wizardamigosinstitute/organization/blob/master/ASSETS/logo.js)
 ---
 ## CSS
----
+
 >### INTRODUCTION
----
+
 #### W3schools
 [Intro to CSS](https://www.w3schools.com/css/default.asp)
 #### Khan academy
 [Intro to CSS](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics)
 #### Free Code Camp
----
+
 >### SELECTORS
----
+
 #### W3schools
 [CSS syntax](https://www.w3schools.com/css/css_syntax.asp)
 #### Free code camp
@@ -169,9 +169,9 @@
 [Style Multiple Elements with a CSS Class](https://www.freecodecamp.com/challenges/style-multiple-elements-with-a-css-class)
 
 [Use an ID Attribute to Style an Element](https://www.freecodecamp.com/challenges/use-an-id-attribute-to-style-an-element)
----
+
 >### STYLING
----
+
 #### W3schools
 [Colors](https://www.w3schools.com/css/css_colors.asp)
 
@@ -220,9 +220,9 @@
 [Use Clockwise Notation to Specify the Padding of an Element](https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-padding-of-an-element)
 
 [Use Clockwise Notation to Specify the Margin of an Element](https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element)
----
+
 >### FONTS
----
+
 #### W3schools
 [CSS fonts](https://www.w3schools.com/css/css_font.asp)
 #### Mozilla
@@ -237,16 +237,16 @@
 [Specify How Fonts Should Degrade](https://www.freecodecamp.com/challenges/specify-how-fonts-should-degrade)
 #### Google fonts
 [Google fonts documentation and example](https://fonts.google.com/selection?selection.family=Baloo+Bhaina)
----
+
 >### ICONS
----
+
 #### W3schools
 [CSS icons](https://www.w3schools.com/css/css_icons.asp)
 #### Fontawesome 
 [Fontawesome documentation and example](http://fontawesome.io/examples/)
----
+
 >### LAYOUT AND VISIBILITY
----
+
 #### W3schools
 [Display visibility](https://www.w3schools.com/css/css_display_visibility.asp)
 
@@ -267,14 +267,14 @@
 [Flexbox game tutorial](http://flexboxfroggy.com/)
 #### CSS Grig Garden
 [CSS Grid](http://cssgridgarden.com/)
----
+
 >### ANIMATIONS
----
+
 #### W3schools
 [Animations](https://www.w3schools.com/css/css3_animations.asp)
----
+
 >### RESPONSIVE WEB DESIGN
----
+
 #### W3schools
 [Responsive web design intro](https://www.w3schools.com/css/css_rwd_intro.asp)
 
@@ -285,27 +285,27 @@
  
 ---
 ## JAVASCRIPT 
----
+
 >### GAMES
----
+
 [Code Combat - learn how to code by playing a game](https://www.codecombat.com)
----
+
 >### INTRODUCTION
----
+
 [Intro](https://www.w3schools.com/js/js_intro.asp)
----
+
 >### JAVASCRIPT SYNTAX RULES
----
+
 #### W3schools
 [JS syntax](https://www.w3schools.com/js/js_syntax.asp)
----
+
 >### COMMENTS
----
+
 #### Free code camp
 [Comment your JS code](https://www.freecodecamp.com/challenges/comment-your-javascript-code)
----
+
 >### VARIABLES
----
+
 #### W3schools
 [JS variables](https://www.w3schools.com/js/js_variables.asp)
 
@@ -320,14 +320,14 @@
 [Initializing variable with assignement operator](https://www.freecodecamp.com/challenges/initializing-variables-with-the-assignment-operator) 
 #### Mozilla
 [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
----
+
 >### DATA TYPES
----
+
 #### W3schools
 [JS datatypes](https://www.w3schools.com/js/js_datatypes.asp)
----
+
 >### NUMBERS 
----
+
 #### W3schools
 [JS operators](https://www.w3schools.com/js/js_operators.asp)
 
@@ -354,9 +354,9 @@
 [Augmented addition](https://www.freecodecamp.com/challenges/compound-assignment-with-augmented-addition)
 #### Mozilla
 [Numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
----
+
 >### STRINGS
----
+
 #### Mozilla
 [Handling text - strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
 
@@ -391,9 +391,9 @@
 [Find the N-th character in a string](https://www.freecodecamp.com/challenges/use-bracket-notation-to-find-the-nthtolast-character-in-a-string)
 
 [Reverse a String](https://www.freecodecamp.com/challenges/reverse-a-string)
----
+
 >### ARRAYS
----
+
 #### Mozilla
 [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 #### W3schools
@@ -432,16 +432,16 @@
 [Join Strings with join](https://www.freecodecamp.com/challenges/join-strings-with-join)
 
 [Condense arrays with reduce](https://www.freecodecamp.com/challenges/condense-arrays-with-reduce)
----
+
 >### BOOLEAN
----
+
 #### W3schools
 [JS booleans](https://www.w3schools.com/js/js_booleans.asp)
 #### Free code camp
 [Boolean values](https://www.freecodecamp.com/challenges/understanding-boolean-values)
----
+
 >### COMPARISONS
----
+
 #### W3schools
 [Comparisons](https://www.w3schools.com/js/js_comparisons.asp)
 #### Free code camp
@@ -456,9 +456,9 @@
 [Comparisons with the Logical And Operator](https://www.freecodecamp.com/challenges/comparisons-with-the-logical-and-operator)
 
 [Comparisons with the Logical Or Operator](https://www.freecodecamp.com/challenges/comparisons-with-the-logical-or-operator)
----
+
 >### CONDITIONS
----
+
 #### W3schools
 [JavaScript If...Else Statements](https://www.w3schools.com/js/js_if_else.asp)
 #### Free code camp
@@ -471,9 +471,9 @@
 [Logical Order in If Else Statements](https://www.freecodecamp.com/challenges/logical-order-in-if-else-statements)
 
 [Chaining If Else Statements](https://www.freecodecamp.com/challenges/chaining-if-else-statements)
----
+
 >### LOOPS
----
+
 #### W3school
 [For loop](https://www.w3schools.com/js/js_loop_for.asp)
 
@@ -490,9 +490,9 @@
 [Nesting For Loops](https://www.freecodecamp.com/challenges/nesting-for-loops)
 
 [Iterate with JavaScript While Loops](https://www.freecodecamp.com/challenges/iterate-with-javascript-while-loops)
----
+
 >### OBJECTS
----
+
 #### Mozilla
 [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 #### W3schools
@@ -527,9 +527,9 @@
 [Declare JavaScript Objects as Variables](https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables)
 
 [Construct JavaScript Objects with Functions](https://www.freecodecamp.com/challenges/construct-javascript-objects-with-functions) [requirement: functions]
----
+
 >### FUNCTIONS
----
+
 #### W3schools
 [JS functions](https://www.w3schools.com/js/js_functions.asp)
 
@@ -554,9 +554,9 @@
 [Functions - reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 #### NodeSchool
 [Javascripting tutorial](https://github.com/workshopper/javascripting) [requirement: terminal, NPM]
----
+
 >### SCOPE
----
+
 #### W3schools
 [JS scope](https://www.w3schools.com/js/js_scope.asp)
 #### Free code camp
@@ -565,9 +565,9 @@
 [Local scope and functions](https://www.freecodecamp.com/challenges/local-scope-and-functions)
 
 [Global vs local scope in functions](https://www.freecodecamp.com/challenges/global-vs-local-scope-in-functions)
----
+
 >### REGULAR EXPRESSIONS
----
+
 #### Free code camp
 [Sift through Text with Regular Expressions](https://www.freecodecamp.com/challenges/sift-through-text-with-regular-expressions)
 
@@ -578,9 +578,9 @@
 [Invert Regular Expression Matches with JavaScript](https://www.freecodecamp.com/challenges/invert-regular-expression-matches-with-javascript)
 #### W3schools
 [JavaScript Regular Expressions](https://www.w3schools.com/js/js_regexp.asp)
----
+
 >### JSON
----
+
 #### W3schools
 [JavaScript JSON](https://www.w3schools.com/js/js_json.asp)
 #### Mozilla
@@ -589,9 +589,9 @@
 
 ---
 ## DOM
----
+
 >### OVERVIEW
----
+
 #### W3schools
 [Intro](https://www.w3schools.com/js/js_htmldom.asp)
 
@@ -615,9 +615,9 @@
 
 ---
 ## NPM [requirement: terminal, javascript, html, css, dom]
----
+
 >### OVERVIEW
----
+
 #### NPM
 [What is NPM](https://docs.npmjs.com/getting-started/what-is-npm)
 
@@ -633,9 +633,9 @@
 
 ---
 ## GIT
----
+
 >### OVERVIEW
----
+
 #### Cyber wizard institute
 [Notes on Git and Github](https://github.com/cyberwizardinstitute/workshops/blob/master/git.markdown)
 #### Git-it
@@ -643,9 +643,9 @@
 
 --
 ## UNIX & COMMAND LINE
----
+
 >### OVERVIEW
----
+
 #### Cyber wizard institute
 [Unix & Command Line - video](https://www.youtube.com/watch?v=BhPRiSLmxis)
 
