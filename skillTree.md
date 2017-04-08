@@ -5,13 +5,13 @@
 ---
 # VIDEOS
 
->## Motivation
+>## MOTIVATION
 
 [Bill Gates and Zuck motivation](https://www.youtube.com/watch?v=79GGUL00Gt4)
 
 [12 year old app maker](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
 
->## Inspiration
+>## INSPIRATION
 
 [Government.js by @maxogden](https://www.youtube.com/watch?v=lZYhCduUlqo)
 
@@ -22,7 +22,12 @@
 [Humans need not apply](https://www.youtube.com/watch?v=7Pq-S557XQU&t=439s)
 
 ---
+---
+---
 # PROGRAMMING CONCEPTS 
+---
+---
+---
 
 >## GAMES TO GET STARTED
 
@@ -56,7 +61,12 @@
 [What are algorithms](https://www.youtube.com/watch?v=6hfOvs8pY1k)
 
 ---
+---
+---
 # HTML
+---
+---
+---
 
 >## INTRODUCTION
 
@@ -148,7 +158,12 @@
 [Demo project - wizard logo](https://github.com/wizardamigosinstitute/organization/blob/master/ASSETS/logo.js)
 
 ---
+---
+---
 # CSS
+---
+---
+---
 
 >## INTRODUCTION
 
@@ -283,9 +298,13 @@
 
 [Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
- 
+---
+---
 ---
 # JAVASCRIPT 
+---
+---
+---
 
 >## GAMES
 
@@ -587,9 +606,13 @@
 #### Mozilla
 [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
-
+---
+---
 ---
 # DOM
+---
+---
+---
 
 >## OVERVIEW
 
@@ -615,7 +638,12 @@
 [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 ---
+---
+---
 # NPM [requirement: terminal, javascript, html, css, dom]
+---
+---
+---
 
 >## OVERVIEW
 
@@ -633,7 +661,12 @@
 [How to NPM](https://github.com/workshopper/how-to-npm)
 
 ---
+---
+---
 # GIT
+---
+---
+---
 
 >## OVERVIEW
 
