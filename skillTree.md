@@ -675,8 +675,13 @@
 #### Git-it
 [Git-it tutoriar](http://jlord.us/git-it/challenges/get_git.html)
 
---
+---
+---
+---
 # UNIX & COMMAND LINE
+---
+---
+---
 
 >## OVERVIEW
 
