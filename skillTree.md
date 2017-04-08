@@ -146,6 +146,7 @@
 [SVG notes](https://github.com/cyberwizardinstitute/workshops/blob/master/svg.markdown)
 #### Wizard Amigos
 [Demo project - wizard logo](https://github.com/wizardamigosinstitute/organization/blob/master/ASSETS/logo.js)
+
 ---
 # CSS
 
@@ -299,7 +300,7 @@
 #### W3schools
 [JS syntax](https://www.w3schools.com/js/js_syntax.asp)
 
->### COMMENTS
+>## COMMENTS
 
 #### Free code camp
 [Comment your JS code](https://www.freecodecamp.com/challenges/comment-your-javascript-code)
