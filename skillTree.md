@@ -2,26 +2,19 @@
                                             RESOURCES FOR LEARNING JAVASCRIPT
                                       
 # WIZARD AMIGOS APP
+
+>## JAVASCRIPT LESSONS FOR CYBER NOMADS 
 [Video lessons with support chat](http://app.wizardamigos.com)
 
----
----
----
-# PROGRAMMING CONCEPTS 
----
----
----
+**In addition** to WizardAmigos lessons, we recommend you to check out the following resources:
 
->## COMPUTER SCIENCE THEORY
-[Programming, computer architecture and design etc.](https://teachyourselfcs.com/)
 
----
 ---
 ---
 # HTML
 ---
 ---
----
+
 
 >## INTRODUCTION
 
@@ -85,13 +78,13 @@
 [SVG notes](https://github.com/cyberwizardinstitute/workshops/blob/master/svg.markdown),
 [Demo project - wizard logo](https://github.com/wizardamigosinstitute/organization/blob/master/ASSETS/logo.js)
 
----
+
 ---
 ---
 # CSS
 ---
 ---
----
+
 
 >## INTRODUCTION
 
@@ -171,13 +164,13 @@
 [Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp),
 [Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
----
+
 ---
 ---
 # JAVASCRIPT 
 ---
 ---
----
+
 
 >## GAMES
 
@@ -358,13 +351,13 @@
 [JavaScript JSON](https://www.w3schools.com/js/js_json.asp),
 [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
----
+
 ---
 ---
 # DOM
 ---
 ---
----
+
 
 >## OVERVIEW
 
@@ -379,13 +372,13 @@
 [Dom - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/dom.markdown),
 [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
----
+
 ---
 ---
 # NPM [requirement: terminal, javascript, html, css, dom]
 ---
 ---
----
+
 
 >## OVERVIEW
 
@@ -395,31 +388,55 @@
 [NPM and using npm modules - video](https://www.youtube.com/watch?v=B-IRNyMdYD0),
 [NPM and using npm modules - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/require_modules.md),
 [How to NPM](https://github.com/workshopper/how-to-npm)
+[Modules: BEL](https://www.npmjs.com/package/bel)
+[Modules: CSJS](https://www.npmjs.com/package/csjs-inject)
 
----
 ---
 ---
 # GIT
 ---
 ---
----
+
 
 >## OVERVIEW
 
 [Notes on Git and Github](https://github.com/cyberwizardinstitute/workshops/blob/master/git.markdown),
 [Git-it tutoriar](http://jlord.us/git-it/challenges/get_git.html)
 
----
+
 ---
 ---
 # UNIX & COMMAND LINE
 ---
 ---
----
+
 
 >## OVERVIEW
 
 [Unix & Command Line - video](https://www.youtube.com/watch?v=BhPRiSLmxis),
 [Unix & Command Line - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown)
 
+---
+---
+# P2P (PEER-TO-PEER) WEB
+---
+---
+
+
+>## OVERVIEW
+
+[NodeUp Podcast](http://nodeup.com/sixtynine)
+[Workshop](https://github.com/mafintosh/p2p-workshop)
+[DAT](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)
+[SCUTTLEBOT](https://github.com/ssbc/scuttlebot)
+
+---
+---
+# PROGRAMMING CONCEPTS 
+---
+---
+
+
+>## COMPUTER SCIENCE THEORY
+[Programming, computer architecture and design etc.](https://teachyourselfcs.com/)
 
