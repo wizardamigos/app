@@ -6,6 +6,8 @@
 >## JAVASCRIPT LESSONS FOR CYBER NOMADS 
 [Video lessons with support chat](http://app.wizardamigos.com)
 
+---
+---
 **In addition** to WizardAmigos lessons, we recommend you to check out the following resources:
 
 
