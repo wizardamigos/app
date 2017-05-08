@@ -12,9 +12,7 @@
 
 >## MOTIVATION
 
-[Bill Gates and Zuck motivation](https://www.youtube.com/watch?v=79GGUL00Gt4)
-
-[12 year old app maker](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
+[Bill Gates and Zuck motivation](https://www.youtube.com/watch?v=79GGUL00Gt4), [12 year old app maker](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
 
 >## INSPIRATION
 
@@ -393,9 +391,7 @@
 >## LOOPS
 
 #### W3school
-[For loop](https://www.w3schools.com/js/js_loop_for.asp)
-
-[While loop](https://www.w3schools.com/js/js_loop_while.asp)
+[For loop](https://www.w3schools.com/js/js_loop_for.asp), [While loop](https://www.w3schools.com/js/js_loop_while.asp)
 #### Free code camp
 [Iterate with JavaScript For Loops](https://www.freecodecamp.com/challenges/iterate-with-javascript-for-loops),
 [Iterate Odd Numbers With a For Loop](https://www.freecodecamp.com/challenges/iterate-odd-numbers-with-a-for-loop),
