@@ -66,8 +66,8 @@
 [What are algorithms](https://www.youtube.com/watch?v=6hfOvs8pY1k)
 
 >## COMPUTER SCIENCE THEORY
-
 [Programming, computer architecture and design etc.](https://teachyourselfcs.com/)
+
 ---
 ---
 ---
