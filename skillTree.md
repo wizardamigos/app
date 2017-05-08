@@ -4,7 +4,7 @@
 # WIZARD AMIGOS APP
 
 >## JAVASCRIPT LESSONS FOR CYBER NOMADS 
-[Video lessons with support chat](http://app.wizardamigos.com)
+[WizardAmigos - video lessons with support chat for cyber nomads](http://app.wizardamigos.com)
 
 ---
 ---
