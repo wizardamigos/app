@@ -1,8 +1,9 @@
                                                      SKILL TREE
-                                              ADDITIONAL RESOURCES FOR LEARNING JAVASCRIPT
+                                            RESOURCES FOR LEARNING JAVASCRIPT
                                       
 # WIZARD AMIGOS APP
-[Open source Javascript video lessons with support chat](http://app.wizardamigos.com)
+[Video lessons with support chat](http://app.wizardamigos.com)
+
 ---
 ---
 ---
