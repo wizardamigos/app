@@ -6,16 +6,16 @@
 >## JAVASCRIPT LESSONS FOR CYBER NOMADS 
 [WizardAmigos - video lessons with support chat for cyber nomads](http://app.wizardamigos.com)
 
----
+
 ---
 **In addition** to WizardAmigos lessons, we recommend you to check out the following resources:
 
 
----
+
 ---
 # HTML
 ---
----
+
 
 
 >## INTRODUCTION
@@ -81,11 +81,11 @@
 [Demo project - wizard logo](https://github.com/wizardamigosinstitute/organization/blob/master/ASSETS/logo.js)
 
 
----
+
 ---
 # CSS
 ---
----
+
 
 
 >## INTRODUCTION
@@ -167,11 +167,11 @@
 [Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 
----
+
 ---
 # JAVASCRIPT 
 ---
----
+
 
 
 >## GAMES
@@ -354,11 +354,11 @@
 [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 
----
+
 ---
 # DOM
 ---
----
+
 
 
 >## OVERVIEW
@@ -375,11 +375,11 @@
 [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 
----
+
 ---
 # NPM [requirement: terminal, javascript, html, css, dom]
 ---
----
+
 
 
 >## OVERVIEW
@@ -393,11 +393,11 @@
 [Modules: BEL](https://www.npmjs.com/package/bel)
 [Modules: CSJS](https://www.npmjs.com/package/csjs-inject)
 
----
+
 ---
 # GIT
 ---
----
+
 
 
 >## OVERVIEW
@@ -406,11 +406,11 @@
 [Git-it tutoriar](http://jlord.us/git-it/challenges/get_git.html)
 
 
----
+
 ---
 # UNIX & COMMAND LINE
 ---
----
+
 
 
 >## OVERVIEW
@@ -418,11 +418,11 @@
 [Unix & Command Line - video](https://www.youtube.com/watch?v=BhPRiSLmxis),
 [Unix & Command Line - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown)
 
----
+
 ---
 # P2P (PEER-TO-PEER) WEB
 ---
----
+
 
 
 >## OVERVIEW
