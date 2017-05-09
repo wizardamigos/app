@@ -4,19 +4,18 @@
 # WIZARD AMIGOS APP
 
 >## JAVASCRIPT LESSONS FOR CYBER NOMADS 
-[WizardAmigos - video lessons with support chat for cyber nomads](http://app.wizardamigos.com)
+[WizardAmigos - video lessons with support chat for cyber nomads >>](http://app.wizardamigos.com)
+* hypermodular development
+* NPM modules
+* no jQuery
 
-
+---
 ---
 **In addition** to WizardAmigos lessons, we recommend you to check out the following resources:
 
-
-
 ---
+
 # HTML
----
-
-
 
 >## INTRODUCTION
 
@@ -80,13 +79,9 @@
 [SVG notes](https://github.com/cyberwizardinstitute/workshops/blob/master/svg.markdown),
 [Demo project - wizard logo](https://github.com/wizardamigosinstitute/organization/blob/master/ASSETS/logo.js)
 
-
-
 ---
+
 # CSS
----
-
-
 
 >## INTRODUCTION
 
@@ -166,13 +161,9 @@
 [Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp),
 [Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
-
-
 ---
+
 # JAVASCRIPT 
----
-
-
 
 >## GAMES
 
@@ -199,7 +190,6 @@
 [Case sensitivity in variables](https://www.freecodecamp.com/challenges/understanding-case-sensitivity-in-variables),
 [Assignement operator](https://www.freecodecamp.com/challenges/storing-values-with-the-assignment-operator),
 [Initializing variable with assignement operator](https://www.freecodecamp.com/challenges/initializing-variables-with-the-assignment-operator) 
-
 
 >## DATA TYPES
 
@@ -353,13 +343,8 @@
 [JavaScript JSON](https://www.w3schools.com/js/js_json.asp),
 [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
-
-
 ---
 # DOM
----
-
-
 
 >## OVERVIEW
 
@@ -374,13 +359,8 @@
 [Dom - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/dom.markdown),
 [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
-
-
 ---
 # NPM [requirement: terminal, javascript, html, css, dom]
----
-
-
 
 >## OVERVIEW
 
@@ -393,37 +373,27 @@
 [Modules: BEL](https://www.npmjs.com/package/bel)
 [Modules: CSJS](https://www.npmjs.com/package/csjs-inject)
 
-
 ---
+
 # GIT
----
-
-
 
 >## OVERVIEW
 
 [Notes on Git and Github](https://github.com/cyberwizardinstitute/workshops/blob/master/git.markdown),
 [Git-it tutoriar](http://jlord.us/git-it/challenges/get_git.html)
 
-
-
 ---
+
 # UNIX & COMMAND LINE
----
-
-
 
 >## OVERVIEW
 
 [Unix & Command Line - video](https://www.youtube.com/watch?v=BhPRiSLmxis),
 [Unix & Command Line - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown)
 
-
 ---
+
 # P2P (PEER-TO-PEER) WEB
----
-
-
 
 >## OVERVIEW
 
@@ -433,11 +403,8 @@
 [SCUTTLEBOT](https://github.com/ssbc/scuttlebot)
 
 ---
----
-# PROGRAMMING CONCEPTS 
----
----
 
+# PROGRAMMING CONCEPTS 
 
 >## COMPUTER SCIENCE THEORY
 [Programming, computer architecture and design etc.](https://teachyourselfcs.com/)
