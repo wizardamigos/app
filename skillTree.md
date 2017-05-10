@@ -4,10 +4,10 @@
 # :candy::candy::candy::candy::candy: WIZARD AMIGOS APP :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: JAVASCRIPT LESSONS FOR CYBER NOMADS 
-[WizardAmigos - video lessons with support chat for cyber nomads >>](http://app.wizardamigos.com)
-* hypermodular development
-* NPM modules
-* no jQuery
+:pineapple: :watermelon: [WizardAmigos - video lessons with support chat >>](http://app.wizardamigos.com) :watermelon: :pineapple:
+* :sparkles: hypermodular development
+* :sparkles: NPM modules
+* :sparkles: no jQuery
 
 ---
 ---
