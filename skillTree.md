@@ -1,7 +1,7 @@
                                                      SKILL TREE
                                             RESOURCES FOR LEARNING JAVASCRIPT
                                       
-# WIZARD AMIGOS APP
+# :candy::candy::candy::candy::candy: WIZARD AMIGOS APP :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: JAVASCRIPT LESSONS FOR CYBER NOMADS 
 [WizardAmigos - video lessons with support chat for cyber nomads >>](http://app.wizardamigos.com)
@@ -15,7 +15,7 @@
 
 ---
 
-# HANDS ON PROJECTS
+# :candy::candy::candy::candy::candy: HANDS ON PROJECTS :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: PROJECTS/DEMOS
 [E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)
@@ -32,7 +32,7 @@
 
 ---
 
-# HTML
+# :candy::candy::candy::candy::candy: HTML :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: INTRODUCTION
 
@@ -98,7 +98,7 @@
 
 ---
 
-# CSS
+# :candy::candy::candy::candy::candy: CSS :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: INTRODUCTION
 
@@ -180,7 +180,7 @@
 
 ---
 
-# JAVASCRIPT 
+# :candy::candy::candy::candy::candy: JAVASCRIPT :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: GAMES
 
@@ -361,7 +361,7 @@
 [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 ---
-# DOM
+# :candy::candy::candy::candy::candy: DOM :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: OVERVIEW
 
@@ -377,7 +377,7 @@
 [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 ---
-# NPM [requirement: terminal, javascript, html, css, dom]
+# :candy::candy::candy::candy::candy: NPM :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: OVERVIEW
 
@@ -392,7 +392,7 @@
 
 ---
 
-# GIT
+# :candy::candy::candy::candy::candy: GIT :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: OVERVIEW
 
@@ -401,7 +401,7 @@
 
 ---
 
-# UNIX & COMMAND LINE
+# :candy::candy::candy::candy::candy: UNIX & COMMAND LINE :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: OVERVIEW
 
@@ -410,7 +410,7 @@
 
 ---
 
-# P2P (PEER-TO-PEER) WEB
+# :candy::candy::candy::candy::candy: P2P (PEER-TO-PEER) WEB :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: OVERVIEW
 
@@ -421,7 +421,7 @@
 
 ---
 
-# PROGRAMMING CONCEPTS 
+# :candy::candy::candy::candy::candy: PROGRAMMING CONCEPTS :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: COMPUTER SCIENCE THEORY
 [Programming, computer architecture and design etc.](https://teachyourselfcs.com/)
