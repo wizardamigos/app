@@ -15,6 +15,18 @@
 
 ---
 
+# HANDS ON PROJECTS
+
+>## PROJECTS/DEMOS
+[E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)
+[Portfolio](https://codepen.io/ninabreznik/pen/OmQYdb)
+[Quiz](https://codepen.io/ninabreznik/pen/ybvWdE)
+[Gallery](https://codepen.io/serapath/pen/dWXBNR?editors=0010)
+[Add attachment](https://codepen.io/serapath/pen/MmrjOm?editors=0010)
+[Wizard Logo SVG](https://codepen.io/ninabreznik/pen/VbQJWK)
+
+---
+
 # HTML
 
 >## INTRODUCTION
