@@ -17,7 +17,7 @@
 
 # :candy::candy::candy::candy::candy: HANDS ON PROJECTS :candy::candy::candy::candy::candy:
 
->## :crystal_ball: PROJECTS/DEMOS
+>## :crystal_ball: PROJECT EXAMPLES
 [E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)
 
 [Portfolio](https://codepen.io/ninabreznik/pen/OmQYdb)
