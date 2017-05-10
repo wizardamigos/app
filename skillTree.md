@@ -49,47 +49,47 @@
 [Head](https://www.w3schools.com/html/html_head.asp)
 
 
->## LAYOUT
+>## :crystal_ball: LAYOUT
 
 [HTML layout](https://www.w3schools.com/html/html_layout.asp)
 
->## ATTRIBUTES
+>## :crystal_ball: ATTRIBUTES
 
 [HTML attributes](https://www.w3schools.com/html/html_attributes.asp),
 [Classes](https://www.w3schools.com/html/html_classes.asp)
 
->## LINKS
+>## :crystal_ball: LINKS
 
 [Links](https://www.w3schools.com/html/html_links.asp),
 [File paths](https://www.w3schools.com/html/html_filepaths.asp)
 
->## IMAGES
+>## :crystal_ball: IMAGES
 
 [Images](https://www.w3schools.com/html/html_images.asp),
 [HTML images](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-images),
 [Turn an Image into a Link](https://www.freecodecamp.com/challenges/turn-an-image-into-a-link)
 
->## VIDEOS
+>## :crystal_ball: VIDEOS
 
 [Videos](https://www.w3schools.com/html/html5_video.asp),
 [YouTube](https://www.w3schools.com/html/html_youtube.asp)
 
->## TABLES
+>## :crystal_ball: TABLES
 
 [Tables](https://www.w3schools.com/html/html_tables.asp)
 
->## LISTS
+>## :crystal_ball: LISTS
 
 [Lists](https://www.w3schools.com/html/html_lists.asp),
 [HTML lists](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-lists)
 
->## FORMS
+>## :crystal_ball: FORMS
 
 [Forms](https://www.w3schools.com/html/html_forms.asp),
 [Form elements](https://www.w3schools.com/html/html_form_elements.asp),
 [Input types](https://www.w3schools.com/html/html_form_input_types.asp)
 
->## SVG
+>## :crystal_ball: SVG
 
 [Basics about SVG](https://www.w3schools.com/html/html5_svg.asp)
 [SVG - video](https://www.youtube.com/watch?v=CDnbIvR6JrI),
@@ -100,12 +100,12 @@
 
 # CSS
 
->## INTRODUCTION
+>## :crystal_ball: INTRODUCTION
 
 [Intro to CSS](https://www.w3schools.com/css/default.asp),
 [CSS basics](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics)
 
->## SELECTORS
+>## :crystal_ball: SELECTORS
 
 [CSS syntax](https://www.w3schools.com/css/css_syntax.asp),
 [Use CSS Selectors to Style Elements](https://www.freecodecamp.com/challenges/use-css-selectors-to-style-elements),
@@ -113,7 +113,7 @@
 [Style Multiple Elements with a CSS Class](https://www.freecodecamp.com/challenges/style-multiple-elements-with-a-css-class),
 [Use an ID Attribute to Style an Element](https://www.freecodecamp.com/challenges/use-an-id-attribute-to-style-an-element)
 
->## STYLING
+>## :crystal_ball: STYLING
 
 [Colors](https://www.w3schools.com/css/css_colors.asp),
 [Background color](https://www.w3schools.com/css/css_background.asp),
@@ -140,7 +140,7 @@
 [Use Clockwise Notation to Specify the Padding of an Element](https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-padding-of-an-element),
 [Use Clockwise Notation to Specify the Margin of an Element](https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element)
 
->## FONTS
+>## :crystal_ball: FONTS
 
 [CSS fonts](https://www.w3schools.com/css/css_font.asp),
 [Text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals),
@@ -150,12 +150,12 @@
 [Specify How Fonts Should Degrade](https://www.freecodecamp.com/challenges/specify-how-fonts-should-degrade),
 [Google fonts documentation and example](https://fonts.google.com/selection?selection.family=Baloo+Bhaina)
 
->## ICONS
+>## :crystal_ball: ICONS
 
 [CSS icons](https://www.w3schools.com/css/css_icons.asp),
 [Fontawesome documentation and example](http://fontawesome.io/examples/)
 
->## LAYOUT AND VISIBILITY
+>## :crystal_ball: LAYOUT AND VISIBILITY
 
 [Display visibility](https://www.w3schools.com/css/css_display_visibility.asp),
 [Position](https://www.w3schools.com/css/css_positioning.asp),
@@ -168,11 +168,11 @@
 [Flexbox game tutorial](http://flexboxfroggy.com/),
 [CSS Grid](http://cssgridgarden.com/)
 
->## ANIMATIONS
+>## :crystal_ball: ANIMATIONS
 
 [Intro to animations](https://www.w3schools.com/css/css3_animations.asp)
 
->## RESPONSIVE WEB DESIGN
+>## :crystal_ball: RESPONSIVE WEB DESIGN
 
 [Responsive web design intro](https://www.w3schools.com/css/css_rwd_intro.asp),
 [Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp),
@@ -182,23 +182,23 @@
 
 # JAVASCRIPT 
 
->## GAMES
+>## :crystal_ball: GAMES
 
 [Code Combat - learn how to code by playing a game](https://www.codecombat.com)
 
->## INTRODUCTION
+>## :crystal_ball: INTRODUCTION
 
 [Intro](https://www.w3schools.com/js/js_intro.asp)
 
->## JAVASCRIPT SYNTAX RULES
+>## :crystal_ball: JAVASCRIPT SYNTAX RULES
 
 [JS syntax](https://www.w3schools.com/js/js_syntax.asp)
 
->## COMMENTS
+>## :crystal_ball: COMMENTS
 
 [Comment your JS code](https://www.freecodecamp.com/challenges/comment-your-javascript-code)
 
->## VARIABLES
+>## :crystal_ball: VARIABLES
 
 [JS variables](https://www.w3schools.com/js/js_variables.asp),
 [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables),
@@ -208,11 +208,11 @@
 [Assignement operator](https://www.freecodecamp.com/challenges/storing-values-with-the-assignment-operator),
 [Initializing variable with assignement operator](https://www.freecodecamp.com/challenges/initializing-variables-with-the-assignment-operator) 
 
->## DATA TYPES
+>## :crystal_ball: DATA TYPES
 
 [JS datatypes](https://www.w3schools.com/js/js_datatypes.asp)
 
->## NUMBERS 
+>## :crystal_ball: NUMBERS 
 
 [JS operators](https://www.w3schools.com/js/js_operators.asp),
 [Numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math),
@@ -228,7 +228,7 @@
 [Remainder - modulo](https://www.freecodecamp.com/challenges/finding-a-remainder-in-javascript),
 [Augmented addition](https://www.freecodecamp.com/challenges/compound-assignment-with-augmented-addition)
 
->## STRINGS
+>## :crystal_ball: STRINGS
 
 [Handling text - strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings),
 [Useful string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods),
@@ -248,7 +248,7 @@
 [Find the N-th character in a string](https://www.freecodecamp.com/challenges/use-bracket-notation-to-find-the-nthtolast-character-in-a-string),
 [Reverse a String](https://www.freecodecamp.com/challenges/reverse-a-string)
 
->## ARRAYS
+>## :crystal_ball: ARRAYS
 
 [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 [JS Arrays](https://www.w3schools.com/js/js_arrays.asp),
@@ -270,12 +270,12 @@
 [Join Strings with join](https://www.freecodecamp.com/challenges/join-strings-with-join),
 [Condense arrays with reduce](https://www.freecodecamp.com/challenges/condense-arrays-with-reduce)
 
->## BOOLEAN
+>## :crystal_ball: BOOLEAN
 
 [JS booleans](https://www.w3schools.com/js/js_booleans.asp),
 [Boolean values](https://www.freecodecamp.com/challenges/understanding-boolean-values)
 
->## COMPARISONS
+>## :crystal_ball: COMPARISONS
 
 [Comparisons](https://www.w3schools.com/js/js_comparisons.asp),
 [Comparison with the Equality Operator](https://www.freecodecamp.com/challenges/comparison-with-the-equality-operator),
@@ -285,7 +285,7 @@
 [Comparisons with the Logical And Operator](https://www.freecodecamp.com/challenges/comparisons-with-the-logical-and-operator),
 [Comparisons with the Logical Or Operator](https://www.freecodecamp.com/challenges/comparisons-with-the-logical-or-operator)
 
->## CONDITIONS
+>## :crystal_ball: CONDITIONS
 
 [JavaScript If...Else Statements](https://www.w3schools.com/js/js_if_else.asp),
 [Conditional logic with If statement](https://www.freecodecamp.com/challenges/use-conditional-logic-with-if-statements),
@@ -294,7 +294,7 @@
 [Logical Order in If Else Statements](https://www.freecodecamp.com/challenges/logical-order-in-if-else-statements),
 [Chaining If Else Statements](https://www.freecodecamp.com/challenges/chaining-if-else-statements)
 
->## LOOPS
+>## :crystal_ball: LOOPS
 
 [For loop](https://www.w3schools.com/js/js_loop_for.asp), 
 [While loop](https://www.w3schools.com/js/js_loop_while.asp),
@@ -305,7 +305,7 @@
 [Nesting For Loops](https://www.freecodecamp.com/challenges/nesting-for-loops),
 [Iterate with JavaScript While Loops](https://www.freecodecamp.com/challenges/iterate-with-javascript-while-loops)
 
->## OBJECTS
+>## :crystal_ball: OBJECTS
 
 [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects),
 [JavaScript Objects](https://www.w3schools.com/js/js_object_definition.asp),
@@ -325,7 +325,7 @@
 [Declare JavaScript Objects as Variables](https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables),
 [Construct JavaScript Objects with Functions](https://www.freecodecamp.com/challenges/construct-javascript-objects-with-functions) [requirement: functions]
 
->## FUNCTIONS
+>## :crystal_ball: FUNCTIONS
 
 [JS functions](https://www.w3schools.com/js/js_functions.asp),
 [JS function definition](https://www.w3schools.com/js/js_function_definition.asp),
@@ -340,14 +340,14 @@
 [Functions - reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions),
 [Javascripting tutorial](https://github.com/workshopper/javascripting) [requirement: terminal, NPM]
 
->## SCOPE
+>## :crystal_ball: SCOPE
 
 [JS scope](https://www.w3schools.com/js/js_scope.asp),
 [Global scope and functions](https://www.freecodecamp.com/challenges/global-scope-and-functions),
 [Local scope and functions](https://www.freecodecamp.com/challenges/local-scope-and-functions),
 [Global vs local scope in functions](https://www.freecodecamp.com/challenges/global-vs-local-scope-in-functions)
 
->## REGULAR EXPRESSIONS
+>## :crystal_ball: REGULAR EXPRESSIONS
 
 [Sift through Text with Regular Expressions](https://www.freecodecamp.com/challenges/sift-through-text-with-regular-expressions),
 [Find Numbers with Regular Expressions](https://www.freecodecamp.com/challenges/find-numbers-with-regular-expressions),
@@ -355,7 +355,7 @@
 [Invert Regular Expression Matches with JavaScript](https://www.freecodecamp.com/challenges/invert-regular-expression-matches-with-javascript), 
 [JavaScript Regular Expressions](https://www.w3schools.com/js/js_regexp.asp)
 
->## JSON
+>## :crystal_ball: JSON
 
 [JavaScript JSON](https://www.w3schools.com/js/js_json.asp),
 [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
@@ -363,7 +363,7 @@
 ---
 # DOM
 
->## OVERVIEW
+>## :crystal_ball: OVERVIEW
 
 [Intro to DOM](https://www.w3schools.com/js/js_htmldom.asp),
 [DOM methods](https://www.w3schools.com/js/js_htmldom_methods.asp),
@@ -379,7 +379,7 @@
 ---
 # NPM [requirement: terminal, javascript, html, css, dom]
 
->## OVERVIEW
+>## :crystal_ball: OVERVIEW
 
 [What is NPM](https://docs.npmjs.com/getting-started/what-is-npm),
 [Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node),
@@ -394,7 +394,7 @@
 
 # GIT
 
->## OVERVIEW
+>## :crystal_ball: OVERVIEW
 
 [Notes on Git and Github](https://github.com/cyberwizardinstitute/workshops/blob/master/git.markdown),
 [Git-it tutoriar](http://jlord.us/git-it/challenges/get_git.html)
@@ -403,7 +403,7 @@
 
 # UNIX & COMMAND LINE
 
->## OVERVIEW
+>## :crystal_ball: OVERVIEW
 
 [Unix & Command Line - video](https://www.youtube.com/watch?v=BhPRiSLmxis),
 [Unix & Command Line - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown)
@@ -412,7 +412,7 @@
 
 # P2P (PEER-TO-PEER) WEB
 
->## OVERVIEW
+>## :crystal_ball: OVERVIEW
 
 [NodeUp Podcast](http://nodeup.com/sixtynine)
 [Workshop](https://github.com/mafintosh/p2p-workshop)
@@ -423,6 +423,6 @@
 
 # PROGRAMMING CONCEPTS 
 
->## COMPUTER SCIENCE THEORY
+>## :crystal_ball: COMPUTER SCIENCE THEORY
 [Programming, computer architecture and design etc.](https://teachyourselfcs.com/)
 
