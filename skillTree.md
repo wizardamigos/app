@@ -3,7 +3,7 @@
                                       
 # WIZARD AMIGOS APP
 
->## JAVASCRIPT LESSONS FOR CYBER NOMADS 
+>## :crystal_ball: JAVASCRIPT LESSONS FOR CYBER NOMADS 
 [WizardAmigos - video lessons with support chat for cyber nomads >>](http://app.wizardamigos.com)
 * hypermodular development
 * NPM modules
@@ -17,7 +17,7 @@
 
 # HANDS ON PROJECTS
 
->## PROJECTS/DEMOS
+>## :crystal_ball: PROJECTS/DEMOS
 [E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)
 
 [Portfolio](https://codepen.io/ninabreznik/pen/OmQYdb)
@@ -34,12 +34,12 @@
 
 # HTML
 
->## INTRODUCTION
+>## :crystal_ball: INTRODUCTION
 
 [HTML basics](https://www.w3schools.com/html/html_basic.asp),
 [Intro to HTML](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-basics)
 
->## ELEMENTS
+>## :crystal_ball: ELEMENTS
 
 [Say hello to HTML elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements),
 [HTML elements](https://www.w3schools.com/html/html_elements.asp),
