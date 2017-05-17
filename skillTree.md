@@ -4,20 +4,16 @@
 # :candy::candy::candy::candy::candy: WIZARD AMIGOS APP :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: JAVASCRIPT LESSONS FOR CYBER NOMADS 
-:pineapple: :watermelon: [WizardAmigos - video lessons with support chat >>](http://app.wizardamigos.com) :watermelon: :pineapple:
+
 * :sparkles: hypermodular development
 * :sparkles: NPM modules
 * :sparkles: no jQuery
 
-[Check WizardAmigos app and learn with our community from Germany, Taiwan, Thailand, Slovenia etc. >>](http://app.wizardamigos.com)
-
----
----
-**In addition** to WizardAmigos lessons, we recommend you to check out the following resources:
+:pineapple: :watermelon: [WizardAmigos - video lessons with support chat >>](http://app.wizardamigos.com) :watermelon: :pineapple:
 
 ---
 
-# :candy::candy::candy::candy::candy: HANDS ON PROJECTS :candy::candy::candy::candy::candy:
+# :candy::candy::candy::candy::candy: HANDS ON PROJECTS by WizardAmigos :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: PROJECT EXAMPLES
 [E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)
@@ -31,6 +27,10 @@
 [Add attachment](https://codepen.io/serapath/pen/MmrjOm?editors=0010)
 
 [Wizard Logo SVG](https://codepen.io/ninabreznik/pen/VbQJWK)
+
+---
+---
+**In addition** to WizardAmigos lessons, we recommend you to check out the following resources:
 
 ---
 
