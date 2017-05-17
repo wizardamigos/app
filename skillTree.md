@@ -13,8 +13,6 @@
 
 ---
 
-# :candy::candy::candy::candy::candy: HANDS ON PROJECTS by WizardAmigos :candy::candy::candy::candy::candy:
-
 >## :crystal_ball: PROJECT EXAMPLES
 [E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)
 
