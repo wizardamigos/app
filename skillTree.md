@@ -10,6 +10,7 @@
 * :sparkles: no jQuery
 
 [Check WizardAmigos app and learn with our community from Germany, Taiwan, Thailand, Slovenia etc. >>](http://app.wizardamigos.com)
+
 ---
 ---
 **In addition** to WizardAmigos lessons, we recommend you to check out the following resources:
