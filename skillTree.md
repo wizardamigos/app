@@ -387,6 +387,12 @@
 [NPM and using npm modules - video](https://www.youtube.com/watch?v=B-IRNyMdYD0),
 [NPM and using npm modules - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/require_modules.md),
 [How to NPM](https://github.com/workshopper/how-to-npm)
+
+>## :crystal_ball: modules in the browser
+[browserify basics](https://www.youtube.com/watch?v=CTAa8IcQh1U)
+[browserify advanced](https://www.youtube.com/watch?v=Uk2bgp8OLT8)
+
+>## :crystal_ball: cool modules
 [Modules: BEL](https://www.npmjs.com/package/bel)
 [Modules: CSJS](https://www.npmjs.com/package/csjs-inject)
 
