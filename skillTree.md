@@ -381,6 +381,7 @@
 
 >## :crystal_ball: OVERVIEW
 
+[What are modules](https://github.com/cyberwizardinstitute/workshops/blob/master/require_modules.md)
 [What is NPM](https://docs.npmjs.com/getting-started/what-is-npm),
 [Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node),
 [Manage Packages with npm](https://www.freecodecamp.com/challenges/manage-packages-with-npm),
