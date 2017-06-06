@@ -431,5 +431,6 @@
 # :candy::candy::candy::candy::candy: PROGRAMMING CONCEPTS :candy::candy::candy::candy::candy:
 
 >## :crystal_ball: COMPUTER SCIENCE THEORY
+[Path to a free self-taught education in Computer Science](https://github.com/open-source-society/computer-science)
 [Programming, computer architecture and design etc.](https://teachyourselfcs.com/)
 
