@@ -1,13 +1,15 @@
                                                      SKILL TREE
                                             RESOURCES FOR LEARNING JAVASCRIPT
 
+* video lessons
+* tutorials 
+* additional resources
+
 # :candy: WIZARD AMIGOS APP :candy:
 
 >## :crystal_ball: JAVASCRIPT LESSONS FOR CYBER NOMADS
 
-* hypermodular development
-* NPM modules
-* no jQuery
+Video lessons for complete beginners: play a game to learn basic JavaScript syntax and at the end of the tutorial learn how to build a portfolio page and your first mobile app.
 
 :pineapple: :watermelon: [WizardAmigos - video lessons with support chat >>](http://app.wizardamigos.com) :watermelon: :pineapple:
 
