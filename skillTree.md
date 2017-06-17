@@ -1,19 +1,17 @@
                                                      SKILL TREE
                                             RESOURCES FOR LEARNING JAVASCRIPT
 
-# :candy::candy::candy::candy::candy: WIZARD AMIGOS APP :candy::candy::candy::candy::candy:
+# :candy: WIZARD AMIGOS APP :candy:
 
 >## :crystal_ball: JAVASCRIPT LESSONS FOR CYBER NOMADS
 
-* :sparkles: hypermodular development
-* :sparkles: NPM modules
-* :sparkles: no jQuery
+* hypermodular development
+* NPM modules
+* no jQuery
 
 :pineapple: :watermelon: [WizardAmigos - video lessons with support chat >>](http://app.wizardamigos.com) :watermelon: :pineapple:
 
----
-
->## :crystal_ball: PROJECT EXAMPLES
+>## :crystal_ball: TUTORIALS
 
 [How to use CodePen for building simple projects](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/codepen.md)
 
