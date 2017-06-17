@@ -8,12 +8,8 @@
 ![Create new pen](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen2.png?raw=true)
 
 ---
-## Minimize CSS section
-![Minimize CSS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen3.png?raw=true)
-
----
-## Minimize HTML section
-![Minimize HTML section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen4.png?raw=true)
+## Maximize JS section
+![Double click grey border to maximize JS section]()
 
 ---
 ## Click settings in JS section
