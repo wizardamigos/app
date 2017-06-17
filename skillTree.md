@@ -1,9 +1,9 @@
                                                      SKILL TREE
                                             RESOURCES FOR LEARNING JAVASCRIPT
-                                      
+
 # :candy::candy::candy::candy::candy: WIZARD AMIGOS APP :candy::candy::candy::candy::candy:
 
->## :crystal_ball: JAVASCRIPT LESSONS FOR CYBER NOMADS 
+>## :crystal_ball: JAVASCRIPT LESSONS FOR CYBER NOMADS
 
 * :sparkles: hypermodular development
 * :sparkles: NPM modules
@@ -14,17 +14,23 @@
 ---
 
 >## :crystal_ball: PROJECT EXAMPLES
+
+[How to use CodePen for building simple projects](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/codepen.md)
+
 [E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)
 
-[Portfolio](https://codepen.io/ninabreznik/pen/OmQYdb)
+[Portfolio page](https://codepen.io/ninabreznik/pen/OmQYdb)
 
-[Quiz](https://codepen.io/ninabreznik/pen/ybvWdE)
+[Quiz app](https://codepen.io/ninabreznik/pen/ybvWdE)
 
 [Gallery](https://codepen.io/serapath/pen/dWXBNR?editors=0010)
 
+[Wizard Logo SVG](https://codepen.io/ninabreznik/pen/VbQJWK)
+
 [Add attachment](https://codepen.io/serapath/pen/MmrjOm?editors=0010)
 
-[Wizard Logo SVG](https://codepen.io/ninabreznik/pen/VbQJWK)
+[How to run a project locally](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/newProject.md)
+
 
 ---
 ---
@@ -206,13 +212,13 @@
 [Declare JavaScript variables](https://www.freecodecamp.com/challenges/declare-javascript-variables),
 [Case sensitivity in variables](https://www.freecodecamp.com/challenges/understanding-case-sensitivity-in-variables),
 [Assignement operator](https://www.freecodecamp.com/challenges/storing-values-with-the-assignment-operator),
-[Initializing variable with assignement operator](https://www.freecodecamp.com/challenges/initializing-variables-with-the-assignment-operator) 
+[Initializing variable with assignement operator](https://www.freecodecamp.com/challenges/initializing-variables-with-the-assignment-operator)
 
 >## :crystal_ball: DATA TYPES
 
 [JS datatypes](https://www.w3schools.com/js/js_datatypes.asp)
 
->## :crystal_ball: NUMBERS 
+>## :crystal_ball: NUMBERS
 
 [JS operators](https://www.w3schools.com/js/js_operators.asp),
 [Numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math),
@@ -296,7 +302,7 @@
 
 >## :crystal_ball: LOOPS
 
-[For loop](https://www.w3schools.com/js/js_loop_for.asp), 
+[For loop](https://www.w3schools.com/js/js_loop_for.asp),
 [While loop](https://www.w3schools.com/js/js_loop_while.asp),
 [Iterate with JavaScript For Loops](https://www.freecodecamp.com/challenges/iterate-with-javascript-for-loops),
 [Iterate Odd Numbers With a For Loop](https://www.freecodecamp.com/challenges/iterate-odd-numbers-with-a-for-loop),
@@ -352,7 +358,7 @@
 [Sift through Text with Regular Expressions](https://www.freecodecamp.com/challenges/sift-through-text-with-regular-expressions),
 [Find Numbers with Regular Expressions](https://www.freecodecamp.com/challenges/find-numbers-with-regular-expressions),
 [Find Whitespace with Regular Expressions](https://www.freecodecamp.com/challenges/find-whitespace-with-regular-expressions),
-[Invert Regular Expression Matches with JavaScript](https://www.freecodecamp.com/challenges/invert-regular-expression-matches-with-javascript), 
+[Invert Regular Expression Matches with JavaScript](https://www.freecodecamp.com/challenges/invert-regular-expression-matches-with-javascript),
 [JavaScript Regular Expressions](https://www.w3schools.com/js/js_regexp.asp)
 
 >## :crystal_ball: JSON
@@ -433,4 +439,3 @@
 >## :crystal_ball: COMPUTER SCIENCE THEORY
 [Path to a free self-taught education in Computer Science](https://github.com/open-source-society/computer-science)
 [Programming, computer architecture and design etc.](https://teachyourselfcs.com/)
-
