@@ -27,10 +27,11 @@
 
 [Wizard Logo SVG](https://codepen.io/ninabreznik/pen/VbQJWK)
 
-[Add attachment](https://codepen.io/serapath/pen/MmrjOm?editors=0010)
+[SVG Graph](https://codepen.io/pepebecker/pen/YQNNYv?editors=0010)
+
+[Attach a file](https://codepen.io/serapath/pen/MmrjOm?editors=0010)
 
 [How to run a project locally](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/newProject.md)
-
 
 ---
 ---
