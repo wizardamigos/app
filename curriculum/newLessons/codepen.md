@@ -8,9 +8,10 @@
 ![Create new pen](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen2.png?raw=true)
 
 ---
-## Double click grey border to maximize JS section
+## Double click grey border...
 ![Double click grey border](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen4.png?raw=true)
 
+## to maximize JS section
 ![Maximize JS selection](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen5.png?raw=true)
 
 ---
@@ -32,6 +33,7 @@ https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/389f01f5042
 ![Copy paste a sample code](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen7.png?raw=true)
 
 ```js
+
 var yo = require('yo-yo')
 /* ---------------------------------------------------
 		COLORS
@@ -95,4 +97,5 @@ function draw () {
 
 var el = yo`<svg viewbox="0 0 100 100" width="800" height="500" >${draw()} </svg>`
 document.body.appendChild(el)
+
 ```
