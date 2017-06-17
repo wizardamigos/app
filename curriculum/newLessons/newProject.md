@@ -20,8 +20,8 @@ cat > package.json
 npm install browserify-livereload ecstatic urify-emitter watchify browserify-livereload browserify opn-cli --save-dev.
 
 # install project dependencies
-npm install bell csjs-inject minixhr --save  // with bell
-npm install yo-yo csjs-inject minixhr --save // with yo-yo
+npm install bell csjs-inject minixhr --save  # with bell
+npm install yo-yo csjs-inject minixhr --save # with yo-yo
 
 cat > index.html
     <html>
