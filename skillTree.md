@@ -368,9 +368,9 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 ---
-# :candy::candy::candy::candy::candy: DOM :candy::candy::candy::candy::candy:
+# :candy::candy::candy::candy::candy: BROWSER :candy::candy::candy::candy::candy:
 
->## :crystal_ball: OVERVIEW
+>## :crystal_ball: DOM
 
 [Intro to DOM](https://www.w3schools.com/js/js_htmldom.asp),
 [DOM methods](https://www.w3schools.com/js/js_htmldom_methods.asp),
@@ -382,6 +382,11 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 [Dom - video](https://www.youtube.com/watch?v=1CJIQF2eL7g),
 [Dom - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/dom.markdown),
 [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+
+>## :crystal_ball: WEBGL/3D
+
+[Skeletal Animation](http://chinedufn.com/webgl-skeletal-animation-tutorial/)
+[Attaching Object to Bones](http://chinedufn.com/attaching-objects-to-bones/)
 
 ---
 # :candy::candy::candy::candy::candy: NPM :candy::candy::candy::candy::candy:
