@@ -12,6 +12,8 @@
 Video lessons for complete beginners: play a game to learn basic JavaScript syntax and at the end of the tutorial learn how to build a portfolio page and your first mobile app.
 
 :pineapple: :watermelon: [WizardAmigos - video lessons with support chat >>](http://app.wizardamigos.com) :watermelon: :pineapple:
+---
+---
 
 >## :crystal_ball: TUTORIALS
 
