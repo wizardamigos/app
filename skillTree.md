@@ -437,6 +437,7 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 [Workshop](https://github.com/mafintosh/p2p-workshop)
 [DAT](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)
 [SCUTTLEBOT](https://github.com/ssbc/scuttlebot)
+[MESH NETWORKS](https://www.youtube.com/watch?v=tYLU755T6_I)
 
 ---
 
