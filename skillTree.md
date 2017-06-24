@@ -385,7 +385,7 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 
 >## :crystal_ball: WEBGL/3D
 
-[Skeletal Animation](http://chinedufn.com/webgl-skeletal-animation-tutorial/)
+[Skeletal Animation](http://chinedufn.com/webgl-skeletal-animation-tutorial/),
 [Attaching Object to Bones](http://chinedufn.com/attaching-objects-to-bones/)
 
 ---
@@ -402,11 +402,11 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 [How to NPM](https://github.com/workshopper/how-to-npm)
 
 >## :crystal_ball: modules in the browser
-[browserify basics](https://www.youtube.com/watch?v=CTAa8IcQh1U)
+[browserify basics](https://www.youtube.com/watch?v=CTAa8IcQh1U),
 [browserify advanced](https://www.youtube.com/watch?v=Uk2bgp8OLT8)
 
 >## :crystal_ball: cool modules
-[Modules: BEL](https://www.npmjs.com/package/bel)
+[Modules: BEL](https://www.npmjs.com/package/bel),
 [Modules: CSJS](https://www.npmjs.com/package/csjs-inject)
 
 ---
@@ -416,6 +416,7 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 >## :crystal_ball: OVERVIEW
 
 [Notes on Git and Github](https://github.com/cyberwizardinstitute/workshops/blob/master/git.markdown),
+
 [Git-it tutoriar](http://jlord.us/git-it/challenges/get_git.html)
 
 ---
@@ -425,6 +426,7 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 >## :crystal_ball: OVERVIEW
 
 [Unix & Command Line - video](https://www.youtube.com/watch?v=BhPRiSLmxis),
+
 [Unix & Command Line - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown)
 
 ---
@@ -434,9 +436,13 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 >## :crystal_ball: OVERVIEW
 
 [NodeUp Podcast](http://nodeup.com/sixtynine)
+
 [Workshop](https://github.com/mafintosh/p2p-workshop)
+
 [DAT](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)
+
 [SCUTTLEBOT](https://github.com/ssbc/scuttlebot)
+
 [MESH NETWORKS](https://www.youtube.com/watch?v=tYLU755T6_I)
 
 ---
@@ -445,4 +451,5 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 
 >## :crystal_ball: COMPUTER SCIENCE THEORY
 [Path to a free self-taught education in Computer Science](https://github.com/open-source-society/computer-science)
+
 [Programming, computer architecture and design etc.](https://teachyourselfcs.com/)
