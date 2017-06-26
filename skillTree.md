@@ -19,6 +19,8 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 
 [How to use CodePen for building simple projects](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/codepen.md)
 
+[How to spin things](https://codepen.io/ninabreznik/pen/eRGqGw)
+
 [E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)
 
 [Portfolio page](https://codepen.io/ninabreznik/pen/OmQYdb)
