@@ -1,2 +1,2 @@
-# service
-elearning app
+# app
+JavaScript elearning app
