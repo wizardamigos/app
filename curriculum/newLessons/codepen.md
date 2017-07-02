@@ -20,9 +20,7 @@
 
 ---
 ## Paste the link & click close
-```
-https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/389f01f5042b490569f956ca2748567f00fade7e/require.js
-```
+Get the link from [here](https://gist.github.com/serapath/e2b55cab315e60fbbffea7b43acd8749)
 
 ![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
 
