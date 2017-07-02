@@ -19,8 +19,7 @@
 ![Click settings in JS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
 
 ---
-## Paste the link & click close
-Get the link from [here](https://gist.github.com/serapath/e2b55cab315e60fbbffea7b43acd8749)
+## `Copy/Paste the the link from [here](https://gist.github.com/serapath/e2b55cab315e60fbbffea7b43acd8749)`
 
 ![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
 
