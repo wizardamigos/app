@@ -440,6 +440,8 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 
 >## :crystal_ball: OVERVIEW
 
+[Working offline as a JavaScript developer](https://github.com/wizardamigos/app/blob/master/curriculum/newLessons/workingOffline.md)
+
 [NodeUp Podcast](http://nodeup.com/sixtynine)
 
 [Workshop](https://github.com/mafintosh/p2p-workshop)
