@@ -49,5 +49,4 @@ Beaker enables you to: share personal files, make webpages, hack on P2P apps or 
 
 [**productivity tips for an offline world** by @substack](https://gateway.ipfs.io/ipfs/Qmd1WxsvA4TywxonCWJEPxQa3TXE52bXh1tAGuJwzJ36cN)
 
-[**working offline as JavaScript dev** by @derhuerst]
-(https://gist.github.com/derhuerst/014fe183bbf827645ffbd14f632da764)
+[**working offline as JavaScript dev** by @derhuerst](https://gist.github.com/derhuerst/014fe183bbf827645ffbd14f632da764)
