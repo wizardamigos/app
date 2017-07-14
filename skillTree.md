@@ -224,6 +224,9 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 
 [JS datatypes](https://www.w3schools.com/js/js_datatypes.asp)
 
+>## :crystal_ball: DATA STRUCTURES
+[10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b?gi=6ed2ca4245f4)
+
 >## :crystal_ball: NUMBERS
 
 [JS operators](https://www.w3schools.com/js/js_operators.asp),
