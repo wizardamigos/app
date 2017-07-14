@@ -16,7 +16,7 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 ---
 ---
 
->## :crystal_ball: TUTORIALS
+>## :crystal_ball: TUTORIALS/DEMOS
 
 [How to use CodePen for building simple projects](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/codepen.md)
 
