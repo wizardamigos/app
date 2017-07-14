@@ -353,7 +353,8 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 [Assignement with a returned value](https://www.freecodecamp.com/challenges/assignment-with-a-returned-value),
 [Queue](https://www.freecodecamp.com/challenges/stand-in-line),
 [Functions - reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions),
-[Javascripting tutorial](https://github.com/workshopper/javascripting) [requirement: terminal, NPM]
+[Javascripting tutorial](https://github.com/workshopper/javascripting) 
+[Bing/Call/Apply](https://variadic.me/posts/2013-10-22-bind-call-and-apply-in-javascript.html)
 
 >## :crystal_ball: SCOPE
 
