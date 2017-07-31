@@ -6,16 +6,16 @@
 ---
 **This program is totally suitable for absolute beginners :-)**
 
-Programming is the literacy of the future. Not knowing how to program will be like being not able to read & write in todays world.
-In order to not be left behind and to have nice opportunities in your future, it is really important to add this skill to your existing skill set.
-There are many languages you can learn, but in the past years, JavaScript is becoming the English of programming languages.
+Programming is the literacy of the future. It's going to be like reading & writing.
+To not be left behind and to have great opportunities in your future, it is important to add this skill to your existing skillset.
+With Wizard Amigos app you will learn JavaScript - english of programming languages.
 With it, you can build web pages, mobile apps, desktop apps, control drones, do virtual reality, data analysis and much more.
-It is very universal and it is growing in popularity.
+It is universal and it is growing in popularity.
 
 ### First Lesson
-You will get to know all the requirements needed to efficiently learn with Wizard Amigos. Once you sign up, please introduce yourself and feel free to ask any questions. Our community is more than happy to help :-)
+You will get to know the requirements needed to efficiently learn with Wizard Amigos. Once you sign up, please introduce yourself. When you need help, ask, we are happy to help you.
 
-### What's next?
+### With this app you will
 #### 1. Learn the alphabet of JavaScript (syntax, grammar,...)
 Because this is pure theory needs lots of repetition to be memorized, we continue with learning and practicing JavaScript using CodeCombat game. Watch a video, play a level and come back to the app to hear explanation and tricks.
 
