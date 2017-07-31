@@ -4,18 +4,18 @@
   "duration": "2:10"
 }
 ---
-**This program is totally suitable for absolute beginners :-)**
+**This program is suitable for absolute beginners :-)**
 
-Programming is the literacy of the future. It's going to be like reading & writing.
-To not be left behind and to have great opportunities in your future, it is important to add this skill to your existing skillset.
-With Wizard Amigos app you will learn JavaScript - english of programming languages.
-With it, you can build web pages, mobile apps, desktop apps, control drones, do virtual reality, data analysis and much more.
+Programming is the **literacy of the future**. To not be left behind and to have great opportunities in your future, it is important to add this skill to your existing skillset.It's going to be like reading & writing.
+
+With Wizard Amigos app you will learn **JavaScript - english of programming languages**.
+With it, you can **build web pages, mobile apps, desktop apps, control drones, do virtual reality, data analysis and much more**.
 It is universal and it is growing in popularity.
 
-### First Lesson
-You will get to know the requirements needed to efficiently learn with Wizard Amigos. Once you sign up, please introduce yourself. When you need help, ask, we are happy to help you.
+### Introduction lesson (0)
+You will get to know the requirements and how to sign up. Use the chat when you need help, we are happy to help you.
 
-### With this app you will
+### In the next lessons you will:
 #### 1. Learn the alphabet of JavaScript (syntax, grammar,...)
 Because this is pure theory needs lots of repetition to be memorized, we continue with learning and practicing JavaScript using CodeCombat game. Watch a video, play a level and come back to the app to hear explanation and tricks.
 
