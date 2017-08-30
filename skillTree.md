@@ -396,6 +396,7 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 
 [Skeletal Animation](http://chinedufn.com/webgl-skeletal-animation-tutorial/),
 [Attaching Object to Bones](http://chinedufn.com/attaching-objects-to-bones/)
+[Web GL fundamentals](https://webglfundamentals.org/)
 
 ---
 # :candy::candy::candy::candy::candy: NPM :candy::candy::candy::candy::candy:
