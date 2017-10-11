@@ -16,7 +16,7 @@
 ---
 ---
 
->## :crystal_ball: TUTORIALS/DEMOS
+>## :crystal_ball: DEMO CODE EXAMPLES
 
 [How to use CodePen for building simple projects](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/codepen.md)
 
