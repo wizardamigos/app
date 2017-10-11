@@ -9,9 +9,9 @@
 
 >## :crystal_ball: JAVASCRIPT LESSONS FOR CYBER NOMADS
 
-Video lessons for complete beginners: play a game to learn basic JavaScript syntax and at the end of the tutorial learn how to build a portfolio page and your first mobile app.
+**Video lessons for complete beginners**
 
-**[WizardAmigos JavaScript eLearning app (video lessons with support chat)]**(http://app.wizardamigos.com)
+[WizardAmigos JavaScript eLearning app (video lessons with support chat)](http://wizardamigos.com/workshop_app/)
 
 ---
 ---
