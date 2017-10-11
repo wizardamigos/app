@@ -22,6 +22,8 @@ Video lessons for complete beginners: play a game to learn basic JavaScript synt
 
 [How to spin things](https://codepen.io/ninabreznik/pen/eRGqGw)
 
+[Funky animated cube](https://codepen.io/serapath/pen/mBKvqo)
+
 [E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)
 
 [Portfolio page](https://codepen.io/ninabreznik/pen/OmQYdb)
