@@ -2,7 +2,7 @@
                                             RESOURCES FOR LEARNING JAVASCRIPT
 
 * video lessons
-* tutorials 
+* demo code examples 
 * additional resources
 
 # :candy: WIZARD AMIGOS APP :candy:
