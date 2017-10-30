@@ -459,6 +459,8 @@
 
 [MESH NETWORKS](https://www.youtube.com/watch?v=tYLU755T6_I)
 
+[Epidemic Broadcast Trees](https://gist.github.com/ninabreznik/d911e36f3171bc4eb8e14cee2ae76d6e)
+
 ---
 
 # :candy::candy::candy::candy::candy: PROGRAMMING CONCEPTS :candy::candy::candy::candy::candy:
