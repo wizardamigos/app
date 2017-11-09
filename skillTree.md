@@ -20,6 +20,8 @@
 
 [How to use CodePen for building simple projects](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/codepen.md)
 
+[How to do advanced layouts](https://codesandbox.io/s/oqj25z0389)
+
 [How to spin things](https://codepen.io/ninabreznik/pen/eRGqGw)
 
 [Funky animated cube](https://codepen.io/serapath/pen/mBKvqo)
