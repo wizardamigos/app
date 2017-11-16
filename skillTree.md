@@ -276,7 +276,7 @@
 
 |**BOOLEAN**|
 |:-----|   
-[JS booleans](https://www.w3schools.com/js/js_booleans.asp),
+[JS booleans](https://www.w3schools.com/js/js_booleans.asp)
 [Boolean values](https://www.freecodecamp.com/challenges/understanding-boolean-values)
 
 |**COMPARISONS**|
@@ -404,7 +404,7 @@
 |:-----|   
 |[browserify basics](https://www.youtube.com/watch?v=CTAa8IcQh1U)|
 |[browserify advanced](https://www.youtube.com/watch?v=Uk2bgp8OLT8)|
-[Modules: BEL](https://www.npmjs.com/package/bel),
+[Modules: BEL](https://www.npmjs.com/package/bel)
 [Modules: CSJS](https://www.npmjs.com/package/csjs-inject)
 
 ---
