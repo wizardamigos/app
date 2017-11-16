@@ -33,153 +33,6 @@
 
 ---
 
-# :candy::candy::candy::candy::candy: HTML :candy::candy::candy::candy::candy:
-
-|**INTRODUCTION**|
-|:-----| 
-|[HTML basics](https://www.w3schools.com/html/html_basic.asp)|
-|[Intro to HTML](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-basics)|
-
-|**ELEMENTS**|
-|:-----| 
-|[Say hello to HTML elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)|
-|[HTML elements](https://www.w3schools.com/html/html_elements.asp)|
-|[Headings](https://www.w3schools.com/html/html_headings.asp)|
-|[Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)|
-|[Comments](https://www.w3schools.com/html/html_comments.asp)|
-|[Head](https://www.w3schools.com/html/html_head.asp)|
-
-|**LAYOUT**|
-|:-----| 
-|[HTML layout](https://www.w3schools.com/html/html_layout.asp)|
-
-|**ATTRIBUTES**|
-|:-----|  
-|[HTML attributes](https://www.w3schools.com/html/html_attributes.asp)|
-|[Classes](https://www.w3schools.com/html/html_classes.asp)|
-
-|**LINKS**|
-|:-----|   
-|[Links](https://www.w3schools.com/html/html_links.asp)|
-|[File paths](https://www.w3schools.com/html/html_filepaths.asp)|
-
-|**IMAGES**|
-|:-----|   
-|[Images](https://www.w3schools.com/html/html_images.asp)|
-|[HTML images](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-images)|
-|[Turn an Image into a Link](https://www.freecodecamp.com/challenges/turn-an-image-into-a-link)|
-
-|**VIDEOS**|
-|:-----|   
-|[Videos](https://www.w3schools.com/html/html5_video.asp)|
-|[YouTube](https://www.w3schools.com/html/html_youtube.asp)|
-
-|**TABLES**|
-|:-----|   
-|[Tables](https://www.w3schools.com/html/html_tables.asp)|
-
-|**LISTS**|
-|:-----|   
-|[Lists](https://www.w3schools.com/html/html_lists.asp)|
-|[HTML lists](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-lists)|
-
-|**FORMS**|
-|:-----|   
-|[Forms](https://www.w3schools.com/html/html_forms.asp)|
-|[Form elements](https://www.w3schools.com/html/html_form_elements.asp)|
-|[Input types](https://www.w3schools.com/html/html_form_input_types.asp)|
-
-|**SVG**|
-|:-----|   
-|[Basics about SVG](https://www.w3schools.com/html/html5_svg.asp)|
-|[SVG - video](https://www.youtube.com/watch?v=CDnbIvR6JrI)|
-|[SVG notes](https://github.com/cyberwizardinstitute/workshops/blob/master/svg.markdown)|
-|[Demo project - wizard logo](https://github.com/wizardamigosinstitute/organization/blob/master/ASSETS/logo.js)|
-
----
-
-# :candy::candy::candy::candy::candy: CSS :candy::candy::candy::candy::candy:
-
-|**INTRODUCTION**|
-|:-----|   
-|[Intro to CSS](https://www.w3schools.com/css/default.asp)|
-|[CSS basics](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics)|
-
-|**SELECTORS**|
-|:-----|   
-|[CSS syntax](https://www.w3schools.com/css/css_syntax.asp)|
-|[Use CSS Selectors to Style Elements](https://www.freecodecamp.com/challenges/use-css-selectors-to-style-elements)|
-|[Use a CSS Class to Style an Element](https://www.freecodecamp.com/challenges/use-a-css-class-to-style-an-element)|
-|[Style Multiple Elements with a CSS Class](https://www.freecodecamp.com/challenges/style-multiple-elements-with-a-css-class)|
-|[Use an ID Attribute to Style an Element](https://www.freecodecamp.com/challenges/use-an-id-attribute-to-style-an-element)|
-
-|**STYLING**|
-|:-----|   
-|[Colors](https://www.w3schools.com/css/css_colors.asp)|
-|[Background color](https://www.w3schools.com/css/css_background.asp)|
-|[Backgrounds](https://www.w3schools.com/css/css3_backgrounds.asp)|
-|[Opacity](https://www.w3schools.com/css/css_image_transparency.asp)|
-|[Colors with opacity](https://www.w3schools.com/css/css3_colors.asp)|
-|[Border](https://www.w3schools.com/css/css_border.asp)|
-|[Margin](https://www.w3schools.com/css/css_margin.asp)|
-|[Padding](https://www.w3schools.com/css/css_padding.asp)|
-|[Dimension](https://www.w3schools.com/css/css_dimension.asp)|
-|[Max width](https://www.w3schools.com/css/css_max-width.asp)|
-|[Text](https://www.w3schools.com/css/css_text.asp)|
-|[Links](https://www.w3schools.com/css/css_link.asp)|
-|[Lists](https://www.w3schools.com/css/css_list.asp)|
-|[Table](https://www.w3schools.com/css/css_table.asp)|
-|[Dropdown](https://www.w3schools.com/css/css_dropdowns.asp)|
-|[Button](https://www.w3schools.com/css/css3_buttons.asp)|
-|[Change the color of text](https://www.freecodecamp.com/challenges/change-the-color-of-text)|
-|[Adjust the Padding of an Element](https://www.freecodecamp.com/challenges/adjusting-the-padding-of-an-element)|
-|[Adjust the Margin of an Element](https://www.freecodecamp.com/challenges/adjust-the-margin-of-an-element)|
-|[Add a Negative Margin to an Element](https://www.freecodecamp.com/challenges/add-a-negative-margin-to-an-element)|
-|[Add Different Padding to Each Side of an Element](https://www.freecodecamp.com/challenges/add-different-padding-to-each-side-of-an-element)|
-|[Add Different Margins to Each Side of an Element](https://www.freecodecamp.com/challenges/add-different-margins-to-each-side-of-an-element)|
-|[Use Clockwise Notation to Specify the Padding of an Element](https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-padding-of-an-element)|
-|[Use Clockwise Notation to Specify the Margin of an Element](https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element)|
-
-|**FONTS**|
-|:-----|   
-|[CSS fonts](https://www.w3schools.com/css/css_font.asp)|
-|[Text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)|
-|[Change the Font Size of an Element](https://www.freecodecamp.com/challenges/change-the-font-size-of-an-element)|
-|[Set the Font Family of an Element](https://www.freecodecamp.com/challenges/set-the-font-family-of-an-element)|
-|[Import a Google Font](https://www.freecodecamp.com/challenges/import-a-google-font)|
-|[Specify How Fonts Should Degrade](https://www.freecodecamp.com/challenges/specify-how-fonts-should-degrade)|
-|[Google fonts documentation and example](https://fonts.google.com/selection?selection.family=Baloo+Bhaina)|
-
-|**ICONS**|
-|:-----|   
-|[CSS icons](https://www.w3schools.com/css/css_icons.asp)|
-|[Fontawesome documentation and example](http://fontawesome.io/examples/)|
-
-|**LAYOUT AND VISIBILITY**|
-|:-----|   
-|[Display visibility](https://www.w3schools.com/css/css_display_visibility.asp)|
-|[Position](https://www.w3schools.com/css/css_positioning.asp)|
-|[Inline-block](https://www.w3schools.com/css/css_inline-block.asp)|
-|[Align](https://www.w3schools.com/css/css_align.asp)|
-|[Float](https://www.w3schools.com/css/css_float.asp)|
-|[Overflow](https://www.w3schools.com/css/css_overflow.asp)|
-|[Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)|
-|[A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)|
-|[Flexbox game tutorial](http://flexboxfroggy.com/)|
-|[CSS Grid](http://cssgridgarden.com/)|
-
-|**ANIMATIONS**|
-|:-----|   
-|[Intro to animations](https://www.w3schools.com/css/css3_animations.asp)|
-
-|**RESPONSIVE WEB DESIGN**|
-|:-----|   
-|[Responsive web design intro](https://www.w3schools.com/css/css_rwd_intro.asp)|
-|[Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)|
-|[Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)|
-
----
-
 # :candy::candy::candy::candy::candy: JAVASCRIPT :candy::candy::candy::candy::candy:
 
 |**GAMES**|
@@ -368,8 +221,12 @@
 ---
 # :candy::candy::candy::candy::candy: BROWSER :candy::candy::candy::candy::candy:
 
-|**DOM**|
-|:-----|   
+|**DOM (Document Object Model)**|
+|:------------------------------|
+| [Select DOM with JS and change it](https://www.youtube.com/watch?v=eaLKqoB9Fu0) |
+| [Make new DOM purely with JS](https://www.youtube.com/watch?v=BWVoPxob5DU)
+| [How to react to user interaction (e.g. mouse clicks)](https://www.youtube.com/watch?v=F3odgpghXzY) |
+| [How to animate your DOM](https://www.youtube.com/watch?v=YXZX_6RfHjk) |
 |[Intro to DOM](https://www.w3schools.com/js/js_htmldom.asp)|
 |[DOM methods](https://www.w3schools.com/js/js_htmldom_methods.asp)|
 |[DOM document](https://www.w3schools.com/js/js_htmldom_document.asp)|
@@ -377,7 +234,7 @@
 |[DOM events](https://www.w3schools.com/js/js_htmldom_events.asp)|
 |[Event listener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)|
 |[Nodes](https://www.w3schools.com/js/js_htmldom_nodes.asp)|
-|[Dom - video](https://www.youtube.com/watch?v=1CJIQF2eL7g)|
+|[Dom - video (advanced)](https://www.youtube.com/watch?v=1CJIQF2eL7g)|
 |[Dom - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/dom.markdown)|
 |[Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)|
 
@@ -388,6 +245,154 @@
 |[Web GL fundamentals](https://webglfundamentals.org/)|
 
 ---
+
+# :candy::candy::candy::candy::candy: HTML :candy::candy::candy::candy::candy:
+
+|**INTRODUCTION**|
+|:-----| 
+|[HTML basics](https://www.w3schools.com/html/html_basic.asp)|
+|[Intro to HTML](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-basics)|
+
+|**ELEMENTS**|
+|:-----| 
+|[Say hello to HTML elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)|
+|[HTML elements](https://www.w3schools.com/html/html_elements.asp)|
+|[Headings](https://www.w3schools.com/html/html_headings.asp)|
+|[Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)|
+|[Comments](https://www.w3schools.com/html/html_comments.asp)|
+|[Head](https://www.w3schools.com/html/html_head.asp)|
+
+|**LAYOUT**|
+|:-----| 
+|[HTML layout](https://www.w3schools.com/html/html_layout.asp)|
+
+|**ATTRIBUTES**|
+|:-----|  
+|[HTML attributes](https://www.w3schools.com/html/html_attributes.asp)|
+|[Classes](https://www.w3schools.com/html/html_classes.asp)|
+
+|**LINKS**|
+|:-----|   
+|[Links](https://www.w3schools.com/html/html_links.asp)|
+|[File paths](https://www.w3schools.com/html/html_filepaths.asp)|
+
+|**IMAGES**|
+|:-----|   
+|[Images](https://www.w3schools.com/html/html_images.asp)|
+|[HTML images](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-images)|
+|[Turn an Image into a Link](https://www.freecodecamp.com/challenges/turn-an-image-into-a-link)|
+
+|**VIDEOS**|
+|:-----|   
+|[Videos](https://www.w3schools.com/html/html5_video.asp)|
+|[YouTube](https://www.w3schools.com/html/html_youtube.asp)|
+
+|**TABLES**|
+|:-----|   
+|[Tables](https://www.w3schools.com/html/html_tables.asp)|
+
+|**LISTS**|
+|:-----|   
+|[Lists](https://www.w3schools.com/html/html_lists.asp)|
+|[HTML lists](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-lists)|
+
+|**FORMS**|
+|:-----|   
+|[Forms](https://www.w3schools.com/html/html_forms.asp)|
+|[Form elements](https://www.w3schools.com/html/html_form_elements.asp)|
+|[Input types](https://www.w3schools.com/html/html_form_input_types.asp)|
+
+|**SVG**|
+|:-----|   
+|[Basics about SVG](https://www.w3schools.com/html/html5_svg.asp)|
+|[SVG - video](https://www.youtube.com/watch?v=CDnbIvR6JrI)|
+|[SVG notes](https://github.com/cyberwizardinstitute/workshops/blob/master/svg.markdown)|
+|[Demo project - wizard logo](https://github.com/wizardamigosinstitute/organization/blob/master/ASSETS/logo.js)|
+
+---
+
+# :candy::candy::candy::candy::candy: CSS :candy::candy::candy::candy::candy:
+
+|**INTRODUCTION**|
+|:-----|   
+|[Intro to CSS](https://www.w3schools.com/css/default.asp)|
+|[CSS basics](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics)|
+
+|**SELECTORS**|
+|:-----|   
+|[CSS syntax](https://www.w3schools.com/css/css_syntax.asp)|
+|[Use CSS Selectors to Style Elements](https://www.freecodecamp.com/challenges/use-css-selectors-to-style-elements)|
+|[Use a CSS Class to Style an Element](https://www.freecodecamp.com/challenges/use-a-css-class-to-style-an-element)|
+|[Style Multiple Elements with a CSS Class](https://www.freecodecamp.com/challenges/style-multiple-elements-with-a-css-class)|
+|[Use an ID Attribute to Style an Element](https://www.freecodecamp.com/challenges/use-an-id-attribute-to-style-an-element)|
+
+|**STYLING**|
+|:-----|   
+|[Colors](https://www.w3schools.com/css/css_colors.asp)|
+|[Background color](https://www.w3schools.com/css/css_background.asp)|
+|[Backgrounds](https://www.w3schools.com/css/css3_backgrounds.asp)|
+|[Opacity](https://www.w3schools.com/css/css_image_transparency.asp)|
+|[Colors with opacity](https://www.w3schools.com/css/css3_colors.asp)|
+|[Border](https://www.w3schools.com/css/css_border.asp)|
+|[Margin](https://www.w3schools.com/css/css_margin.asp)|
+|[Padding](https://www.w3schools.com/css/css_padding.asp)|
+|[Dimension](https://www.w3schools.com/css/css_dimension.asp)|
+|[Max width](https://www.w3schools.com/css/css_max-width.asp)|
+|[Text](https://www.w3schools.com/css/css_text.asp)|
+|[Links](https://www.w3schools.com/css/css_link.asp)|
+|[Lists](https://www.w3schools.com/css/css_list.asp)|
+|[Table](https://www.w3schools.com/css/css_table.asp)|
+|[Dropdown](https://www.w3schools.com/css/css_dropdowns.asp)|
+|[Button](https://www.w3schools.com/css/css3_buttons.asp)|
+|[Change the color of text](https://www.freecodecamp.com/challenges/change-the-color-of-text)|
+|[Adjust the Padding of an Element](https://www.freecodecamp.com/challenges/adjusting-the-padding-of-an-element)|
+|[Adjust the Margin of an Element](https://www.freecodecamp.com/challenges/adjust-the-margin-of-an-element)|
+|[Add a Negative Margin to an Element](https://www.freecodecamp.com/challenges/add-a-negative-margin-to-an-element)|
+|[Add Different Padding to Each Side of an Element](https://www.freecodecamp.com/challenges/add-different-padding-to-each-side-of-an-element)|
+|[Add Different Margins to Each Side of an Element](https://www.freecodecamp.com/challenges/add-different-margins-to-each-side-of-an-element)|
+|[Use Clockwise Notation to Specify the Padding of an Element](https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-padding-of-an-element)|
+|[Use Clockwise Notation to Specify the Margin of an Element](https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element)|
+
+|**FONTS**|
+|:-----|   
+|[CSS fonts](https://www.w3schools.com/css/css_font.asp)|
+|[Text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)|
+|[Change the Font Size of an Element](https://www.freecodecamp.com/challenges/change-the-font-size-of-an-element)|
+|[Set the Font Family of an Element](https://www.freecodecamp.com/challenges/set-the-font-family-of-an-element)|
+|[Import a Google Font](https://www.freecodecamp.com/challenges/import-a-google-font)|
+|[Specify How Fonts Should Degrade](https://www.freecodecamp.com/challenges/specify-how-fonts-should-degrade)|
+|[Google fonts documentation and example](https://fonts.google.com/selection?selection.family=Baloo+Bhaina)|
+
+|**ICONS**|
+|:-----|   
+|[CSS icons](https://www.w3schools.com/css/css_icons.asp)|
+|[Fontawesome documentation and example](http://fontawesome.io/examples/)|
+
+|**LAYOUT AND VISIBILITY**|
+|:-----|   
+|[Display visibility](https://www.w3schools.com/css/css_display_visibility.asp)|
+|[Position](https://www.w3schools.com/css/css_positioning.asp)|
+|[Inline-block](https://www.w3schools.com/css/css_inline-block.asp)|
+|[Align](https://www.w3schools.com/css/css_align.asp)|
+|[Float](https://www.w3schools.com/css/css_float.asp)|
+|[Overflow](https://www.w3schools.com/css/css_overflow.asp)|
+|[Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)|
+|[A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)|
+|[Flexbox game tutorial](http://flexboxfroggy.com/)|
+|[CSS Grid](http://cssgridgarden.com/)|
+
+|**ANIMATIONS**|
+|:-----|   
+|[Intro to animations](https://www.w3schools.com/css/css3_animations.asp)|
+
+|**RESPONSIVE WEB DESIGN**|
+|:-----|   
+|[Responsive web design intro](https://www.w3schools.com/css/css_rwd_intro.asp)|
+|[Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)|
+|[Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)|
+
+---
+
 # :candy::candy::candy::candy::candy: NPM :candy::candy::candy::candy::candy:
 
 |**OVERVIEW**|
