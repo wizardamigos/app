@@ -3,7 +3,7 @@
 
 
 |**VIDEO LESSONS**|
-|-----| 
+|:-----| 
 |[WizardAmigos JavaScript eLearning app (video lessons with support chat)](http://wizardamigos.com/workshop_app/)|
 |[Build your Portfolio Page with yo and csjs](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)|
 |[Build a simple Quiz with Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)|
@@ -11,7 +11,7 @@
 ---
 
 |**DEMO CODE EXAMPLES**|
-|-----| 
+|:-----| 
 |[How to use CodePen for building simple projects](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/codepen.md)|
 |[How to do advanced layouts](https://codesandbox.io/s/oqj25z0389)|
 |[How to spin things](https://codepen.io/ninabreznik/pen/eRGqGw)|
@@ -36,12 +36,12 @@
 # :candy::candy::candy::candy::candy: HTML :candy::candy::candy::candy::candy:
 
 |**INTRODUCTION**|
-|-----| 
+|:-----| 
 |[HTML basics](https://www.w3schools.com/html/html_basic.asp)|
 |[Intro to HTML](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-basics)|
 
 |**ELEMENTS**|
-|-----| 
+|:-----| 
 |[Say hello to HTML elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)|
 |[HTML elements](https://www.w3schools.com/html/html_elements.asp)|
 |[Headings](https://www.w3schools.com/html/html_headings.asp)|
@@ -50,47 +50,47 @@
 |[Head](https://www.w3schools.com/html/html_head.asp)|
 
 |**LAYOUT**|
-|-----| 
+|:-----| 
 |[HTML layout](https://www.w3schools.com/html/html_layout.asp)|
 
 |**ATTRIBUTES**|
-|-----| 
+|:-----|  
 |[HTML attributes](https://www.w3schools.com/html/html_attributes.asp)|
 |[Classes](https://www.w3schools.com/html/html_classes.asp)|
 
 |**LINKS**|
-|-----| 
+|:-----|   
 |[Links](https://www.w3schools.com/html/html_links.asp)|
 |[File paths](https://www.w3schools.com/html/html_filepaths.asp)|
 
 |**IMAGES**|
-|-----| 
+|:-----|   
 |[Images](https://www.w3schools.com/html/html_images.asp)|
 |[HTML images](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-images)|
 |[Turn an Image into a Link](https://www.freecodecamp.com/challenges/turn-an-image-into-a-link)|
 
 |**VIDEOS**|
-|-----| 
+|:-----|   
 |[Videos](https://www.w3schools.com/html/html5_video.asp)|
 |[YouTube](https://www.w3schools.com/html/html_youtube.asp)|
 
 |**TABLES**|
-|-----| 
+|:-----|   
 |[Tables](https://www.w3schools.com/html/html_tables.asp)|
 
 |**LISTS**|
-|-----| 
+|:-----|   
 |[Lists](https://www.w3schools.com/html/html_lists.asp)|
 |[HTML lists](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/p/html-lists)|
 
 |**FORMS**|
-|-----| 
+|:-----|   
 |[Forms](https://www.w3schools.com/html/html_forms.asp)|
 |[Form elements](https://www.w3schools.com/html/html_form_elements.asp)|
 |[Input types](https://www.w3schools.com/html/html_form_input_types.asp)|
 
 |**SVG**|
-|-----| 
+|:-----|   
 |[Basics about SVG](https://www.w3schools.com/html/html5_svg.asp)|
 |[SVG - video](https://www.youtube.com/watch?v=CDnbIvR6JrI)|
 |[SVG notes](https://github.com/cyberwizardinstitute/workshops/blob/master/svg.markdown)|
@@ -101,12 +101,12 @@
 # :candy::candy::candy::candy::candy: CSS :candy::candy::candy::candy::candy:
 
 |**INTRODUCTION**|
-|-----| 
+|:-----|   
 |[Intro to CSS](https://www.w3schools.com/css/default.asp)|
 |[CSS basics](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics)|
 
 |**SELECTORS**|
-|-----| 
+|:-----|   
 |[CSS syntax](https://www.w3schools.com/css/css_syntax.asp)|
 |[Use CSS Selectors to Style Elements](https://www.freecodecamp.com/challenges/use-css-selectors-to-style-elements)|
 |[Use a CSS Class to Style an Element](https://www.freecodecamp.com/challenges/use-a-css-class-to-style-an-element)|
@@ -114,7 +114,7 @@
 |[Use an ID Attribute to Style an Element](https://www.freecodecamp.com/challenges/use-an-id-attribute-to-style-an-element)|
 
 |**STYLING**|
-|-----| 
+|:-----|   
 |[Colors](https://www.w3schools.com/css/css_colors.asp)|
 |[Background color](https://www.w3schools.com/css/css_background.asp)|
 |[Backgrounds](https://www.w3schools.com/css/css3_backgrounds.asp)|
@@ -141,7 +141,7 @@
 |[Use Clockwise Notation to Specify the Margin of an Element](https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element)|
 
 |**FONTS**|
-|-----| 
+|:-----|   
 |[CSS fonts](https://www.w3schools.com/css/css_font.asp)|
 |[Text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)|
 |[Change the Font Size of an Element](https://www.freecodecamp.com/challenges/change-the-font-size-of-an-element)|
@@ -151,12 +151,12 @@
 |[Google fonts documentation and example](https://fonts.google.com/selection?selection.family=Baloo+Bhaina)|
 
 |**ICONS**|
-|-----| 
+|:-----|   
 |[CSS icons](https://www.w3schools.com/css/css_icons.asp)|
 |[Fontawesome documentation and example](http://fontawesome.io/examples/)|
 
 |**LAYOUT AND VISIBILITY**|
-|-----| 
+|:-----|   
 |[Display visibility](https://www.w3schools.com/css/css_display_visibility.asp)|
 |[Position](https://www.w3schools.com/css/css_positioning.asp)|
 |[Inline-block](https://www.w3schools.com/css/css_inline-block.asp)|
@@ -169,11 +169,11 @@
 |[CSS Grid](http://cssgridgarden.com/)|
 
 |**ANIMATIONS**|
-|-----| 
+|:-----|   
 |[Intro to animations](https://www.w3schools.com/css/css3_animations.asp)|
 
 |**RESPONSIVE WEB DESIGN**|
-|-----| 
+|:-----|   
 |[Responsive web design intro](https://www.w3schools.com/css/css_rwd_intro.asp)|
 |[Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)|
 |[Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)|
@@ -183,23 +183,23 @@
 # :candy::candy::candy::candy::candy: JAVASCRIPT :candy::candy::candy::candy::candy:
 
 |**GAMES**|
-|-----| 
+|:-----|   
 |[Code Combat - learn how to code by playing a game](https://www.codecombat.com)|
 
 |**INTRODUCTION**|
-|-----| 
+|:-----|   
 |[Intro](https://www.w3schools.com/js/js_intro.asp)|
 
 |**JAVASCRIPT SYNTAX RULES**|
-|-----| 
+|:-----|   
 |[JS syntax](https://www.w3schools.com/js/js_syntax.asp)|
 
 |**COMMENTS**|
-|-----| 
+|:-----|   
 |[Comment your JS code](https://www.freecodecamp.com/challenges/comment-your-javascript-code)|
 
 |**VARIABLES**|
-|-----| 
+|:-----|   
 |[JS variables](https://www.w3schools.com/js/js_variables.asp)|
 |[Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)|
 |[Assignement](https://www.w3schools.com/js/js_assignment.asp)|
@@ -209,15 +209,15 @@
 |[Initializing variable with assignement operator](https://www.freecodecamp.com/challenges/initializing-variables-with-the-assignment-operator)|
 
 |**DATA TYPES**|
-|-----| 
+|:-----|   
 |[JS datatypes](https://www.w3schools.com/js/js_datatypes.asp)|
 
 |**DATA STRUCTURES**|
-|-----| 
+|:-----|   
 |[10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b?gi=6ed2ca4245f4)|
 
 |**NUMBERS**|
-|-----| 
+|:-----|   
 |[JS operators](https://www.w3schools.com/js/js_operators.asp)|
 |[Numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)|
 |[Arithmetic](https://www.w3schools.com/js/js_arithmetic.asp)|
@@ -233,7 +233,7 @@
 |[Augmented addition](https://www.freecodecamp.com/challenges/compound-assignment-with-augmented-addition)|
 
 |**STRINGS**|
-|-----| 
+|:-----|   
 |[Handling text - strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)|
 |[Useful string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)|
 |[JS strings](https://www.w3schools.com/js/js_strings.asp)|
@@ -253,7 +253,7 @@
 |[Reverse a String](https://www.freecodecamp.com/challenges/reverse-a-string)|
 
 |**ARRAYS**|
-|-----| 
+|:-----|   
 |[Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)|
 |[JS Arrays](https://www.w3schools.com/js/js_arrays.asp)|
 |[Array methods](https://www.w3schools.com/js/js_array_methods.asp)|
@@ -275,12 +275,12 @@
 |[Condense arrays with reduce](https://www.freecodecamp.com/challenges/condense-arrays-with-reduce)|
 
 |**BOOLEAN**|
-|-----| 
+|:-----|   
 [JS booleans](https://www.w3schools.com/js/js_booleans.asp),
 [Boolean values](https://www.freecodecamp.com/challenges/understanding-boolean-values)
 
 |**COMPARISONS**|
-|-----| 
+|:-----|   
 |[Comparisons](https://www.w3schools.com/js/js_comparisons.asp)|
 |[Comparison with the Equality Operator](https://www.freecodecamp.com/challenges/comparison-with-the-equality-operator)|
 |[Comparison with the Strict Equality Operator](https://www.freecodecamp.com/challenges/comparison-with-the-strict-equality-operator)|
@@ -290,7 +290,7 @@
 |[Comparisons with the Logical Or Operator](https://www.freecodecamp.com/challenges/comparisons-with-the-logical-or-operator)|
 
 |**CONDITIONS**|
-|-----| 
+|:-----|   
 |[JavaScript If...Else Statements](https://www.w3schools.com/js/js_if_else.asp)|
 |[Conditional logic with If statement](https://www.freecodecamp.com/challenges/use-conditional-logic-with-if-statements)|
 |[Else statements](https://www.freecodecamp.com/challenges/introducing-else-statements)|
@@ -299,7 +299,7 @@
 |[Chaining If Else Statements](https://www.freecodecamp.com/challenges/chaining-if-else-statements)|
 
 |**LOOPS**|
-|-----| 
+|:-----|   
 |[For loop](https://www.w3schools.com/js/js_loop_for.asp)|
 |[While loop](https://www.w3schools.com/js/js_loop_while.asp)|
 |[Iterate with JavaScript For Loops](https://www.freecodecamp.com/challenges/iterate-with-javascript-for-loops)|
@@ -310,7 +310,7 @@
 |[Iterate with JavaScript While Loops](https://www.freecodecamp.com/challenges/iterate-with-javascript-while-loops)|
 
 |**OBJECTS**|
-|-----| 
+|:-----|   
 |[Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)|
 |[JavaScript Objects](https://www.w3schools.com/js/js_object_definition.asp)|
 |[Object Properties](https://www.w3schools.com/js/js_properties.asp)|
@@ -330,7 +330,7 @@
 |[Construct JavaScript Objects with Functions](https://www.freecodecamp.com/challenges/construct-javascript-objects-with-functions) [requirement: functions]|
 
 |**FUNCTIONS**|
-|-----| 
+|:-----|   
 |[JS functions](https://www.w3schools.com/js/js_functions.asp)|
 |[JS function definition](https://www.w3schools.com/js/js_function_definition.asp)|
 |[JS function parameters and arguments](https://www.w3schools.com/js/js_function_parameters.asp)|
@@ -346,14 +346,14 @@
 |[Bing/Call/Apply](https://www.hacksparrow.com/javascript-bind-vs-apply-and-call.html)|
 
 |**SCOPE**|
-|-----| 
+|:-----|   
 |[JS scope](https://www.w3schools.com/js/js_scope.asp)|
 |[Global scope and functions](https://www.freecodecamp.com/challenges/global-scope-and-functions)|
 |[Local scope and functions](https://www.freecodecamp.com/challenges/local-scope-and-functions)|
 |[Global vs local scope in functions](https://www.freecodecamp.com/challenges/global-vs-local-scope-in-functions)|
 
 |**REGULAR EXPRESSIONS**|
-|-----| 
+|:-----|   
 |[Sift through Text with Regular Expressions](https://www.freecodecamp.com/challenges/sift-through-text-with-regular-expressions)|
 |[Find Numbers with Regular Expressions](https://www.freecodecamp.com/challenges/find-numbers-with-regular-expressions)|
 |[Find Whitespace with Regular Expressions](https://www.freecodecamp.com/challenges/find-whitespace-with-regular-expressions)|
@@ -361,7 +361,7 @@
 |[JavaScript Regular Expressions](https://www.w3schools.com/js/js_regexp.asp)|
 
 |**JSON**|
-|-----| 
+|:-----|   
 |[JavaScript JSON](https://www.w3schools.com/js/js_json.asp)|
 |[Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)|
 
@@ -369,7 +369,7 @@
 # :candy::candy::candy::candy::candy: BROWSER :candy::candy::candy::candy::candy:
 
 |**DOM**|
-|-----| 
+|:-----|   
 |[Intro to DOM](https://www.w3schools.com/js/js_htmldom.asp)|
 |[DOM methods](https://www.w3schools.com/js/js_htmldom_methods.asp)|
 |[DOM document](https://www.w3schools.com/js/js_htmldom_document.asp)|
@@ -382,7 +382,7 @@
 |[Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)|
 
 |**WEBGL/3D**|
-|-----| 
+|:-----|   
 |[Skeletal Animation](http://chinedufn.com/webgl-skeletal-animation-tutorial/)|
 |[Attaching Object to Bones](http://chinedufn.com/attaching-objects-to-bones/)|
 |[Web GL fundamentals](https://webglfundamentals.org/)|
@@ -391,7 +391,7 @@
 # :candy::candy::candy::candy::candy: NPM :candy::candy::candy::candy::candy:
 
 |**OVERVIEW**|
-|-----| 
+|:-----|   
 |[What are modules](https://github.com/cyberwizardinstitute/workshops/blob/master/require_modules.md)|
 |[What is NPM](https://docs.npmjs.com/getting-started/what-is-npm)|
 |[Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node)|
@@ -401,7 +401,7 @@
 |[How to NPM](https://github.com/workshopper/how-to-npm)|
 
 |**MODULES**|
-|-----| 
+|:-----|   
 |[browserify basics](https://www.youtube.com/watch?v=CTAa8IcQh1U)|
 |[browserify advanced](https://www.youtube.com/watch?v=Uk2bgp8OLT8)|
 [Modules: BEL](https://www.npmjs.com/package/bel),
@@ -412,7 +412,7 @@
 # :candy::candy::candy::candy::candy: GIT :candy::candy::candy::candy::candy:
 
 |**OVERVIEW**|
-|-----| 
+|:-----|   
 |[Notes on Git and Github](https://github.com/cyberwizardinstitute/workshops/blob/master/git.markdown)|
 |[Git-it tutoriar](http://jlord.us/git-it/challenges/get_git.html)|
 
@@ -421,7 +421,7 @@
 # :candy::candy::candy::candy::candy: UNIX & COMMAND LINE :candy::candy::candy::candy::candy:
 
 |**OVERVIEW**|
-|-----| 
+|:-----|   
 |[Unix & Command Line - video](https://www.youtube.com/watch?v=BhPRiSLmxis)|
 |[Unix & Command Line - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown)|
 
@@ -430,22 +430,22 @@
 # :candy::candy::candy::candy::candy: P2P (PEER-TO-PEER) WEB :candy::candy::candy::candy::candy:
 
 |**OVERVIEW**|
-|-----| 
+|:-----|   
 |[Working offline as a JavaScript developer](https://github.com/wizardamigos/app/blob/master/curriculum/newLessons/workingOffline.md)|
 |[NodeUp Podcast](http://nodeup.com/sixtynine)|
 |[Mesh networking](https://www.youtube.com/watch?v=tYLU755T6_I)|
 
 |**PROTOCOLES**|
-|-----| 
+|:-----|   
 |[DAT](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)|
 |[Scuttlebutt](https://github.com/ssbc/scuttlebot)|
 
 |**DATA STRUCTURES**|
-|-----| 
+|:-----|   
 |[Epidemic Broadcast Trees](https://gist.github.com/ninabreznik/d911e36f3171bc4eb8e14cee2ae76d6e)|
 
 |**SMART CONTRACTS** |
-|-----| 
+|:-----|   
 |[Node VMS](https://nodevms.com/tutorial/)|
 
 
@@ -453,6 +453,6 @@
 # :candy::candy::candy::candy::candy: PROGRAMMING CONCEPTS :candy::candy::candy::candy::candy:
 
 |**COMPUTER SCIENCE THEORY**|
-|-----| 
+|:-----|   
 |[Path to a free self-taught education in Computer Science](https://github.com/open-source-society/computer-science)|
 |[Programming, computer architecture and design etc.](https://teachyourselfcs.com/)|
