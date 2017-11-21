@@ -11,21 +11,22 @@
 ---
 
 |**DEMO CODE EXAMPLES**|
-|:-----| 
-|[How to use CodePen for building simple projects](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/codepen.md)|
-|[How to do advanced layouts](https://codesandbox.io/s/oqj25z0389)|
-|[How to spin things](https://codepen.io/ninabreznik/pen/eRGqGw)|
-|[Funky animated cube](https://codepen.io/serapath/pen/mBKvqo)|
-|[E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)|
-|[Portfolio page](https://codepen.io/ninabreznik/pen/OmQYdb)|
-|[Quiz app](https://codepen.io/ninabreznik/pen/ybvWdE)|
-|[Gallery](https://codepen.io/serapath/pen/dWXBNR?editors=0010)|
-|[Wizard Logo SVG](https://codepen.io/ninabreznik/pen/VbQJWK)|
-|[SVG Graph](https://codepen.io/pepebecker/pen/YQNNYv?editors=0010)|
-|[Attach a file](https://codepen.io/serapath/pen/MmrjOm?editors=0010)|
+|:-----| Level |
+|[How to use CodePen for building simple projects](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/codepen.md)| basic |
+|[basic media query](http://requirebin.com/?gist=d84bf220c762e5d0162dbbbe1231eec1)| basic |
+|[How to do css grid layouts](https://codesandbox.io/s/oqj25z0389)| intermediate |
+|[How to spin things](https://codepen.io/ninabreznik/pen/eRGqGw)| basic |
+|[Funky animated cube](https://codepen.io/serapath/pen/mBKvqo)| intermediate |
+|[E-business card](https://codepen.io/ninabreznik/pen/bWaOqb)| basic |
+|[Portfolio page](https://codepen.io/ninabreznik/pen/OmQYdb)| intermediate |
+|[Quiz app](https://codepen.io/ninabreznik/pen/ybvWdE)| intermediate |
+|[Gallery](https://codepen.io/serapath/pen/dWXBNR?editors=0010)| --- |
+|[Wizard Logo SVG](https://codepen.io/ninabreznik/pen/VbQJWK)| basic |
+|[SVG Graph](https://codepen.io/pepebecker/pen/YQNNYv?editors=0010)| advanced |
+|[Attach a file](https://codepen.io/serapath/pen/MmrjOm?editors=0010)| basic |
 |[How to run a project locally](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/newProject.md)
-|[Choo - little deeper knowledge about frontend coding](https://avocado.choo.io/)|
-|[P2P Workshop](https://mafintosh.github.io/p2p-workshop/build/01.html)|
+|[Choo - little deeper knowledge about frontend coding](https://avocado.choo.io/)| intermediate |
+|[P2P Workshop](https://mafintosh.github.io/p2p-workshop/build/01.html)| advanced |
 
 ---
 ---
