@@ -410,6 +410,7 @@
 
 |**MODULES**|
 |:-----|   
+| [require modules](http://paulsalaets.com/posts/looking-at-nodes-require) |
 |[browserify basics](https://www.youtube.com/watch?v=CTAa8IcQh1U)|
 |[browserify advanced](https://www.youtube.com/watch?v=Uk2bgp8OLT8)|
 [Modules: BEL](https://www.npmjs.com/package/bel)
