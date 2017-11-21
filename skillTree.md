@@ -66,7 +66,8 @@
 
 ### Comments
 | **Title** | **Level** |
-|:-----|:-----:||[Comment your JS code](https://www.freecodecamp.com/challenges/comment-your-javascript-code)|
+|:-----|:-----:|
+|[Comment your JS code](https://www.freecodecamp.com/challenges/comment-your-javascript-code)| basic |
 
 ### VARIABLES
 | **Title** | **Level** |
@@ -444,7 +445,7 @@
 |[NPM and using npm modules - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/require_modules.md)| intermediate |
 |[How to NPM](https://github.com/workshopper/how-to-npm)| intermediate |
 
-|**MODULES**|
+### MODULES (commonjs)
 | **Title** | **Level** |
 |:-----|:-----:|
 |[require modules](http://paulsalaets.com/posts/looking-at-nodes-require)| basic |
@@ -452,7 +453,7 @@
 |[browserify advanced](https://www.youtube.com/watch?v=Uk2bgp8OLT8)| intermediate |
 
 
-|**RECOMMENDED BASIC MODULES**|
+### RECOMMENDED BASIC MODULES
 | **Title** | **Level** |
 |:-----|:-----:|
 | [`require('bel')`](https://www.npmjs.com/package/bel)|  intermediate | basic |
