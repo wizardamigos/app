@@ -24,9 +24,9 @@
 |[Quiz app](https://codepen.io/ninabreznik/pen/ybvWdE)| intermediate |
 |[Random Names Color Box Gallery](https://codepen.io/serapath/pen/dWXBNR?editors=0010)| intermediate |
 |[Wizard Logo SVG](https://codepen.io/ninabreznik/pen/VbQJWK)| basic |
-|[SVG Graph](https://codepen.io/pepebecker/pen/YQNNYv?editors=0010)| advanced |
+|[SVG Graph](https://codepen.io/pepebecker/pen/YQNNYv?editors=0010)| intermediate |
 |[Attach a file](https://codepen.io/serapath/pen/MmrjOm?editors=0010)| basic |
-|[How to run a project locally](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/newProject.md)
+|[How to run a project locally](https://github.com/wizardamigos/service/blob/master/curriculum/newLessons/newProject.md)| intermediate |
 |[Choo - little deeper knowledge about frontend coding](https://avocado.choo.io/)| intermediate |
 |[P2P Workshop](https://mafintosh.github.io/p2p-workshop/build/01.html)| advanced |
 
