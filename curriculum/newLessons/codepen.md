@@ -19,8 +19,8 @@
 ![Click settings in JS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
 
 ---
-## `Copy/Paste the the link from` [HERE](https://gist.github.com/serapath/e2b55cab315e60fbbffea7b43acd8749)
-(see original: https://gist.github.com/serapath/e2b55cab315e60fbbffea7b43acd8749)
+## `Copy/Paste` this link to `Add External Javascript` field
+`https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/a2709905ca06830f78d6069b97cda1f18eb9ef4c/require.js`
 
 ![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
 
