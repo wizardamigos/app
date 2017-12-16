@@ -281,6 +281,16 @@
 
 ---
 
+# :candy::candy::candy::candy::candy: MARKDOWN :candy::candy::candy::candy::candy:
+
+### MARKDOWN
+| **Title** | **Level** |
+|:-----|:-----:|
+|[commonmark](http://commonmark.org/help/)| basic |
+|[github flavoured markdown](https://github.github.com/gfm/)| basic |
+
+---
+
 # :candy::candy::candy::candy::candy: HTML :candy::candy::candy::candy::candy:
 
 ### HTML
