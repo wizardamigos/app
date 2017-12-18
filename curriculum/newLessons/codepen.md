@@ -20,7 +20,7 @@
 
 ---
 ## `Copy/Paste` this link to `Add External Javascript` field
-`https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/98859007d715ae5ef1184aed742861ddc4ae3f31/require.js`
+`https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/29aac6cb7361fb9d8467adee4e0d112961395a95/require.js`
 
 ![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
 
