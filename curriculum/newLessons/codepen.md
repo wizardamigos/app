@@ -15,14 +15,10 @@
 ![Maximize JS selection](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen5.png?raw=true)
 
 ---
-## Click settings in JS section
-![Click settings in JS section](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
+## `Copy/Paste` this link to `HTML` editor field
+`<script src="https://unpkg.com/npm-require"></script>`
 
----
-## `Copy/Paste` this link to `Add External Javascript` field
-`https://cdn.rawgit.com/serapath/e2b55cab315e60fbbffea7b43acd8749/raw/29aac6cb7361fb9d8467adee4e0d112961395a95/require.js`
-
-![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/codepen6.png?raw=true)
+![Paste the link](https://github.com/wizardamigosinstitute/service/blob/master/curriculum/newLessons/ASSETS/Screenshot_2018-01-09_02-06-20.png?raw=true)
 
 (see example: https://codepen.io/serapath/pen/yMpGXr/)
 
